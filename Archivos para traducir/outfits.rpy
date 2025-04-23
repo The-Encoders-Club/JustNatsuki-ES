@@ -4,103 +4,103 @@
 translate spanish outfits_wear_outfit_22069291:
 
     # n 4tnmbo "Huh?{w=0.5}{nw}"
-    n 4tnmbo ""
+    n 4tnmbo "¿Eh?{w=0.5}{nw}"
 
 # game/outfits.rpy:2170
 translate spanish outfits_wear_outfit_62d429f5:
 
     # extend 1fchbg " I don't {i}have{/i} any other outfits,{w=0.2} dummy!"
-    extend 1fchbg ""
+    extend 1fchbg "¡No {i}tengo{/i} otros atuendos, tonto.!"
 
 # game/outfits.rpy:2176
 translate spanish outfits_wear_outfit_78bbb04c:
 
     # n 1nsqpu "...Wait.{w=1.25}{nw}"
-    n 1nsqpu ""
+    n 1nsqpu "...Espera.{w=1.25}{nw}"
 
 # game/outfits.rpy:2177
 translate spanish outfits_wear_outfit_5b05d35f:
 
     # extend 3tnmfl " What's {i}that{/i} you're holding?"
-    extend 3tnmfl ""
+    extend 3tnmfl "¿Qué es {i}eso{/i} que tienes en la mano?"
 
 # game/outfits.rpy:2178
 translate spanish outfits_wear_outfit_4dd43194:
 
     # n 1fcstrlesi "At {i}least{/i} show me what it is first!"
-    n 1fcstrlesi ""
+    n 1fcstrlesi "¡Al {i}menos{/i} muéstrame qué es primero!"
 
 # game/outfits.rpy:2185
 translate spanish outfits_wear_outfit_b72a7296:
 
     # n 4unmaj "Huh?{w=0.75}{nw}"
-    n 4unmaj ""
+    n 4unmaj "¿Huh?{w=0.75}{nw}"
 
 # game/outfits.rpy:2186
 translate spanish outfits_wear_outfit_ec046abb:
 
     # extend 4unmbo " You want me to try on another outfit?"
-    extend 4unmbo ""
+    extend 4unmbo "¿Quieres que me pruebe otro atuendo?"
 
 # game/outfits.rpy:2189
 translate spanish outfits_wear_outfit_3978ee82:
 
     # n 1fchbgl "Sure thing!{w=0.75}{nw}"
-    n 1fchbgl ""
+    n 1fchbgl "¡Claro que sí!{w=0.75}{nw}"
 
 # game/outfits.rpy:2191
 translate spanish outfits_wear_outfit_e6dce304:
 
     # extend 1unmbgl " What did you wanna see,{w=0.2} [chosen_descriptor]?"
-    extend 1unmbgl ""
+    extend 1unmbgl "¿Qué querías ver,{w=0.2} [chosen_descriptor]?"
 
 # game/outfits.rpy:2194
 translate spanish outfits_wear_outfit_9f419c90:
 
     # n 1fchbg "Yeah!{w=0.2} I can do that!{w=0.75}{nw}"
-    n 1fchbg ""
+    n 1fchbg "¡Sí!{w=0.2} ¡Yo puedo hacerlo!{w=0.75}{nw}"
 
 # game/outfits.rpy:2195
 translate spanish outfits_wear_outfit_3d904c7e:
 
     # extend 1tnmss " What are you thinking,{w=0.2} [player]?"
-    extend 1tnmss ""
+    extend 1tnmss "¿En qué estás pensando,{w=0.2} [player]?"
 
 # game/outfits.rpy:2198
 translate spanish outfits_wear_outfit_71dc8364:
 
     # n 4unmaj "Sure,{w=0.2} I can do that."
-    n 4unmaj ""
+    n 4unmaj "Claro, {w=0.2} Lo puedo hacer."
 
 # game/outfits.rpy:2199
 translate spanish outfits_wear_outfit_1f9d7bf7:
 
     # n 7tlrsl "So...{w=1}{nw}"
-    n 7tlrsl ""
+    n 7tlrsl "Entonces...{w=1}{nw}"
 
 # game/outfits.rpy:2200
 translate spanish outfits_wear_outfit_9fb8fb96:
 
     # extend 7unmbo " did you have something in mind,{w=0.2} or?"
-    extend 7unmbo ""
+    extend 7unmbo "¿Tienes algo en mente, {w=0.2} No?"
 
 # game/outfits.rpy:2230
 translate spanish outfits_wear_outfit_e4423a38:
 
     # n 2fchsmesm "Pffff-!"
-    n 2fchsmesm ""
+    n 2fchsmesm "¡Pffff-!"
 
 # game/outfits.rpy:2231
 translate spanish outfits_wear_outfit_07a60ad6:
 
     # n 2tsqss "Really,{w=0.2} [player]?{w=0.75}{nw}"
-    n 2tsqss ""
+    n 2tsqss "¿En serio, {w=0.2} [player]?{w=0.75}{nw}"
 
 # game/outfits.rpy:2232
 translate spanish outfits_wear_outfit_396cc518:
 
     # extend 4fsgbg " Do your eyes need checking or something?"
-    extend 4fsgbg ""
+    extend 4fsgbg "¿Necesitas que te revisen la vista o algo?"
 
 # game/outfits.rpy:2234
 translate spanish outfits_wear_outfit_559de43c:
