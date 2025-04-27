@@ -3,7 +3,7 @@
 # game/splash.rpy:155
 translate spanish splashscreen_0320a168:
 
-    # "[config.name] es un fan mod de Doki Doki Literature Club que no está afiliado con el Team Salvato."
+    # "[config.name] es un fan mod de Doki Doki Literature Club que no está afiliado con Team Salvato."
     ""
 
 # game/splash.rpy:156
