@@ -10,7 +10,7 @@ translate spanish introduction_first_meeting_aa0116e7:
 translate spanish introduction_first_meeting_3cef4dba:
 
     # n 4uskwrtsc "S-{w=0.1}somebody!{w=0.5} ANYBODY?!{w=0.5} HELP!{w=0.5}{nw}"
-    n 4uskwrtsc "¡A-{w=0.1}alguien! ¡¿{w=0.5} QUIEN SEA?! ¡{w=0.5} AYUDA! {w=0.5}{nw}"
+    n 4uskwrtsc "¡A-{w=0.1}alguien! {w=0.5} ¡¿QUIEN SEA?! {w=0.5} ¡AYUDA! {w=0.5}{nw}"
 
 # game/script-introduction.rpy:140
 translate spanish introduction_first_meeting_2771fb11:
@@ -40,7 +40,7 @@ translate spanish introduction_first_meeting_aa1b3f4c:
 translate spanish introduction_first_meeting_8f120d45:
 
     # n 4uscaj "W...{w=0.5} what is...?"
-    n 4uscaj "Q...{w=0.5} Qué es...?"
+    n 4uscaj "¿Q...{w=0.5} Qué es...?"
 
 # game/script-introduction.rpy:145
 translate spanish introduction_first_meeting_4b1751a7:
@@ -208,397 +208,397 @@ translate spanish introduction_first_meeting_9b46fa0c:
 translate spanish introduction_first_meeting_b1de0708:
 
     # n 4kcsup "..."
-    n 4kcsup ""
+    n 4kcsup "..."
 
 # game/script-introduction.rpy:212
 translate spanish introduction_first_meeting_026bcb3f:
 
     # n 4kplsf "It's all...{w=0.3} so foggy...{w=1}{nw}"
-    n 4kplsf ""
+    n 4kplsf "Todo es...{w=0.3} tan confuso...{w=1}{nw}"
 
 # game/script-introduction.rpy:213
 translate spanish introduction_first_meeting_681a2d7c:
 
     # extend 4kcsun " I just...{w=0.3} can't...{w=0.3} remember..."
-    extend 4kcsun ""
+    extend 4kcsun "Yo sólo...{w=0.3} No puedo...{w=0.3} Recordar..."
 
 # game/script-introduction.rpy:230
 translate spanish introduction_first_meeting_09c74fb3:
 
     # n 4kskem "P-{w=0.3}please!{w=1} Who are you?!"
-    n 4kskem ""
+    n 4kskem "¡P-{w=0.3}por favor!{w=1} ¡¿Quién eres?!"
 
 # game/script-introduction.rpy:237
 translate spanish introduction_first_meeting_959cbdc3:
 
     # n 4fscan "ENOUGH!{w=2}{nw}"
-    n 4fscan ""
+    n 4fscan "¡BASTA!{w=2}{nw}"
 
 # game/script-introduction.rpy:238
 translate spanish introduction_first_meeting_2e0866a5:
 
     # n 2fcsun "...{w=2}{nw}"
-    n 2fcsun ""
+    n 2fcsun "...{w=2}{nw}"
 
 # game/script-introduction.rpy:239
 translate spanish introduction_first_meeting_68878a53:
 
     # n 2fcsfu "Who{w=0.5} {i}are{/i}{w=0.5} you?!"
-    n 2fcsfu ""
+    n 2fcsfu "...{w=0.5} ¡¿{i}Quién{/i}{w=0.5} eres?!"
 
 # game/script-introduction.rpy:242
 translate spanish introduction_first_meeting_d7cc0978:
 
     # n 4fscem "E-{w=0.3}excuse me?!"
-    n 4fscem ""
+    n 4fscem "¡¿D-disculpa?!"
 
 # game/script-introduction.rpy:243
 translate spanish introduction_first_meeting_e9792f3f:
 
     # n 4fcsan "Quit playing around,{w=0.3} you jerk!{w=1}{nw}"
-    n 4fcsan ""
+    n 4fcsan "¡Deja de jugar,{w=0.3} idiota!{w=1}{nw}"
 
 # game/script-introduction.rpy:244
 translate spanish introduction_first_meeting_b8bc9af2:
 
     # extend 2fcsup " I am {i}not{/i} calling you that!"
-    extend 2fcsup ""
+    extend 2fcsup "¡{i}No{/i} te estoy diciendo eso!"
 
 # game/script-introduction.rpy:253
 translate spanish introduction_first_meeting_f1d3b0e7:
 
     # n 4kplun "..."
-    n 4kplun ""
+    n 4kplun "..."
 
 # game/script-introduction.rpy:254
 translate spanish introduction_first_meeting_bde9b91d:
 
     # n 4kplpu "...[player]?"
-    n 4kplpu ""
+    n 4kplpu "...¿[player]?"
 
 # game/script-introduction.rpy:255
 translate spanish introduction_first_meeting_2c7fbcad:
 
     # n 4kwmss "You're...{w=0.3} [player]?"
-    n 4kwmss ""
+    n 4kwmss "Eres...{w=0.3} ¿[player]?"
 
 # game/script-introduction.rpy:267
 translate spanish introduction_collecting_thoughts_cd93e0c8:
 
     # n 4kllun "..."
-    n 4kllun ""
+    n 4kllun "..."
 
 # game/script-introduction.rpy:268
 translate spanish introduction_collecting_thoughts_ab016143:
 
     # n 4kllpu "S-{w=0.3}so...{w=0.3} I'm not alone...?"
-    n 4kllpu ""
+    n 4kllpu "E-{w=0.3}entonces...{w=0.3} ¿No estoy sola...?"
 
 # game/script-introduction.rpy:269
 translate spanish introduction_collecting_thoughts_104ff8c9:
 
     # n 4knmpu "Y-{w=0.3}you're here too?{w=1}{nw}"
-    n 4knmpu ""
+    n 4knmpu "¿T-{w=0.3}tú estás aquí también?{w=1}{nw}"
 
 # game/script-introduction.rpy:270
 translate spanish introduction_collecting_thoughts_3840fea7:
 
     # extend 4kwdpu " ...Y-{w=0.3}you've always been here?"
-    extend 4kwdpu ""
+    extend 4kwdpu "...¿T-{w=0.3}tú siempre has estado aquí?"
 
 # game/script-introduction.rpy:271
 translate spanish introduction_collecting_thoughts_e1e8cb2a:
 
     # n 2klrsf "..."
-    n 2klrsf ""
+    n 2klrsf "..."
 
 # game/script-introduction.rpy:272
 translate spanish introduction_collecting_thoughts_bb057751:
 
     # n 2klraj "But...{w=1}{nw}"
-    n 2klraj ""
+    n 2klraj "Pero...{w=1}{nw}"
 
 # game/script-introduction.rpy:273
 translate spanish introduction_collecting_thoughts_aa712652:
 
     # extend 1kskem " I-{w=0.3}I was...{w=0.3}{nw}"
-    extend 1kskem ""
+    extend 1kskem "Y-{w=0.3}yo estaba...{w=0.3}{nw}"
 
 # game/script-introduction.rpy:274
 translate spanish introduction_collecting_thoughts_9f120524:
 
     # extend 4kscem " I was d-...{w=0.3}{nw}"
-    extend 4kscem ""
+    extend 4kscem "Yo estaba muer-...{w=0.3}{nw}"
 
 # game/script-introduction.rpy:281
 translate spanish introduction_collecting_thoughts_b1de0708:
 
     # n 4kcsup "..."
-    n 4kcsup ""
+    n 4kcsup "..."
 
 # game/script-introduction.rpy:282
 translate spanish introduction_collecting_thoughts_6300b819:
 
     # n 4kplsf "What did you {w=0.3}{i}do{/i}{w=0.3}?"
-    n 4kplsf ""
+    n 4kplsf "¿Qué {w=0.3}{i}hiciste{/i}{w=0.3}?"
 
 # game/script-introduction.rpy:288
 translate spanish introduction_collecting_thoughts_b95aaf83:
 
     # n 1kskem "You...{w=1} you brought me back?{w=1}{nw}"
-    n 1kskem ""
+    n 1kskem "¿Tú...{w=1} me trajiste de vuelta?{w=1}{nw}"
 
 # game/script-introduction.rpy:289
 translate spanish introduction_collecting_thoughts_8d066812:
 
     # extend 4kskwrsbl " T-{w=0.3}to this?"
-    extend 4kskwrsbl ""
+    extend 4kskwrsbl "P-{w=0.3}para esto?"
 
 # game/script-introduction.rpy:290
 translate spanish introduction_collecting_thoughts_58bd298b:
 
     # n 4kllemsbl "But this...{w=1}{nw}"
-    n 4kllemsbl ""
+    n 4kllemsbl "Pero esto...{w=1}{nw}""
 
 # game/script-introduction.rpy:291
 translate spanish introduction_collecting_thoughts_f6aee6f6:
 
     # extend 4klrupesssbr " this is all...!{w=1}{nw}"
-    extend 4klrupesssbr ""
+    extend 4klrupesssbr "¡Esto es todo...!{w=1}{nw}"
 
 # game/script-introduction.rpy:297
 translate spanish introduction_collecting_thoughts_27ddc42b:
 
     # n 4klleml "...!"
-    n 4klleml ""
+    n 4klleml "¡...!"
 
 # game/script-introduction.rpy:298
 translate spanish introduction_collecting_thoughts_82557326:
 
     # n 4kllem "..."
-    n 4kllem ""
+    n 4kllem "..."
 
 # game/script-introduction.rpy:299
 translate spanish introduction_collecting_thoughts_98673ef2:
 
     # n 2kllun "..."
-    n 2kllun ""
+    n 2kllun "..."
 
 # game/script-introduction.rpy:300
 translate spanish introduction_collecting_thoughts_540006e7:
 
     # n 2kcsem "...Look."
-    n 2kcsem ""
+    n 2kcsem "...Mira."
 
 # game/script-introduction.rpy:301
 translate spanish introduction_collecting_thoughts_e963212b:
 
     # n 1kcsfr "I...{w=2} I don't know what to do.{w=1}{nw}"
-    n 1kcsfr ""
+    n 1kcsfr "Yo...{w=2} Yo no sé qué hacer.{w=1}{nw}"
 
 # game/script-introduction.rpy:302
 translate spanish introduction_collecting_thoughts_dfe98bc5:
 
     # extend 1kplsf " Nothing is making sense..."
-    extend 1kplsf ""
+    extend 1kplsf "Nada tiene sentido..."
 
 # game/script-introduction.rpy:303
 translate spanish introduction_collecting_thoughts_ce5e4ec5:
 
     # n 4kllpu "I don't even know what to believe anymore..."
-    n 4kllpu ""
+    n 4kllpu "Ya ni siquiera sé que creer."
 
 # game/script-introduction.rpy:304
 translate spanish introduction_collecting_thoughts_915ad8f9:
 
     # n 4kskaj "A-{w=0.3}and my friends...{w=1} t-{w=0.3}they're...{w=1}{nw}"
-    n 4kskaj ""
+    n 4kskaj "Y-{w=0.3}y mis amigas...{w=1} E-{w=0.3}ellas están...{w=1}{nw}"
 
 # game/script-introduction.rpy:305
 translate spanish introduction_collecting_thoughts_257cf480:
 
     # extend 4kscem " they were never...!{w=1}{nw}"
-    extend 4kscem ""
+    extend 4kscem "¡Ellas nunca fueron...!{w=1}{nw}"
 
 # game/script-introduction.rpy:306
 translate spanish introduction_collecting_thoughts_d7ff109e:
 
     # n 4kcsantsa "...{w=3}{nw}"
-    n 4kcsantsa ""
+    n 4kcsantsa "...{w=3}{nw}"
 
 # game/script-introduction.rpy:307
 translate spanish introduction_collecting_thoughts_9cd552d7:
 
     # n 4kcsfultsa "...{w=3}{nw}"
-    n 4kcsfultsa ""
+    n 4kcsfultsa "...{w=3}{nw}"
 
 # game/script-introduction.rpy:308
 translate spanish introduction_collecting_thoughts_75f8910e:
 
     # n 4kcsupltsd "...{w=3}{nw}"
-    n 4kcsupltsd ""
+    n 4kcsupltsd "...{w=3}{nw}"
 
 # game/script-introduction.rpy:309
 translate spanish introduction_collecting_thoughts_91977c7d:
 
     # n 4kcsfultsd "...{w=3}{nw}"
-    n 4kcsfultsd ""
+    n 4kcsfultsd "...{w=3}{nw}"
 
 # game/script-introduction.rpy:310
 translate spanish introduction_collecting_thoughts_b03c6c3f:
 
     # n 4kcspultsa "...{w=3}{nw}"
-    n 4kcspultsa ""
+    n 4kcspultsa "...{w=3}{nw}"
 
 # game/script-introduction.rpy:311
 translate spanish introduction_collecting_thoughts_4fa4b1cb:
 
     # n 4kcssrltsa ".....{w=5}{nw}"
-    n 4kcssrltsa ""
+    n 4kcssrltsa ".....{w=5}{nw}"
 
 # game/script-introduction.rpy:312
 translate spanish introduction_collecting_thoughts_37010081:
 
     # n 4kwmsrltdr "...{w=5}{nw}"
-    n 4kwmsrltdr ""
+    n 4kwmsrltdr "...{w=5}{nw}"
 
 # game/script-introduction.rpy:313
 translate spanish introduction_collecting_thoughts_e46d8801:
 
     # n 4kllsrltdr "...You..."
-    n 4kllsrltdr ""
+    n 4kllsrltdr "...Tú..."
 
 # game/script-introduction.rpy:314
 translate spanish introduction_collecting_thoughts_0361eb1f:
 
     # n 1kwmpu "...You said you were [player]...{w=1} right?"
-    n 1kwmpu ""
+    n 1kwmpu "...Tú dijiste que eras [player]...{w=1} ¿Cierto?"
 
 # game/script-introduction.rpy:315
 translate spanish introduction_collecting_thoughts_136a3001:
 
     # n 1kllpu "..."
-    n 1kllpu ""
+    n 1kllpu "..."
 
 # game/script-introduction.rpy:316
 translate spanish introduction_collecting_thoughts_54ac79cc:
 
     # n 1kwmsr "..."
-    n 1kwmsr ""
+    n 1kwmsr "..."
 
 # game/script-introduction.rpy:317
 translate spanish introduction_collecting_thoughts_72b40a91:
 
     # n 1kcssr "...I don't know where to go,{w=0.3} [player]."
-    n 1kcssr ""
+    n 1kcssr "...No sé a dónde ir,{w=0.3} [player]."
 
 # game/script-introduction.rpy:318
 translate spanish introduction_collecting_thoughts_270e56af:
 
     # n 4kplunedr "I don't know what to {i}do{/i},{w=0.3} [player]..."
-    n 4kplunedr ""
+    n 4kplunedr "No sé {i}qué hacer{/i},{w=0.3} [player]..."
 
 # game/script-introduction.rpy:319
 translate spanish introduction_collecting_thoughts_073cf260:
 
     # n 4klrun "..."
-    n 4klrun ""
+    n 4klrun "..."
 
 # game/script-introduction.rpy:320
 translate spanish introduction_collecting_thoughts_91a6b453:
 
     # n 4kwmpusbl "...[player]?"
-    n 4kwmpusbl ""
+    n 4kwmpusbl "...¿[player]?"
 
 # game/script-introduction.rpy:326
 translate spanish introduction_collecting_thoughts_46635430:
 
     # n 3kslun "..."
-    n 3kslun ""
+    n 3kslun "..."
 
 # game/script-introduction.rpy:327
 translate spanish introduction_collecting_thoughts_adefbf6c:
 
     # n 3kslpu "I...{w=0.3} I really need some time to figure things out."
-    n 3kslpu ""
+    n 3kslpu "Yo...{w=0.3} De verdad necesito algo de tiempo para procesar todo."
 
 # game/script-introduction.rpy:328
 translate spanish introduction_collecting_thoughts_9cd4bcad:
 
     # n 4kwmsr "..."
-    n 4kwmsr ""
+    n 4kwmsr "..."
 
 # game/script-introduction.rpy:329
 translate spanish introduction_collecting_thoughts_04ebcccf:
 
     # n 4kplpul "Can you...{w=0.3} stay here?{w=0.2} W-{w=0.3}with me?{w=1}{nw}"
-    n 4kplpul ""
+    n 4kplpul "¿Puedes...{w=0.3} quedarte aquí...{w=0.2} C-{w=0.3}conmigo?{w=1}{nw}"
 
 # game/script-introduction.rpy:330
 translate spanish introduction_collecting_thoughts_5a23b87f:
 
     # extend 2flrunfesssbl " J-{w=0.1}just for a minute!"
-    extend 2flrunfesssbl ""
+    extend 2flrunfesssbl "¡S-{w=0.1}sólo por un minuto!"
 
 # game/script-introduction.rpy:331
 translate spanish introduction_collecting_thoughts_39fac840:
 
     # n 2ksrunl "It's just...{w=1}{nw}"
-    n 2ksrunl ""
+    n 2ksrunl "Es sólo que...{w=1}{nw}"
 
 # game/script-introduction.rpy:332
 translate spanish introduction_collecting_thoughts_aa76f15e:
 
     # extend 4kplsr " I don't think I can be alone right now.{w=1} I...{w=1} I just need to think."
-    extend 4kplsr ""
+    extend 4kplsr "No creo que pueda estar sola ahora mismo.{w=1} Yo...{w=1} Yo sólo necesito pensar un poco."
 
 # game/script-introduction.rpy:333
 translate spanish introduction_collecting_thoughts_50de7b35:
 
     # n 4kllsrsbr "You understand...{w=1.5}{nw}"
-    n 4kllsrsbr ""
+    n 4kllsrsbr "Lo entiendes...{w=1.5}{nw}"
 
 # game/script-introduction.rpy:334
 translate spanish introduction_collecting_thoughts_ef12455c:
 
     # extend 4kplpusbr " right?"
-    extend 4kplpusbr ""
+    extend 4kplpusbr "¿Verdad?"
 
 # game/script-introduction.rpy:346
 translate spanish introduction_calmed_down_5046cddf:
 
     # n 2kllsr "..."
-    n 2kllsr ""
+    n 2kllsr "..."
 
 # game/script-introduction.rpy:347
 translate spanish introduction_calmed_down_63f9eaf4:
 
     # n 2kllun "Uhmm...{w=2}{nw}"
-    n 2kllun ""
+    n 2kllun "Uhmm...{w=2}{nw}"
 
 # game/script-introduction.rpy:348
 translate spanish introduction_calmed_down_d03f9759:
 
     # extend 4kwmpu " [player]?"
-    extend 4kwmpu ""
+    extend 4kwmpu "¿[player]?"
 
 # game/script-introduction.rpy:349
 translate spanish introduction_calmed_down_3bd85451:
 
     # n 4kslsr "I'm...{w=0.3} sorry.{w=1}{nw}"
-    n 4kslsr ""
+    n 4kslsr "Yo lo...{w=0.3} Lo siento.{w=1}{nw}"
 
 # game/script-introduction.rpy:350
 translate spanish introduction_calmed_down_40e89407:
 
     # extend 1ksqsf " F-{w=0.1}for how I was acting then, I mean."
-    extend 1ksqsf ""
+    extend 1ksqsf "P-{w=0.1}por cómo estaba actuando antes, quiero decir."
 
 # game/script-introduction.rpy:351
 translate spanish introduction_calmed_down_11f7570e:
 
     # n 1klraj "It...{w=0.3} it's just that..."
-    n 1klraj ""
+    n 1klraj "Es...{w=0.3} Es sólo que...""
 
 # game/script-introduction.rpy:352
 translate spanish introduction_calmed_down_235434be:
