@@ -358,7 +358,7 @@ translate spanish introduction_collecting_thoughts_8d066812:
 translate spanish introduction_collecting_thoughts_58bd298b:
 
     # n 4kllemsbl "But this...{w=1}{nw}"
-    n 4kllemsbl "Pero esto...{w=1}{nw}""
+    n 4kllemsbl "Pero esto...{w=1}{nw}"
 
 # game/script-introduction.rpy:291
 translate spanish introduction_collecting_thoughts_f6aee6f6:
@@ -598,7 +598,7 @@ translate spanish introduction_calmed_down_40e89407:
 translate spanish introduction_calmed_down_11f7570e:
 
     # n 1klraj "It...{w=0.3} it's just that..."
-    n 1klraj "Es...{w=0.3} Es sólo que...""
+    n 1klraj "Es...{w=0.3} Es sólo que..."
 
 # game/script-introduction.rpy:352
 translate spanish introduction_calmed_down_235434be:
@@ -910,7 +910,7 @@ translate spanish introduction_acceptance_5eddfab2:
 translate spanish introduction_acceptance_2360b5be:
 
     # extend 4tsqaj " did say you brought me back,{w=0.3} huh?"
-    extend 4tsqaj "Dijiste que fuiste tú quién me trajo de vuelta,{w=0.3} ¿No es así?""
+    extend 4tsqaj "Dijiste que fuiste tú quién me trajo de vuelta,{w=0.3} ¿No es así?"
 
 # game/script-introduction.rpy:422
 translate spanish introduction_acceptance_94ec8226:
@@ -964,7 +964,7 @@ translate spanish introduction_acceptance_de2ba836:
 translate spanish introduction_acceptance_261b0a75:
 
     # extend 3flrem " Enough with that creepy music already!{w=1}{nw}"
-    extend 3flrem "¡Ya basta de esa música rara y espeluznante!{w=1}{nw}""
+    extend 3flrem "¡Ya basta de esa música rara y espeluznante!{w=1}{nw}"
 
 # game/script-introduction.rpy:431
 translate spanish introduction_acceptance_58d8d444:
@@ -1030,7 +1030,7 @@ translate spanish introduction_acceptance_99e43a72:
 translate spanish introduction_acceptance_4cdd2a1d:
 
     # n 2nllpol "Not like we {i}don't{/i} have all the time in the world now,{w=0.5}{nw}"
-    n 2nllpol "No es como si {i}no{/i} tuvieramos todo el tiempo del mundo ahora.{w=0.5}{nw}""
+    n 2nllpol "No es como si {i}no{/i} tuvieramos todo el tiempo del mundo ahora.{w=0.5}{nw}"
 
 # game/script-introduction.rpy:447
 translate spanish introduction_acceptance_2efb9b11:
