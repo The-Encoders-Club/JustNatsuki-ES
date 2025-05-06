@@ -10,7 +10,7 @@ translate spanish splashscreen_0320a168:
 translate spanish splashscreen_12775544:
 
     # "It is designed to be played only after the official game has been completed, and contains spoilers for the official game."
-    "Y ha sido diseñado para ser jugado únicamente después de completar el juego oficial y contiene spoilers del mismo."
+    "Y ha sido diseñado para ser jugado únicamente después de completar el juego oficial, y contiene spoilers del mismo."
 
 # game/splash.rpy:157
 translate spanish splashscreen_e193832f:
@@ -22,5 +22,5 @@ translate spanish strings:
 
     # game/splash.rpy:15
     old "This game is an unofficial fan work, unaffiliated with Team Salvato."
-    new "Este juego es un mod no oficial, desafiliado del Team Salvato."
+    new "Este juego es un mod no oficial, desafiliado a Team Salvato."
 
