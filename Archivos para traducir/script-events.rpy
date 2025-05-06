@@ -16,49 +16,49 @@ translate spanish event_caught_reading_manga_bb2cf764_1:
 translate spanish event_caught_reading_manga_991a55ad:
 
     # n "W-{w=0.2}wait...{w=0.3} what?!"
-    n ""
+    n "¡¿E-{w=0.2}Espera... {w=0.3}que?!"
 
 # game/script-events.rpy:748
 translate spanish event_caught_reading_manga_3f804d73:
 
     # n "M-{w=0.2}Minori!{w=0.5}{nw}"
-    n ""
+    n "¡M-{w=0.2}Minori! {w=0.5}{nw}"
 
 # game/script-events.rpy:749
 translate spanish event_caught_reading_manga_c075ab12:
 
     # extend " You {i}idiot{/i}!"
-    extend ""
+    extend "¡{i}Idiota{/i}!"
 
 # game/script-events.rpy:750
 translate spanish event_caught_reading_manga_6bcd9596:
 
     # n "I seriously can't believe...!"
-    n ""
+    n "¡Realmente no lo puedo creer...!"
 
 # game/script-events.rpy:751
 translate spanish event_caught_reading_manga_3e34bb09:
 
     # n "Ugh...{w=0.5}{nw}"
-    n ""
+    n "Ugh... {w=0.5}{nw}"
 
 # game/script-events.rpy:752
 translate spanish event_caught_reading_manga_279d1ad4:
 
     # extend " {i}this{/i} is what I had to look forward to?"
-    extend ""
+    extend "¿{i}esto{/i} es lo que tenía que esperar?"
 
 # game/script-events.rpy:753
 translate spanish event_caught_reading_manga_758a9fcd:
 
     # n "Come on...{w=0.5}{nw}"
-    n ""
+    n "Vamos... {w=0.5}{nw}"
 
 # game/script-events.rpy:754
 translate spanish event_caught_reading_manga_dc57b451:
 
     # extend " give me a break..."
-    extend ""
+    extend "dame un respiro..."
 
 # game/script-events.rpy:773
 translate spanish event_caught_reading_manga_6d7cb010:
