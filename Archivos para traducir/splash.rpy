@@ -22,5 +22,5 @@ translate spanish strings:
 
     # game/splash.rpy:15
     old "This game is an unofficial fan work, unaffiliated with Team Salvato."
-    new "Este juego es un mod no oficial, desafiliado a Team Salvato."
+    new "Este juego es un mod no oficial, desafiliado de Team Salvato."
 
