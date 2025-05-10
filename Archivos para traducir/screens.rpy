@@ -24,11 +24,11 @@ translate spanish strings:
 
     # game/screens.rpy:47
     old "Extras"
-    new ""
+    new "Extras"
 
     # game/screens.rpy:48
     old "E"
-    new ""
+    new "E"
 
     # game/screens.rpy:50
     old "Fullscreen"
@@ -64,11 +64,11 @@ translate spanish strings:
 
     # game/screens.rpy:70
     old "Snap hotkeys"
-    new ""
+    new "Teclas del Snap"
 
     # game/screens.rpy:77
     old "Place"
-    new ""
+    new "Lugar"
 
     # game/screens.rpy:78
     old "1"
@@ -76,11 +76,11 @@ translate spanish strings:
 
     # game/screens.rpy:80
     old "Snap!"
-    new ""
+    new "¡Snap!"
 
     # game/screens.rpy:81
     old "2"
-    new ""
+    new "2"
 
     # game/screens.rpy:91
     old "Blackjack hotkeys"
