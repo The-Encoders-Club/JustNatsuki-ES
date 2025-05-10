@@ -2998,7 +2998,7 @@ translate spanish greeting_affectionate_enamored_everything_is_fine_e07f3cbb:
 translate spanish greeting_affectionate_enamored_everything_is_fine_4609bc84:
 
     # extend 2fcssmleme " Ehehe."
-    extend 2fcssmleme "Jejeje.
+    extend 2fcssmleme "Jejeje."
 
 # game/script-greetings.rpy:1188
 translate spanish greeting_affectionate_enamored_not_surprised_2a9a793e:
