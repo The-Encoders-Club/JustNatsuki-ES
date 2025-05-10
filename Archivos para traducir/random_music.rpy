@@ -160,7 +160,7 @@ translate spanish random_music_disable_895506cd:
 translate spanish random_music_disable_e253d0be:
 
     # n 1uchbg "I'm just messing with you.{w=0.2} Sure thing!{w=0.5}{nw}"
-    n 1uchbg "Sólo te estoy molestando.{w=0.2} ¡Seguro!{w=0.5}{nw}""
+    n 1uchbg "Sólo te estoy molestando.{w=0.2} ¡Seguro!{w=0.5}{nw}"
 
 # game/random_music.rpy:171
 translate spanish random_music_disable_57dc059d:
