@@ -64,13 +64,14 @@ translate spanish weather_change_20375db5:
 translate spanish weather_change_67a0d164:
 
     # n 1kcsemesi "Man...{w=1.25}{nw}"
-    n 1kcsemesi "Uuuuh...{w=1.25}{nw}""
+    n 1kcsemesi "Uuuuh...{w=1.25}{nw}"
 
 # game/atmosphere.rpy:643
 translate spanish weather_change_9bcb26a1:
 
     # extend 4kllsl " rain {i}again{/i}?{w=1}{nw}"
-    extend 4kllsl "¿Lluvia {i}otra vez{/i}?{w=1}{nw}""
+    extend 4kllsl "¿Lluvia {i}otra vez{/i}?{w=1}{nw}"
+
 
 # game/atmosphere.rpy:644
 translate spanish weather_change_dac5af20:
@@ -124,7 +125,7 @@ translate spanish weather_change_04c58e74:
 translate spanish weather_change_2166279a:
 
     # extend 2ullpu " now those are some clouds,{w=0.5}{nw}"
-    extend 2ullpu "Ahora están algunas nubes,{w=0.5}{nw}""
+    extend 2ullpu "Ahora están algunas nubes,{w=0.5}{nw}"
 
 # game/atmosphere.rpy:661
 translate spanish weather_change_fbde156e:
