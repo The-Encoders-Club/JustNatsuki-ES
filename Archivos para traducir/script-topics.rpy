@@ -1462,7 +1462,7 @@ translate spanish talk_did_you_have_pets_7956cdf6:
 translate spanish talk_did_you_have_pets_b4340ed4:
 
     # extend 3fcsbg " {i}color{/i} me surprised!"
-    extend 3fcsbg "¡{i}Coloréame{/i} sorprendida!"
+    extend 3fcsbg "¡{i}Que{/i} me sorprenda!"
 
 # game/script-topics.rpy:477
 translate spanish talk_did_you_have_pets_849deea0:
@@ -2116,967 +2116,967 @@ translate spanish talk_did_you_have_pets_db7a76ff:
 translate spanish talk_did_you_have_pets_4911d128:
 
     # n 7tllpu "...Huh.{w=0.75}{nw}"
-    n 7tllpu ""
+    n 7tllpu "... Vaya. {w=0.75}{nw}"
 
 # game/script-topics.rpy:627
 translate spanish talk_did_you_have_pets_8e64c463:
 
     # extend 7cslsssbr " Maybe that whole conversation about being careful with your money {i}was{/i} needed after all."
-    extend 7cslsssbr ""
+    extend 7cslsssbr "Quizás toda esa conversación sobre tener cuidado con tu dinero {i}sí{/i} era necesaria después de todo."
 
 # game/script-topics.rpy:630
 translate spanish talk_did_you_have_pets_806a8099:
 
     # n 5csrsssbr "...Even if it {i}is{/i} pretty cool."
-    n 5csrsssbr ""
+    n 5csrsssbr "... Aunque {i}sí{/i} es bastante genial."
 
 # game/script-topics.rpy:632
 translate spanish talk_did_you_have_pets_27cfc2dc:
 
     # n 2csrsssbr "W-{w=0.2}well,{w=0.2} anyway.{w=0.75}{nw}"
-    n 2csrsssbr ""
+    n 2csrsssbr "B-{w=0.2}Bueno, {w=0.2}en fin. {w=0.75}{nw}"
 
 # game/script-topics.rpy:635
 translate spanish talk_did_you_have_pets_cdc8db07:
 
     # extend 2fcsbg " I hope you're all saddled up,{w=0.2} [player]..."
-    extend 2fcsbg ""
+    extend 2fcsbg "Espero que ya estés bien preparado, {w=0.2}[player]..."
 
 # game/script-topics.rpy:636
 translate spanish talk_did_you_have_pets_159e3d06:
 
     # n 2nchgnelg "'Cause there's no way you're wiggling out of some free riding lessons!{w=0.75}{nw}"
-    n 2nchgnelg ""
+    n 2nchgnelg "¡Porque no hay manera de que te salves de unas clases de equitación gratis! {w=0.75}{nw}"
 
 # game/script-topics.rpy:637
 translate spanish talk_did_you_have_pets_b0a99294:
 
     # extend 2nchgn " Ehehe."
-    extend 2nchgn ""
+    extend 2nchgn "Jejeje."
 
 # game/script-topics.rpy:640
 translate spanish talk_did_you_have_pets_beb9b84b:
 
     # extend 4nsqpo " You better hope I don't catch you riding without a helmet,{w=0.2} [player]."
-    extend 4nsqpo ""
+    extend 4nsqpo "Será mejor que esperes que no te atrape montando sin casco, {w=0.2}[player]."
 
 # game/script-topics.rpy:641
 translate spanish talk_did_you_have_pets_823a17f3:
 
     # n 2ccspoesi "'Cause you getting saddled up with a bunch of dumb hospital bills is the last thing I wanna hear about."
-    n 2ccspoesi ""
+    n 2ccspoesi "Porque lo último que quiero oír es que acabaste cargando con un montón de tontas facturas del hospital."
 
 # game/script-topics.rpy:644
 translate spanish talk_did_you_have_pets_2f8b9c7f:
 
     # n 2tsqan "Ack-{w=0.75}{nw}"
-    n 2tsqan ""
+    n 2tsqan "Ack-{w=0.75}{nw}"
 
 # game/script-topics.rpy:645
 translate spanish talk_did_you_have_pets_8bdf03d1:
 
     # n 2cllunlsbr "..."
-    n 2cllunlsbr ""
+    n 2cllunlsbr "..."
 
 # game/script-topics.rpy:646
 translate spanish talk_did_you_have_pets_497c7bf8:
 
-    # n 2ccssslsbr "B-{w=0.2}bugs,{w=0.5}{nw}"
-    n 2ccssslsbr ""
+    # n 2ccssslsbr "B-{w=0.2}bugs,{w=0.5}{nw}"
+    n 2ccssslsbr "I-{w=0.2}Insectos, {w=0.5}{nw}"
 
 # game/script-topics.rpy:647
 translate spanish talk_did_you_have_pets_d9581838:
 
-    # extend 4clrsslsbl " huh?"
-    extend 4clrsslsbl ""
+    # extend 4clrsslsbl " huh?"
+    extend 4clrsslsbl "¿eh?"
 
 # game/script-topics.rpy:648
 translate spanish talk_did_you_have_pets_d0362eb9:
 
-    # n 4csrunlsbl "..."
-    n 4csrunlsbl ""
+    # n 4csrunlsbl "..."
+    n 4csrunlsbl "..."
 
 # game/script-topics.rpy:649
 translate spanish talk_did_you_have_pets_d5740252:
 
-    # n 1ccsajlsbl "I-{w=0.2}I mean,{w=0.75}{nw}"
-    n 1ccsajlsbl ""
+    # n 1ccsajlsbl "I-{w=0.2}I mean,{w=0.75}{nw}"
+    n 1ccsajlsbl "Q-{w=0.2}Quiero decir, {w=0.75}{nw}"
 
 # game/script-topics.rpy:650
 translate spanish talk_did_you_have_pets_335039be:
 
-    # extend 2cllsssbl " don't get me wrong!{w=0.75}{nw}"
-    extend 2cllsssbl ""
+    # extend 2cllsssbl " don't get me wrong!{w=0.75}{nw}"
+    extend 2cllsssbl "¡no me malinterpretes! {w=0.75}{nw}"
 
 # game/script-topics.rpy:651
 translate spanish talk_did_you_have_pets_6d0b9edb:
 
-    # extend 2cllbosbl " Someone's gotta take care of all the creepy crawlies."
-    extend 2cllbosbl ""
+    # extend 2cllbosbl " Someone's gotta take care of all the creepy crawlies."
+    extend 2cllbosbl "Alguien tiene que cuidar de todos esos bichos raros."
 
 # game/script-topics.rpy:652
 translate spanish talk_did_you_have_pets_3e6c7c49:
 
-    # n 5cslemsbl "...I'm just glad it's not me.{w=0.75}{nw}"
-    n 5cslemsbl ""
+    # n 5cslemsbl "...I'm just glad it's not me.{w=0.75}{nw}"
+    n 5cslemsbl "... Me alegro de que no sea yo. {w=0.75}{nw}"
 
 # game/script-topics.rpy:653
 translate spanish talk_did_you_have_pets_ce7235ab:
 
-    # extend 1ccsemsbl " Yeesh."
-    extend 1ccsemsbl ""
+    # extend 1ccsemsbl " Yeesh."
+    extend 1ccsemsbl "Uf."
 
 # game/script-topics.rpy:654
 translate spanish talk_did_you_have_pets_6faf60b5:
 
-    # n 4csrbosbl "..."
-    n 4csrbosbl ""
+    # n 4csrbosbl "..."
+    n 4csrbosbl "..."
 
 # game/script-topics.rpy:655
 translate spanish talk_did_you_have_pets_054e7308:
 
-    # n 4ccssssbl "W-{w=0.2}well..."
-    n 4ccssssbl ""
+    # n 4ccssssbl "W-{w=0.2}well..."
+    n 4ccssssbl "B-{w=0.2}Bueno..."
 
 # game/script-topics.rpy:656
 translate spanish talk_did_you_have_pets_3d659e90:
 
-    # n 2fllbg "I guess I'll just try not to let it{w=0.5}{nw}"
-    n 2fllbg ""
+    # n 2fllbg "I guess I'll just try not to let it{w=0.5}{nw}"
+    n 2fllbg "¡Supongo que intentaré no dejar que me {w=0.5}{nw}"
 
 # game/script-topics.rpy:657
 translate spanish talk_did_you_have_pets_cbc20ca8:
 
-    # extend 2fsqsm " {i}bug me{/i}{w=0.75}{nw}"
-    extend 2fsqsm ""
+    # extend 2fsqsm " {i}bug me{/i}{w=0.75}{nw}"
+    extend 2fsqsm "{i}moleste{/i} {w=0.75}{nw}"
 
 # game/script-topics.rpy:658
 translate spanish talk_did_you_have_pets_96024589:
 
-    # extend 4fwlbg " then!{w=0.75}{nw}"
-    extend 4fwlbg ""
+    # extend 4fwlbg " then!{w=0.75}{nw}"
+    extend 4fwlbg "entonces! {w=0.75}{nw}"
 
 # game/script-topics.rpy:659
 translate spanish talk_did_you_have_pets_24672e0d:
 
-    # extend 4fcssmeme " Ehehe."
-    extend 4fcssmeme ""
+    # extend 4fcssmeme " Ehehe."
+    extend 4fcssmeme "Jejeje."
 
 # game/script-topics.rpy:662
 translate spanish talk_did_you_have_pets_bdc2d821:
 
-    # n 3fchblleaf "Love you too,{w=0.2} [player]~!"
-    n 3fchblleaf ""
+    # n 3fchblleaf "Love you too,{w=0.2} [player]~!"
+    n 3fchblleaf "Yo también te amo, {w=0.2}[player]~!"
 
 # game/script-topics.rpy:665
 translate spanish talk_did_you_have_pets_252588a6:
 
-    # n 1tnmfl "Oh?{w=0.75}{nw}"
-    n 1tnmfl ""
+    # n 1tnmfl "Oh?{w=0.75}{nw}"
+    n 1tnmfl "¿Oh? {w=0.75}{nw}"
 
 # game/script-topics.rpy:666
 translate spanish talk_did_you_have_pets_820d8d7c:
 
-    # extend 2tllfl " Really,{w=0.2} [player]?{w=1.25}{nw}"
-    extend 2tllfl ""
+    # extend 2tllfl " Really,{w=0.2} [player]?{w=1.25}{nw}"
+    extend 2tllfl "¿De verdad, {w=0.2}[player]? {w=1.25}{nw}"
 
 # game/script-topics.rpy:667
 translate spanish talk_did_you_have_pets_ab3bae63:
 
-    # extend 2tsqem " Lizards?"
-    extend 2tsqem ""
+    # extend 2tsqem " Lizards?"
+    extend 2tsqem "¿Lagartos?"
 
 # game/script-topics.rpy:668
 translate spanish talk_did_you_have_pets_aab96439:
 
-    # n 4ccsss "Heh.{w=0.75}{nw}"
-    n 4ccsss ""
+    # n 4ccsss "Heh.{w=0.75}{nw}"
+    n 4ccsss "Je. {w=0.75}{nw}"
 
 # game/script-topics.rpy:669
 translate spanish talk_did_you_have_pets_98a3b1ab:
 
-    # extend 7ulraj " I gotta say,{w=0.2} [player] -{w=0.5}{nw}"
-    extend 7ulraj ""
+    # extend 7ulraj " I gotta say,{w=0.2} [player] -{w=0.5}{nw}"
+    extend 7ulraj "Tengo que decir, {w=0.2}[player]... {w=0.5}{nw}"
 
 # game/script-topics.rpy:670
 translate spanish talk_did_you_have_pets_05d2210f:
 
-    # extend 7unmbo " I'm impressed."
-    extend 7unmbo ""
+    # extend 7unmbo " I'm impressed."
+    extend 7unmbo "estoy impresionada."
 
 # game/script-topics.rpy:671
 translate spanish talk_did_you_have_pets_d80fe18c:
 
     # n 6fchbg "...You {i}finally{/i} managed to find a pet just as cold-blooded as you!"
-    n 6fchbg ""
+    n 6fchbg "... ¡{i}Finalmente{/i} lograste encontrar una mascota de sangre tan fría como tú!"
 
 # game/script-topics.rpy:672
 translate spanish talk_did_you_have_pets_3f81005c:
 
     # n 1fsqdv "..."
-    n 1fsqdv ""
+    n 1fsqdv "..."
 
 # game/script-topics.rpy:673
 translate spanish talk_did_you_have_pets_c9376c2f:
 
     # n 4fchdvesi "Pfffft!{w=0.75}{nw}"
-    n 4fchdvesi ""
+    n 4fchdvesi "¡Pfffft! {w=0.75}{nw}"
 
 # game/script-topics.rpy:674
 translate spanish talk_did_you_have_pets_7e2af9a5:
 
     # extend 3fchbg " I'm kidding,{w=0.2} [player]!{w=0.5} I'm just kidding!{w=0.75}{nw}"
-    extend 3fchbg ""
+    extend 3fchbg "¡Estoy bromeando, {w=0.2}[player]! {w=0.5}¡Solo estoy bromeando! {w=0.75}{nw}"
 
 # game/script-topics.rpy:675
 translate spanish talk_did_you_have_pets_9f074875:
 
     # extend 3kllbg " Jeez..."
-    extend 3kllbg ""
+    extend 3kllbg "Dios..."
 
 # game/script-topics.rpy:676
 translate spanish talk_did_you_have_pets_e1ab6e8b:
 
     # n 3cnmss "..."
-    n 3cnmss ""
+    n 3cnmss "..."
 
 # game/script-topics.rpy:677
 translate spanish talk_did_you_have_pets_4130f369:
 
     # n 1fsqbo "..."
-    n 1fsqbo ""
+    n 1fsqbo "..."
 
 # game/script-topics.rpy:678
 translate spanish talk_did_you_have_pets_8b234852:
 
     # n 4fnmem "Hey!{w=0.75}{nw}"
-    n 4fnmem ""
+    n 4fnmem "¡Oye! {w=0.75}{nw}"
 
 # game/script-topics.rpy:679
 translate spanish talk_did_you_have_pets_31453e97:
 
     # extend 4flrfl " Come on,{w=0.2} [player].{w=0.75}{nw}"
-    extend 4flrfl ""
+    extend 4flrfl "Vamos, {w=0.2}[player]. {w=0.75}{nw}"
 
 # game/script-topics.rpy:680
 translate spanish talk_did_you_have_pets_24fe72fd:
 
     # extend 4fcspo " Don't give me that look.{w=0.75}{nw}"
-    extend 4fcspo ""
+    extend 4fcspo "No me pongas esa cara. {w=0.75}{nw}"
 
 # game/script-topics.rpy:681
 translate spanish talk_did_you_have_pets_2715c3fe:
 
     # extend 3fchgn " It was a good one this time!"
-    extend 3fchgn ""
+    extend 3fchgn "¡Esta vez fue bueno!"
 
 # game/script-topics.rpy:682
 translate spanish talk_did_you_have_pets_2c17e6b4:
 
     # n 6fcsbg "And besides -{w=0.5}{nw}"
-    n 6fcsbg ""
+    n 6fcsbg "Y además... {w=0.5}{nw}"
 
 # game/script-topics.rpy:683
 translate spanish talk_did_you_have_pets_471a05b7:
 
     # extend 6unmaj " think about it!"
-    extend 6unmaj ""
+    extend 6unmaj "¡piénsalo!"
 
 # game/script-topics.rpy:684
 translate spanish talk_did_you_have_pets_3d7ecb05:
 
     # n 4fnmsg "Shouldn't you of all people know how to{w=0.5}{nw}"
-    n 4fnmsg ""
+    n 4fnmsg "¿No deberías tú, de entre todas las personas, saber cómo {w=0.5}{nw}"
 
 # game/script-topics.rpy:685
 translate spanish talk_did_you_have_pets_8220d93d:
 
     # extend 3fsqbg " {i}shed{/i}{w=0.75}{nw}"
-    extend 3fsqbg ""
+    extend 3fsqbg "{i}deshacerte{/i} {w=0.75}{nw}"
 
 # game/script-topics.rpy:686
 translate spanish talk_did_you_have_pets_93c2e846:
 
     # extend 3fchbg " things off?{w=0.75}{nw}"
-    extend 3fchbg ""
+    extend 3fchbg "de las cosas? {w=0.75}{nw}"
 
 # game/script-topics.rpy:687
 translate spanish talk_did_you_have_pets_6be0f3c0_1:
 
     # extend 3nchgn " Ahaha."
-    extend 3nchgn ""
+    extend 3nchgn "Ahaha."
 
 # game/script-topics.rpy:690
 translate spanish talk_did_you_have_pets_d2c5478d:
 
     # n 4fwlbgl "Love you too,{w=0.2} [player]~!"
-    n 4fwlbgl ""
+    n 4fwlbgl "¡Yo también te amo, {w=0.2}[player]~!"
 
 # game/script-topics.rpy:693
 translate spanish talk_did_you_have_pets_0f07df64:
 
     # n 4fwlbg "I'm here all week,{w=0.2} [player]!"
-    n 4fwlbg ""
+    n 4fwlbg "¡Estoy aquí toda la semana, {w=0.2}[player]!"
 
 # game/script-topics.rpy:696
 translate spanish talk_did_you_have_pets_266d6f22:
 
     # n 7tlrbo "Mice,{w=0.2} eh?{w=0.75}{nw}"
-    n 7tlrbo ""
+    n 7tlrbo "¿Ratones, {w=0.2}eh?{w=0.75}{nw}"
 
 # game/script-topics.rpy:697
 translate spanish talk_did_you_have_pets_44fbac9d:
 
     # extend 7tsqfl " Are you sure,{w=0.2} [player]?"
-    extend 7tsqfl ""
+    extend 7tsqfl "¿Estás seguro, {w=0.2}[player]?"
 
 # game/script-topics.rpy:698
 translate spanish talk_did_you_have_pets_b4c1a881:
 
     # n 4fsqss "Not hamsters?{w=1}{nw}"
-    n 4fsqss ""
+    n 4fsqss "¿No hámsteres? {w=1}{nw}"
 
 # game/script-topics.rpy:699
 translate spanish talk_did_you_have_pets_54166a85:
 
     # extend 4fnmbg " Gerbils?"
-    extend 4fnmbg ""
+    extend 4fnmbg "¿Jerbos?"
 
 # game/script-topics.rpy:700
 translate spanish talk_did_you_have_pets_cc5ba3ef:
 
     # n 3fsqbg "...Or do I smell a rat?"
-    n 3fsqbg ""
+    n 3fsqbg "... ¿O huelo una rata?"
 
 # game/script-topics.rpy:701
 translate spanish talk_did_you_have_pets_acced036_1:
 
     # n 3fsqsm "..."
-    n 3fsqsm ""
+    n 3fsqsm "..."
 
 # game/script-topics.rpy:702
 translate spanish talk_did_you_have_pets_3fc53c3c:
 
     # n 3fchsm "Ehehe.{w=0.75}{nw}"
-    n 3fchsm ""
+    n 3fchsm "Ehehe. {w=0.75}{nw}"
 
 # game/script-topics.rpy:703
 translate spanish talk_did_you_have_pets_1adfb789:
 
     # extend 4ullss " Nah,{w=0.2} I guess I can see the appeal.{w=0.75}{nw}"
-    extend 4ullss ""
+    extend 4ullss " Nah, {w=0.2}supongo que entiendo el atractivo. {w=0.75}{nw}"
 
 # game/script-topics.rpy:704
 translate spanish talk_did_you_have_pets_260538c7:
 
     # extend 7unmaj " They're social animals,{w=0.2} right?"
-    extend 7unmaj ""
+    extend 7unmaj "Son animales sociales, {w=0.2}¿verdad?"
 
 # game/script-topics.rpy:705
 translate spanish talk_did_you_have_pets_6d52f4c8:
 
     # n 3fcssmesm "You better be giving yours plenty of company too,{w=0.2} [player]!"
-    n 3fcssmesm ""
+    n 3fcssmesm "¡Será mejor que tú también le des mucha compañía al tuyo, {w=0.2}[player]!"
 
 # game/script-topics.rpy:708
 translate spanish talk_did_you_have_pets_ad671c35:
 
     # n 7tnmbo "Rats,{w=0.2} huh?{w=0.75}{nw}"
-    n 7tnmbo ""
+    n 7tnmbo "Ratas, {w=0.2}¿eh? {w=0.75}{nw}"
 
 # game/script-topics.rpy:709
 translate spanish talk_did_you_have_pets_6718863f:
 
     # extend 7ullaj " That's pretty cool."
-    extend 7ullaj ""
+    extend 7ullaj "Eso es genial."
 
 # game/script-topics.rpy:710
 translate spanish talk_did_you_have_pets_fe957e73:
 
     # n 2ullsl "..."
-    n 2ullsl ""
+    n 2ullsl "..."
 
 # game/script-topics.rpy:711
 translate spanish talk_did_you_have_pets_f7d64b02:
 
     # n 2fsqsm "..."
-    n 2fsqsm ""
+    n 2fsqsm "..."
 
 # game/script-topics.rpy:712
 translate spanish talk_did_you_have_pets_481aed82:
 
     # n 2fcsbg "Oh?{w=0.75}{nw}"
-    n 2fcsbg ""
+    n 2fcsbg "¿Oh? {w=0.75}{nw}"
 
 # game/script-topics.rpy:713
 translate spanish talk_did_you_have_pets_c16f80c6:
 
     # extend 4fnmbg " What's the matter,{w=0.2} [player]?{w=0.75}{nw}"
-    extend 4fnmbg ""
+    extend 4fnmbg "¿Qué pasa, {w=0.2}[player]? {w=0.75}{nw}"
 
 # game/script-topics.rpy:714
 translate spanish talk_did_you_have_pets_63c1c121:
 
     # extend 4fnmsm " Were you {i}expecting{/i} me to be grossed out or what?"
-    extend 4fnmsm ""
+    extend 4fnmsm "¿{i}Esperabas{/i} que me diera asco o qué?"
 
 # game/script-topics.rpy:715
 translate spanish talk_did_you_have_pets_6a33fa86:
 
     # n 1fcssm "Ehehe.{w=0.75}{nw}"
-    n 1fcssm ""
+    n 1fcssm "Ehehe. {w=0.75}{nw}"
 
 # game/script-topics.rpy:716
 translate spanish talk_did_you_have_pets_99edd972:
 
     # extend 3tllss " Nah,{w=0.2} rats are fine.{w=1}{nw}"
-    extend 3tllss ""
+    extend 3tllss "Nah, {w=0.2}las ratas están bien. {w=1}{nw}"
 
 # game/script-topics.rpy:717
 translate spanish talk_did_you_have_pets_08889478:
 
     # extend 3unmaj " They're super smart too!{w=0.75}{nw}"
-    extend 3unmaj ""
+    extend 3unmaj "¡También son súper inteligentes! {w=0.75}{nw}"
 
 # game/script-topics.rpy:718
 translate spanish talk_did_you_have_pets_b3782c4a:
 
     # extend 3nlrsssbl " But I bet you already knew that by now anyway."
-    extend 3nlrsssbl ""
+    extend 3nlrsssbl "Pero apuesto a que de todos modos ya lo sabías."
 
 # game/script-topics.rpy:719
 translate spanish talk_did_you_have_pets_ce6ca222:
 
     # n 1fcsss "Heh.{w=0.75}{nw}"
-    n 1fcsss ""
+    n 1fcsss "Jeje. {w=0.75}{nw}"
 
 # game/script-topics.rpy:720
 translate spanish talk_did_you_have_pets_2adbbdd7:
 
     # extend 4fcsbg " In fact..."
-    extend 4fcsbg ""
+    extend 4fcsbg "De hecho..."
 
 # game/script-topics.rpy:721
 translate spanish talk_did_you_have_pets_dee1ba0e:
 
     # n 2fsqbg "I bet you probably have plenty of {i}tails{/i} to tell by now,{w=0.5}{nw}"
-    n 2fsqbg ""
+    n 2fsqbg "Apuesto a que probablemente ya tienes muchas {i}colas{/i} que contar, {w=0.5}{nw}"
 
 # game/script-topics.rpy:722
 translate spanish talk_did_you_have_pets_f8e79d8b:
 
     # extend 2nchgn " right?"
-    extend 2nchgn ""
+    extend 2nchgn "¿verdad?"
 
 # game/script-topics.rpy:725
 translate spanish talk_did_you_have_pets_500f1dbc:
 
     # n 1nchsml "Ahaha.{w=0.75}{nw}"
-    n 1nchsml ""
+    n 1nchsml "Ahaha. {w=0.75}{nw}"
 
 # game/script-topics.rpy:726
 translate spanish talk_did_you_have_pets_203fd7f8:
 
     # extend 3fchbll " Love you too,{w=0.2} [player]~!"
-    extend 3fchbll ""
+    extend 3fchbll "¡Yo también te amo, {w=0.2}[player]~!"
 
 # game/script-topics.rpy:729
 translate spanish talk_did_you_have_pets_158b2014:
 
     # n 4unmbg "Bunnies!{w=0.75}{nw}"
-    n 4unmbg ""
+    n 4unmbg "¡Conejitos! {w=0.75}{nw}"
 
 # game/script-topics.rpy:730
 translate spanish talk_did_you_have_pets_eb716f5b:
 
     # extend 4uchgnl " Yes!{w=0.75}{nw}"
-    extend 4uchgnl ""
+    extend 4uchgnl "¡Sí! {w=0.75}{nw}"
 
 # game/script-topics.rpy:731
 translate spanish talk_did_you_have_pets_90102b38:
 
     # extend 3ccsssl " Man..."
-    extend 3ccsssl ""
+    extend 3ccsssl "Vaya..."
 
 # game/script-topics.rpy:732
 translate spanish talk_did_you_have_pets_6b253420:
 
     # n 3cllbolsbr "..."
-    n 3cllbolsbr ""
+    n 3cllbolsbr "..."
 
 # game/script-topics.rpy:733
 translate spanish talk_did_you_have_pets_3ec5f148:
 
     # n 4ccsfllsbr "I-{w=0.2}I mean,{w=0.5}{nw}"
-    n 4ccsfllsbr ""
+    n 4ccsfllsbr "Q-{w=0.2}Quiero decir, {w=0.5}{nw}"
 
 # game/script-topics.rpy:734
 translate spanish talk_did_you_have_pets_f080bc35:
 
     # extend 2fcsajlsbr " how could anyone {i}not{/i} love those little fuzzballs?{w=0.75}{nw}"
-    extend 2fcsajlsbr ""
+    extend 2fcsajlsbr "¿cómo podría alguien {i}no{/i} amar esas pequeñas bolitas de pelo? {w=0.75}{nw}"
 
 # game/script-topics.rpy:735
 translate spanish talk_did_you_have_pets_98b0203a:
 
     # extend 2fllsslsbr " Are you kidding me?!"
-    extend 2fllsslsbr ""
+    extend 2fllsslsbr "¡¿Me estás tomando el pelo?!"
 
 # game/script-topics.rpy:736
 translate spanish talk_did_you_have_pets_2b0dfb79:
 
     # n 4fcsbgl "Especially those ones with the floppy ears!{w=0.75}{nw}"
-    n 4fcsbgl ""
+    n 4fcsbgl "¡Especialmente esos con las orejas caídas! {w=0.75}{nw}"
 
 # game/script-topics.rpy:737
 translate spanish talk_did_you_have_pets_97956d01:
 
     # extend 4nchgnl " They look so cuddly!"
-    extend 4nchgnl ""
+    extend 4nchgnl "¡Se ven tan tiernos!"
 
 # game/script-topics.rpy:738
 translate spanish talk_did_you_have_pets_17c064d3:
 
     # n 1fllbg "And then just to top if off,{w=0.5}{nw}"
-    n 1fllbg ""
+    n 1fllbg "Y para colmo, {w=0.5}{nw}"
 
 # game/script-topics.rpy:739
 translate spanish talk_did_you_have_pets_d10fc2fe:
 
     # extend 3fspaj " they come in all those different colors too!{w=0.75}{nw}"
-    extend 3fspaj ""
+    extend 3fspaj "¡también vienen en todos esos colores diferentes! {w=0.75}{nw}"
 
 # game/script-topics.rpy:740
 translate spanish talk_did_you_have_pets_9574694a:
 
     # extend 3fchbg " Talk about variety!"
-    extend 3fchbg ""
+    extend 3fchbg "¡Hablando de variedad!"
 
 # game/script-topics.rpy:741
 translate spanish talk_did_you_have_pets_d6cb029f:
 
     # n 6ullaj "Just make sure you keep that cage spick and span though,{w=0.2} [player] -{w=0.5}{nw}"
-    n 6ullaj ""
+    n 6ullaj "Solo asegúrate de mantener esa jaula impecable, {w=0.2}[player]... {w=0.5}{nw}"
 
 # game/script-topics.rpy:742
 translate spanish talk_did_you_have_pets_ad19cc14:
 
     # extend 2csqpo " I'm not putting up with any {i}dust{/i} bunnies on my watch."
-    extend 2csqpo ""
+    extend 2csqpo "no voy a tolerar conejitos de {i}polvo{/i} mientras estoy al cuidado."
 
 # game/script-topics.rpy:745
 translate spanish talk_did_you_have_pets_636f0170:
 
     # n 1unmemesh "H-{w=0.2}huh?{w=0.75}{nw}"
-    n 1unmemesh ""
+    n 1unmemesh "¿Q-{w=0.2}Qué? {w=0.75}{nw}"
 
 # game/script-topics.rpy:746
 translate spanish talk_did_you_have_pets_15aa6034:
 
     # extend 4ccsemlsbl " N-{w=0.2}now just hold on a second,{w=0.2} [player].{w=0.75}{nw}"
-    extend 4ccsemlsbl ""
+    extend 4ccsemlsbl "A-{w=0.2}Ahora espera un segundo, {w=0.2}[player]. {w=0.75}{nw}"
 
 # game/script-topics.rpy:747
 translate spanish talk_did_you_have_pets_cfb99c4e:
 
     # extend 4clremlsbl " {i}Snakes{/i}?"
-    extend 4clremlsbl ""
+    extend 4clremlsbl "¿{i}Serpientes{/i}?"
 
 # game/script-topics.rpy:748
 translate spanish talk_did_you_have_pets_e6019d4f:
 
     # n 1csrunlsbr "..."
-    n 1csrunlsbr ""
+    n 1csrunlsbr "..."
 
 # game/script-topics.rpy:749
 translate spanish talk_did_you_have_pets_4aaa22ac:
 
     # n 4fcsunsbr "Uuuuuu..."
-    n 4fcsunsbr ""
+    n 4fcsunsbr "Uuuuuu..."
 
 # game/script-topics.rpy:750
 translate spanish talk_did_you_have_pets_7b7b02c0:
 
     # n 2kcsaj "...Fine.{w=0.75}{nw}"
-    n 2kcsaj ""
+    n 2kcsaj "... Bien. {w=0.75}{nw}"
 
 # game/script-topics.rpy:751
 translate spanish talk_did_you_have_pets_aa20db04:
 
     # extend 2cslbosbr " I guess I'll just be straight with you,{w=0.2} [player]."
-    extend 2cslbosbr ""
+    extend 2cslbosbr "Supongo que seré directa contigo, {w=0.2}[player]."
 
 # game/script-topics.rpy:752
 translate spanish talk_did_you_have_pets_be40b90d:
 
     # n 1ccsfllsbr "I'm...{w=1}{nw}"
-    n 1ccsfllsbr ""
+    n 1ccsfllsbr "No estoy... {w=1}{nw}"
 
 # game/script-topics.rpy:753
 translate spanish talk_did_you_have_pets_f5622d16:
 
     # extend 4ksrsllsbr " not {i}amazing{/i} with those."
-    extend 4ksrsllsbr ""
+    extend 4ksrsllsbr "muy {i}bien{/i} con esas."
 
 # game/script-topics.rpy:754
 translate spanish talk_did_you_have_pets_9c055caf:
 
     # n 2fcsfllsbr "S-{w=0.2}snakes,{w=0.2} I mean."
-    n 2fcsfllsbr ""
+    n 2fcsfllsbr "S-{w=0.2}Serpientes, {w=0.2}quiero decir."
 
 # game/script-topics.rpy:755
 translate spanish talk_did_you_have_pets_e919e06d:
 
     # n 2fllfll "They just...{w=1}{nw}"
-    n 2fllfll ""
+    n 2fllfll "Simplemente no se... {w=1}{nw}"
 
 # game/script-topics.rpy:756
 translate spanish talk_did_you_have_pets_e627dcf5:
 
     # extend 2cslcal " don't really agree with me.{w=0.75}{nw}"
-    extend 2cslcal ""
+    extend 2cslcal "llevan bien conmigo. {w=0.75}{nw}"
 
 # game/script-topics.rpy:757
 translate spanish talk_did_you_have_pets_dc10b7f1:
 
     # extend 4cslsll " I don't know why."
-    extend 4cslsll ""
+    extend 4cslsll "No sé por qué."
 
 # game/script-topics.rpy:758
 translate spanish talk_did_you_have_pets_5448af30:
 
     # n 6fcsgsl "B-{w=0.2}but that's not to say that they {i}can't{/i} be cute,{w=0.1} obviously!{w=0.75}{nw}"
-    n 6fcsgsl ""
+    n 6fcsgsl "P-{w=0.2}Pero eso no quiere decir que no {i}puedan{/i} ser lindas, {w=0.1}¡obviamente! {w=0.75}{nw}"
 
 # game/script-topics.rpy:759
 translate spanish talk_did_you_have_pets_13893694:
 
     # extend 3flrpo " Making that kind of assumption is just being ignorant."
-    extend 3flrpo ""
+    extend 3flrpo "Hacer ese tipo de suposición es simplemente ignorancia."
 
 # game/script-topics.rpy:760
 translate spanish talk_did_you_have_pets_9bec21e1:
 
     # n 3ksrpo "...And they deserve care just like any other pet."
-    n 3ksrpo ""
+    n 3ksrpo "... Y merecen cuidado como cualquier otra mascota."
 
 # game/script-topics.rpy:763
 translate spanish talk_did_you_have_pets_72f28a6d:
 
     # n 1fcsaj "Besides,{w=0.2} [player] -{w=0.5}{nw}"
-    n 1fcsaj ""
+    n 1fcsaj "Además, {w=0.2}[player]... {w=0.5}{nw}"
 
 # game/script-topics.rpy:764
 translate spanish talk_did_you_have_pets_43cc2cf2:
 
     # extend 4ccsca " you know what you signed up for."
-    extend 4ccsca ""
+    extend 4ccsca "sabes en lo que te metiste."
 
 # game/script-topics.rpy:765
 translate spanish talk_did_you_have_pets_e6f0fa47:
 
     # n 3fchgn "You can't {i}shed{/i} your responsibilities that easily!{w=0.75}{nw}"
-    n 3fchgn ""
+    n 3fchgn "¡No puedes {i}deshacerte{/i} de tus responsabilidades tan fácilmente! {w=0.75}{nw}"
 
 # game/script-topics.rpy:766
 translate spanish talk_did_you_have_pets_ce1ed91e:
 
     # extend 3nchgn " Ehehe."
-    extend 3nchgn ""
+    extend 3nchgn "Ehehe."
 
 # game/script-topics.rpy:769
 translate spanish talk_did_you_have_pets_27cc23a3_1:
 
     # n 3fchbll "Love you too,{w=0.2} [player]~!"
-    n 3fchbll ""
+    n 3fchbll "¡Yo también te amo, {w=0.2}[player]~!"
 
 # game/script-topics.rpy:772
 translate spanish talk_did_you_have_pets_6c94b7e7:
 
     # n 4flraj "So!{w=0.75}{nw}"
-    n 4flraj ""
+    n 4flraj "¡Así que! {w=0.75}{nw}"
 
 # game/script-topics.rpy:773
 translate spanish talk_did_you_have_pets_21fbce62:
 
     # extend 3fcsposbr " You better not be flaking out on yours,{w=0.2} [player]!"
-    extend 3fcsposbr ""
+    extend 3fcsposbr "¡Será mejor que no descuides el tuyo, {w=0.2}[player]!"
 
 # game/script-topics.rpy:774
 translate spanish talk_did_you_have_pets_d351a176:
 
     # n 3fcscaesmsbr "That's all I'm saying!"
-    n 3fcscaesmsbr ""
+    n 3fcscaesmsbr "¡Eso es todo lo que digo!"
 
 # game/script-topics.rpy:777
 translate spanish talk_did_you_have_pets_8462ef34:
 
     # n 4tsqbg "Oho?{w=0.75}{nw}"
-    n 4tsqbg ""
+    n 4tsqbg "¿Oho? {w=0.75}{nw}"
 
 # game/script-topics.rpy:778
 translate spanish talk_did_you_have_pets_14386f45:
 
     # extend 3tnmbg " An exotic owner,{w=0.2} are we?"
-    extend 3tnmbg ""
+    extend 3tnmbg "¿Un dueño exótica, {w=0.2}eh?"
 
 # game/script-topics.rpy:779
 translate spanish talk_did_you_have_pets_5a56858d:
 
     # n 3fcsbg "...And why's that,{w=0.2} [player]?{w=0.75}{nw}"
-    n 3fcsbg ""
+    n 3fcsbg "... ¿Y eso por qué, {w=0.2}[player]? {w=0.75}{nw}"
 
 # game/script-topics.rpy:780
 translate spanish talk_did_you_have_pets_66dd44c9:
 
     # extend 3fsqss " Regular pets just aren't {i}special{/i} enough for you?{w=0.75}{nw}"
-    extend 3fsqss ""
+    extend 3fsqss "¿Las mascotas normales simplemente no son lo suficientemente {i}especiales{/i} para ti? {w=0.75}{nw}"
 
 # game/script-topics.rpy:781
 translate spanish talk_did_you_have_pets_8f8aa07c:
 
     # extend 3fupfl " You just {i}had{/i} to stand out?"
-    extend 3fupfl ""
+    extend 3fupfl "¿Simplemente {i}tenías{/i} que destacar?"
 
 # game/script-topics.rpy:782
 translate spanish talk_did_you_have_pets_acced036_2:
 
     # n 3fsqsm "..."
-    n 3fsqsm ""
+    n 3fsqsm "..."
 
 # game/script-topics.rpy:783
 translate spanish talk_did_you_have_pets_0ace5ec5:
 
     # n 4fnmsm "Well?{w=0.75}{nw}"
-    n 4fnmsm ""
+    n 4fnmsm "¿Y bien? {w=0.75}{nw}"
 
 # game/script-topics.rpy:784
 translate spanish talk_did_you_have_pets_086b7b4c:
 
     # extend 2fcsbs " Spit it out!"
-    extend 2fcsbs ""
+    extend 2fcsbs "¡Suéltalo!"
 
 # game/script-topics.rpy:785
 translate spanish talk_did_you_have_pets_d99f8e39:
 
     # n 2fsqcs "..."
-    n 2fsqcs ""
+    n 2fsqcs "..."
 
 # game/script-topics.rpy:786
 translate spanish talk_did_you_have_pets_effa794f:
 
     # n 2nchgn "Ahaha.{w=0.75}{nw}"
-    n 2nchgn ""
+    n 2nchgn "Ahaha. {w=0.75}{nw}"
 
 # game/script-topics.rpy:787
 translate spanish talk_did_you_have_pets_19a79dca:
 
     # extend 2cllss " Nah,{w=0.2} I guess that's fine.{w=0.75}{nw}"
-    extend 2cllss ""
+    extend 2cllss "Nah, {w=0.2}supongo que está bien. {w=0.75}{nw}"
 
 # game/script-topics.rpy:788
 translate spanish talk_did_you_have_pets_02b8274d:
 
     # extend 2tnmaj " In all seriousness though,{w=0.2} [player]?"
-    extend 2tnmaj ""
+    extend 2tnmaj " Hablando en serio, {w=0.2}[player]?"
 
 # game/script-topics.rpy:789
 translate spanish talk_did_you_have_pets_2ad7125e:
 
     # n 2clrca "..."
-    n 2clrca ""
+    n 2clrca "..."
 
 # game/script-topics.rpy:790
 translate spanish talk_did_you_have_pets_8ccd5603:
 
     # n 4ccstr "Just...{w=1}{nw}"
-    n 4ccstr ""
+    n 4ccstr "Solo... {w=1}{nw}"
 
 # game/script-topics.rpy:791
 translate spanish talk_did_you_have_pets_4ee678b0:
 
     # extend 4csqsl " make sure you know what you're doing.{w=0.75}{nw}"
-    extend 4csqsl ""
+    extend 4csqsl "asegúrate de saber lo que estás haciendo. {w=0.75}{nw}"
 
 # game/script-topics.rpy:792
 translate spanish talk_did_you_have_pets_1a1d8a3c:
 
     # extend 4csqaj " Capiche?"
-    extend 4csqaj ""
+    extend 4csqaj "¿Capice?"
 
 # game/script-topics.rpy:795
 translate spanish talk_did_you_have_pets_b4292e70:
 
     # n 1unmemlsbl "I-{w=0.2}it's not that I think you're automatically a bad owner or anything!{w=0.75}{nw}"
-    n 1unmemlsbl ""
+    n 1unmemlsbl "N-{w=0.2}No es que piense automáticamente que eres una mala dueña o algo así. {w=0.75}{nw}"
 
 # game/script-topics.rpy:796
 translate spanish talk_did_you_have_pets_a3add324:
 
     # extend 2fcsemlsbl "\nOf course not!"
-    extend 2fcsemlsbl ""
+    extend 2fcsemlsbl "\n¡Claro que no!"
 
 # game/script-topics.rpy:797
 translate spanish talk_did_you_have_pets_9c100741:
 
     # n 2fcspol "Only a {i}real{/i} dummy just jumps to those kinds of assumptions.{w=1}{nw}"
-    n 2fcspol ""
+    n 2fcspol "Solo un tonto {i}de verdad{/i} salta a ese tipo de suposiciones. {w=1}{nw}"
 
 # game/script-topics.rpy:798
 translate spanish talk_did_you_have_pets_e1992c1c:
 
     # extend 4csrbol " But..."
-    extend 4csrbol ""
+    extend 4csrbol "Pero..."
 
 # game/script-topics.rpy:799
 translate spanish talk_did_you_have_pets_f5306740:
 
     # n 3ccsajl "I {i}have{/i} heard about how demanding they can be.{w=0.75}{nw}"
-    n 3ccsajl ""
+    n 3ccsajl "He {i}escuchado{/i} lo exigentes que pueden ser. {w=0.75}{nw}"
 
 # game/script-topics.rpy:800
 translate spanish talk_did_you_have_pets_d6850124:
 
     # extend 3csqbo " And trust me."
-    extend 3csqbo ""
+    extend 3csqbo "Y créeme."
 
 # game/script-topics.rpy:801
 translate spanish talk_did_you_have_pets_6c76fabe:
 
     # n 4fcssslsbl "You really don't want {i}my{/i} demands on top of that too.{w=0.75}{nw}"
-    n 4fcssslsbl ""
+    n 4fcssslsbl "Realmente tampoco quieres {i}mis{/i} exigencias además de eso. {w=0.75}{nw}"
 
 # game/script-topics.rpy:802
 translate spanish talk_did_you_have_pets_55f5a747:
 
     # extend 4fsqsml " Ehehe."
-    extend 4fsqsml ""
+    extend 4fsqsml "Ehehe."
 
 # game/script-topics.rpy:805
 translate spanish talk_did_you_have_pets_27cc23a3_2:
 
     # n 3fchbll "Love you too,{w=0.2} [player]~!"
-    n 3fchbll ""
+    n 3fchbll "¡Yo también te quiero, {w=0.2}[player]~!"
 
 # game/script-topics.rpy:808
 translate spanish talk_did_you_have_pets_d26f5c82:
 
     # n 6fwlbgl "Enjoy,{w=0.2} [player]!"
-    n 6fwlbgl ""
+    n 6fwlbgl "¡Disfruta, {w=0.2}[player]!"
 
 # game/script-topics.rpy:811
 translate spanish talk_did_you_have_pets_7f7b412b:
 
     # n 6ccsajlsbr "Y-{w=0.2}you owe the animal {i}that{/i} much,{w=0.2} after all.{w=0.75}{nw}"
-    n 6ccsajlsbr ""
+    n 6ccsajlsbr "Y-{w=0.2}Y le debes al animal {i}eso{/i}, {w=0.2}después de todo. {w=0.75}{nw}"
 
 # game/script-topics.rpy:812
 translate spanish talk_did_you_have_pets_ae7f592d:
 
     # extend 3fcscalesm " Remember that."
-    extend 3fcscalesm ""
+    extend 3fcscalesm "Recuerda eso."
 
 # game/script-topics.rpy:835
 translate spanish talk_service_animals_891c1d35:
 
     # n 4ncsss "Heh.{w=0.75}{nw}"
-    n 4ncsss ""
+    n 4ncsss "Jeje. {w=0.75}{nw}"
 
 # game/script-topics.rpy:836
 translate spanish talk_service_animals_1ebd4976:
 
     # extend 3nslss " Man..."
-    extend 3nslss ""
+    extend 3nslss "Vaya..."
 
 # game/script-topics.rpy:837
 translate spanish talk_service_animals_2126a497:
 
     # n 7ntlaj "I'm pretty sure I talked about it before,{w=0.75}{nw}"
-    n 7ntlaj ""
+    n 7ntlaj "Estoy bastante segura de que hablé de eso antes, {w=0.75}{nw}"
 
 # game/script-topics.rpy:838
 translate spanish talk_service_animals_e2508714:
 
     # extend 7unmbo " but I still can't get my mind off that school visit we had."
-    extend 7unmbo ""
+    extend 7unmbo "pero todavía no me quito de la cabeza esa visita escolar que tuvimos."
 
 # game/script-topics.rpy:839
 translate spanish talk_service_animals_dca07641:
 
     # n 4fsrsssbl "N-{w=0.2}not the careers advice or anything like that.{w=0.75}{nw}"
-    n 4fsrsssbl ""
+    n 4fsrsssbl "N-{w=0.2}No los consejos de carrera ni nada de eso. {w=0.75}{nw}"
 
 # game/script-topics.rpy:840
 translate spanish talk_service_animals_e4cbfa68:
 
     # extend 4unmaj " But that visit we had from the charity for service and therapy animals!"
-    extend 4unmaj ""
+    extend 4unmaj "¡Sino esa visita que tuvimos de la organización benéfica para animales de servicio y terapia!"
 
 # game/script-topics.rpy:841
 translate spanish talk_service_animals_68690c87:
 
     # n 3fchbg "Talk about making an impression,{w=0.2} huh?"
-    n 3fchbg ""
+    n 3fchbg "Hablando de causar impresión, {w=0.2}¿eh?"
 
 # game/script-topics.rpy:842
 translate spanish talk_service_animals_59d448f8:
 
     # n 3ulraj "Seriously though -{w=0.5}{nw}"
-    n 3ulraj ""
+    n 3ulraj "Hablando en serio... {w=0.5}{nw}"
 
 # game/script-topics.rpy:843
 translate spanish talk_service_animals_7d4df5e5:
 
     # extend 4unmfl " it's crazy how much work they do!{w=0.75}{nw}"
-    extend 4unmfl ""
+    extend 4unmfl "¡es increíble la cantidad de trabajo que hacen! {w=0.75}{nw}"
 
 # game/script-topics.rpy:844
 translate spanish talk_service_animals_7272173d:
 
     # extend 4tllfl " Like I was saying before..."
-    extend 4tllfl ""
+    extend 4tllfl "Como decía antes..."
 
 # game/script-topics.rpy:847
 translate spanish talk_service_animals_c29bc6e2:
 
     # n 1ncssl "Heh.{w=0.75}{nw}"
-    n 1ncssl ""
+    n 1ncssl "Jeje. {w=0.75}{nw}"
 
 # game/script-topics.rpy:848
 translate spanish talk_service_animals_c879eb44:
 
     # extend 2nlraj " I'm pretty sure I talked about it before -{w=0.5}{nw}"
-    extend 2nlraj ""
+    extend 2nlraj "Estoy bastante segura de que hablé de eso antes... {w=0.5}{nw}"
 
 # game/script-topics.rpy:849
 translate spanish talk_service_animals_01653064:
 
     # extend 2csqsl " if you were even {i}listening{/i} -{w=0.5}{nw}"
-    extend 2csqsl ""
+    extend 2csqsl "si es que siquiera {i}escuchaste{/i}... {w=0.5}{nw}"
 
 # game/script-topics.rpy:850
 translate spanish talk_service_animals_75c71e6b:
 
     # extend 2clrpu " but I still keep thinking back about that school visit we had."
-    extend 2clrpu ""
+    extend 2clrpu "pero todavía sigo pensando en esa visita escolar que tuvimos."
 
 # game/script-topics.rpy:851
 translate spanish talk_service_animals_8feb7ff6:
 
     # n 1fsqfl "...And no,{w=0.5}{nw}"
-    n 1fsqfl ""
+    n 1fsqfl "... Y no, {w=0.5}{nw}"
 
 # game/script-topics.rpy:852
 translate spanish talk_service_animals_65470b5f:
 
     # extend 4ccsfl " none of the career ones or anything like that."
-    extend 4ccsfl ""
+    extend 4ccsfl "ninguna de las de carrera ni nada de eso."
 
 # game/script-topics.rpy:853
 translate spanish talk_service_animals_2e8f2a8c:
 
-    # n 4cdlbo "I was actually thinking about that charity with the service and therapy animals.{w=0.75}{nw}"
-    n 4cdlbo ""
+    # n 4cdlbo "I was actually thinking about that charity with the service and therapy animals.{w=0.
+    n 4cdlbo "En realidad estaba pensando en esa organización benéfica con los animales de servicio y terapia. {w=0.}
 
 # game/script-topics.rpy:854
 translate spanish talk_service_animals_c5a4e787:
