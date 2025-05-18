@@ -2068,7 +2068,7 @@ translate spanish greeting_tt_warning_12732af9:
 translate spanish greeting_tt_warning_7fb6f257:
 
     # extend 3fsqwr " I {i}know{/i} you hear me."
-    extend 3fsqwr {i}Sé{/i} que me escuchas."
+    extend 3fsqwr "{i}Sé{/i} que me escuchas."
 
 # game/script-greetings.rpy:637
 translate spanish greeting_tt_warning_4950137a:
@@ -2146,7 +2146,7 @@ translate spanish greeting_tt_warning_bdc31898:
 translate spanish greeting_tt_warning_5579633e:
 
     # n 4fcsupltsa "Nnnnnrrgh-!{w=0.5}{nw}"
-    n 4fcsupltsa ¡Nnnnnrrgh-{w=0.5}!{nw}"
+    n 4fcsupltsa "¡Nnnnnrrgh-{w=0.5}!{nw}"
 
 # game/script-greetings.rpy:664
 translate spanish greeting_tt_warning_a430b438:
