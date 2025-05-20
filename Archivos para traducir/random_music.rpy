@@ -136,7 +136,7 @@ translate spanish random_music_enable_bfebd061:
 translate spanish random_music_enable_db8332ca:
 
     # n 3uchbg "Just add them to the custom music folder,{w=0.1} [chosen_tease]!"
-    n 3uchbg "¡Sólo agregalos a la carpeta 'custom music',{w=0.1} [chosen_tease]!""
+    n 3uchbg "¡Sólo agregalos a la carpeta 'custom music',{w=0.1} [chosen_tease]!"
 
 # game/random_music.rpy:167
 translate spanish random_music_disable_db4f8394:
