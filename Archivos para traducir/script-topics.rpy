@@ -3460,13 +3460,13 @@ translate spanish talk_service_animals_c2eab286:
 translate spanish talk_service_animals_a0c1cdae:
 
     # n 3nchgn "Pretty awesome,{w=0.2} right?{w=0.75}{nw}"
-    n 3nchgn "Bastante increíble, {w=0.2}¿verdad?{w=0.75}{nw}"
+    n 3nchgn "Bastante increíble, {w=0.2}¿verdad? {w=0.75}{nw}"
 
 # game/script-topics.rpy:927
 translate spanish talk_service_animals_60abc835:
 
     # extend 3clrsm " Ehehe..."
-    extend 3clrsm " Jejeje..."
+    extend 3clrsm "Jejeje..."
 
 # game/script-topics.rpy:928
 translate spanish talk_service_animals_c8557b86:
@@ -3490,49 +3490,49 @@ translate spanish talk_service_animals_060dd1fd:
 translate spanish talk_service_animals_91248ef9:
 
     # n 4kllbo "It...{w=1}{nw}"
-    n 4kllbo "Simplemente...{w=1}{nw}"
+    n 4kllbo "Simplemente... {w=1}{nw}"
 
 # game/script-topics.rpy:932
 translate spanish talk_service_animals_bd5c5194:
 
     # extend 4kslbo " just sucks sometimes,{w=0.2} thinking about it now.{w=0.75}{nw}"
-    extend 4kslbo " apesta a veces, {w=0.2}pensándolo ahora.{w=0.75}{nw}"
+    extend 4kslbo "apesta a veces, {w=0.2}pensándolo ahora. {w=0.75}{nw}"
 
 # game/script-topics.rpy:933
 translate spanish talk_service_animals_93053704:
 
     # extend 4knmbol " You know?"
-    extend 4knmbol " ¿Sabes?"
+    extend 4knmbol "¿Sabes?"
 
 # game/script-topics.rpy:934
 translate spanish talk_service_animals_e23c1eaf:
 
     # n 5cslcal "...W-{w=0.2}with Sayori and all."
-    n 5cslcal "...C-{w=0.2}con Sayori y todo."
+    n 5cslcal "... C-{w=0.2}Con Sayori y todo."
 
 # game/script-topics.rpy:935
 translate spanish talk_service_animals_04aab53a:
 
     # n 5cslfll "She...{w=1}{nw}"
-    n 5cslfll "Ella...{w=1}{nw}"
+    n 5cslfll "Ella... {w=1}{nw}"
 
 # game/script-topics.rpy:936
 translate spanish talk_service_animals_2e4ba31c:
 
     # extend 4cdlbol " wasn't around that day we had the visit.{w=0.75}{nw}"
-    extend 4cdlbol " no estuvo ese día que tuvimos la visita.{w=0.75}{nw}"
+    extend 4cdlbol "no estuvo ese día que tuvimos la visita. {w=0.75}{nw}"
 
 # game/script-topics.rpy:937
 translate spanish talk_service_animals_accbedeb:
 
     # extend 4cslbol " Doesn't exactly take a genius to figure out why."
-    extend 4cslbol " No hace falta ser un genio para saber por qué."
+    extend 4cslbol "No hace falta ser un genio para saber por qué."
 
 # game/script-topics.rpy:938
 translate spanish talk_service_animals_082ec4f7:
 
     # n 2ccsfllsbl "I-{w=0.2}it's just that..."
-    n 2ccsfllsbl "Es que...{w=0.2}es solo que..."
+    n 2ccsfllsbl "E-{w=0.2}Es solo que..."
 
 # game/script-topics.rpy:941
 translate spanish talk_service_animals_dc7e9693:
@@ -3544,37 +3544,37 @@ translate spanish talk_service_animals_dc7e9693:
 translate spanish talk_service_animals_dd9afb37:
 
     # n 2ksrfllsbr "I can't help but think if just having one around could have {i}done{/i} something for her.{w=0.75}{nw}"
-    n 2ksrfllsbr "No puedo evitar pensar si tener uno cerca podría haber {i}hecho{/i} algo por ella.{w=0.75}{nw}"
+    n 2ksrfllsbr "No puedo evitar pensar si tener uno cerca podría haber {i}hecho{/i} algo por ella. {w=0.75}{nw}"
 
 # game/script-topics.rpy:943
 translate spanish talk_service_animals_d31ca038:
 
     # extend 5knmbolsbr " One of those support animals."
-    extend 5knmbolsbr " Uno de esos animales de apoyo."
+    extend 5knmbolsbr "Uno de esos animales de apoyo."
 
 # game/script-topics.rpy:944
 translate spanish talk_service_animals_9ecadfcf:
 
     # n 4ccsemlsbr "I...{w=1}{nw}"
-    n 4ccsemlsbr "Yo...{w=1}{nw}"
+    n 4ccsemlsbr "Yo... {w=1}{nw}"
 
 # game/script-topics.rpy:945
 translate spanish talk_service_animals_adebb1a6:
 
     # extend 4ccsfllsbr " know...{w=1}{nw}"
-    extend 4ccsfllsbr " sé...{w=1}{nw}"
+    extend 4ccsfllsbr "lo sé... {w=1}{nw}"
 
 # game/script-topics.rpy:946
 translate spanish talk_service_animals_438e7ff6:
 
     # extend 4cdlbolsbr " they can't work miracles.{w=0.75}{nw}"
-    extend 4cdlbolsbr " no pueden hacer milagros.{w=0.75}{nw}"
+    extend 4cdlbolsbr "no pueden hacer milagros. {w=0.75}{nw}"
 
 # game/script-topics.rpy:947
 translate spanish talk_service_animals_9399a288:
 
     # extend 2ccssrlsbr " I-{w=0.2}I'm not {i}naive{/i}."
-    extend 2ccssrlsbr " Yo-{w=0.2}no soy {i}ingenua{/i}."
+    extend 2ccssrlsbr "Y-{w=0.2}Yo no soy {i}ingenua{/i}."
 
 # game/script-topics.rpy:948
 translate spanish talk_service_animals_677f491d:
@@ -3586,19 +3586,19 @@ translate spanish talk_service_animals_677f491d:
 translate spanish talk_service_animals_b3127c91:
 
     # n 4kslfllsbr "It would have been something...{w=1}{nw}"
-    n 4kslfllsbr "Hubiera sido algo...{w=1}{nw}"
+    n 4kslfllsbr "Hubiera sido algo... {w=1}{nw}"
 
 # game/script-topics.rpy:950
 translate spanish talk_service_animals_76e297f4:
 
     # extend 5knmbolsbr " right?"
-    extend 5knmbolsbr " ¿verdad?"
+    extend 5knmbolsbr "¿verdad?"
 
 # game/script-topics.rpy:951
 translate spanish talk_service_animals_9079260a:
 
     # n 5ksrbolsbr "...Maybe just that one thing could have made {i}some{/i} sort of difference."
-    n 5ksrbolsbr "...Quizás solo esa cosa podría haber marcado {i}algún{/i} tipo de diferencia."
+    n 5ksrbolsbr "... Quizás solo esa cosa podría haber marcado {i}algún{/i} tipo de diferencia."
 
 # game/script-topics.rpy:952
 translate spanish talk_service_animals_da6ee7e0:
@@ -3610,7 +3610,7 @@ translate spanish talk_service_animals_da6ee7e0:
 translate spanish talk_service_animals_deff0b04:
 
     # n 3ccsfllsbl "...A-{w=0.2}anyway."
-    n 3ccsfllsbl "...E-{w=0.2}en fin."
+    n 3ccsfllsbl "... E-{w=0.2}En fin."
 
 # game/script-topics.rpy:956
 translate spanish talk_service_animals_c47c1ca7:
@@ -3622,25 +3622,25 @@ translate spanish talk_service_animals_c47c1ca7:
 translate spanish talk_service_animals_ef4ab647:
 
     # n 4ccsemlsbl "...N-{w=0.2}nevermind.{w=0.75}{nw}"
-    n 4ccsemlsbl "...O-{w=0.2}olvídalo.{w=0.75}{nw}"
+    n 4ccsemlsbl "... O-{w=0.2}Olvídalo. {w=0.75}{nw}"
 
 # game/script-topics.rpy:958
 translate spanish talk_service_animals_34ba3d21:
 
     # extend 2cllfllsbl " It's..."
-    extend 2cllfllsbl " Es..."
+    extend 2cllfllsbl "Es..."
 
 # game/script-topics.rpy:959
 translate spanish talk_service_animals_e88914e2:
 
     # n 2cdlsllsbr "...Not really something I wanna think about right now."
-    n 2cdlsllsbr "...No es algo en lo que quiera pensar ahora mismo."
+    n 2cdlsllsbr "... No es algo en lo que quiera pensar ahora mismo."
 
 # game/script-topics.rpy:960
 translate spanish talk_service_animals_fc98907f:
 
     # n 2nslbolsbr "S-{w=0.2}sorry."
-    n 2nslbolsbr "P-{w=0.2}perdón."
+    n 2nslbolsbr "P-{w=0.2}Perdón."
 
 # game/script-topics.rpy:961
 translate spanish talk_service_animals_c11b41ce:
@@ -3652,19 +3652,19 @@ translate spanish talk_service_animals_c11b41ce:
 translate spanish talk_service_animals_98345cca:
 
     # n 4ccsajl "A-{w=0.2}anyway."
-    n 4ccsajl "E-{w=0.2}en fin."
+    n 4ccsajl "E-{w=0.2}En fin."
 
 # game/script-topics.rpy:965
 translate spanish talk_service_animals_a0c1cdae_1:
 
     # n 3nchgn "Pretty awesome,{w=0.2} right?{w=0.75}{nw}"
-    n 3nchgn "Bastante increíble, {w=0.2}¿verdad?{w=0.75}{nw}"
+    n 3nchgn "Bastante increíble, {w=0.2}¿verdad? {w=0.75}{nw}"
 
 # game/script-topics.rpy:966
 translate spanish talk_service_animals_849deea0:
 
     # extend 3fchsm " Ehehe."
-    extend 3fchsm " Jeje."
+    extend 3fchsm "Jeje."
 
 # game/script-topics.rpy:967
 translate spanish talk_service_animals_50ca4d7c:
@@ -3676,13 +3676,13 @@ translate spanish talk_service_animals_50ca4d7c:
 translate spanish talk_service_animals_8589f78a:
 
     # n 3ulrbo "It wasn't a super big visit or anything,{w=0.5}{nw}"
-    n 3ulrbo "No fue una visita muy grande ni nada,{w=0.5}{nw}"
+    n 3ulrbo "No fue una visita muy grande ni nada, {w=0.5}{nw}"
 
 # game/script-topics.rpy:970
 translate spanish talk_service_animals_5e3fb253:
 
     # extend 3csrss " so the volunteers didn't stick around for {i}that{/i} long..."
-    extend 3csrss " así que los voluntarios no se quedaron {i}tanto{/i} tiempo..."
+    extend 3csrss "así que los voluntarios no se quedaron {i}tanto{/i} tiempo..."
 
 # game/script-topics.rpy:971
 translate spanish talk_service_animals_d39fa54f:
@@ -3694,13 +3694,13 @@ translate spanish talk_service_animals_d39fa54f:
 translate spanish talk_service_animals_c44b9f9f:
 
     # n 3fcssmesm "No surprises who got picked to go up first.{w=0.75}{nw}"
-    n 3fcssmesm "No es de extrañar quién fue el primero en acercarse.{w=0.75}{nw}"
+    n 3fcssmesm "No es de extrañar quién fue el primero en acercarse. {w=0.75}{nw}"
 
 # game/script-topics.rpy:973
 translate spanish talk_service_animals_7aeb3a8c:
 
     # extend 3fsqsm " Ehehe."
-    extend 3fsqsm " Jeje."
+    extend 3fsqsm "Jeje."
 
 # game/script-topics.rpy:974
 translate spanish talk_service_animals_980f6327:
@@ -3712,7 +3712,7 @@ translate spanish talk_service_animals_980f6327:
 translate spanish talk_service_animals_f2cae03f:
 
     # n 2ullbg "When it comes to those kinds of animals,{w=0.2} it's gotta be said.{w=0.75}{nw}"
-    n 2ullbg "Cuando se trata de ese tipo de animales,{w=0.2} hay que decirlo.{w=0.75}{nw}"
+    n 2ullbg "Cuando se trata de ese tipo de animales, {w=0.2}hay que decirlo.{w=0.75}{nw}"
 
 # game/script-topics.rpy:976
 translate spanish talk_service_animals_019aa08c:
@@ -3724,25 +3724,25 @@ translate spanish talk_service_animals_019aa08c:
 translate spanish talk_service_animals_1008c755:
 
     # n 2fchsm "Ahaha.{w=0.75}{nw}"
-    n 2fchsm "Ajaja.{w=0.75}{nw}"
+    n 2fchsm "Ajaja. {w=0.75}{nw}"
 
 # game/script-topics.rpy:978
 translate spanish talk_service_animals_b56ed2ee:
 
     # extend 2tllss " Well,{w=0.2} anyway."
-    extend 2tllss " Bueno, {w=0.2}en fin."
+    extend 2tllss "Bueno, {w=0.2}en fin."
 
 # game/script-topics.rpy:979
 translate spanish talk_service_animals_ee9e2d86:
 
     # n 4ullaj "I think I've gone on for way too long already,{w=0.5}{nw}"
-    n 4ullaj "Creo que ya me extendí demasiado,{w=0.5}{nw}"
+    n 4ullaj "Creo que ya me extendí demasiado, {w=0.5}{nw}"
 
 # game/script-topics.rpy:980
 translate spanish talk_service_animals_b1c2fb3b:
 
     # extend 6fcssmesm " but I hope you learned something,{w=0.2} [player]!"
-    extend 6fcssmesm " ¡pero espero que hayas aprendido algo, {w=0.2}[player]!"
+    extend 6fcssmesm "¡pero espero que hayas aprendido algo, {w=0.2}[player]!"
 
 # game/script-topics.rpy:981
 translate spanish talk_service_animals_22f2d7e6:
@@ -3754,25 +3754,25 @@ translate spanish talk_service_animals_22f2d7e6:
 translate spanish talk_service_animals_98f9e81f:
 
     # n 4fcsss "Heh.{w=0.75}{nw}"
-    n 4fcsss "Jeje.{w=0.75}{nw}"
+    n 4fcsss "Jeje. {w=0.75}{nw}"
 
 # game/script-topics.rpy:983
 translate spanish talk_service_animals_8a2feee3:
 
     # extend 4tllss " Well..."
-    extend 4tllss " Bueno..."
+    extend 4tllss "Bueno..."
 
 # game/script-topics.rpy:984
 translate spanish talk_service_animals_140cbd8c:
 
     # n 7tsqss "You're an animal too,{w=0.2} right?{w=0.75}{nw}"
-    n 7tsqss "Tú también eres un animal, {w=0.2}¿verdad?{w=0.75}{nw}"
+    n 7tsqss "Tú también eres un animal, {w=0.2}¿verdad? {w=0.75}{nw}"
 
 # game/script-topics.rpy:985
 translate spanish talk_service_animals_8047698d:
 
     # extend 7fcssm " Don't sweat it too much,{w=0.2} [player]..."
-    extend 7fcssm " No te preocupes demasiado, {w=0.2}[player]..."
+    extend 7fcssm "No te preocupes demasiado, {w=0.2}[player]..."
 
 # game/script-topics.rpy:986
 translate spanish talk_service_animals_f8dcf8b6:
@@ -3784,7 +3784,7 @@ translate spanish talk_service_animals_f8dcf8b6:
 translate spanish talk_service_animals_79677818:
 
     # n 3fchbll "Love you too,{w=0.2} [chosen_tease]~!"
-    n 3fchbll "¡Yo también te quiero, {w=0.2}[chosen_tease]~!"
+    n 3fchbll "¡Yo también te amo, {w=0.2}[chosen_tease]~!"
 
 # game/script-topics.rpy:993
 translate spanish talk_service_animals_0801353e:
@@ -3796,61 +3796,61 @@ translate spanish talk_service_animals_0801353e:
 translate spanish talk_service_animals_ef81b125:
 
     # n 7tllbo "They're like animals specially trained to help people with stuff they couldn't do normally -{w=0.5}{nw}"
-    n 7tllbo "Son como animales especialmente entrenados para ayudar a personas con cosas que no podrían hacer normalmente -{w=0.5}{nw}"
+    n 7tllbo "Son como animales especialmente entrenados para ayudar a personas con cosas que no podrían hacer normalmente- {w=0.5}{nw}"
 
 # game/script-topics.rpy:997
 translate spanish talk_service_animals_d2b61053:
 
     # extend 7cllpu " or at all."
-    extend 7cllpu " o en absoluto."
+    extend 7cllpu "o en absoluto."
 
 # game/script-topics.rpy:998
 translate spanish talk_service_animals_0a3e6de0:
 
     # n 2csqsl "Yeah,{w=0.2} no kidding.{w=0.75}{nw}"
-    n 2csqsl "Sí, {w=0.2}no es broma.{w=0.75}{nw}"
+    n 2csqsl "Sí, {w=0.2}no es broma. {w=0.75}{nw}"
 
 # game/script-topics.rpy:999
 translate spanish talk_service_animals_cc2aa0ea:
 
     # extend 2clrfl " Everyone's heard of guide dogs.{w=1}{nw}"
-    extend 2clrfl " Todo el mundo ha oído hablar de los perros guía.{w=1}{nw}"
+    extend 2clrfl "Todo el mundo ha oído hablar de los perros guía. {w=1}{nw}"
 
 # game/script-topics.rpy:1000
 translate spanish talk_service_animals_10a01a84:
 
     # extend 2fcsca " But people forget all the other stuff trained up animals can help out with."
-    extend 2fcsca " Pero la gente olvida todas las otras cosas en las que los animales entrenados pueden ayudar."
+    extend 2fcsca "Pero la gente olvida todas las otras cosas en las que los animales entrenados pueden ayudar."
 
 # game/script-topics.rpy:1001
 translate spanish talk_service_animals_28a3b1b4:
 
     # n 4clltr "Mobility,{w=0.2} hearing issues...{w=1}{nw}"
-    n 4clltr "Movilidad,{w=0.2} problemas de audición...{w=1}{nw}"
+    n 4clltr "Movilidad, {w=0.2}problemas de audición... {w=1}{nw}"
 
 # game/script-topics.rpy:1002
 translate spanish talk_service_animals_5b7e1ec0:
 
     # extend 4cllca " medical conditions and allergies too,{w=0.2} actually."
-    extend 4cllca " condiciones médicas y alergias también, {w=0.2}de hecho."
+    extend 4cllca "condiciones médicas y alergias también, {w=0.2}de hecho."
 
 # game/script-topics.rpy:1003
 translate spanish talk_service_animals_16f2c666:
 
     # n 2cslaj "I suppose that kind of animal help is cool and all.{w=0.75}{nw}"
-    n 2cslaj "Supongo que ese tipo de ayuda animal es genial y todo.{w=0.75}{nw}"
+    n 2cslaj "Supongo que ese tipo de ayuda animal es genial y todo. {w=0.75}{nw}"
 
 # game/script-topics.rpy:1004
 translate spanish talk_service_animals_e223e954:
 
     # extend 2cnmsl " But what really stuck out to me were the therapy and emotional support animals.{w=0.75}{nw}"
-    extend 2cnmsl " Pero lo que realmente me llamó la atención fueron los animales de terapia y apoyo emocional.{w=0.75}{nw}"
+    extend 2cnmsl "Pero lo que realmente me llamó la atención fueron los animales de terapia y apoyo emocional. {w=0.75}{nw}"
 
 # game/script-topics.rpy:1005
 translate spanish talk_service_animals_33c3b038:
 
     # extend 2csrfl " Even if they {i}didn't{/i} get as much focus."
-    extend 2csrfl " Incluso si {i}no{/i} recibieron tanta atención."
+    extend 2csrfl "Incluso si {i}no{/i} recibieron tanta atención."
 
 # game/script-topics.rpy:1006
 translate spanish talk_service_animals_98e56ae2:
@@ -3862,31 +3862,31 @@ translate spanish talk_service_animals_98e56ae2:
 translate spanish talk_service_animals_34960da3:
 
     # n 2fcssl "Heh.{w=0.75}{nw}"
-    n 2fcssl "Jeje.{w=0.75}{nw}"
+    n 2fcssl "Jeje. {w=0.75}{nw}"
 
 # game/script-topics.rpy:1008
 translate spanish talk_service_animals_fe4746b3:
 
     # extend 2fsqfr " Ring any bells,{w=0.2} {i}[player]{/i}?"
-    extend 2fsqfr " ¿Te suena, {w=0.2}{i}[player]{/i}?"
+    extend 2fsqfr "¿Te recuerda algo, {w=0.2}{i}[player]{/i}?"
 
 # game/script-topics.rpy:1009
 translate spanish talk_service_animals_fba41229:
 
     # n 2cllfl "You get dogs and cats -{w=0.5}{nw}"
-    n 2cllfl "Tienes perros y gatos -{w=0.5}{nw}"
+    n 2cllfl "Tienes perros y gatos- {w=0.5}{nw}"
 
 # game/script-topics.rpy:1010
 translate spanish talk_service_animals_ec8b47b9:
 
     # extend 2cslfl " obviously -{w=0.5}{nw}"
-    extend 2cslfl " obviamente -{w=0.5}{nw}"
+    extend 2cslfl "obviamente- {w=0.5}{nw}"
 
 # game/script-topics.rpy:1011
 translate spanish talk_service_animals_1dac130c:
 
     # extend 4nlraj " but you can get miniature horses and all sorts too nowadays."
-    extend 4nlraj " pero hoy en día también puedes conseguir caballos en miniatura y todo tipo de cosas."
+    extend 4nlraj "pero hoy en día también puedes conseguir caballos en miniatura y todo tipo de cosas."
 
 # game/script-topics.rpy:1012
 translate spanish talk_service_animals_b8e2da9a:
@@ -3898,61 +3898,61 @@ translate spanish talk_service_animals_b8e2da9a:
 translate spanish talk_service_animals_dd68f8ec:
 
     # n 2cdrbo "Yeah.{w=0.75}{nw}"
-    n 2cdrbo "Sí.{w=0.75}{nw}"
+    n 2cdrbo "Sí. {w=0.75}{nw}"
 
 # game/script-topics.rpy:1014
 translate spanish talk_service_animals_048f6367:
 
     # extend 2cdrsl " That's about all I had to say about it."
-    extend 2cdrsl " Eso es todo lo que tenía que decir al respecto."
+    extend 2cdrsl "Eso es todo lo que tenía que decir al respecto."
 
 # game/script-topics.rpy:1017
 translate spanish talk_service_animals_d56055b4:
 
     # n 1fcssl "Heh.{w=0.75}{nw}"
-    n 1fcssl "Jeje.{w=0.75}{nw}"
+    n 1fcssl "Jeje. {w=0.75}{nw}"
 
 # game/script-topics.rpy:1018
 translate spanish talk_service_animals_f92b7814:
 
     # extend 1fllpu " And besides."
-    extend 1fllpu " Y además."
+    extend 1fllpu "Y además."
 
 # game/script-topics.rpy:1019
 translate spanish talk_service_animals_7529e292:
 
     # n 4fslfl "Not like you listen to much else I say anyway.{w=0.75}{nw}"
-    n 4fslfl "De todos modos, no es como si escucharas mucho más de lo que digo.{w=0.75}{nw}"
+    n 4fslfl "De todos modos, no es como si escucharas mucho más de lo que digo. {w=0.75}{nw}"
 
 # game/script-topics.rpy:1020
 translate spanish talk_service_animals_4e6e4c78:
 
     # extend 4fsqsl " {i}Right{/i}?"
-    extend 4fsqsl " ¿{i}Verdad{/i}?"
+    extend 4fsqsl "¿{i}Verdad{/i}?"
 
 # game/script-topics.rpy:1023
 translate spanish talk_service_animals_e5ee9e19:
 
     # n 1fcsem "Heh.{w=0.75}{nw}"
-    n 1fcsem "Jeje.{w=0.75}{nw}"
+    n 1fcsem "Jeje. {w=0.75}{nw}"
 
 # game/script-topics.rpy:1024
 translate spanish talk_service_animals_6a1c6ac8:
 
     # extend 1fsrem " And besides..."
-    extend 1fsrem " Y además..."
+    extend 1fsrem "Y además..."
 
 # game/script-topics.rpy:1025
 translate spanish talk_service_animals_5cc93350:
 
     # n 4fslsr "I can think of at least {i}one{/i} animal that could use some extra training right now...{w=0.75}{nw}"
-    n 4fslsr "Puedo pensar en al menos {i}un{/i} animal que podría necesitar entrenamiento extra ahora mismo...{w=0.75}{nw}"
+    n 4fslsr "Puedo pensar en al menos {i}un{/i} animal que podría necesitar entrenamiento extra ahora mismo... {w=0.75}{nw}"
 
 # game/script-topics.rpy:1026
 translate spanish talk_service_animals_9b20912e:
 
     # extend 4fsqan " {i}[player].{/i}"
-    extend 4fsqan " {i}[player].{/i}"
+    extend 4fsqan "{i}[player].{/i}"
 
 # game/script-topics.rpy:1049
 translate spanish talk_using_computers_healthily_b9039a66:
@@ -3970,25 +3970,25 @@ translate spanish talk_using_computers_healthily_0c2c4da1:
 translate spanish talk_using_computers_healthily_8c152136:
 
     # n 7tslfl "Say...{w=1}{nw}"
-    n 7tslfl "Oye...{w=1}{nw}"
+    n 7tslfl "Oye... {w=1}{nw}"
 
 # game/script-topics.rpy:1052
 translate spanish talk_using_computers_healthily_c0901978:
 
     # extend 7tnmfl " [player]?{w=0.75}{nw}"
-    extend 7tnmfl " ¿[player]?{w=0.75}{nw}"
+    extend 7tnmfl "¿[player]? {w=0.75}{nw}"
 
 # game/script-topics.rpy:1053
 translate spanish talk_using_computers_healthily_cd789399:
 
     # extend 3unmaj " You got a minute?{w=0.75}{nw}"
-    extend 3unmaj " ¿Tienes un minuto?{w=0.75}{nw}"
+    extend 3unmaj "¿Tienes un minuto? {w=0.75}{nw}"
 
 # game/script-topics.rpy:1054
 translate spanish talk_using_computers_healthily_70cf34cf:
 
     # extend 3tnmbo " I gotta ask you a question."
-    extend 3tnmbo " Tengo que hacerte una pregunta."
+    extend 3tnmbo "Tengo que hacerte una pregunta."
 
 # game/script-topics.rpy:1055
 translate spanish talk_using_computers_healthily_2b3d9283:
@@ -3999,3008 +3999,3008 @@ translate spanish talk_using_computers_healthily_2b3d9283:
 # game/script-topics.rpy:1056
 translate spanish talk_using_computers_healthily_022eeda9:
 
-    # n 7tslaj "So...{w=1}{nw}"
-    n 7tslaj ""
+    # n 7tslaj "So...{w=1}{nw}"
+    n 7tslaj "Así que... {w=1}{nw}"
 
 # game/script-topics.rpy:1057
 translate spanish talk_using_computers_healthily_a651b9f1:
 
-    # extend 7unmaj " you've been visiting me for a while already,{w=0.2} huh?{w=0.75}{nw}"
-    extend 7unmaj ""
+    # extend 7unmaj " you've been visiting me for a while already,{w=0.2} huh?{w=0.75}{nw}"
+    extend 7unmaj "ya llevas un tiempo visitándome, {w=0.2}¿eh? {w=0.75}{nw}"
 
 # game/script-topics.rpy:1058
 translate spanish talk_using_computers_healthily_6a1abe66:
 
-    # extend 3ulrbo " You know,{w=0.2} using your computer and everything."
-    extend 3ulrbo ""
+    # extend 3ulrbo " You know,{w=0.2} using your computer and everything."
+    extend 3ulrbo " Ya sabes, {w=0.2}usando tu computadora y todo."
 
 # game/script-topics.rpy:1059
 translate spanish talk_using_computers_healthily_3f76a283:
 
-    # n 4csrss "And I'm pretty sure I went through how to make sure you aren't just setting yourself up for some major hurt down the line already."
-    n 4csrss ""
+    # n 4csrss "And I'm pretty sure I went through how to make sure you aren't just setting yourself up for some major hurt down the line already."
+    n 4csrss "Y estoy bastante segura de que ya te expliqué cómo asegurarte de no estar preparándote para un gran dolor en el futuro."
 
 # game/script-topics.rpy:1060
 translate spanish talk_using_computers_healthily_2f9e4304:
 
-    # n 4tlraj "But...{w=1}{nw}"
-    n 4tlraj ""
+    # n 4tlraj "But...{w=1}{nw}"
+    n 4tlraj "Pero... {w=1}{nw}"
 
 # game/script-topics.rpy:1061
 translate spanish talk_using_computers_healthily_fdad6365:
 
-    # extend 7tnmaj " I gotta ask."
-    extend 7tnmaj ""
+    # extend 7tnmaj " I gotta ask."
+    extend 7tnmaj "tengo que preguntar."
 
 # game/script-topics.rpy:1062
 translate spanish talk_using_computers_healthily_01acf36b:
 
-    # n 3fnmbg "Just how much of that exactly do you{w=0.3}{nw}"
-    n 3fnmbg ""
+    # n 3fnmbg "Just how much of that exactly do you{w=0.3}{nw}"
+    n 3fnmbg "Exactamente, ¿cuánto de eso {w=0.3}{nw}"
 
 # game/script-topics.rpy:1063
 translate spanish talk_using_computers_healthily_25c07cd5:
 
-    # extend 3fsqbg " {i}actually{/i}{w=0.3}{nw}"
-    extend 3fsqbg ""
+    # extend 3fsqbg " {i}actually{/i}{w=0.3}{nw}"
+    extend 3fsqbg "{i}realmente{/i}{w=0.3}{nw}"
 
 # game/script-topics.rpy:1064
 translate spanish talk_using_computers_healthily_f1cc965f:
 
-    # extend 3fnmbg " remember,{w=0.75}{nw}"
-    extend 3fnmbg ""
+    # extend 3fnmbg " remember,{w=0.75}{nw}"
+    extend 3fnmbg "recuerdas, {w=0.75}{nw}"
 
 # game/script-topics.rpy:1065
 translate spanish talk_using_computers_healthily_9cbfbf01:
 
-    # extend 3fsqsm " [player]?"
-    extend 3fsqsm ""
+    # extend 3fsqsm " [player]?"
+    extend 3fsqsm "[player]?"
 
 # game/script-topics.rpy:1066
 translate spanish talk_using_computers_healthily_60ff32a2:
 
-    # n 4fnmbg "Huh?"
-    n 4fnmbg ""
+    # n 4fnmbg "Huh?"
+    n 4fnmbg "¿Eh?"
 
 # game/script-topics.rpy:1067
 translate spanish talk_using_computers_healthily_1681496c:
 
-    # n 4tsqsm "..."
-    n 4tsqsm ""
+    # n 4tsqsm "..."
+    n 4tsqsm "..."
 
 # game/script-topics.rpy:1068
 translate spanish talk_using_computers_healthily_be807195:
 
-    # n 2fcssm "Ehehe.{w=0.75}{nw}"
-    n 2fcssm ""
+    # n 2fcssm "Ehehe.{w=0.75}{nw}"
+    n 2fcssm "Ehehe. {w=0.75}{nw}"
 
 # game/script-topics.rpy:1069
 translate spanish talk_using_computers_healthily_9bd1d7bb:
 
-    # extend 2fcsbg " Yep,{w=0.2} just as I thought.{w=0.75}{nw}"
-    extend 2fcsbg ""
+    # extend 2fcsbg " Yep,{w=0.2} just as I thought.{w=0.75}{nw}"
+    extend 2fcsbg "Sí, {w=0.2}justo lo que pensaba. {w=0.75}{nw}"
 
 # game/script-topics.rpy:1070
 translate spanish talk_using_computers_healthily_b539e2e4:
 
-    # extend 2nchgn " Total silence!"
-    extend 2nchgn ""
+    # extend 2nchgn " Total silence!"
+    extend 2nchgn "¡Silencio total!"
 
 # game/script-topics.rpy:1071
 translate spanish talk_using_computers_healthily_7308eaca:
 
-    # n 4fllbg "Well [player],{w=0.2} have no fear."
-    n 4fllbg ""
+    # n 4fllbg "Well [player],{w=0.2} have no fear."
+    n 4fllbg "Bueno [player], {w=0.2}no temas."
 
 # game/script-topics.rpy:1072
 translate spanish talk_using_computers_healthily_255ae192:
 
-    # n 6fcssmedz "'Cause it's time for a little refresher on how {i}not{/i} to ruin your spine from yours truly!"
-    n 6fcssmedz ""
+    # n 6fcssmedz "'Cause it's time for a little refresher on how {i}not{/i} to ruin your spine from yours truly!"
+    n 6fcssmedz "¡Porque es hora de un pequeño repaso sobre cómo {i}no{/i} arruinar tu columna vertebral de mi parte!"
 
 # game/script-topics.rpy:1075
 translate spanish talk_using_computers_healthily_2b3d9283_1:
 
-    # n 7tslsl "..."
-    n 7tslsl ""
+    # n 7tslsl "..."
+    n 7tslsl "..."
 
 # game/script-topics.rpy:1076
 translate spanish talk_using_computers_healthily_8bc533d2:
 
-    # n 7cslpu "...Huh."
-    n 7cslpu ""
+    # n 7cslpu "...Huh."
+    n 7cslpu "... Vaya."
 
 # game/script-topics.rpy:1077
 translate spanish talk_using_computers_healthily_a2513129:
 
-    # n 7tnmaj "You know,{w=0.2} [player]...{w=1}{nw}"
-    n 7tnmaj ""
+    # n 7tnmaj "You know,{w=0.2} [player]...{w=1}{nw}"
+    n 7tnmaj "Sabes, {w=0.2}[player]... {w=1}{nw}"
 
 # game/script-topics.rpy:1078
 translate spanish talk_using_computers_healthily_be846f53:
 
-    # extend 3tlraj " I just thought of something.{w=0.75}{nw}"
-    extend 3tlraj ""
+    # extend 3tlraj " I just thought of something.{w=0.75}{nw}"
+    extend 3tlraj "Acabo de pensar en algo. {w=0.75}{nw}"
 
 # game/script-topics.rpy:1079
 translate spanish talk_using_computers_healthily_0e9a4a40:
 
-    # extend 3unmbo " About how you actually visit me and all."
-    extend 3unmbo ""
+    # extend 3unmbo " About how you actually visit me and all."
+    extend 3unmbo "Sobre cómo me visitas en realidad y todo eso."
 
 # game/script-topics.rpy:1080
 translate spanish talk_using_computers_healthily_49ad00ce:
 
-    # n 7ulraj "So...{w=1}{nw}"
-    n 7ulraj ""
+    # n 7ulraj "So...{w=1}{nw}"
+    n 7ulraj "Así que... {w=1}{nw}"
 
 # game/script-topics.rpy:1081
 translate spanish talk_using_computers_healthily_7c6a7efa:
 
-    # extend 2tlrfl " you gotta be at your desk to actually talk to me,{w=0.5}{nw}"
-    extend 2tlrfl ""
+    # extend 2tlrfl " you gotta be at your desk to actually talk to me,{w=0.5}{nw}"
+    extend 2tlrfl "tienes que estar en tu escritorio para hablarme, {w=0.5}{nw}"
 
 # game/script-topics.rpy:1082
 translate spanish talk_using_computers_healthily_19126625:
 
-    # extend 2tnmca " right?{w=0.75}{nw}"
-    extend 2tnmca ""
+    # extend 2tnmca " right?{w=0.75}{nw}"
+    extend 2tnmca "¿verdad? {w=0.75}{nw}"
 
 # game/script-topics.rpy:1083
 translate spanish talk_using_computers_healthily_bcc43190:
 
-    # extend 4cslss " Or using some kind of computer at least."
-    extend 4cslss ""
+    # extend 4cslss " Or using some kind of computer at least."
+    extend 4cslss "O usando algún tipo de computadora al menos."
 
 # game/script-topics.rpy:1084
 translate spanish talk_using_computers_healthily_4bcc371c:
 
-    # n 7tslpu "And you've been here for a bunch of time already too,{w=0.2} now that I think about it."
-    n 7tslpu ""
+    # n 7tslpu "And you've been here for a bunch of time already too,{w=0.2} now that I think about it."
+    n 7tslpu "Y ya llevas mucho tiempo aquí también, {w=0.2}ahora que lo pienso."
 
 # game/script-topics.rpy:1087
 translate spanish talk_using_computers_healthily_a4991159:
 
-    # n 3unmfll "N-{w=0.2}not that I'm saying I don't appreciate it or anything like that!\n{w=0.75}{nw}"
-    n 3unmfll ""
+    # n 3unmfll "N-{w=0.2}not that I'm saying I don't appreciate it or anything like that!\n{w=0.75}{nw}"
+    n 3unmfll "N-{w=0.2}No es que no lo aprecie ni nada de eso.\n {w=0.75}{nw}"
 
 # game/script-topics.rpy:1088
 translate spanish talk_using_computers_healthily_00a415fd:
 
-    # extend 3ccsajlsbr "O-{w=0.2}of course I do!"
-    extend 3ccsajlsbr ""
+    # extend 3ccsajlsbr "O-{w=0.2}of course I do!"
+    extend 3ccsajlsbr "¡P-{w=0.2}Por supuesto que sí!"
 
 # game/script-topics.rpy:1090
 translate spanish talk_using_computers_healthily_efe82ffb:
 
-    # n 5csrbolsbr "I shouldn't even have to remind you by now,{w=0.2} [chosen_tease]."
-    n 5csrbolsbr ""
+    # n 5csrbolsbr "I shouldn't even have to remind you by now,{w=0.2} [chosen_tease]."
+    n 5csrbolsbr "Ni siquiera debería tener que recordártelo a estas alturas, {w=0.2}[chosen_tease]."
 
 # game/script-topics.rpy:1093
 translate spanish talk_using_computers_healthily_309efb5e:
 
-    # n 3unmeml "N-{w=0.2}not that it's a problem,{w=0.5}{nw}"
-    n 3unmeml ""
+    # n 3unmeml "N-{w=0.2}not that it's a problem,{w=0.5}{nw}"
+    n 3unmeml "N-{w=0.2}No es que sea un problema, {w=0.5}{nw}"
 
 # game/script-topics.rpy:1094
 translate spanish talk_using_computers_healthily_316b02c2:
 
-    # extend 3clremlsbl " or anything like that!{w=0.75}{nw}"
-    extend 3clremlsbl ""
+    # extend 3clremlsbl " or anything like that!{w=0.75}{nw}"
+    extend 3clremlsbl "¡ni nada de eso! {w=0.75}{nw}"
 
 # game/script-topics.rpy:1095
 translate spanish talk_using_computers_healthily_95eca0d4:
 
-    # extend 3ccspolsbl " Y-{w=0.2}you should know it isn't by now anyway,{w=0.2} [player]."
-    extend 3ccspolsbl ""
+    # extend 3ccspolsbl " Y-{w=0.2}you should know it isn't by now anyway,{w=0.2} [player]."
+    extend 3ccspolsbl " Y-{w=0.2}Ya deberías saber que no lo es a estas alturas, {w=0.2}[player]."
 
 # game/script-topics.rpy:1098
 translate spanish talk_using_computers_healthily_cd2386ff:
 
-    # n 3unmeml "N-{w=0.2}not that I'm saying it's some kind of problem or anything like that,\n{w=0.5}{nw}"
-    n 3unmeml ""
+    # n 3unmeml "N-{w=0.2}not that I'm saying it's some kind of problem or anything like that,\n{w=0.5}{nw}"
+    n 3unmeml "N-{w=0.2}No es que esté diciendo que sea algún tipo de problema o algo así,\n {w=0.5}{nw}"
 
 # game/script-topics.rpy:1099
 translate spanish talk_using_computers_healthily_467d0f91:
 
-    # extend 4ccsgslsbl "{i}obviously{/i}!"
-    extend 4ccsgslsbl ""
+    # extend 4ccsgslsbl "{i}obviously{/i}!"
+    extend 4ccsgslsbl "¡{i}obviamente{/i}!"
 
 # game/script-topics.rpy:1100
 translate spanish talk_using_computers_healthily_0d2d7835:
 
-    # n 2csrbolsbl "..."
-    n 2csrbolsbl ""
+    # n 2csrbolsbl "..."
+    n 2csrbolsbl "..."
 
 # game/script-topics.rpy:1102
 translate spanish talk_using_computers_healthily_c96c4d34:
 
-    # n 4clrpu "Though..."
-    n 4clrpu ""
+    # n 4clrpu "Though..."
+    n 4clrpu "Aunque..."
 
 # game/script-topics.rpy:1103
 translate spanish talk_using_computers_healthily_997d9065:
 
-    # n 7tnmflsbr "Doesn't that mean you're spending a whole bunch of extra time sat around with your computer every day?{w=0.75}{nw}"
-    n 7tnmflsbr ""
+    # n 7tnmflsbr "Doesn't that mean you're spending a whole bunch of extra time sat around with your computer every day?{w=0.75}{nw}"
+    n 7tnmflsbr "¿No significa eso que pasas mucho tiempo extra sentado frente a tu computadora todos los días? {w=0.75}{nw}"
 
 # game/script-topics.rpy:1104
 translate spanish talk_using_computers_healthily_b9ea1364:
 
-    # extend 3tsqslsbr " Just for my sake?"
-    extend 3tsqslsbr ""
+    # extend 3tsqslsbr " Just for my sake?"
+    extend 3tsqslsbr "¿Solo por mí?"
 
 # game/script-topics.rpy:1124
 translate spanish talk_using_computers_healthily_207f7636:
 
-    # n 2ccsfl "I mean...{w=1}{nw}"
-    n 2ccsfl ""
+    # n 2ccsfl "I mean...{w=1}{nw}"
+    n 2ccsfl "Quiero decir... {w=1}{nw}"
 
 # game/script-topics.rpy:1125
 translate spanish talk_using_computers_healthily_7763077d:
 
-    # extend 2ulraj " I know you use your computer already for a bunch of stuff.\n{w=0.75}{nw}"
-    extend 2ulraj ""
+    # extend 2ulraj " I know you use your computer already for a bunch of stuff.\n{w=0.75}{nw}"
+    extend 2ulraj "Ya sé que usas tu computadora para muchas cosas.\n {w=0.75}{nw}"
 
 # game/script-topics.rpy:1126
 translate spanish talk_using_computers_healthily_3ad728c7:
 
-    # extend 4fchbg "Like [activity_mention]!"
-    extend 4fchbg ""
+    # extend 4fchbg "Like [activity_mention]!"
+    extend 4fchbg "¡Como [activity_mention]!"
 
 # game/script-topics.rpy:1129
 translate spanish talk_using_computers_healthily_207f7636_1:
 
-    # n 2ccsfl "I mean...{w=1}{nw}"
-    n 2ccsfl ""
+    # n 2ccsfl "I mean...{w=1}{nw}"
+    n 2ccsfl "Quiero decir... {w=1}{nw}"
 
 # game/script-topics.rpy:1130
 translate spanish talk_using_computers_healthily_67683431:
 
-    # extend 2tllsl " I guess you probably still use your computer for other stuff already."
-    extend 2tllsl ""
+    # extend 2tllsl " I guess you probably still use your computer for other stuff already."
+    extend 2tllsl "supongo que probablemente ya usas tu computadora para otras cosas."
 
 # game/script-topics.rpy:1132
 translate spanish talk_using_computers_healthily_d235628e:
 
-    # n 1ccsflsbl "But that still doesn't change the fact you're gonna be racking up a load of extra screen time thanks to me."
-    n 1ccsflsbl ""
+    # n 1ccsflsbl "But that still doesn't change the fact you're gonna be racking up a load of extra screen time thanks to me."
+    n 1ccsflsbl "Pero eso no cambia el hecho de que vas a acumular un montón de tiempo extra frente a la pantalla gracias a mí."
 
 # game/script-topics.rpy:1135
 translate spanish talk_using_computers_healthily_b304d24a:
 
-    # n 2clrfllsbl "And the last thing I wanna hear about is you getting yourself all cramped up because you were slouched over like a potato for hours."
-    n 2clrfllsbl ""
+    # n 2clrfllsbl "And the last thing I wanna hear about is you getting yourself all cramped up because you were slouched over like a potato for hours."
+    n 2clrfllsbl "Y lo último que quiero escuchar es que te quedes todo acalambrado por estar encorvado como una papa durante horas."
 
 # game/script-topics.rpy:1136
 translate spanish talk_using_computers_healthily_96eb2522:
 
-    # n 2cllsl "..."
-    n 2cllsl ""
+    # n 2cllsl "..."
+    n 2cllsl "..."
 
 # game/script-topics.rpy:1139
 translate spanish talk_using_computers_healthily_cfc88b9f:
 
-    # n 2ccsaj "And the last thing I wanna hear is you complaining your back hurts because nobody had the brains to tell you not to slouch like a potato for hours."
-    n 2ccsaj ""
+    # n 2ccsaj "And the last thing I wanna hear is you complaining your back hurts because nobody had the brains to tell you not to slouch like a potato for hours."
+    n 2ccsaj "Y lo último que quiero escuchar es que te quejes de que te duele la espalda porque nadie tuvo la cabeza para decirte que no te encorvaras como una papa durante horas."
 
 # game/script-topics.rpy:1140
 translate spanish talk_using_computers_healthily_2443ec70:
 
-    # n 2ccspol "I-{w=0.2}I'm not having {i}that{/i} on my conscience."
-    n 2ccspol ""
+    # n 2ccspol "I-{w=0.2}I'm not having {i}that{/i} on my conscience."
+    n 2ccspol "Yo... {w=0.2}eso {i}no{/i} lo tendré en mi conciencia."
 
 # game/script-topics.rpy:1142
 translate spanish talk_using_computers_healthily_c888a5a7:
 
-    # n 1ccsss "Heh.{w=0.75}{nw}"
-    n 1ccsss ""
+    # n 1ccsss "Heh.{w=0.75}{nw}"
+    n 1ccsss "Je. {w=0.75}{nw}"
 
 # game/script-topics.rpy:1143
 translate spanish talk_using_computers_healthily_ccfc75d5:
 
-    # extend 4fsrss " In fact..."
-    extend 4fsrss ""
+    # extend 4fsrss " In fact..."
+    extend 4fsrss "De hecho..."
 
 # game/script-topics.rpy:1144
 translate spanish talk_using_computers_healthily_e5e28b93:
 
-    # n 2fnmbg "You know what,{w=0.2} [player]?{w=0.75}{nw}"
-    n 2fnmbg ""
+    # n 2fnmbg "You know what,{w=0.2} [player]?{w=0.75}{nw}"
+    n 2fnmbg "¿Sabes qué, {w=0.2}[player]? {w=0.75}{nw}"
 
 # game/script-topics.rpy:1145
 translate spanish talk_using_computers_healthily_c5ffa0a6:
 
-    # extend 2fsqsm " I hope you're sitting."
-    extend 2fsqsm ""
+    # extend 2fsqsm " I hope you're sitting."
+    extend 2fsqsm "Espero que estés sentado."
 
 # game/script-topics.rpy:1146
 translate spanish talk_using_computers_healthily_68335d50:
 
-    # n 6fcsbg "'Cause I'm gonna make sure you're using your computer the {i}right{/i} way,{w=0.5}{nw}"
-    n 6fcsbg ""
+    # n 6fcsbg "'Cause I'm gonna make sure you're using your computer the {i}right{/i} way,{w=0.5}{nw}"
+    n 6fcsbg "Porque voy a asegurarme de que uses tu computadora de la manera {i}correcta{/i}, {w=0.5}{nw}"
 
 # game/script-topics.rpy:1147
 translate spanish talk_using_computers_healthily_660b5e16:
 
-    # extend 3fchgn " whether you like it or not!"
-    extend 3fchgn ""
+    # extend 3fchgn " whether you like it or not!"
+    extend 3fchgn "¡te guste o no!"
 
 # game/script-topics.rpy:1149
 translate spanish talk_using_computers_healthily_7000fc45:
 
-    # n 1fcsbg "Alright,{w=0.75}{nw}"
-    n 1fcsbg ""
+    # n 1fcsbg "Alright,{w=0.75}{nw}"
+    n 1fcsbg "Muy bien, {w=0.75}{nw}"
 
 # game/script-topics.rpy:1150
 translate spanish talk_using_computers_healthily_50c041d0:
 
-    # extend 6fcsaj " so number one:{w=1}{nw}"
-    extend 6fcsaj ""
+    # extend 6fcsaj " so number one:{w=1}{nw}"
+    extend 6fcsaj "entonces, número uno: {w=1}{nw}"
 
 # game/script-topics.rpy:1151
 translate spanish talk_using_computers_healthily_fe910e84:
 
-    # extend 3unmbg " posture!"
-    extend 3unmbg ""
+    # extend 3unmbg " posture!"
+    extend 3unmbg "¡postura!"
 
 # game/script-topics.rpy:1152
 translate spanish talk_using_computers_healthily_732fc721:
 
-    # n 1ccsflsbl "...And no,{w=0.2} [player].{w=0.75}{nw}"
-    n 1ccsflsbl ""
+    # n 1ccsflsbl "...And no,{w=0.2} [player].{w=0.75}{nw}"
+    n 1ccsflsbl "... Y no, {w=0.2}[player]. {w=0.75}{nw}"
 
 # game/script-topics.rpy:1153
 translate spanish talk_using_computers_healthily_21240348:
 
-    # extend 4csqtr " I mean {i}actual{/i} posture.{w=0.75}{nw}"
-    extend 4csqtr ""
+    # extend 4csqtr " I mean {i}actual{/i} posture.{w=0.75}{nw}"
+    extend 4csqtr "Me refiero a la postura {i}real{/i}. {w=0.75}{nw}"
 
 # game/script-topics.rpy:1154
 translate spanish talk_using_computers_healthily_3a4cabf2:
 
-    # extend 4ccspo " The sitting kind."
-    extend 4ccspo ""
+    # extend 4ccspo " The sitting kind."
+    extend 4ccspo "La de estar sentado."
 
 # game/script-topics.rpy:1155
 translate spanish talk_using_computers_healthily_42d5c97b:
 
-    # n 3fnmfl "Now sit up straight,{w=0.2} and keep that back of yours against the chair,{w=0.2} [player].{w=0.75}{nw}"
-    n 3fnmfl ""
+    # n 3fnmfl "Now sit up straight,{w=0.2} and keep that back of yours against the chair,{w=0.2} [player].{w=0.75}{nw}"
+    n 3fnmfl "Ahora siéntate derecho, {w=0.2}y mantén la espalda apoyada en la silla, {w=0.2}[player]. {w=0.75}{nw}"
 
 # game/script-topics.rpy:1156
 translate spanish talk_using_computers_healthily_40ad1757:
 
-    # extend 3fcsgs " I mean it!"
-    extend 3fcsgs ""
+    # extend 3fcsgs " I mean it!"
+    extend 3fcsgs "¡Lo digo en serio!"
 
 # game/script-topics.rpy:1157
 translate spanish talk_using_computers_healthily_b34653be:
 
-    # n 4cllfl "Seriously -{w=0.5}{nw}"
-    n 4cllfl ""
+    # n 4cllfl "Seriously -{w=0.5}{nw}"
+    n 4cllfl "En serio... {w=0.5}{nw}"
 
 # game/script-topics.rpy:1158
 translate spanish talk_using_computers_healthily_4be0e47f:
 
-    # extend 4tsqem " unless you feel like making friends with your nearest chiropractor,{w=0.5}{nw}"
-    extend 4tsqem ""
+    # extend 4tsqem " unless you feel like making friends with your nearest chiropractor,{w=0.5}{nw}"
+    extend 4tsqem "a menos que quieras hacerte amigo de tu quiropráctico más cercano, {w=0.5}{nw}"
 
 # game/script-topics.rpy:1159
 translate spanish talk_using_computers_healthily_98fd2781:
 
-    # extend 4cslem " trust me when I say you {i}really{/i} don't wanna spend all your time slouching."
-    extend 4cslem ""
+    # extend 4cslem " trust me when I say you {i}really{/i} don't wanna spend all your time slouching."
+    extend 4cslem "créeme cuando te digo que {i}realmente{/i} no querrás pasar todo tu tiempo encorvado."
 
 # game/script-topics.rpy:1160
 translate spanish talk_using_computers_healthily_35ee4691:
 
-    # n 2csqss "...Or hunched up on your chair like some kind of weird computer gremlin."
-    n 2csqss ""
+    # n 2csqss "...Or hunched up on your chair like some kind of weird computer gremlin."
+    n 2csqss "... O encorvado en tu silla como una especie de duende informático raro."
 
 # game/script-topics.rpy:1161
 translate spanish talk_using_computers_healthily_d4b614be:
 
-    # n 6unmaj "If you're doing it right,{w=0.5}{nw}"
-    n 6unmaj ""
+    # n 6unmaj "If you're doing it right,{w=0.5}{nw}"
+    n 6unmaj "Si lo estás haciendo bien, {w=0.5}{nw}"
 
 # game/script-topics.rpy:1162
 translate spanish talk_using_computers_healthily_512d6321:
 
-    # extend 3ullaj " then you should have your arms and thighs parallel to the ground,{w=0.5}{nw}"
-    extend 3ullaj ""
+    # extend 3ullaj " then you should have your arms and thighs parallel to the ground,{w=0.5}{nw}"
+    extend 3ullaj "entonces deberías tener los brazos y los muslos paralelos al suelo, {w=0.5}{nw}"
 
 # game/script-topics.rpy:1163
 translate spanish talk_using_computers_healthily_4a26eaa5:
 
-    # extend 3fcssm " with your eyes roughly at the top of your screen.{w=0.75}{nw}"
-    extend 3fcssm ""
+    # extend 3fcssm " with your eyes roughly at the top of your screen.{w=0.75}{nw}"
+    extend 3fcssm "con tus ojos más o menos a la altura de la parte superior de la pantalla. {w=0.75}{nw}"
 
 # game/script-topics.rpy:1164
 translate spanish talk_using_computers_healthily_9c3094a5:
 
-    # extend 3fcsbg " Easy peasy!"
-    extend 3fcsbg ""
+    # extend 3fcsbg " Easy peasy!"
+    extend 3fcsbg "¡Pan comido!"
 
 # game/script-topics.rpy:1165
 translate spanish talk_using_computers_healthily_d4934e9f:
 
-    # n 4unmfl "Oh,{w=0.2} right -{w=0.5}{nw}"
-    n 4unmfl ""
+    # n 4unmfl "Oh,{w=0.2} right -{w=0.5}{nw}"
+    n 4unmfl "Ah, {w=0.2}claro... {w=0.5}{nw}"
 
 # game/script-topics.rpy:1166
 translate spanish talk_using_computers_healthily_222f6461:
 
-    # extend 2clrsssbl " make sure your feet can still touch the floor,{w=0.2} though.\n{w=0.75}{nw}"
-    extend 2clrsssbl ""
+    # extend 2clrsssbl " make sure your feet can still touch the floor,{w=0.2} though.\n{w=0.75}{nw}"
+    extend 2clrsssbl "asegúrate de que tus pies aún puedan tocar el suelo, {w=0.2}eso sí.\n {w=0.75}{nw}"
 
 # game/script-topics.rpy:1167
 translate spanish talk_using_computers_healthily_f7597e1a:
 
-    # extend 2fcscasbr "Even {i}I{/i} can do that,{w=0.2} [player]."
-    extend 2fcscasbr ""
+    # extend 2fcscasbr "Even {i}I{/i} can do that,{w=0.2} [player]."
+    extend 2fcscasbr "Incluso {i}yo{/i} puedo hacer eso, {w=0.2}[player]."
 
 # game/script-topics.rpy:1168
 translate spanish talk_using_computers_healthily_1e0a756f:
 
-    # n 1fnmaj "Number two:{w=0.75}{nw}"
-    n 1fnmaj ""
+    # n 1fnmaj "Number two:{w=0.75}{nw}"
+    n 1fnmaj "Número dos: {w=0.75}{nw}"
 
 # game/script-topics.rpy:1169
 translate spanish talk_using_computers_healthily_5d80f2c9:
 
-    # extend 2fcsbg " distance!"
-    extend 2fcsbg ""
+    # extend 2fcsbg " distance!"
+    extend 2fcsbg "¡distancia!"
 
 # game/script-topics.rpy:1170
 translate spanish talk_using_computers_healthily_568f3361:
 
-    # n 2clrbg "It's pretty easy to forget,{w=0.5}{nw}"
-    n 2clrbg ""
+    # n 2clrbg "It's pretty easy to forget,{w=0.5}{nw}"
+    n 2clrbg "Es bastante fácil de olvidar, {w=0.5}{nw}"
 
 # game/script-topics.rpy:1171
 translate spanish talk_using_computers_healthily_73e50724:
 
-    # extend 4tnmbo " but if you wanna avoid sore eyes then you've gotta make sure you're actually a decent distance from the screen too."
-    extend 4tnmbo ""
+    # extend 4tnmbo " but if you wanna avoid sore eyes then you've gotta make sure you're actually a decent distance from the screen too."
+    extend 4tnmbo "pero si quieres evitar los ojos cansados, tienes que asegurarte de estar a una distancia decente de la pantalla también."
 
 # game/script-topics.rpy:1172
 translate spanish talk_using_computers_healthily_90018735:
 
-    # n 2fcsca "Not right up close or so far away you need binoculars!"
-    n 2fcsca ""
+    # n 2fcsca "Not right up close or so far away you need binoculars!"
+    n 2fcsca "¡Ni muy cerca ni tan lejos que necesites binoculares!"
 
 # game/script-topics.rpy:1175
 translate spanish talk_using_computers_healthily_9a2c33df:
 
-    # n 2fcsbglsbr "I-{w=0.2}I know you just can't get enough of me,{w=0.2} [player].{w=0.75}{nw}"
-    n 2fcsbglsbr ""
+    # n 2fcsbglsbr "I-{w=0.2}I know you just can't get enough of me,{w=0.2} [player].{w=0.75}{nw}"
+    n 2fcsbglsbr "Y-{w=0.2}Ya sé que no te cansas de mí, {w=0.2}[player]. {w=0.75}{nw}"
 
 # game/script-topics.rpy:1176
 translate spanish talk_using_computers_healthily_6f1ed2c6:
 
-    # extend 4cslfllsbr " But really."
-    extend 4cslfllsbr ""
+    # extend 4cslfllsbr " But really."
+    extend 4cslfllsbr "Pero en serio."
 
 # game/script-topics.rpy:1177
 translate spanish talk_using_computers_healthily_0c84a561:
 
-    # n 4ccspol "Even I don't wanna see you practically pressing your face against the screen either."
-    n 4ccspol ""
+    # n 4ccspol "Even I don't wanna see you practically pressing your face against the screen either."
+    n 4ccspol "Ni yo quiero verte prácticamente pegando la cara a la pantalla."
 
 # game/script-topics.rpy:1180
 translate spanish talk_using_computers_healthily_16ff7010:
 
-    # n 2fsrsslsbr "I-{w=0.2}I know I {i}am{/i} pretty awesome,{w=0.5}{nw}"
-    n 2fsrsslsbr ""
+    # n 2fsrsslsbr "I-{w=0.2}I know I {i}am{/i} pretty awesome,{w=0.5}{nw}"
+    n 2fsrsslsbr "Y-{w=0.2}Ya sé que {i}soy{/i} bastante genial, {w=0.5}{nw}"
 
 # game/script-topics.rpy:1181
 translate spanish talk_using_computers_healthily_3ced40c0:
 
-    # extend 4csqflsbr " but the last thing I wanna be greeted by is your face right up against the screen either."
-    extend 4csqflsbr ""
+    # extend 4csqflsbr " but the last thing I wanna be greeted by is your face right up against the screen either."
+    extend 4csqflsbr "pero lo último que quiero que me reciba es tu cara pegada a la pantalla tampoco."
 
 # game/script-topics.rpy:1184
 translate spanish talk_using_computers_healthily_5f78ccc2:
 
-    # n 2ccsflsbr "A-{w=0.2}and besides,{w=0.5}{nw}"
-    n 2ccsflsbr ""
+    # n 2ccsflsbr "A-{w=0.2}and besides,{w=0.5}{nw}"
+    n 2ccsflsbr "Y-{w=0.2}Y además, {w=0.5}{nw}"
 
 # game/script-topics.rpy:1185
 translate spanish talk_using_computers_healthily_c3ac7b6f:
 
-    # extend 2cslflsbr " the last thing I wanna see is your face all smushed up against the screen,{w=0.2} [player].{w=0.75}{nw}"
-    extend 2cslflsbr ""
+    # extend 2cslflsbr " the last thing I wanna see is your face all smushed up against the screen,{w=0.2} [player].{w=0.75}{nw}"
+    extend 2cslflsbr "lo último que quiero ver es tu cara toda aplastada contra la pantalla, {w=0.2}[player]. {w=0.75}{nw}"
 
 # game/script-topics.rpy:1186
 translate spanish talk_using_computers_healthily_30ecad55:
 
-    # extend 2ccsposbr " I didn't ask for {i}that{/i}."
-    extend 2ccsposbr ""
+    # extend 2ccsposbr " I didn't ask for {i}that{/i}."
+    extend 2ccsposbr "No pedí {i}eso{/i}."
 
 # game/script-topics.rpy:1188
 translate spanish talk_using_computers_healthily_ebdd553e:
 
-    # n 2ulraj "So...{w=1}{nw}"
-    n 2ulraj ""
+    # n 2ulraj "So...{w=1}{nw}"
+    n 2ulraj "Así que... {w=1}{nw}"
 
 # game/script-topics.rpy:1189
 translate spanish talk_using_computers_healthily_8c246692:
 
-    # extend 4tsgbg " just make sure you're sitting about an arm's length away from the screen.{w=0.75}{nw}"
-    extend 4tsgbg ""
+    # extend 4tsgbg " just make sure you're sitting about an arm's length away from the screen.{w=0.75}{nw}"
+    extend 4tsgbg "solo asegúrate de estar sentado a un brazo de distancia de la pantalla. {w=0.75}{nw}"
 
 # game/script-topics.rpy:1190
 translate spanish talk_using_computers_healthily_0c56e3a6:
 
-    # extend 4ccsbg " That's all I'm saying!"
-    extend 4ccsbg ""
+    # extend 4ccsbg " That's all I'm saying!"
+    extend 4ccsbg "¡Eso es todo lo que digo!"
 
 # game/script-topics.rpy:1191
 translate spanish talk_using_computers_healthily_b43bcf86:
 
-    # n 3unmpu "Don't forget to keep all your stuff in easy reach though -{w=0.5}{nw}"
-    n 3unmpu ""
+    # n 3unmpu "Don't forget to keep all your stuff in easy reach though -{w=0.5}{nw}"
+    n 3unmpu "No olvides mantener todas tus cosas al alcance, {w=0.5}{nw}"
 
 # game/script-topics.rpy:1192
 translate spanish talk_using_computers_healthily_7fa4eb2c:
 
-    # extend 3ccsbg " unless you're a psychic,{w=0.5}{nw}"
-    extend 3ccsbg ""
+    # extend 3ccsbg " unless you're a psychic,{w=0.5}{nw}"
+    extend 3ccsbg "a menos que seas un psíquico, {w=0.5}{nw}"
 
 # game/script-topics.rpy:1193
 translate spanish talk_using_computers_healthily_74a91235:
 
-    # extend 6csqsm " you aren't getting far if you can barely hit the keyboard."
-    extend 6csqsm ""
+    # extend 6csqsm " you aren't getting far if you can barely hit the keyboard."
+    extend 6csqsm "no llegarás muy lejos si apenas puedes tocar el teclado."
 
 # game/script-topics.rpy:1196
 translate spanish talk_using_computers_healthily_6d18985d:
 
-    # n 7ullaj "And remember,{w=0.2} there's plenty of stuff to see beyond the screen -{w=0.5}{nw}"
-    n 7ullaj ""
+    # n 7ullaj "And remember,{w=0.2} there's plenty of stuff to see beyond the screen -{w=0.5}{nw}"
+    n 7ullaj "Y recuerda, {w=0.2}hay muchas cosas que ver más allá de la pantalla... {w=0.5}{nw}"
 
 # game/script-topics.rpy:1197
 translate spanish talk_using_computers_healthily_ae75b8af:
 
-    # extend 3fcsbg " so you better be giving your eyes a break too!"
-    extend 3fcsbg ""
+    # extend 3fcsbg " so you better be giving your eyes a break too!"
+    extend 3fcsbg "¡así que será mejor que también les des un descanso a tus ojos!"
 
 # game/script-topics.rpy:1200
 translate spanish talk_using_computers_healthily_0d017bdb:
 
-    # n 7ullfl "And while you're at it?{w=0.75}{nw}"
-    n 7ullfl ""
+    # n 7ullfl "And while you're at it?{w=0.75}{nw}"
+    n 7ullfl "Y ya que estás... {w=0.75}{nw}"
 
 # game/script-topics.rpy:1201
 translate spanish talk_using_computers_healthily_08878c5f:
 
-    # extend 7ullaj " Spend some time looking at something {i}other{/i} than the screen too,{w=0.5}{nw}"
-    extend 7ullaj ""
+    # extend 7ullaj " Spend some time looking at something {i}other{/i} than the screen too,{w=0.5}{nw}"
+    extend 7ullaj "Pasa un tiempo mirando algo {i}más{/i} que la pantalla también, {w=0.5}{nw}"
 
 # game/script-topics.rpy:1202
 translate spanish talk_using_computers_healthily_a82b2a39:
 
-    # extend 7unmbo " for that matter."
-    extend 7unmbo ""
+    # extend 7unmbo " for that matter."
+    extend 7unmbo "ya que estamos."
 
 # game/script-topics.rpy:1203
 translate spanish talk_using_computers_healthily_f10ee5c8:
 
-    # n 3fcsbg "You've got windows there,{w=0.2} right?{w=0.75}{nw}"
-    n 3fcsbg ""
+    # n 3fcsbg "You've got windows there,{w=0.2} right?{w=0.75}{nw}"
+    n 3fcsbg "Tienes ventanas ahí, {w=0.2}¿verdad? {w=0.75}{nw}"
 
 # game/script-topics.rpy:1204
 translate spanish talk_using_computers_healthily_bed33113:
 
-    # extend 3fsqbg " So you better be using them!"
-    extend 3fsqbg ""
+    # extend 3fsqbg " So you better be using them!"
+    extend 3fsqbg "¡Así que será mejor que las uses!"
 
 # game/script-topics.rpy:1206
 translate spanish talk_using_computers_healthily_3b34152f:
 
-    # n 7ccsbg "Now,{w=0.2} number three:{w=0.75}{nw}"
-    n 7ccsbg ""
+    # n 7ccsbg "Now,{w=0.2} number three:{w=0.75}{nw}"
+    n 7ccsbg "Ahora, {w=0.2}número tres: {w=0.75}{nw}"
 
 # game/script-topics.rpy:1207
 translate spanish talk_using_computers_healthily_adf8aadb:
 
-    # extend 3fchbg " breaks!"
-    extend 3fchbg ""
+    # extend 3fchbg " breaks!"
+    extend 3fchbg "¡descansos!"
 
 # game/script-topics.rpy:1208
 translate spanish talk_using_computers_healthily_4ab0c8c7:
 
-    # n 3tllfl "I don't know about you [player],{w=0.5}{nw}"
-    n 3tllfl ""
+    # n 3tllfl "I don't know about you [player],{w=0.5}{nw}"
+    n 3tllfl "No sé tú [player], {w=0.5}{nw}"
 
 # game/script-topics.rpy:1209
 translate spanish talk_using_computers_healthily_23aa320f:
 
-    # extend 7tnmbo " but personally?{w=0.75}{nw}"
-    extend 7tnmbo ""
+    # extend 7tnmbo " but personally?{w=0.75}{nw}"
+    extend 7tnmbo "pero ¿personalmente? {w=0.75}{nw}"
 
 # game/script-topics.rpy:1210
 translate spanish talk_using_computers_healthily_1aa8fdcc:
 
-    # extend 7csrem " I can't stand being sat staring at a screen for hours at a time."
-    extend 7csrem ""
+    # extend 7csrem " I can't stand being sat staring at a screen for hours at a time."
+    extend 7csrem "No soporto estar sentado mirando una pantalla durante horas seguidas."
 
 # game/script-topics.rpy:1211
 translate spanish talk_using_computers_healthily_988971db:
 
-    # n 3cnmem "Seriously -{w=0.5}{nw}"
-    n 3cnmem ""
+    # n 3cnmem "Seriously -{w=0.5}{nw}"
+    n 3cnmem "En serio... {w=0.5}{nw}"
 
 # game/script-topics.rpy:1212
 translate spanish talk_using_computers_healthily_63db5d4b:
 
-    # extend 4cllan " I keep getting distracted if I'm stuck in front of my laptop for too long.{w=1}{nw}"
-    extend 4cllan ""
+    # extend 4cllan " I keep getting distracted if I'm stuck in front of my laptop for too long.{w=1}{nw}"
+    extend 4cllan "Me distraigo mucho si estoy demasiado tiempo frente a mi laptop. {w=1}{nw}"
 
 # game/script-topics.rpy:1213
 translate spanish talk_using_computers_healthily_71a1c26f:
 
-    # extend 4fcsem " It's the worst!"
-    extend 4fcsem ""
+    # extend 4fcsem " It's the worst!"
+    extend 4fcsem "¡Es lo peor!"
 
 # game/script-topics.rpy:1214
 translate spanish talk_using_computers_healthily_2b80993c:
 
-    # n 2fslem "Plus on top of that,{w=0.5}{nw}"
-    n 2fslem ""
+    # n 2fslem "Plus on top of that,{w=0.5}{nw}"
+    n 2fslem "Además, {w=0.5}{nw}"
 
 # game/script-topics.rpy:1215
 translate spanish talk_using_computers_healthily_026f7e92:
 
-    # extend 2csqsl " you're {i}really{/i} not doing your circulation a favor either."
-    extend 2csqsl ""
+    # extend 2csqsl " you're {i}really{/i} not doing your circulation a favor either."
+    extend 2csqsl "{i}realmente{/i} tampoco le estás haciendo un favor a tu circulación."
 
 # game/script-topics.rpy:1216
 translate spanish talk_using_computers_healthily_99c35603:
 
-    # n 6fcsbg "...So get off your butt and do some stretches or something!{w=0.75}{nw}"
-    n 6fcsbg ""
+    # n 6fcsbg "...So get off your butt and do some stretches or something!{w=0.75}{nw}"
+    n 6fcsbg "... ¡Así que levántate y haz algunos estiramientos o algo! {w=0.75}{nw}"
 
 # game/script-topics.rpy:1217
 translate spanish talk_using_computers_healthily_678f781c:
 
-    # extend 3clraj " Or even go get some water if you {i}really{/i} need an excuse to get moving."
-    extend 3clraj ""
+    # extend 3clraj " Or even go get some water if you {i}really{/i} need an excuse to get moving."
+    extend 3clraj "O incluso ve a buscar agua si {i}realmente{/i} necesitas una excusa para moverte."
 
 # game/script-topics.rpy:1218
 translate spanish talk_using_computers_healthily_d026cfb0:
 
-    # n 3tnmbo "Really,{w=0.2} it doesn't matter what you do.{w=0.75}{nw}"
-    n 3tnmbo ""
+    # n 3tnmbo "Really,{w=0.2} it doesn't matter what you do.{w=0.75}{nw}"
+    n 3tnmbo "En serio, {w=0.2}no importa lo que hagas. {w=0.75}{nw}"
 
 # game/script-topics.rpy:1219
 translate spanish talk_using_computers_healthily_91e30dc0:
 
-    # extend 4ccsca " It's all about getting off your rear,{w=0.2} back on your feet,{w=0.2} and giving your eyes a break.{w=0.75}{nw}"
-    extend 4ccsca ""
+    # extend 4ccsca " It's all about getting off your rear,{w=0.2} back on your feet,{w=0.2} and giving your eyes a break.{w=0.75}{nw}"
+    extend 4ccsca "Se trata de levantarte, {w=0.2}ponerte de pie, {w=0.2}y darle un descanso a tus ojos. {w=0.75}{nw}"
 
 # game/script-topics.rpy:1220
 translate spanish talk_using_computers_healthily_b0d0e7d9:
 
-    # extend 6ccsbg " Simple enough!"
-    extend 6ccsbg ""
+    # extend 6ccsbg " Simple enough!"
+    extend 6ccsbg "¡Bastante simple!"
 
 # game/script-topics.rpy:1221
 translate spanish talk_using_computers_healthily_acced036:
 
-    # n 3fsqsm "..."
-    n 3fsqsm ""
+    # n 3fsqsm "..."
+    n 3fsqsm "..."
 
 # game/script-topics.rpy:1222
 translate spanish talk_using_computers_healthily_38f274c0:
 
-    # n 3fsqss "Well?{w=0.75}{nw}"
-    n 3fsqss ""
+    # n 3fsqss "Well?{w=0.75}{nw}"
+    n 3fsqss "¿Y bien? {w=0.75}{nw}"
 
 # game/script-topics.rpy:1223
 translate spanish talk_using_computers_healthily_dddafed3:
 
-    # extend 7fcsbg " Still following me,{w=0.2} [player]?"
-    extend 7fcsbg ""
+    # extend 7fcsbg " Still following me,{w=0.2} [player]?"
+    extend 7fcsbg "¿Me estas entendiendo, {w=0.2}[player]?"
 
 # game/script-topics.rpy:1224
 translate spanish talk_using_computers_healthily_61cf651e:
 
-    # n 3flraj "You better be.{w=0.75}{nw}"
-    n 3flraj ""
+    # n 3flraj "You better be.{w=0.75}{nw}"
+    n 3flraj "Espero que sí. {w=0.75}{nw}"
 
 # game/script-topics.rpy:1225
 translate spanish talk_using_computers_healthily_f41dab50:
 
-    # extend 3fnmfl " This one's easily the most important,{w=0.2} so listen up!"
-    extend 3fnmfl ""
+    # extend 3fnmfl " This one's easily the most important,{w=0.2} so listen up!"
+    extend 3fnmfl "¡Este es fácilmente el más importante, {w=0.2}así que escucha!"
 
 # game/script-topics.rpy:1226
 translate spanish talk_using_computers_healthily_7d5f9de2:
 
-    # n 4tllfl "Don't get the wrong idea,{w=0.2} [player] -{w=0.5}{nw}"
-    n 4tllfl ""
+    # n 4tllfl "Don't get the wrong idea,{w=0.2} [player] -{w=0.5}{nw}"
+    n 4tllfl "No me malinterpretes, {w=0.2}[player]... {w=0.5}{nw}"
 
 # game/script-topics.rpy:1227
 translate spanish talk_using_computers_healthily_406e6a51:
 
-    # extend 4tsqfl " obviously you're gonna know your limits better than I do."
-    extend 4tsqfl ""
+    # extend 4tsqfl " obviously you're gonna know your limits better than I do."
+    extend 4tsqfl "obviamente vas a conocer tus límites mejor que yo."
 
 # game/script-topics.rpy:1228
 translate spanish talk_using_computers_healthily_62fd536f:
 
-    # n 2tlrpu "But...{w=1}{nw}"
-    n 2tlrpu ""
+    # n 2tlrpu "But...{w=1}{nw}"
+    n 2tlrpu "Pero... {w=1}{nw}"
 
 # game/script-topics.rpy:1229
 translate spanish talk_using_computers_healthily_90c5335e:
 
-    # extend 2tnmbo " if you start feeling kinda weird or sick,{w=0.2} or your eyes start hurting or something while you're around?"
-    extend 2tnmbo ""
+    # extend 2tnmbo " if you start feeling kinda weird or sick,{w=0.2} or your eyes start hurting or something while you're around?"
+    extend 2tnmbo "si empiezas a sentirte un poco raro o enfermo, {w=0.2}o te empiezan a doler los ojos o algo mientras estás cerca?"
 
 # game/script-topics.rpy:1230
 translate spanish talk_using_computers_healthily_2e49edc2:
 
-    # n 2cllaj "Just..."
-    n 2cllaj ""
+    # n 2cllaj "Just..."
+    n 2cllaj "Solo..."
 
 # game/script-topics.rpy:1231
 translate spanish talk_using_computers_healthily_e8a01661:
 
-    # n 1cdlsll "..."
-    n 1cdlsll ""
+    # n 1cdlsll "..."
+    n 1cdlsll "..."
 
 # game/script-topics.rpy:1232
 translate spanish talk_using_computers_healthily_6d64af54:
 
-    # n 4ccsfllsbl "...Just don't be a total dummy about it.{w=0.75}{nw}"
-    n 4ccsfllsbl ""
+    # n 4ccsfllsbl "...Just don't be a total dummy about it.{w=0.75}{nw}"
+    n 4ccsfllsbl "... Simplemente no seas un tonto al respecto. {w=0.75}{nw}"
 
 # game/script-topics.rpy:1233
 translate spanish talk_using_computers_healthily_9e345fe6:
 
-    # extend 4csqfllsbl " Alright?"
-    extend 4csqfllsbl ""
+    # extend 4csqfllsbl " Alright?"
+    extend 4csqfllsbl "¿De acuerdo?"
 
 # game/script-topics.rpy:1234
 translate spanish talk_using_computers_healthily_9ab39bb7:
 
-    # n 2clrflsbr "I'm being serious here."
-    n 2clrflsbr ""
+    # n 2clrflsbr "I'm being serious here."
+    n 2clrflsbr "Lo digo en serio."
 
 # game/script-topics.rpy:1235
 translate spanish talk_using_computers_healthily_a9dfb4b7:
 
-    # n 2cnmslsbr "Call it quits on whatever you were doing and just come back to it later.{w=0.75}{nw}"
-    n 2cnmslsbr ""
+    # n 2cnmslsbr "Call it quits on whatever you were doing and just come back to it later.{w=0.75}{nw}"
+    n 2cnmslsbr "Deja lo que estés haciendo y vuelve a ello más tarde. {w=0.75}{nw}"
 
 # game/script-topics.rpy:1236
 translate spanish talk_using_computers_healthily_eff618a2:
 
-    # extend 1csqbosbr " Got it?"
-    extend 1csqbosbr ""
+    # extend 1csqbosbr " Got it?"
+    extend 1csqbosbr "¿Entendido?"
 
 # game/script-topics.rpy:1237
 translate spanish talk_using_computers_healthily_c76cf345:
 
-    # n 3ccstr "Work or some dusty old assignment can wait if you're just gonna make yourself even worse trying to impress someone."
-    n 3ccstr ""
+    # n 3ccstr "Work or some dusty old assignment can wait if you're just gonna make yourself even worse trying to impress someone."
+    n 3ccstr "El trabajo o alguna vieja y polvorienta tarea pueden esperar si solo vas a empeorar tratando de impresionar a alguien."
 
 # game/script-topics.rpy:1238
 translate spanish talk_using_computers_healthily_0933a37b:
 
-    # n 3csqbo "No,{w=0.2} your boss or professor isn't going to drop dead if that stinky report isn't done today."
-    n 3csqbo ""
+    # n 3csqbo "No,{w=0.2} your boss or professor isn't going to drop dead if that stinky report isn't done today."
+    n 3csqbo "No, {w=0.2}tu jefe o profesor no va a caer muerto si ese informe apestoso no está hecho hoy."
 
 # game/script-topics.rpy:1239
 translate spanish talk_using_computers_healthily_c888a5a7_1:
 
-    # n 1ccsss "Heh.{w=0.75}{nw}"
-    n 1ccsss ""
+    # n 1ccsss "Heh.{w=0.75}{nw}"
+    n 1ccsss "Je. {w=0.75}{nw}"
 
 # game/script-topics.rpy:1240
 translate spanish talk_using_computers_healthily_3353860c:
 
-    # extend 4clrss " Anyway,{w=0.2} think about it."
-    extend 4clrss ""
+    # extend 4clrss " Anyway,{w=0.2} think about it."
+    extend 4clrss "En fin, {w=0.2}piénsalo."
 
 # game/script-topics.rpy:1241
 translate spanish talk_using_computers_healthily_0e6dc929:
 
-    # n 3tnmbo "It isn't like you're going to pull some kind of miracle if you try and push through it all."
-    n 3tnmbo ""
+    # n 3tnmbo "It isn't like you're going to pull some kind of miracle if you try and push through it all."
+    n 3tnmbo "No es como si fueras a hacer un milagro si intentas superarlo todo."
 
 # game/script-topics.rpy:1242
 translate spanish talk_using_computers_healthily_758f3fda:
 
-    # n 3ccsaj "All you're gonna achieve is make yourself feel like crap for even longer.{w=0.75}{nw}"
-    n 3ccsaj ""
+    # n 3ccsaj "All you're gonna achieve is make yourself feel like crap for even longer.{w=0.75}{nw}"
+    n 3ccsaj "Todo lo que vas a lograr es sentirte como una mierda por más tiempo. {w=0.75}{nw}"
 
 # game/script-topics.rpy:1243
 translate spanish talk_using_computers_healthily_becc2bd5:
 
-    # extend 3fcsca " It's totally pointless."
-    extend 3fcsca ""
+    # extend 3fcsca " It's totally pointless."
+    extend 3fcsca "Es totalmente inútil."
 
 # game/script-topics.rpy:1246
 translate spanish talk_using_computers_healthily_77b82218:
 
-    # n 2cllca "...And besides,{w=0.2} [player]."
-    n 2cllca ""
+    # n 2cllca "...And besides,{w=0.2} [player]."
+    n 2cllca "... Y además, {w=0.2}[player]."
 
 # game/script-topics.rpy:1247
 translate spanish talk_using_computers_healthily_e15a2e8d:
 
-    # n 2cllpulsbl "You know I'm not going to get mad or anything if you have to take a rain check on our time together..."
-    n 2cllpulsbl ""
+    # n 2cllpulsbl "You know I'm not going to get mad or anything if you have to take a rain check on our time together..."
+    n 2cllpulsbl "Sabes que no me voy a enojar ni nada si tienes que posponer nuestro tiempo juntos..."
 
 # game/script-topics.rpy:1248
 translate spanish talk_using_computers_healthily_620992df:
 
-    # n 4knmbolsbl "Right?"
-    n 4knmbolsbl ""
+    # n 4knmbolsbl "Right?"
+    n 4knmbolsbl "¿Verdad?"
 
 # game/script-topics.rpy:1249
 translate spanish talk_using_computers_healthily_f2820a0e:
 
-    # n 4klrbolsbl "..."
-    n 4klrbolsbl ""
+    # n 4klrbolsbl "..."
+    n 4klrbolsbl "..."
 
 # game/script-topics.rpy:1250
 translate spanish talk_using_computers_healthily_3efb7c3f:
 
-    # n 2ccsfllesisbl "..."
-    n 2ccsfllesisbl ""
+    # n 2ccsfllesisbl "..."
+    n 2ccsfllesisbl "..."
 
 # game/script-topics.rpy:1251
 translate spanish talk_using_computers_healthily_0ae3fc79:
 
-    # n 2cnmsll "...Look."
-    n 2cnmsll ""
+    # n 2cnmsll "...Look."
+    n 2cnmsll "... Mira."
 
 # game/script-topics.rpy:1252
 translate spanish talk_using_computers_healthily_3834d65c:
 
-    # n 1fcspul "I...{w=1}{nw}"
-    n 1fcspul ""
+    # n 1fcspul "I...{w=1}{nw}"
+    n 1fcspul "Yo... {w=1}{nw}"
 
 # game/script-topics.rpy:1255
 translate spanish talk_using_computers_healthily_2f20a116:
 
-    # extend 1ncspul " really...{w=1}{nw}"
-    extend 1ncspul ""
+    # extend 1ncspul " really...{w=1}{nw}"
+    extend 1ncspul "de verdad... {w=1}{nw}"
 
 # game/script-topics.rpy:1258
 translate spanish talk_using_computers_healthily_ffc8650f:
 
-    # extend 4csrbol " care about you,{w=0.2} [chosen_descriptor].{w=0.75}{nw}"
-    extend 4csrbol ""
+    # extend 4csrbol " care about you,{w=0.2} [chosen_descriptor].{w=0.75}{nw}"
+    extend 4csrbol "me preocupo por ti, {w=0.2}[chosen_descriptor]. {w=0.75}{nw}"
 
 # game/script-topics.rpy:1259
 translate spanish talk_using_computers_healthily_cac07fcd:
 
-    # extend 5cnmbol " You should seriously know that by now."
-    extend 5cnmbol ""
+    # extend 5cnmbol " You should seriously know that by now."
+    extend 5cnmbol "En serio, ya deberías saberlo."
 
 # game/script-topics.rpy:1260
 translate spanish talk_using_computers_healthily_f7a5cc8d:
 
-    # n 3ccsajl "...Just like you should know you I'm {i}not{/i} gonna be impressed by some weird macho display of toughing it out."
-    n 3ccsajl ""
+    # n 3ccsajl "...Just like you should know you I'm {i}not{/i} gonna be impressed by some weird macho display of toughing it out."
+    n 3ccsajl "... Así como deberías saber que {i}no{/i} me va a impresionar ninguna muestra extraña y machista de aguantar."
 
 # game/script-topics.rpy:1261
 translate spanish talk_using_computers_healthily_fc9140f9:
 
-    # n 3cnmpol "Capiche?"
-    n 3cnmpol ""
+    # n 3cnmpol "Capiche?"
+    n 3cnmpol "¿Capiche?"
 
 # game/script-topics.rpy:1262
 translate spanish talk_using_computers_healthily_9574d65d:
 
-    # n 3cslbol "..."
-    n 3cslbol ""
+    # n 3cslbol "..."
+    n 3cslbol "..."
 
 # game/script-topics.rpy:1265
 translate spanish talk_using_computers_healthily_ff3be63b:
 
-    # n 2cllflsbr "A-{w=0.2}and besides,{w=0.2} [player].{w=0.75}{nw}"
-    n 2cllflsbr ""
+    # n 2cllflsbr "A-{w=0.2}and besides,{w=0.2} [player].{w=0.75}{nw}"
+    n 2cllflsbr "Y-{w=0.2}Y además, {w=0.2}[player]. {w=0.75}{nw}"
 
 # game/script-topics.rpy:1266
 translate spanish talk_using_computers_healthily_50eec2f5:
 
-    # extend 2ccssllsbl " I'm not {i}that{/i} selfish."
-    extend 2ccssllsbl ""
+    # extend 2ccssllsbl " I'm not {i}that{/i} selfish."
+    extend 2ccssllsbl "No soy {i}tan{/i} egoísta."
 
 # game/script-topics.rpy:1267
 translate spanish talk_using_computers_healthily_53bce56c:
 
-    # n 4csrajlsbl "You {i}do{/i} know I won't get mad or anything if you really have to go for a while..."
-    n 4csrajlsbl ""
+    # n 4csrajlsbl "You {i}do{/i} know I won't get mad or anything if you really have to go for a while..."
+    n 4csrajlsbl "Sabes que no me enfadaré ni nada si de verdad tienes que irte un rato..."
 
 # game/script-topics.rpy:1268
 translate spanish talk_using_computers_healthily_70227bbe:
 
-    # n 4cnmsllsbl "Right?"
-    n 4cnmsllsbl ""
+    # n 4cnmsllsbl "Right?"
+    n 4cnmsllsbl "¿Verdad?"
 
 # game/script-topics.rpy:1269
 translate spanish talk_using_computers_healthily_2ed3bb6c:
 
-    # n 1cslbolsbl "..."
-    n 1cslbolsbl ""
+    # n 1cslbolsbl "..."
+    n 1cslbolsbl "..."
 
 # game/script-topics.rpy:1272
 translate spanish talk_using_computers_healthily_e43b2825:
 
-    # n 2fcstr "A-{w=0.2}and besides,{w=0.2} [player]."
-    n 2fcstr ""
+    # n 2fcstr "A-{w=0.2}and besides,{w=0.2} [player]."
+    n 2fcstr "Y-{w=0.2}Y además, {w=0.2}[player]."
 
 # game/script-topics.rpy:1273
 translate spanish talk_using_computers_healthily_404e48e2:
 
-    # n 2clrajsbl "It's not like I'm gonna get mad at you or anything like that either if you gotta duck out.{w=0.75}{nw}"
-    n 2clrajsbl ""
+    # n 2clrajsbl "It's not like I'm gonna get mad at you or anything like that either if you gotta duck out.{w=0.75}{nw}"
+    n 2clrajsbl "Tampoco es que me vaya a enojar contigo ni nada de eso si tienes que salir. {w=0.75}{nw}"
 
 # game/script-topics.rpy:1274
 translate spanish talk_using_computers_healthily_b56f4057:
 
-    # extend 2clrsll " Even I'm not that much of a jerk."
-    extend 2clrsll ""
+    # extend 2clrsll " Even I'm not that much of a jerk."
+    extend 2clrsll "Ni siquiera yo soy tan imbécil."
 
 # game/script-topics.rpy:1275
 translate spanish talk_using_computers_healthily_e524e8f3:
 
-    # n 1clrbol "..."
-    n 1clrbol ""
+    # n 1clrbol "..."
+    n 1clrbol "..."
 
 # game/script-topics.rpy:1277
 translate spanish talk_using_computers_healthily_e40b0036:
 
-    # n 4ccsflsbr "A-{w=0.2}anyway."
-    n 4ccsflsbr ""
+    # n 4ccsflsbr "A-{w=0.2}anyway."
+    n 4ccsflsbr "D-{w=0.2}De todos modos."
 
 # game/script-topics.rpy:1278
 translate spanish talk_using_computers_healthily_cbee8baf:
 
-    # n 4ullaj "I've gone on way long enough already,{w=0.5}{nw}"
-    n 4ullaj ""
+    # n 4ullaj "I've gone on way long enough already,{w=0.5}{nw}"
+    n 4ullaj "Ya he hablado bastante, {w=0.5}{nw}"
 
 # game/script-topics.rpy:1279
 translate spanish talk_using_computers_healthily_8b9d596e:
 
-    # extend 2cnmca " so I'm just gonna say this,{w=0.2} [player]."
-    extend 2cnmca ""
+    # extend 2cnmca " so I'm just gonna say this,{w=0.2} [player]."
+    extend 2cnmca "así que solo voy a decir esto, {w=0.2}[player]."
 
 # game/script-topics.rpy:1280
 translate spanish talk_using_computers_healthily_fa6fe157:
 
-    # n 7fcsaj "You might end up with a crappy back or nasty eyes if you aren't careful..."
-    n 7fcsaj ""
+    # n 7fcsaj "You might end up with a crappy back or nasty eyes if you aren't careful..."
+    n 7fcsaj "Podrías terminar con la espalda hecha un asco o los ojos fastidiados si no tienes cuidado..."
 
 # game/script-topics.rpy:1281
 translate spanish talk_using_computers_healthily_f979fe8e:
 
-    # n 3fcspo "...But that's gonna be nothing compared to the grade-A earache you're getting if you come crying to me later!"
-    n 3fcspo ""
+    # n 3fcspo "...But that's gonna be nothing compared to the grade-A earache you're getting if you come crying to me later!"
+    n 3fcspo "... ¡Pero eso no será nada comparado con el dolor de oído de primera que te espera si vienes a llorarme después!"
 
 # game/script-topics.rpy:1282
 translate spanish talk_using_computers_healthily_0ed1411f:
 
-    # n 3fsqsm "Ehehe."
-    n 3fsqsm ""
+    # n 3fsqsm "Ehehe."
+    n 3fsqsm "Ehehe."
 
 # game/script-topics.rpy:1286
 translate spanish talk_using_computers_healthily_d0537e62:
 
-    # n 4fchbll "Love you too,{w=0.2} [chosen_tease]!"
-    n 4fchbll ""
+    # n 4fchbll "Love you too,{w=0.2} [chosen_tease]!"
+    n 4fchbll "¡Yo también te amo, {w=0.2}[chosen_tease]!"
 
 # game/script-topics.rpy:1290
 translate spanish talk_using_computers_healthily_2e744653:
 
-    # n 4fchgnedz "You're welcome,{w=0.2} [chosen_descriptor]!"
-    n 4fchgnedz ""
+    # n 4fchgnedz "You're welcome,{w=0.2} [chosen_descriptor]!"
+    n 4fchgnedz "De nada, {w=0.2}[chosen_descriptor]!"
 
 # game/script-topics.rpy:1312
 translate spanish talk_staying_active_aeff5a4c:
 
-    # n 1nnmbo "Hey,{w=0.1} [player]..."
-    n 1nnmbo ""
+    # n 1nnmbo "Hey,{w=0.1} [player]..."
+    n 1nnmbo "Oye, {w=0.1}[player]..."
 
 # game/script-topics.rpy:1313
 translate spanish talk_staying_active_c3bcc0dc:
 
-    # n 3nllsr "You should get out more."
-    n 3nllsr ""
+    # n 3nllsr "You should get out more."
+    n 3nllsr "Deberías salir más."
 
 # game/script-topics.rpy:1314
 translate spanish talk_staying_active_f6c57e0b:
 
-    # n 1fsqsm "..."
-    n 1fsqsm ""
+    # n 1fsqsm "..."
+    n 1fsqsm "..."
 
 # game/script-topics.rpy:1315
 translate spanish talk_staying_active_fb803084:
 
-    # n 4fchbg "Ahaha!{w=0.2} No,{w=0.1} really!{w=0.2} I'm serious!"
-    n 4fchbg ""
+    # n 4fchbg "Ahaha!{w=0.2} No,{w=0.1} really!{w=0.2} I'm serious!"
+    n 4fchbg "¡Jajaja! {w=0.2}¡No, {w=0.1}en serio! {w=0.2}¡Lo digo en serio!"
 
 # game/script-topics.rpy:1316
 translate spanish talk_staying_active_373e2ca3:
 
-    # n 1ulraj "At school,{w=0.1} it was super easy to get exercise since we had to walk everywhere,{w=0.1} and we had sports and such..."
-    n 1ulraj ""
+    # n 1ulraj "At school,{w=0.1} it was super easy to get exercise since we had to walk everywhere,{w=0.1} and we had sports and such..."
+    n 1ulraj "En la escuela, {w=0.1}era súper fácil hacer ejercicio porque teníamos que caminar por todas partes, {w=0.1}y teníamos deportes y todo eso..."
 
 # game/script-topics.rpy:1317
 translate spanish talk_staying_active_476a8a98:
 
-    # n 1nsqsf "It's not so straightforward when you have a job and other stuff to worry about,{w=0.1} though."
-    n 1nsqsf ""
+    # n 1nsqsf "It's not so straightforward when you have a job and other stuff to worry about,{w=0.1} though."
+    n 1nsqsf "Sin embargo, {w=0.1}no es tan sencillo cuando tienes un trabajo y otras cosas de las que preocuparte."
 
 # game/script-topics.rpy:1318
 translate spanish talk_staying_active_1a2b594f:
 
-    # n 2fllss "I'm not gonna lie and say I worked out or anything like that..."
-    n 2fllss ""
+    # n 2fllss "I'm not gonna lie and say I worked out or anything like that..."
+    n 2fllss "No voy a mentir y decir que hice ejercicio ni nada por el estilo..."
 
 # game/script-topics.rpy:1319
 translate spanish talk_staying_active_67ffff64:
 
-    # n 1ullaj "But I tried to get some walks in when I could.{w=0.5}{nw}"
-    n 1ullaj ""
+    # n 1ullaj "But I tried to get some walks in when I could.{w=0.5}{nw}"
+    n 1ullaj "Pero intentaba salir a caminar cuando podía. {w=0.5}{nw}"
 
 # game/script-topics.rpy:1320
 translate spanish talk_staying_active_7dcc0c13:
 
-    # extend 4uchgn " Any excuse to hit the bookshop is reason enough for me!"
-    extend 4uchgn ""
+    # extend 4uchgn " Any excuse to hit the bookshop is reason enough for me!"
+    extend 4uchgn "¡Cualquier excusa para ir a la librería es suficiente para mí!"
 
 # game/script-topics.rpy:1321
 translate spanish talk_staying_active_1e6cfbef:
 
-    # n 2kslsl "...Or {i}was{/i} reason enough, anyway."
-    n 2kslsl ""
+    # n 2kslsl "...Or {i}was{/i} reason enough, anyway."
+    n 2kslsl "... O {i}era{/i} razón suficiente, de todos modos."
 
 # game/script-topics.rpy:1322
 translate spanish talk_staying_active_49a1eba8:
 
-    # n 1fllaj "But still {w=0.1}-{w=0.5}{nw}"
-    n 1fllaj ""
+    # n 1fllaj "But still {w=0.1}-{w=0.5}{nw}"
+    n 1fllaj "Pero aún así {w=0.1}-{w=0.5}{nw}"
 
 # game/script-topics.rpy:1323
 translate spanish talk_staying_active_096a84ce:
 
-    # extend 1unmbg " you should give it a shot too,{w=0.1} [player]!"
-    extend 1unmbg ""
+    # extend 1unmbg " you should give it a shot too,{w=0.1} [player]!"
+    extend 1unmbg "¡tú también deberías intentarlo, {w=0.1}[player]!"
 
 # game/script-topics.rpy:1324
 translate spanish talk_staying_active_baf78c17:
 
-    # n 1nlrss "It doesn't have to be a hike or anything crazy{w=0.1} -{w=0.3}{nw}"
-    n 1nlrss ""
+    # n 1nlrss "It doesn't have to be a hike or anything crazy{w=0.1} -{w=0.3}{nw}"
+    n 1nlrss "No tiene por qué ser una caminata o algo loco {w=0.1}-{w=0.3}{nw}"
 
 # game/script-topics.rpy:1325
 translate spanish talk_staying_active_d46be77e:
 
-    # extend 1nnmsm " it's more about keeping at it,{w=0.1} really."
-    extend 1nnmsm ""
+    # extend 1nnmsm " it's more about keeping at it,{w=0.1} really."
+    extend 1nnmsm "en realidad se trata más de mantenerlo, {w=0.1}de verdad."
 
 # game/script-topics.rpy:1326
 translate spanish talk_staying_active_e9be36db:
 
-    # n 1fchsm "Even a daily ten minute walk will help you feel refreshed and awake!"
-    n 1fchsm ""
+    # n 1fchsm "Even a daily ten minute walk will help you feel refreshed and awake!"
+    n 1fchsm "¡Incluso una caminata diaria de diez minutos te ayudará a sentirte renovado y despierto!"
 
 # game/script-topics.rpy:1327
 translate spanish talk_staying_active_994dbe70:
 
-    # n 4ullaj "So...{w=0.5}{nw}"
-    n 4ullaj ""
+    # n 4ullaj "So...{w=0.5}{nw}"
+    n 4ullaj "Así que... {w=0.5}{nw}"
 
 # game/script-topics.rpy:1328
 translate spanish talk_staying_active_12988937:
 
-    # extend 4fnmss " make sure you get out soon,{w=0.1} [player]."
-    extend 4fnmss ""
+    # extend 4fnmss " make sure you get out soon,{w=0.1} [player]."
+    extend 4fnmss "asegúrate de salir pronto, {w=0.1}[player]."
 
 # game/script-topics.rpy:1331
 translate spanish talk_staying_active_fdef3354:
 
-    # n 3fchbg "I wanna see you fighting fit!{w=0.5}{nw}"
-    n 3fchbg ""
+    # n 3fchbg "I wanna see you fighting fit!{w=0.5}{nw}"
+    n 3fchbg "¡Quiero verte en plena forma! {w=0.5}{nw}"
 
 # game/script-topics.rpy:1332
 translate spanish talk_staying_active_a68ca77f:
 
-    # extend 3uchsm " Ehehe."
-    extend 3uchsm ""
+    # extend 3uchsm " Ehehe."
+    extend 3uchsm "Ejeje."
 
 # game/script-topics.rpy:1335
 translate spanish talk_staying_active_7724ae5a:
 
-    # n 1fchbl "It's the least you can do!"
-    n 1fchbl ""
+    # n 1fchbl "It's the least you can do!"
+    n 1fchbl "¡Es lo mínimo que puedes hacer!"
 
 # game/script-topics.rpy:1355
 translate spanish talk_relieving_stress_97f95dba:
 
-    # n 1ullaj "You know,{w=0.1} I'll admit it,{w=0.1} [player]."
-    n 1ullaj ""
+    # n 1ullaj "You know,{w=0.1} I'll admit it,{w=0.1} [player]."
+    n 1ullaj "Sabes, {w=0.1}lo admito, {w=0.1}[player]."
 
 # game/script-topics.rpy:1356
 translate spanish talk_relieving_stress_4659d6ce:
 
-    # n 2flrbgsbl "I...{w=0.3} kinda have a short fuse.{w=0.5}{nw}"
-    n 2flrbgsbl ""
+    # n 2flrbgsbl "I...{w=0.3} kinda have a short fuse.{w=0.5}{nw}"
+    n 2flrbgsbl "Yo... {w=0.3}soy un poco impaciente. {w=0.5}{nw}"
 
 # game/script-topics.rpy:1357
 translate spanish talk_relieving_stress_02875c02:
 
-    # extend 1klrsssbl " Ehehe."
-    extend 1klrsssbl ""
+    # extend 1klrsssbl " Ehehe."
+    extend 1klrsssbl "Ejeje."
 
 # game/script-topics.rpy:1358
 translate spanish talk_relieving_stress_1153b48d:
 
-    # n 1fnmss "I've been trying to work on that though,{w=0.3}{nw}"
-    n 1fnmss ""
+    # n 1fnmss "I've been trying to work on that though,{w=0.3}{nw}"
+    n 1fnmss "He estado intentando trabajar en eso, {w=0.3}{nw}"
 
 # game/script-topics.rpy:1359
 translate spanish talk_relieving_stress_fb53539b:
 
-    # extend 1fchbg " and I'd love to share some of the ways I deal with stress!"
-    extend 1fchbg ""
+    # extend 1fchbg " and I'd love to share some of the ways I deal with stress!"
+    extend 1fchbg "¡y me encantaría compartir algunas de las formas en que lidio con el estrés!"
 
 # game/script-topics.rpy:1360
 translate spanish talk_relieving_stress_146af264:
 
-    # n 1unmss "Personally,{w=0.1} I think the best way to deal with it if you can is to try and create some distance."
-    n 1unmss ""
+    # n 1unmss "Personally,{w=0.1} I think the best way to deal with it if you can is to try and create some distance."
+    n 1unmss "Personalmente, {w=0.1}creo que la mejor manera de lidiar con ello, si puedes, es intentar crear algo de distancia."
 
 # game/script-topics.rpy:1361
 translate spanish talk_relieving_stress_dda27ff6:
 
-    # n 2nslss "Back before all of...{w=0.3} this,{w=0.5}{nw}"
-    n 2nslss ""
+    # n 2nslss "Back before all of...{w=0.3} this,{w=0.5}{nw}"
+    n 2nslss "Antes de todo... {w=0.3}esto, {w=0.5}{nw}"
 
 # game/script-topics.rpy:1362
 translate spanish talk_relieving_stress_dccc6b4b:
 
-    # extend 2nllss " if things got a little too much,{w=0.1} I just stepped outside if I could."
-    extend 2nllss ""
+    # extend 2nllss " if things got a little too much,{w=0.1} I just stepped outside if I could."
+    extend 2nllss "si las cosas se ponían un poco difíciles, {w=0.1}simplemente salía si podía."
 
 # game/script-topics.rpy:1363
 translate spanish talk_relieving_stress_71317724:
 
-    # n 1unmbo "Some fresh air and a change of scenery can really put things into context.{w=0.5}{nw}"
-    n 1unmbo ""
+    # n 1unmbo "Some fresh air and a change of scenery can really put things into context.{w=0.5}{nw}"
+    n 1unmbo "Un poco de aire fresco y un cambio de escenario pueden poner las cosas en contexto. {w=0.5}{nw}"
 
 # game/script-topics.rpy:1364
 translate spanish talk_relieving_stress_7c161b19:
 
-    # extend 4fwdaj " It's crazy effective!"
-    extend 4fwdaj ""
+    # extend 4fwdaj " It's crazy effective!"
+    extend 4fwdaj "¡Es increíblemente efectivo!"
 
 # game/script-topics.rpy:1365
 translate spanish talk_relieving_stress_18b6f7a0:
 
-    # n 4ulraj "But don't just create physical distance,{w=0.1} though.{w=0.5}{nw}"
-    n 4ulraj ""
+    # n 4ulraj "But don't just create physical distance,{w=0.1} though.{w=0.5}{nw}"
+    n 4ulraj "Pero no solo crees distancia física, {w=0.1}eso sí. {w=0.5}{nw}"
 
 # game/script-topics.rpy:1366
 translate spanish talk_relieving_stress_de2c7e34:
 
-    # extend 1fnmpu " Distance yourself mentally too!"
-    extend 1fnmpu ""
+    # extend 1fnmpu " Distance yourself mentally too!"
+    extend 1fnmpu "¡Distánciate mentalmente también!"
 
 # game/script-topics.rpy:1367
 translate spanish talk_relieving_stress_48e4e49e:
 
-    # n 3ncssr "If something is stressing you out,{w=0.1} you need to starve it of attention."
-    n 3ncssr ""
+    # n 3ncssr "If something is stressing you out,{w=0.1} you need to starve it of attention."
+    n 3ncssr "Si algo te está estresando, {w=0.1}necesitas privarlo de atención."
 
 # game/script-topics.rpy:1368
 translate spanish talk_relieving_stress_ad77858c:
 
-    # n 3fslpo "I can't really go outside now,{w=0.5}{nw}"
-    n 3fslpo ""
+    # n 3fslpo "I can't really go outside now,{w=0.5}{nw}"
+    n 3fslpo "Ahora mismo no puedo salir, {w=0.5}{nw}"
 
 # game/script-topics.rpy:1369
 translate spanish talk_relieving_stress_87041b36:
 
-    # extend 1nllsf " so I just read something,{w=0.1} or watch some dumb videos."
-    extend 1nllsf ""
+    # extend 1nllsf " so I just read something,{w=0.1} or watch some dumb videos."
+    extend 1nllsf "así que simplemente leo algo {w=0.1}o veo videos tontos."
 
 # game/script-topics.rpy:1370
 translate spanish talk_relieving_stress_47135665:
 
-    # n 1fchbg "But do whatever works for you; {w=0.1}we all have our own comfort zones!"
-    n 1fchbg ""
+    # n 1fchbg "But do whatever works for you; {w=0.1}we all have our own comfort zones!"
+    n 1fchbg "Pero haz lo que te funcione; {w=0.1}¡todos tenemos nuestras propias zonas de confort!"
 
 # game/script-topics.rpy:1371
 translate spanish talk_relieving_stress_f35da866:
 
-    # n 2fslpo "A-{w=0.1}and of course,{w=0.1} you could always come see me,{w=0.1} you know..."
-    n 2fslpo ""
+    # n 2fslpo "A-{w=0.1}and of course,{w=0.1} you could always come see me,{w=0.1} you know..."
+    n 2fslpo "Y-{w=0.1}Y claro, {w=0.1}siempre podrías venir a verme, {w=0.1}sabes..."
 
 # game/script-topics.rpy:1372
 translate spanish talk_relieving_stress_d8347c83:
 
-    # n 1fchbgl "A-{w=0.1}anyway!"
-    n 1fchbgl ""
+    # n 1fchbgl "A-{w=0.1}anyway!"
+    n 1fchbgl "¡D-{w=0.1}De todos modos!"
 
 # game/script-topics.rpy:1373
 translate spanish talk_relieving_stress_10b0caa9:
 
-    # n 1unmpu "The point is to always try and come back with a clean headspace,{w=0.3}{nw}"
-    n 1unmpu ""
+    # n 1unmpu "The point is to always try and come back with a clean headspace,{w=0.3}{nw}"
+    n 1unmpu "El punto es intentar siempre volver con la mente despejada, {w=0.3}{nw}"
 
 # game/script-topics.rpy:1374
 translate spanish talk_relieving_stress_5cd4bfed:
 
-    # extend 1nnmss " and don't sweat the small things."
-    extend 1nnmss ""
+    # extend 1nnmss " and don't sweat the small things."
+    extend 1nnmss "y no te preocupes por las cosas pequeñas."
 
 # game/script-topics.rpy:1375
 translate spanish talk_relieving_stress_9edeb88f:
 
-    # n 4tnmss "You can manage that,{w=0.1} right [player]?"
-    n 4tnmss ""
+    # n 4tnmss "You can manage that,{w=0.1} right [player]?"
+    n 4tnmss "Puedes con eso, {w=0.1}¿verdad [player]?"
 
 # game/script-topics.rpy:1376
 translate spanish talk_relieving_stress_a6241922:
 
-    # n 1uchsm "I'll keep working on it if you do!"
-    n 1uchsm ""
+    # n 1uchsm "I'll keep working on it if you do!"
+    n 1uchsm "¡Seguiré trabajando en ello si tú lo haces!"
 
 # game/script-topics.rpy:1396
 translate spanish talk_careful_spending_5489f04e:
 
-    # n 1tllsr "..."
-    n 1tllsr ""
+    # n 1tllsr "..."
+    n 1tllsr "..."
 
 # game/script-topics.rpy:1397
 translate spanish talk_careful_spending_beb45de8:
 
-    # n 1fllsr "..."
-    n 1fllsr ""
+    # n 1fllsr "..."
+    n 1fllsr "..."
 
 # game/script-topics.rpy:1398
 translate spanish talk_careful_spending_0a209b24:
 
-    # n 1tnmpu "Hmm...?"
-    n 1tnmpu ""
+    # n 1tnmpu "Hmm...?"
+    n 1tnmpu "¿Hmm...?"
 
 # game/script-topics.rpy:1399
 translate spanish talk_careful_spending_8454679a:
 
-    # n 4uwdgsesu "O-{w=0.1}oh!{w=0.5}{nw}"
-    n 4uwdgsesu ""
+    # n 4uwdgsesu "O-{w=0.1}oh!{w=0.5}{nw}"
+    n 4uwdgsesu "¡Ah, {w=0.1}oh! {w=0.5}{nw}"
 
 # game/script-topics.rpy:1400
 translate spanish talk_careful_spending_eb0df638:
 
-    # extend 1flrbg " A-{w=0.1}aha!{w=0.5}{nw}"
-    extend 1flrbg ""
+    # extend 1flrbg " A-{w=0.1}aha!{w=0.5}{nw}"
+    extend 1flrbg "¡Ja, {w=0.1}ja! {w=0.5}{nw}"
 
 # game/script-topics.rpy:1401
 translate spanish talk_careful_spending_860435fc:
 
-    # extend 4fsrdvl " I spaced out!"
-    extend 4fsrdvl ""
+    # extend 4fsrdvl " I spaced out!"
+    extend 4fsrdvl "¡Me distraje!"
 
 # game/script-topics.rpy:1402
 translate spanish talk_careful_spending_03658ac7:
 
-    # n 1unmaj "I was just thinking..."
-    n 1unmaj ""
+    # n 1unmaj "I was just thinking..."
+    n 1unmaj "Estaba pensando..."
 
 # game/script-topics.rpy:1403
 translate spanish talk_careful_spending_861d3e72:
 
-    # n 1flrbo "It's so easy to spend more than you mean nowadays,{w=0.1} you know?"
-    n 1flrbo ""
+    # n 1flrbo "It's so easy to spend more than you mean nowadays,{w=0.1} you know?"
+    n 1flrbo "Es tan fácil gastar más de lo que uno quiere hoy en día, {w=0.1}¿sabes?"
 
 # game/script-topics.rpy:1404
 translate spanish talk_careful_spending_db483219:
 
-    # n 2flrpu "Like...{w=0.3} it seems everywhere you look,{w=0.1} there's a sale,{w=0.1} or deals,{w=0.1} or some kind of special offer..."
-    n 2flrpu ""
+    # n 2flrpu "Like...{w=0.3} it seems everywhere you look,{w=0.1} there's a sale,{w=0.1} or deals,{w=0.1} or some kind of special offer..."
+    n 2flrpu "Como... {w=0.3}parece que mires donde mires, {w=0.1}hay rebajas, {w=0.1}o ofertas, {w=0.1}o algún tipo de promoción especial..."
 
 # game/script-topics.rpy:1405
 translate spanish talk_careful_spending_38310fd7:
 
-    # n 1unmpu "And every place accepts all kinds of ways of paying,{w=0.1} too.{w=0.5}{nw}"
-    n 1unmpu ""
+    # n 1unmpu "And every place accepts all kinds of ways of paying,{w=0.1} too.{w=0.5}{nw}"
+    n 1unmpu "Y en todos los sitios aceptan todo tipo de formas de pago, {w=0.1}también. {w=0.5}{nw}"
 
 # game/script-topics.rpy:1406
 translate spanish talk_careful_spending_71ce7b71:
 
-    # extend 3fsrpo " They make it super convenient!"
-    extend 3fsrpo ""
+    # extend 3fsrpo " They make it super convenient!"
+    extend 3fsrpo "¡Lo hacen súper cómodo!"
 
 # game/script-topics.rpy:1407
 translate spanish talk_careful_spending_eaa8e850:
 
-    # n 3fnmun "I guess what I'm getting at is...{w=0.3} try to be careful of your spending habits,{w=0.1} okay?"
-    n 3fnmun ""
+    # n 3fnmun "I guess what I'm getting at is...{w=0.3} try to be careful of your spending habits,{w=0.1} okay?"
+    n 3fnmun "Supongo que a lo que me refiero es... {w=0.3}intenta tener cuidado con tus hábitos de gasto, {w=0.1}¿okey?"
 
 # game/script-topics.rpy:1408
 translate spanish talk_careful_spending_61d20a36:
 
-    # n 1uslss "Try not to buy junk you don't need{w=0.1} -{w=0.3}{nw}"
-    n 1uslss ""
+    # n 1uslss "Try not to buy junk you don't need{w=0.1} -{w=0.3}{nw}"
+    n 1uslss "Intenta no comprar cosas que no necesitas {w=0.1}-{w=0.3}{nw}"
 
 # game/script-topics.rpy:1409
 translate spanish talk_careful_spending_34b890f0:
 
-    # extend 1flrbg " think of how much you threw away the last time you cleaned out!"
-    extend 1flrbg ""
+    # extend 1flrbg " think of how much you threw away the last time you cleaned out!"
+    extend 1flrbg " ¡piensa en cuánto tiraste la última vez que hiciste limpieza!"
 
 # game/script-topics.rpy:1410
 translate spanish talk_careful_spending_47205773:
 
-    # n 4uwdajl "T-{w=0.1}that's not to say you shouldn't treat yourself,{w=0.1} of course!{w=0.5}{nw}"
-    n 4uwdajl ""
+    # n 4uwdajl "T-{w=0.1}that's not to say you shouldn't treat yourself,{w=0.1} of course!{w=0.5}{nw}"
+    n 4uwdajl "¡E-{w=0.1}Eso no quiere decir que no debas darte un capricho, {w=0.1}por supuesto! {w=0.5}{nw}"
 
 # game/script-topics.rpy:1411
 translate spanish talk_careful_spending_b0eec481:
 
-    # extend 4flrssl " You deserve cool stuff too!"
-    extend 4flrssl ""
+    # extend 4flrssl " You deserve cool stuff too!"
+    extend 4flrssl "¡Tú también te mereces cosas geniales!"
 
 # game/script-topics.rpy:1412
 translate spanish talk_careful_spending_af0050a9:
 
-    # n 1fcsss "Money can't buy happiness...{w=0.5}{nw}"
-    n 1fcsss ""
+    # n 1fcsss "Money can't buy happiness...{w=0.5}{nw}"
+    n 1fcsss "El dinero no puede comprar la felicidad... {w=0.5}{nw}"
 
 # game/script-topics.rpy:1413
 translate spanish talk_careful_spending_6285bdba:
 
-    # extend 1fchgn " but it sure as hell makes finding it easier.{w=0.5}{nw}"
-    extend 1fchgn ""
+    # extend 1fchgn " but it sure as hell makes finding it easier.{w=0.5}{nw}"
+    extend 1fchgn "pero seguro que hace que encontrarla sea más fácil. {w=0.5}{nw}"
 
 # game/script-topics.rpy:1414
 translate spanish talk_careful_spending_404e61f2:
 
-    # extend 1uchbselg " Ahaha!"
-    extend 1uchbselg ""
+    # extend 1uchbselg " Ahaha!"
+    extend 1uchbselg "¡Jajaja!"
 
 # game/script-topics.rpy:1415
 translate spanish talk_careful_spending_67aa5705:
 
-    # n 4nllss "Well,{w=0.1} anyway.{w=0.5}{nw}"
-    n 4nllss ""
+    # n 4nllss "Well,{w=0.1} anyway.{w=0.5}{nw}"
+    n 4nllss "Bueno, {w=0.1}en fin. {w=0.5}{nw}"
 
 # game/script-topics.rpy:1416
 translate spanish talk_careful_spending_c0cdb51b:
 
-    # extend 1tnmsg " Just try to think a little before you spend,{w=0.1} [player]{w=0.1} -{w=0.3}{nw}"
-    extend 1tnmsg ""
+    # extend 1tnmsg " Just try to think a little before you spend,{w=0.1} [player]{w=0.1} -{w=0.3}{nw}"
+    extend 1tnmsg "Solo intenta pensar un poco antes de gastar, {w=0.1}[player] {w=0.1}-{w=0.3}{nw}"
 
 # game/script-topics.rpy:1417
 translate spanish talk_careful_spending_c9febf48:
 
-    # extend 1uchbs " that's all I'm saying!"
-    extend 1uchbs ""
+    # extend 1uchbs " that's all I'm saying!"
+    extend 1uchbs " ¡eso es todo lo que digo!"
 
 # game/script-topics.rpy:1420
 translate spanish talk_careful_spending_4ad7039c:
 
-    # n 3nslbg "Besides..."
-    n 3nslbg ""
+    # n 3nslbg "Besides..."
+    n 3nslbg "Además..."
 
 # game/script-topics.rpy:1421
 translate spanish talk_careful_spending_b7fe0a03:
 
-    # n 1fsqsm "Gotta save up all we can for when we can hang out,{w=0.1} right?{w=0.5}{nw}"
-    n 1fsqsm ""
+    # n 1fsqsm "Gotta save up all we can for when we can hang out,{w=0.1} right?{w=0.5}{nw}"
+    n 1fsqsm "Hay que ahorrar todo lo que podamos para cuando podamos salir, {w=0.1}¿verdad? {w=0.5}{nw}"
 
 # game/script-topics.rpy:1422
 translate spanish talk_careful_spending_fbc1fc5d:
 
-    # extend 1uchsm " Ehehe."
-    extend 1uchsm ""
+    # extend 1uchsm " Ehehe."
+    extend 1uchsm "Ejeje."
 
 # game/script-topics.rpy:1425
 translate spanish talk_careful_spending_e923f964:
 
-    # n 4uchbgl "Love you,{w=0.1} [player]~!"
-    n 4uchbgl ""
+    # n 4uchbgl "Love you,{w=0.1} [player]~!"
+    n 4uchbgl "¡Te amo, {w=0.1}[player]~!"
 
 # game/script-topics.rpy:1446
 translate spanish talk_eating_well_707dbc11:
 
-    # n 4unmaj "Hey,{w=0.1} [player]..."
-    n 4unmaj ""
+    # n 4unmaj "Hey,{w=0.1} [player]..."
+    n 4unmaj "Hey, {w=0.1}[player]..."
 
 # game/script-topics.rpy:1448
 translate spanish talk_eating_well_7c21b98f:
 
-    # n "Have you eaten today?" nointeract
-    n "" nointeract
+    # n "Have you eaten today?" nointeract
+    n "¿Has comido hoy?" nointeract
 
 # game/script-topics.rpy:1451
 translate spanish talk_eating_well_160bd1cf:
 
-    # n 1fnmbg "Aha!{w=0.5}{nw}"
-    n 1fnmbg ""
+    # n 1fnmbg "Aha!{w=0.5}{nw}"
+    n 1fnmbg "¡Ajá! {w=0.5}{nw}"
 
 # game/script-topics.rpy:1452
 translate spanish talk_eating_well_9a8165b2:
 
-    # extend 3fsqbg " But did you eat {i}well{/i},{w=0.1} [player]?"
-    extend 3fsqbg ""
+    # extend 3fsqbg " But did you eat {i}well{/i},{w=0.1} [player]?"
+    extend 3fsqbg "Pero, ¿comiste {i}bien{/i}, {w=0.1}[player]?"
 
 # game/script-topics.rpy:1455
 translate spanish talk_eating_well_50fa992b:
 
-    # n 1knmpu "Huh?{w=0.2} What?{w=0.5}{nw}"
-    n 1knmpu ""
+    # n 1knmpu "Huh?{w=0.2} What?{w=0.5}{nw}"
+    n 1knmpu "¿Eh? {w=0.2}¿Qué? {w=0.5}{nw}"
 
 # game/script-topics.rpy:1456
 translate spanish talk_eating_well_d56b95cb:
 
-    # extend 2knmem " Why not?!"
-    extend 2knmem ""
+    # extend 2knmem " Why not?!"
+    extend 2knmem "¡¿Por qué no?!"
 
 # game/script-topics.rpy:1457
 translate spanish talk_eating_well_e4db51a9:
 
-    # n 1fnmpu "You aren't skipping meals,{w=0.1} are you?"
-    n 1fnmpu ""
+    # n 1fnmpu "You aren't skipping meals,{w=0.1} are you?"
+    n 1fnmpu "No te estás saltando comidas, {w=0.1}¿verdad?"
 
 # game/script-topics.rpy:1458
 translate spanish talk_eating_well_2faf2d9b:
 
-    # n 3flrpo "You better not be,{w=0.1} [player]."
-    n 3flrpo ""
+    # n 3flrpo "You better not be,{w=0.1} [player]."
+    n 3flrpo "Más te vale que no, {w=0.1}[player]."
 
 # game/script-topics.rpy:1460
 translate spanish talk_eating_well_01db810c:
 
-    # n 1unmpu "It's super important to make sure you aren't only eating regularly,{w=0.3}{nw}"
-    n 1unmpu ""
+    # n 1unmpu "It's super important to make sure you aren't only eating regularly,{w=0.3}{nw}"
+    n 1unmpu "Es súper importante asegurarse de no solo comer regularmente, {w=0.3}{nw}"
 
 # game/script-topics.rpy:1461
 translate spanish talk_eating_well_ad1605a7:
 
-    # extend 1fnmpu " but eating decently too!"
-    extend 1fnmpu ""
+    # extend 1fnmpu " but eating decently too!"
+    extend 1fnmpu "¡sino también de comer decentemente!"
 
 # game/script-topics.rpy:1462
 translate spanish talk_eating_well_cc21f4ed:
 
-    # n 1fnmsr "The right diet makes all the difference,{w=0.1} [player]."
-    n 1fnmsr ""
+    # n 1fnmsr "The right diet makes all the difference,{w=0.1} [player]."
+    n 1fnmsr "La dieta correcta marca la diferencia, {w=0.1}[player]."
 
 # game/script-topics.rpy:1463
 translate spanish talk_eating_well_994dbe70:
 
-    # n 4ullaj "So...{w=0.5}{nw}"
-    n 4ullaj ""
+    # n 4ullaj "So...{w=0.5}{nw}"
+    n 4ullaj "Así que... {w=0.5}{nw}"
 
 # game/script-topics.rpy:1464
 translate spanish talk_eating_well_e5ff8d0e:
 
-    # extend 1nsgaj " try and make an effort with your meals,{w=0.1} got it?"
-    extend 1nsgaj ""
+    # extend 1nsgaj " try and make an effort with your meals,{w=0.1} got it?"
+    extend 1nsgaj "intenta hacer un esfuerzo con tus comidas, {w=0.1}¿entendido?"
 
 # game/script-topics.rpy:1465
 translate spanish talk_eating_well_642606a4:
 
-    # n 1fnmaj "And I mean a real effort!{w=0.5}{nw}"
-    n 1fnmaj ""
+    # n 1fnmaj "And I mean a real effort!{w=0.5}{nw}"
+    n 1fnmaj "¡Y me refiero a un esfuerzo real! {w=0.5}{nw}"
 
 # game/script-topics.rpy:1466
 translate spanish talk_eating_well_f08d1e31:
 
-    # extend 1ulrss " Try to prepare them from scratch if you can;{w=0.3}{nw}"
-    extend 1ulrss ""
+    # extend 1ulrss " Try to prepare them from scratch if you can;{w=0.3}{nw}"
+    extend 1ulrss "Intenta prepararlas desde cero si puedes; {w=0.3}{nw}"
 
 # game/script-topics.rpy:1467
 translate spanish talk_eating_well_a1eabcc3:
 
-    # extend 2fsrss " it's often cheaper than ready meals anyway."
-    extend 2fsrss ""
+    # extend 2fsrss " it's often cheaper than ready meals anyway."
+    extend 2fsrss "de todos modos, suele ser más barato que las comidas preparadas."
 
 # game/script-topics.rpy:1468
 translate spanish talk_eating_well_01779f0e:
 
-    # n 1unmss "Cut back on things like salt and sugar and stuff too...{w=0.5}{nw}"
-    n 1unmss ""
+    # n 1unmss "Cut back on things like salt and sugar and stuff too...{w=0.5}{nw}"
+    n 1unmss "Reduce también cosas como la sal y el azúcar... {w=0.5}{nw}"
 
 # game/script-topics.rpy:1469
 translate spanish talk_eating_well_2c225172:
 
-    # extend 3nslpo " as well as anything really processed."
-    extend 3nslpo ""
+    # extend 3nslpo " as well as anything really processed."
+    extend 3nslpo "así como cualquier cosa muy procesada."
 
 # game/script-topics.rpy:1470
 translate spanish talk_eating_well_81e31f6a:
 
-    # n 1unmaj "Oh {w=0.1}-{w=0.3}{nw}"
-    n 1unmaj ""
+    # n 1unmaj "Oh {w=0.1}-{w=0.3}{nw}"
+    n 1unmaj "Oh, {w=0.1}-{w=0.3}{nw}"
 
 # game/script-topics.rpy:1471
 translate spanish talk_eating_well_03cced72:
 
-    # extend 4fnmaj " and like I said,{w=0.1} have meals regularly too!"
-    extend 4fnmaj ""
+    # extend 4fnmaj " and like I said,{w=0.1} have meals regularly too!"
+    extend 4fnmaj " ¡y como dije, {w=0.1}haz comidas regularmente también!"
 
 # game/script-topics.rpy:1472
 translate spanish talk_eating_well_4c1b7898:
 
-    # n 1fchbg "You shouldn't find yourself snacking on junk if you have proper meals throughout the day."
-    n 1fchbg ""
+    # n 1fchbg "You shouldn't find yourself snacking on junk if you have proper meals throughout the day."
+    n 1fchbg "No deberías encontrarte picando comida chatarra si haces comidas adecuadas durante el día."
 
 # game/script-topics.rpy:1473
 translate spanish talk_eating_well_768ba578:
 
-    # n 1usqsm "Your bank balance and your body will thank you.{w=0.5}{nw}"
-    n 1usqsm ""
+    # n 1usqsm "Your bank balance and your body will thank you.{w=0.5}{nw}"
+    n 1usqsm "Tu saldo bancario y tu cuerpo te lo agradecerán. {w=0.5}{nw}"
 
 # game/script-topics.rpy:1474
 translate spanish talk_eating_well_12ac0b74:
 
-    # extend 4nchsm " Ehehe."
-    extend 4nchsm ""
+    # extend 4nchsm " Ehehe."
+    extend 4nchsm "Ejeje."
 
 # game/script-topics.rpy:1477
 translate spanish talk_eating_well_9eb9b5f2:
 
-    # n 1fsqsm "And besides..."
-    n 1fsqsm ""
+    # n 1fsqsm "And besides..."
+    n 1fsqsm "Y además..."
 
 # game/script-topics.rpy:1478
 translate spanish talk_eating_well_d34d761f:
 
-    # n 3usqss "I gotta get you into good habits by yourself before I'm there to make you."
-    n 3usqss ""
+    # n 3usqss "I gotta get you into good habits by yourself before I'm there to make you."
+    n 3usqss "Tengo que hacer que adquieras buenos hábitos por tu cuenta antes de que yo esté aquí para obligarte."
 
 # game/script-topics.rpy:1479
 translate spanish talk_eating_well_56e0e4fd:
 
-    # n 1fchgnelg "Ahaha!{w=0.2} I'm kidding,{w=0.1} [player]!{w=0.2} I'm kidding!"
-    n 1fchgnelg ""
+    # n 1fchgnelg "Ahaha!{w=0.2} I'm kidding,{w=0.1} [player]!{w=0.2} I'm kidding!"
+    n 1fchgnelg "¡Jajaja! {w=0.2}¡Es broma, {w=0.1}[player]! {w=0.2}¡Es broma!"
 
 # game/script-topics.rpy:1480
 translate spanish talk_eating_well_01e308b1:
 
-    # n 4fsqsm "...Mostly."
-    n 4fsqsm ""
+    # n 4fsqsm "...Mostly."
+    n 4fsqsm "... Más o menos."
 
 # game/script-topics.rpy:1483
 translate spanish talk_eating_well_e43a890e:
 
-    # n 4uchsm "Love you, [player]~!{w=0.2} Ehehe."
-    n 4uchsm ""
+    # n 4uchsm "Love you, [player]~!{w=0.2} Ehehe."
+    n 4uchsm "¡Te amo, [player]~! {w=0.2}Ejeje."
 
 # game/script-topics.rpy:1486
 translate spanish talk_eating_well_d6b6e8df:
 
-    # n 1fllss "Now...{w=0.3} where were we?"
-    n 1fllss ""
+    # n 1fllss "Now...{w=0.3} where were we?"
+    n 1fllss "Ahora... {w=0.3}¿dónde nos quedamos?"
 
 # game/script-topics.rpy:1511
 translate spanish talk_weather_setup_main_ae192c8b:
 
-    # n 4unmajesu "Oh!{w=1}{nw}"
-    n 4unmajesu ""
+    # n 4unmajesu "Oh!{w=1}{nw}"
+    n 4unmajesu "¡Oh! {w=1}{nw}"
 
 # game/script-topics.rpy:1512
 translate spanish talk_weather_setup_main_f329cd04:
 
-    # extend 1fcsbg " Yeah,{w=0.1} I remember!"
-    extend 1fcsbg ""
+    # extend 1fcsbg " Yeah,{w=0.1} I remember!"
+    extend 1fcsbg "¡Sí, {w=0.1}lo recuerdo!"
 
 # game/script-topics.rpy:1513
 translate spanish talk_weather_setup_main_7ccf95d3:
 
-    # n 1ulraj "So..."
-    n 1ulraj ""
+    # n 1ulraj "So..."
+    n 1ulraj "Así que..."
 
 # game/script-topics.rpy:1517
 translate spanish talk_weather_setup_main_ba9261a0:
 
-    # n "Where did you wanna start from,{w=0.1} [player]?" nointeract
-    n "" nointeract
+    # n "Where did you wanna start from,{w=0.1} [player]?" nointeract
+    n "¿Por dónde quieres que empecemos, {w=0.1}[player]?" nointeract
 
 # game/script-topics.rpy:1521
 translate spanish talk_weather_setup_main_cd23da09:
 
-    # n 4unmaj "You wanna give me an API key?{w=1}{nw}"
-    n 4unmaj ""
+    # n 4unmaj "You wanna give me an API key?{w=1}{nw}"
+    n 4unmaj "¿Quieres darme una clave API? {w=1}{nw}"
 
 # game/script-topics.rpy:1522
 translate spanish talk_weather_setup_main_a244ca5c:
 
-    # extend 1fchbg " Sure!"
-    extend 1fchbg ""
+    # extend 1fchbg " Sure!"
+    extend 1fchbg "¡Claro!"
 
 # game/script-topics.rpy:1523
 translate spanish talk_weather_setup_main_2d69dbfa:
 
-    # n 3nchbg "I'll just walk you through it just in case,{w=0.1} 'kay?"
-    n 3nchbg ""
+    # n 3nchbg "I'll just walk you through it just in case,{w=0.1} 'kay?"
+    n 3nchbg "Te guiaré por si acaso, {w=0.1}¿okey?"
 
 # game/script-topics.rpy:1533
 translate spanish talk_weather_setup_main_8765f91b:
 
-    # n 4unmaj "You wanna go through your location?{w=1}{nw}"
-    n 4unmaj ""
+    # n 4unmaj "You wanna go through your location?{w=1}{nw}"
+    n 4unmaj "¿Quieres revisar tu ubicación? {w=1}{nw}"
 
 # game/script-topics.rpy:1534
 translate spanish talk_weather_setup_main_a244ca5c_1:
 
-    # extend 1fchbg " Sure!"
-    extend 1fchbg ""
+    # extend 1fchbg " Sure!"
+    extend 1fchbg "¡Claro!"
 
 # game/script-topics.rpy:1535
 translate spanish talk_weather_setup_main_2d69dbfa_1:
 
-    # n 3nchbg "I'll just walk you through it just in case,{w=0.1} 'kay?"
-    n 3nchbg ""
+    # n 3nchbg "I'll just walk you through it just in case,{w=0.1} 'kay?"
+    n 3nchbg "Te guiaré por si acaso, {w=0.1}¿okey?"
 
 # game/script-topics.rpy:1545
 translate spanish talk_weather_setup_main_826c3582:
 
-    # n 4unmaj "You just want me to try testing it all again?{w=0.75}{nw}"
-    n 4unmaj ""
+    # n 4unmaj "You just want me to try testing it all again?{w=0.75}{nw}"
+    n 4unmaj "¿Solo quieres que intente probarlo todo de nuevo? {w=0.75}{nw}"
 
 # game/script-topics.rpy:1546
 translate spanish talk_weather_setup_main_84d2c642:
 
-    # extend 1fchbgeme " Right-o!"
-    extend 1fchbgeme ""
+    # extend 1fchbgeme " Right-o!"
+    extend 1fchbgeme "¡Entendido!"
 
 # game/script-topics.rpy:1556
 translate spanish talk_weather_setup_main_18421009:
 
-    # n 1tsqpu "Uh...{w=0.5}{nw}"
-    n 1tsqpu ""
+    # n 1tsqpu "Uh...{w=0.5}{nw}"
+    n 1tsqpu "Eh... {w=0.5}{nw}"
 
 # game/script-topics.rpy:1557
 translate spanish talk_weather_setup_main_8df0165e:
 
-    # extend 2tsrpu " huh."
-    extend 2tsrpu ""
+    # extend 2tsrpu " huh."
+    extend 2tsrpu "ah."
 
 # game/script-topics.rpy:1558
 translate spanish talk_weather_setup_main_2b073ee8:
 
-    # n 1fchbg "Well,{w=0.1} your loss,{w=0.3} [player]!"
-    n 1fchbg ""
+    # n 1fchbg "Well,{w=0.1} your loss,{w=0.3} [player]!"
+    n 1fchbg "Bueno, {w=0.1}¡tú te lo pierdes, {w=0.3}[player]!"
 
 # game/script-topics.rpy:1559
 translate spanish talk_weather_setup_main_f377d87a:
 
-    # extend 4fchsm " Ehehe."
-    extend 4fchsm ""
+    # extend 4fchsm " Ehehe."
+    extend 4fchsm "Ejeje."
 
 # game/script-topics.rpy:1565
 translate spanish talk_weather_setup_main_aa24323f:
 
-    # n 3fslbo "..."
-    n 3fslbo ""
+    # n 3fslbo "..."
+    n 3fslbo "..."
 
 # game/script-topics.rpy:1566
 translate spanish talk_weather_setup_main_79eb25e0:
 
-    # n 3fcsem "Urgh...{w=1.5}{nw}"
-    n 3fcsem ""
+    # n 3fcsem "Urgh...{w=1.5}{nw}"
+    n 3fcsem "Uf... {w=1.5}{nw}"
 
 # game/script-topics.rpy:1567
 translate spanish talk_weather_setup_main_f38c86f5:
 
-    # extend 4fsrem " so annoying!"
-    extend 4fsrem ""
+    # extend 4fsrem " so annoying!"
+    extend 4fsrem "¡qué molesto!"
 
 # game/script-topics.rpy:1568
 translate spanish talk_weather_setup_main_ed6ed759:
 
-    # n 1fbkwr "Why is this so hard to get right...?!"
-    n 1fbkwr ""
+    # n 1fbkwr "Why is this so hard to get right...?!"
+    n 1fbkwr "¿Por qué es tan difícil hacer esto bien...?!"
 
 # game/script-topics.rpy:1569
 translate spanish talk_weather_setup_main_22a70279:
 
-    # n 2fllpo "Stupid...{w=0.5}{nw}"
-    n 2fllpo ""
+    # n 2fllpo "Estúpido...{w=0.5}{nw}"
+    n 2fllpo "Estúpido... {w=0.5}{nw}"
 
 # game/script-topics.rpy:1570
 translate spanish talk_weather_setup_main_575c17c7:
 
-    # extend 2fcsan " Nnnnnn-!"
-    extend 2fcsan ""
+    # extend 2fcsan " Nnnnnn-!"
+    extend 2fcsan "¡Nnnnnn-!"
 
 # game/script-topics.rpy:1574
 translate spanish talk_weather_setup_main_1b55f914:
 
-    # n 4uwdpueqm "Huh?{w=0.5}{nw}"
-    n 4uwdpueqm ""
+    # n 4uwdpueqm "Huh?{w=0.5}{nw}"
+    n 4uwdpueqm "¿Eh? {w=0.5}{nw}"
 
 # game/script-topics.rpy:1575
 translate spanish talk_weather_setup_main_f845f4c0:
 
-    # extend 4uwdajesu " Oh!{w=0.5} [player]!{w=1}{nw}"
-    extend 4uwdajesu ""
+    # extend 4uwdajesu " Oh!{w=0.5} [player]!{w=1}{nw}"
+    extend 4uwdajesu "¡Oh! {w=0.5}¡[player]! {w=1}{nw}"
 
 # game/script-topics.rpy:1576
 translate spanish talk_weather_setup_main_98a33702:
 
-    # extend 1fllbgsbr " I'm glad you asked!"
-    extend 1fllbgsbr ""
+    # extend 1fllbgsbr " I'm glad you asked!"
+    extend 1fllbgsbr "¡Me alegro de que preguntes!"
 
 # game/script-topics.rpy:1579
 translate spanish talk_weather_setup_main_f5f0a41c:
 
-    # n 1fwdemesh "...!{w=0.5}{nw}"
-    n 1fwdemesh ""
+    # n 1fwdemesh "...!{w=0.5}{nw}"
+    n 1fwdemesh "¡...! {w=0.5}{nw}"
 
 # game/script-topics.rpy:1580
 translate spanish talk_weather_setup_main_991849be:
 
-    # n 2fcsgs "Well,{w=0.1} your attitude,{w=0.1} for one thing!{w=1}{nw}"
-    n 2fcsgs ""
+    # n 2fcsgs "Well,{w=0.1} your attitude,{w=0.1} for one thing!{w=1}{nw}"
+    n 2fcsgs "Bueno, {w=0.1}¡tu actitud, {w=0.1}para empezar! {w=1}{nw}"
 
 # game/script-topics.rpy:1581
 translate spanish talk_weather_setup_main_1736a38c:
 
-    # extend 2fslca " Anyway..."
-    extend 2fslca ""
+    # extend 2fslca " Anyway..."
+    extend 2fslca "En fin..."
 
 # game/script-topics.rpy:1583
 translate spanish talk_weather_setup_main_4e072aa9:
 
-    # n 1ullaj "So...{w=0.5}{nw}"
-    n 1ullaj ""
+    # n 1ullaj "So...{w=0.5}{nw}"
+    n 1ullaj "Así que... {w=0.5}{nw}"
 
 # game/script-topics.rpy:1584
 translate spanish talk_weather_setup_main_2c941cba:
 
-    # extend 1flrss " I'm not really one to just sit around and admire the view."
-    extend 1flrss ""
+    # extend 1flrss " I'm not really one to just sit around and admire the view."
+    extend 1flrss "realmente no soy de los que se quedan sentados admirando el paisaje."
 
 # game/script-topics.rpy:1585
 translate spanish talk_weather_setup_main_b28178aa:
 
-    # n 4nsqbo "But seriously,{w=0.1} [player]...{w=1}{nw}"
-    n 4nsqbo ""
+    # n 4nsqbo "But seriously,{w=0.1} [player]...{w=1}{nw}"
+    n 4nsqbo "Pero en serio, {w=0.1}[player]... {w=1}{nw}"
 
 # game/script-topics.rpy:1586
 translate spanish talk_weather_setup_main_09ecfbee:
 
-    # extend 2fllpo " it's super boring out there!"
-    extend 2fllpo ""
+    # extend 2fllpo " it's super boring out there!"
+    extend 2fllpo "¡es súper aburrido ahí fuera!"
 
 # game/script-topics.rpy:1587
 translate spanish talk_weather_setup_main_97946c3a:
 
-    # n 2nsqpo "Outside the room,{w=0.1} I mean.{w=1}{nw}"
-    n 2nsqpo ""
+    # n 2nsqpo "Outside the room,{w=0.1} I mean.{w=1}{nw}"
+    n 2nsqpo "Fuera de la habitación, {w=0.1}quiero decir. {w=1}{nw}"
 
 # game/script-topics.rpy:1588
 translate spanish talk_weather_setup_main_b0a67c4f:
 
-    # extend 1fbkwr " Nothing ever changes!"
-    extend 1fbkwr ""
+    # extend 1fbkwr " Nothing ever changes!"
+    extend 1fbkwr "¡Nada cambia nunca!"
 
 # game/script-topics.rpy:1589
 translate spanish talk_weather_setup_main_774bed63:
 
-    # n 1ulraj "But...{w=1}{nw}"
-    n 1ulraj ""
+    # n 1ulraj "But...{w=1}{nw}"
+    n 1ulraj "Pero... {w=1}{nw}"
 
 # game/script-topics.rpy:1590
 translate spanish talk_weather_setup_main_02f8dcb2:
 
-    # extend 1fchbg " I've been doing a little tinkering,{w=0.1} and I think I found a way to make things a little more dynamic!"
-    extend 1fchbg ""
+    # extend 1fchbg " I've been doing a little tinkering,{w=0.1} and I think I found a way to make things a little more dynamic!"
+    extend 1fchbg "He estado haciendo algunos ajustes, {w=0.1}¡y creo que encontré una manera de hacer las cosas un poco más dinámicas!"
 
 # game/script-topics.rpy:1591
 translate spanish talk_weather_setup_main_51e10cb6:
 
-    # n 3fslsr "I just can't get it all to work properly..."
-    n 3fslsr ""
+    # n 3fslsr "I just can't get it all to work properly..."
+    n 3fslsr "Simplemente no consigo que todo funcione correctamente..."
 
 # game/script-topics.rpy:1592
 translate spanish talk_weather_setup_main_e20febf6:
 
-    # n 1fcsem "It's just...{w=1}{nw}"
-    n 1fcsem ""
+    # n 1fcsem "It's just...{w=1}{nw}"
+    n 1fcsem "Es que... {w=1}{nw}"
 
 # game/script-topics.rpy:1593
 translate spanish talk_weather_setup_main_6693af48:
 
-    # extend 1fcssr " it's really bugging me.{w=1}{nw}"
-    extend 1fcssr ""
+    # extend 1fcssr " it's really bugging me.{w=1}{nw}"
+    extend 1fcssr "me está molestando mucho. {w=1}{nw}"
 
 # game/script-topics.rpy:1594
 translate spanish talk_weather_setup_main_8c5b2fb2:
 
-    # extend 2fslan " I hate it when I can't get stuff to go right!"
-    extend 2fslan ""
+    # extend 2fslan " I hate it when I can't get stuff to go right!"
+    extend 2fslan "¡Odio cuando no consigo que las cosas salgan bien!"
 
 # game/script-topics.rpy:1598
 translate spanish talk_weather_setup_main_fb2ced92:
 
-    # n 1uwdpu "Huh?{w=0.5}{nw}"
-    n 1uwdpu ""
+    # n 1uwdpu "Huh?{w=0.5}{nw}"
+    n 1uwdpu "¿Eh? {w=0.5}{nw}"
 
 # game/script-topics.rpy:1599
 translate spanish talk_weather_setup_main_215054e8:
 
-    # extend 1unmbg " Really?!{w=0.5}{nw}"
-    extend 1unmbg ""
+    # extend 1unmbg " Really?!{w=0.5}{nw}"
+    extend 1unmbg "¡¿De verdad?! {w=0.5}{nw}"
 
 # game/script-topics.rpy:1600
 translate spanish talk_weather_setup_main_555802fe:
 
-    # extend 4nchbs " Thanks,{w=0.1} [player]!"
-    extend 4nchbs ""
+    # extend 4nchbs " Thanks,{w=0.1} [player]!"
+    extend 4nchbs "¡Gracias, {w=0.1}[player]!"
 
 # game/script-topics.rpy:1601
 translate spanish talk_weather_setup_main_8fa0dc9c:
 
-    # n 4fllssl "N-{w=0.3}not that I was {i}waiting{/i} for help,{w=0.1} {i}obviously{/i}!"
-    n 4fllssl ""
+    # n 4fllssl "N-{w=0.3}not that I was {i}waiting{/i} for help,{w=0.1} {i}obviously{/i}!"
+    n 4fllssl "N-{w=0.3}No es que estuviera {i}esperando{/i} ayuda, {w=0.1}¡{i}obviamente{/i}!"
 
 # game/script-topics.rpy:1604
 translate spanish talk_weather_setup_main_5e844418:
 
-    # n 2fcsem "Jeez,{w=0.1} [player]...{w=0.3}"
-    n 2fcsem ""
+    # n 2fcsem "Jeez,{w=0.1} [player]...{w=0.3}"
+    n 2fcsem "Uf, {w=0.1}[player]... {w=0.3}"
 
 # game/script-topics.rpy:1605
 translate spanish talk_weather_setup_main_1933b515:
 
-    # extend 2fsqpo " what's with the attitude today?"
-    extend 2fsqpo ""
+    # extend 2fsqpo " what's with the attitude today?"
+    extend 2fsqpo "¿a qué viene la actitud de hoy?"
 
 # game/script-topics.rpy:1606
 translate spanish talk_weather_setup_main_e8ed76ec:
 
-    # n 4kslpo "I'm {i}trying{/i} to do something nice here..."
-    n 4kslpo ""
+    # n 4kslpo "I'm {i}trying{/i} to do something nice here..."
+    n 4kslpo "Estoy {i}intentando{/i} hacer algo bonito aquí..."
 
 # game/script-topics.rpy:1608
 translate spanish talk_weather_setup_main_0d9ed9ca:
 
-    # n 1ullaj "Well,{w=0.1} anyway..."
-    n 1ullaj ""
+    # n 1ullaj "Well,{w=0.1} anyway..."
+    n 1ullaj "Bueno, {w=0.1}en fin..."
 
 # game/script-topics.rpy:1609
 translate spanish talk_weather_setup_main_8387ad92:
 
-    # n 4fslss "What I'm {i}trying{/i} to do is add some atmosphere to this place,{w=1}{nw}"
-    n 4fslss ""
+    # n 4fslss "What I'm {i}trying{/i} to do is add some atmosphere to this place,{w=1}{nw}"
+    n 4fslss "Lo que estoy {i}intentando{/i} hacer es añadir algo de ambiente a este lugar, {w=1}{nw}"
 
 # game/script-topics.rpy:1610
 translate spanish talk_weather_setup_main_781b0ff0:
 
-    # extend 1fsqsm " and what better way to do that than..."
-    extend 1fsqsm ""
+    # extend 1fsqsm " and what better way to do that than..."
+    extend 1fsqsm "y qué mejor manera de hacerlo que..."
 
 # game/script-topics.rpy:1611
 translate spanish talk_weather_setup_main_e241a740:
 
-    # n 1fchbg "Some actual weather!"
-    n 1fchbg ""
+    # n 1fchbg "Some actual weather!"
+    n 1fchbg "¡con clima real!"
 
 # game/script-topics.rpy:1612
 translate spanish talk_weather_setup_main_908eab18:
 
-    # n 1nsqsl "And not {i}just{/i} some randomly changing thing..."
-    n 1nsqsl ""
+    # n 1nsqsl "And not {i}just{/i} some randomly changing thing..."
+    n 1nsqsl "Y no {i}solo{/i} algo que cambie al azar..."
 
 # game/script-topics.rpy:1613
 translate spanish talk_weather_setup_main_bbb40b67:
 
-    # n 2ulraj "I wanna set things up so the weather here matches what it's like where you are,{w=0.1} [player]."
-    n 2ulraj ""
+    # n 2ulraj "I wanna set things up so the weather here matches what it's like where you are,{w=0.1} [player]."
+    n 2ulraj "Quiero configurar las cosas para que el clima aquí coincida con el de donde estás, {w=0.1}[player]."
 
 # game/script-topics.rpy:1614
 translate spanish talk_weather_setup_main_8559c0fc:
 
-    # n 1fcsbg "I know{w=0.1} -{w=0.5}{nw}"
-    n 1fcsbg ""
+    # n 1fcsbg "I know{w=0.1} -{w=0.5}{nw}"
+    n 1fcsbg "Lo sé {w=0.1}-{w=0.5}{nw}"
 
 # game/script-topics.rpy:1615
 translate spanish talk_weather_setup_main_fede5348:
 
-    # extend 4fwlbg " awesome,{w=0.1} right?"
-    extend 4fwlbg ""
+    # extend 4fwlbg " awesome,{w=0.1} right?"
+    extend 4fwlbg " ¡genial, {w=0.1}¿verdad?"
 
 # game/script-topics.rpy:1616
 translate spanish talk_weather_setup_main_4af2bba2:
 
-    # n 1ullaj "But...{w=1}{nw}"
-    n 1ullaj ""
+    # n 1ullaj "But...{w=1}{nw}"
+    n 1ullaj "Pero... {w=1}{nw}"
 
 # game/script-topics.rpy:1617
 translate spanish talk_weather_setup_main_39bb9bf9:
 
-    # extend 4nnmbo " I need you to go to this website I found."
-    extend 4nnmbo ""
+    # extend 4nnmbo " I need you to go to this website I found."
+    extend 4nnmbo "Necesito que vayas a esta página web que encontré."
 
 # game/script-topics.rpy:1618
 translate spanish talk_weather_setup_main_30eaaf14:
 
-    # n 1kchbg "Don't worry,{w=0.1} I won't make you go search for it.{w=1}{nw}"
-    n 1kchbg ""
+    # n 1kchbg "Don't worry,{w=0.1} I won't make you go search for it.{w=1}{nw}"
+    n 1kchbg "No te preocupes, {w=0.1}no te haré buscarlo. {w=1}{nw}"
 
 # game/script-topics.rpy:1619
 translate spanish talk_weather_setup_main_86aec640:
 
-    # extend 1kchbgess " I'm not {i}that{/i} mean!"
-    extend 1kchbgess ""
+    # extend 1kchbgess " I'm not {i}that{/i} mean!"
+    extend 1kchbgess "¡No soy {i}tan{/i} mala!"
 
 # game/script-topics.rpy:1620
 translate spanish talk_weather_setup_main_1b069b5b:
 
-    # n 1unmss "It's called OpenWeatherMap,{w=0.5}{nw}"
-    n 1unmss ""
+    # n 1unmss "It's called OpenWeatherMap,{w=0.5}{nw}"
+    n 1unmss "Se llama OpenWeatherMap, {w=0.5}{nw}"
 
 # game/script-topics.rpy:1621
 translate spanish talk_weather_setup_main_97f6495e:
 
-    # extend 1uchbg " and it's {i}super{/i} cool!{w=1}{nw}"
-    extend 1uchbg ""
+    # extend 1uchbg " and it's {i}super{/i} cool!{w=1}{nw}"
+    extend 1uchbg "¡y es {i}súper{/i} genial! {w=1}{nw}"
 
 # game/script-topics.rpy:1622
 translate spanish talk_weather_setup_main_77ced6f4:
 
-    # extend 3fcssm " It's just what I need to make this work."
-    extend 3fcssm ""
+    # extend 3fcssm " It's just what I need to make this work."
+    extend 3fcssm "Es justo lo que necesito para que esto funcione."
 
 # game/script-topics.rpy:1623
 translate spanish talk_weather_setup_main_5d0a5362:
 
-    # n 1fllss "I'll need a little time to get this all set up,{w=0.1} though.{w=1}{nw}"
-    n 1fllss ""
+    # n 1fllss "I'll need a little time to get this all set up,{w=0.1} though.{w=1}{nw}"
+    n 1fllss "Necesitaré un poco de tiempo para configurar todo esto, {w=0.1}eso sí. {w=1}{nw}"
 
 # game/script-topics.rpy:1624
 translate spanish talk_weather_setup_main_febe879b:
 
-    # extend 4ulraj " So..."
-    extend 4ulraj ""
+    # extend 4ulraj " So..."
+    extend 4ulraj "Así que..."
 
 # game/script-topics.rpy:1627
 translate spanish talk_weather_setup_main_76ee66e4:
 
-    # n "Are you okay if we get started now,{w=0.1} [player]?" nointeract
-    n "" nointeract
+    # n "Are you okay if we get started now,{w=0.1} [player]?" nointeract
+    n "¿Estás bien si empezamos ahora, {w=0.1}[player]?" nointeract
 
 # game/script-topics.rpy:1630
 translate spanish talk_weather_setup_main_637818b6:
 
-    # n 1uchbg "Alright!"
-    n 1uchbg ""
+    # n 1uchbg "Alright!"
+    n 1uchbg "¡De acuerdo!"
 
 # game/script-topics.rpy:1635
 translate spanish talk_weather_setup_main_4372607f:
 
-    # n 1nnmbo "Oh.{w=1.5}{nw}"
-    n 1nnmbo ""
+    # n 1nnmbo "Oh.{w=1.5}{nw}"
+    n 1nnmbo "Oh. {w=1.5}{nw}"
 
 # game/script-topics.rpy:1636
 translate spanish talk_weather_setup_main_f538dc0f:
 
-    # extend 4nllsssbl " Well..."
-    extend 4nllsssbl ""
+    # extend 4nllsssbl " Well..."
+    extend 4nllsssbl "Bueno..."
 
 # game/script-topics.rpy:1637
 translate spanish talk_weather_setup_main_74ef0abf:
 
-    # n 1nsldv "Just let me know when you have the time,{w=0.1} 'kay?"
-    n 1nsldv ""
+    # n 1nsldv "Just let me know when you have the time,{w=0.1} 'kay?"
+    n 1nsldv "Solo avísame cuando tengas tiempo, {w=0.1}¿okey?"
 
 # game/script-topics.rpy:1638
 translate spanish talk_weather_setup_main_7a93f56c:
 
-    # n 3fcsbg "It'll be {i}super{/i} worth it!"
-    n 3fcsbg ""
+    # n 3fcsbg "It'll be {i}super{/i} worth it!"
+    n 3fcsbg "¡Valdrá {i}súper{/i} la pena!"
 
 # game/script-topics.rpy:1643
 translate spanish talk_weather_setup_api_key_f9a0a971:
 
-    # n 1nnmss "Okaaay!{w=1}{nw}"
-    n 1nnmss ""
+    # n 1nnmss "Okaaay!{w=1}{nw}"
+    n 1nnmss "¡Okeeey! {w=1}{nw}"
 
 # game/script-topics.rpy:1644
 translate spanish talk_weather_setup_api_key_18f3fb52:
 
-    # extend 3fchbg " Let's get started!"
-    extend 3fchbg ""
+    # extend 3fchbg " Let's get started!"
+    extend 3fchbg "¡Empecemos!"
 
 # game/script-topics.rpy:1645
 translate spanish talk_weather_setup_api_key_a5be5a9a:
 
-    # n 1ullaj "So like I said{w=0.1} -{w=0.3}{nw}"
-    n 1ullaj ""
+    # n 1ullaj "So like I said{w=0.1} -{w=0.3}{nw}"
+    n 1ullaj "Así que como dije {w=0.1}-{w=0.3}{nw}"
 
 # game/script-topics.rpy:1646
 translate spanish talk_weather_setup_api_key_5f6a1464:
 
-    # extend 1unmaj " the website is called OpenWeatherMap.{w=1}{nw}"
-    extend 1unmaj ""
+    # extend 1unmaj " the website is called OpenWeatherMap.{w=1}{nw}"
+    extend 1unmaj " el sitio web se llama OpenWeatherMap. {w=1}{nw}"
 
 # game/script-topics.rpy:1647
 translate spanish talk_weather_setup_api_key_e69451c0:
 
-    # extend 4nnmsm " You can get there from {a=[store.jn_globals.LINK_OPEN_WEATHER_MAP_HOME]}here{/a}!"
-    extend 4nnmsm ""
+    # extend 4nnmsm " You can get there from {a=[store.jn_globals.LINK_OPEN_WEATHER_MAP_HOME]}here{/a}!"
+    extend 4nnmsm "¡Puedes llegar allí desde {a=[store.jn_globals.LINK_OPEN_WEATHER_MAP_HOME]}aquí{/a}!"
 
 # game/script-topics.rpy:1648
 translate spanish talk_weather_setup_api_key_7ccf95d3:
 
-    # n 1ulraj "So..."
-    n 1ulraj ""
+    # n 1ulraj "So..."
+    n 1ulraj "Así que..."
 
 # game/script-topics.rpy:1651
 translate spanish talk_weather_setup_api_key_9020db59:
 
-    # n "Do you have the website open,{w=0.1} [player]?" nointeract
-    n "" nointeract
+    # n "Do you have the website open,{w=0.1} [player]?" nointeract
+    n "¿Tienes el sitio web abierto, {w=0.1}[player]?" nointeract
 
 # game/script-topics.rpy:1654
 translate spanish talk_weather_setup_api_key_4c1f94be:
 
-    # n 1nchbs "Awesome!{w=0.5}{nw}"
-    n 1nchbs ""
+    # n 1nchbs "Awesome!{w=0.5}{nw}"
+    n 1nchbs "¡Genial! {w=0.5}{nw}"
 
 # game/script-topics.rpy:1655
 translate spanish talk_weather_setup_api_key_63c9354a:
 
-    # extend 4nwlbg " Step one complete!"
-    extend 4nwlbg ""
+    # extend 4nwlbg " Step one complete!"
+    extend 4nwlbg "¡Paso uno completado!"
 
 # game/script-topics.rpy:1658
 translate spanish talk_weather_setup_api_key_bcb0754f:
 
-    # n 4tnmaj "Huh?{w=1} Why not?{w=1}{nw}"
-    n 4tnmaj ""
+    # n 4tnmaj "Huh?{w=1} Why not?{w=1}{nw}"
+    n 4tnmaj "¿Eh? {w=1}¿Por qué no? {w=1}{nw}"
 
 # game/script-topics.rpy:1659
 translate spanish talk_weather_setup_api_key_70a551be:
 
-    # extend 1tnmsr " Is it down or something?"
-    extend 1tnmsr ""
+    # extend 1tnmsr " Is it down or something?"
+    extend 1tnmsr "¿La pagína ha caído o algo?"
 
 # game/script-topics.rpy:1660
 translate spanish talk_weather_setup_api_key_6c722e05:
 
-    # n 2tslaj "Well...{w=1}{nw}"
-    n 2tslaj ""
+    # n 2tslaj "Well...{w=1}{nw}"
+    n 2tslaj "Bueno... {w=1}{nw}"
 
 # game/script-topics.rpy:1661
 translate spanish talk_weather_setup_api_key_f1a926d9:
 
-    # extend 2tnmss " Maybe we can try this again later?"
-    extend 2tnmss ""
+    # extend 2tnmss " Maybe we can try this again later?"
+    extend 2tnmss "¿Quizás podamos intentarlo de nuevo más tarde?"
 
 # game/script-topics.rpy:1662
 translate spanish talk_weather_setup_api_key_40326fc1:
 
-    # n 1fllsssbr "Just let me know when you're ready!"
-    n 1fllsssbr ""
+    # n 1fllsssbr "Just let me know when you're ready!"
+    n 1fllsssbr "¡Solo avísame cuando estés listo!"
 
 # game/script-topics.rpy:1667
 translate spanish talk_weather_setup_api_key_3bf85929:
 
-    # n 1nchbg "'Kay!{w=0.5}{nw}"
-    n 1nchbg ""
+    # n 1nchbg "'Kay!{w=0.5}{nw}"
+    n 1nchbg "¡Okey! {w=0.5}{nw}"
 
 # game/script-topics.rpy:1668
 translate spanish talk_weather_setup_api_key_e7dc8cc3:
 
-    # extend 3fcssm " Now for step two!"
-    extend 3fcssm ""
+    # extend 3fcssm " Now for step two!"
+    extend 3fcssm "¡Ahora por el paso dos!"
 
 # game/script-topics.rpy:1669
 translate spanish talk_weather_setup_api_key_3474b03b:
 
-    # n 1nllaj "Basically I need something called an API key,{w=1}{nw}"
-    n 1nllaj ""
+    # n 1nllaj "Basically I need something called an API key,{w=1}{nw}"
+    n 1nllaj "Básicamente necesito algo llamado clave API, {w=1}{nw}"
 
 # game/script-topics.rpy:1670
 translate spanish talk_weather_setup_api_key_0a163cc5:
 
-    # extend 1nnmbo " which will let me use that website to find out what the weather is like over there."
-    extend 1nnmbo ""
+    # extend 1nnmbo " which will let me use that website to find out what the weather is like over there."
+    extend 1nnmbo "lo que me permitirá usar ese sitio web para saber cómo está el clima allí."
 
 # game/script-topics.rpy:1671
 translate spanish talk_weather_setup_api_key_35a55206:
 
-    # n 3fslbo "But I can't do that myself...{w=1.5}{nw}"
-    n 3fslbo ""
+    # n 3fslbo "But I can't do that myself...{w=1.5}{nw}"
+    n 3fslbo "Pero no puedo hacerlo yo misma... {w=1.5}{nw}"
 
 # game/script-topics.rpy:1672
 translate spanish talk_weather_setup_api_key_88d5eaf1:
 
-    # extend 1fchsm " which is where you come in,{w=0.1} [player]!"
-    extend 1fchsm ""
+    # extend 1fchsm " which is where you come in,{w=0.1} [player]!"
+    extend 1fchsm "¡ahí es donde entras tú, {w=0.1}[player]!"
 
 # game/script-topics.rpy:1673
 translate spanish talk_weather_setup_api_key_513955a5:
 
-    # n 1nlrss "You'll need to make an account before you can get an API key."
-    n 1nlrss ""
+    # n 1nlrss "You'll need to make an account before you can get an API key."
+    n 1nlrss "Tendrás que crear una cuenta antes de poder obtener una clave API."
 
 # game/script-topics.rpy:1674
 translate spanish talk_weather_setup_api_key_851f4061:
 
-    # extend 1kchbgess " It's totally free though!"
-    extend 1kchbgess ""
+    # extend 1kchbgess " It's totally free though!"
+    extend 1kchbgess "¡Pero es totalmente gratis!"
 
 # game/script-topics.rpy:1675
 translate spanish talk_weather_setup_api_key_9a7abcd6:
 
-    # n 1ullaj "You can create an account {a=[store.jn_globals.LINK_OPEN_WEATHER_MAP_SIGN_UP]}here{/a},{w=1}{nw}"
-    n 1ullaj ""
+    # n 1ullaj "You can create an account {a=[store.jn_globals.LINK_OPEN_WEATHER_MAP_SIGN_UP]}here{/a},{w=1}{nw}"
+    n 1ullaj "Puedes crear una cuenta {a=[store.jn_globals.LINK_OPEN_WEATHER_MAP_SIGN_UP]}aquí{/a}, {w=1}{nw}"
 
 # game/script-topics.rpy:1676
 translate spanish talk_weather_setup_api_key_7db75aa3:
 
-    # extend 1nnmsm " or you can sign in using the menu at the top."
-    extend 1nnmsm ""
+    # extend 1nnmsm " or you can sign in using the menu at the top."
+    extend 1nnmsm "o puedes iniciar sesión usando el menú de arriba."
 
 # game/script-topics.rpy:1677
 translate spanish talk_weather_setup_api_key_19185e15:
 
-    # n 3fcsaj "Just make sure to go through all the options carefully{w=0.1} -{w=0.5}{nw}"
-    n 3fcsaj ""
+    # n 3fcsaj "Just make sure to go through all the options carefully{w=0.1} -{w=0.5}{nw}"
+    n 3fcsaj "Solo asegúrate de revisar todas las opciones con cuidado {w=0.1}-{w=0.5}{nw}"
 
 # game/script-topics.rpy:1678
 translate spanish talk_weather_setup_api_key_e7ef2c97:
 
-    # extend 3nsqpo " don't just dash through it!"
-    extend 3nsqpo ""
+    # extend 3nsqpo " don't just dash through it!"
+    extend 3nsqpo " ¡no lo hagas deprisa!"
 
 # game/script-topics.rpy:1679
 translate spanish talk_weather_setup_api_key_b9fa73f0:
 
-    # n 1unmaj "Oh{w=0.1} -{w=0.5}{nw}"
-    n 1unmaj ""
+    # n 1unmaj "Oh {w=0.1}-{w=0.5}{nw}"
+    n 1unmaj "Oh {w=0.1}-{w=0.5}{nw}"
 
 # game/script-topics.rpy:1680
 translate spanish talk_weather_setup_api_key_8da7beaa:
 
-    # extend 1flrss " and make sure you confirm your email address once you've created it,{w=0.1} 'kay?"
-    extend 1flrss ""
+    # extend 1flrss " and make sure you confirm your email address once you've created it,{w=0.1} 'kay?"
+    extend 1flrss " y asegúrate de confirmar tu dirección de correo electrónico una vez que la hayas creado, {w=0.1}¿okey?"
 
 # game/script-topics.rpy:1681
 translate spanish talk_weather_setup_api_key_8bc78532:
 
-    # n 4nchbg "{a=[store.jn_globals.LINK_OPEN_WEATHER_MAP_SIGN_UP]}Here's{/a} that link once more,{w=0.1} just in case!"
-    n 4nchbg ""
+    # n 4nchbg "{a=[store.jn_globals.LINK_OPEN_WEATHER_MAP_SIGN_UP]}Here's{/a} that link once more,{w=0.1} just in case!"
+    n 4nchbg "¡{a=[store.jn_globals.LINK_OPEN_WEATHER_MAP_SIGN_UP]}Aquí{/a} tienes el enlace una vez más, {w=0.1}por si acaso!"
 
 # game/script-topics.rpy:1682
 translate spanish talk_weather_setup_api_key_ebe8309b:
 
-    # n 1fnmsm "Now..."
-    n 1fnmsm ""
+    # n 1fnmsm "Now..."
+    n 1fnmsm "Ahora..."
 
 # game/script-topics.rpy:1685
 translate spanish talk_weather_setup_api_key_bc08f898:
 
-    # n "Did you get an account sorted,{w=0.1} [player]?" nointeract
-    n "" nointeract
+    # n "Did you get an account sorted,{w=0.1} [player]?" nointeract
+    n "¿Ya tienes una cuenta lista, {w=0.1}[player]?" nointeract
 
 # game/script-topics.rpy:1688
 translate spanish talk_weather_setup_api_key_826fd85f:
 
-    # n 1fchsm "Awesome!"
-    n 1fchsm ""
+    # n 1fchsm "Awesome!"
+    n 1fchsm "¡Genial!"
 
 # game/script-topics.rpy:1689
 translate spanish talk_weather_setup_api_key_c1ac1e92:
 
-    # n 3tllss "You'll probably want to make sure you save your login details somewhere secure,{w=0.5}{nw}"
-    n 3tllss ""
+    # n 3tllss "You'll probably want to make sure you save your login details somewhere secure,{w=0.5}{nw}"
+    n 3tllss "Probablemente querrás asegurarte de guardar tus datos de inicio de sesión en un lugar seguro, {w=0.5}{nw}"
 
 # game/script-topics.rpy:1690
 translate spanish talk_weather_setup_api_key_f0a4e45f:
 
-    # extend 4fchsm " juuuust in case."
-    extend 4fchsm ""
+    # extend 4fchsm " juuuust in case."
+    extend 4fchsm "por si acaaso."
 
 # game/script-topics.rpy:1691
 translate spanish talk_weather_setup_api_key_ed22cbfe:
 
-    # n 1fchts "Don't forget to confirm your email address too!"
-    n 1fchts ""
+    # n 1fchts "Don't forget to confirm your email address too!"
+    n 1fchts "¡No olvides confirmar tu dirección de correo electrónico también!"
 
 # game/script-topics.rpy:1692
 translate spanish talk_weather_setup_api_key_4490e73a:
 
-    # n 1fsqsm "Now,{w=0.1} here comes the challenging part..."
-    n 1fsqsm ""
+    # n 1fsqsm "Now,{w=0.1} here comes the challenging part..."
+    n 1fsqsm "Ahora, {w=0.1}aquí viene la parte desafiante..."
 
 # game/script-topics.rpy:1695
 translate spanish talk_weather_setup_api_key_d8e5f0cd:
 
-    # n 1fchsm "Awesome!{w=0.5}{nw}"
-    n 1fchsm ""
+    # n 1fchsm "Awesome!{w=0.5}{nw}"
+    n 1fchsm "¡Genial! {w=0.5}{nw}"
 
 # game/script-topics.rpy:1696
 translate spanish talk_weather_setup_api_key_7280068c:
 
-    # extend 3fwlbg " The rest of this should be a piece of cake!"
-    extend 3fwlbg ""
+    # extend 3fwlbg " The rest of this should be a piece of cake!"
+    extend 3fwlbg "¡El resto será pan comido!"
 
 # game/script-topics.rpy:1701
 translate spanish talk_weather_setup_api_key_a128e519:
 
-    # n 1usqsm "Are you ready,{w=0.1} [player]?"
-    n 1usqsm ""
+    # n 1usqsm "Are you ready,{w=0.1} [player]?"
+    n 1usqsm "¿Estás listo, {w=0.1}[player]?"
 
 # game/script-topics.rpy:1702
 translate spanish talk_weather_setup_api_key_4a506cfe:
 
-    # n 1fchsm "You need to get your API key and send it to me!"
-    n 1fchsm ""
+    # n 1fchsm "You need to get your API key and send it to me!"
+    n 1fchsm "¡Necesitas conseguir tu clave API y enviármela!"
 
 # game/script-topics.rpy:1703
 translate spanish talk_weather_setup_api_key_3b313d19:
 
-    # n 4ullss "You can find your keys {a=[store.jn_globals.LINK_OPEN_WEATHER_MAP_API_KEYS]}here{/a},{w=1}{nw}"
-    n 4ullss ""
+    # n 4ullss "You can find your keys {a=[store.jn_globals.LINK_OPEN_WEATHER_MAP_API_KEYS]}here{/a},{w=1}{nw}"
+    n 4ullss "Puedes encontrar tus claves {a=[store.jn_globals.LINK_OPEN_WEATHER_MAP_API_KEYS]}aquí{/a}, {w=1}{nw}"
 
 # game/script-topics.rpy:1704
 translate spanish talk_weather_setup_api_key_d5882955:
 
-    # extend 1unmaj " or you can get there using the menu like before."
-    extend 1unmaj ""
+    # extend 1unmaj " or you can get there using the menu like before."
+    extend 1unmaj "o puedes llegar allí usando el menú como antes."
 
 # game/script-topics.rpy:1705
 translate spanish talk_weather_setup_api_key_80116811:
 
-    # n 3tsqsm "You got all that?"
-    n 3tsqsm ""
+    # n 3tsqsm "You got all that?"
+    n 3tsqsm "¿Entendiste todo eso?"
 
 # game/script-topics.rpy:1706
 translate spanish talk_weather_setup_api_key_6376e09d:
 
-    # n 3fsqsm "Ehehe.{w=0.5}{nw}"
-    n 3fsqsm ""
+    # n 3fsqsm "Ehehe.{w=0.5}{nw}"
+    n 3fsqsm "Ehehe. {w=0.5}{nw}"
 
 # game/script-topics.rpy:1707
 translate spanish talk_weather_setup_api_key_fa900d90:
 
-    # extend 4fchbg " Then take it away,{w=0.1} [player]!"
-    extend 4fchbg ""
+    # extend 4fchbg " Then take it away,{w=0.1} [player]!"
+    extend 4fchbg "¡Entonces, adelante, {w=0.1}[player]!"
 
 # game/script-topics.rpy:1717
 translate spanish talk_weather_setup_api_key_2bb6040d:
 
-    # n 3tsqsm "I {i}thought{/i} I asked for an {i}API key{/i},{w=0.1} [player]?"
-    n 3tsqsm ""
+    # n 3tsqsm "I {i}thought{/i} I asked for an {i}API key{/i},{w=0.1} [player]?"
+    n 3tsqsm "Yo {i}creí{/i} que te pedí una {i}clave API{/i}, {w=0.1}[player]?"
 
 # game/script-topics.rpy:1718
 translate spanish talk_weather_setup_api_key_6deadb9b:
 
-    # extend 4fchbl " Try again!"
-    extend 4fchbl ""
+    # extend 4fchbl " Try again!"
+    extend 4fchbl "¡Inténtalo de nuevo!"
 
 # game/script-topics.rpy:1722
 translate spanish talk_weather_setup_api_key_5672435e:
 
-    # n 4tnmaj "Huh?{w=0.2} You don't wanna continue?"
-    n 4tnmaj ""
+    # n 4tnmaj "Huh?{w=0.2} You don't wanna continue?"
+    n 4tnmaj "¿Eh? {w=0.2}¿No quieres continuar?"
 
 # game/script-topics.rpy:1723
 translate spanish talk_weather_setup_api_key_6a2acd70:
 
-    # n 1tllbo "That's fine,{w=0.1} I guess."
-    n 1tllbo ""
+    # n 1tllbo "That's fine,{w=0.1} I guess."
+    n 1tllbo "Está bien, {w=0.1}supongo."
 
 # game/script-topics.rpy:1724
 translate spanish talk_weather_setup_api_key_51bae2b5:
 
-    # n 1fcsbg "Just let me know when you're ready,{w=0.1} 'kay?"
-    n 1fcsbg ""
+    # n 1fcsbg "Just let me know when you're ready,{w=0.1} 'kay?"
+    n 1fcsbg "Solo avísame cuando estés listo, {w=0.1}¿sí?"
 
 # game/script-topics.rpy:1732
 translate spanish talk_weather_setup_api_key_4658a3a3:
 
-    # n 1uchbg "Alright!{w=0.2} I got it!"
-    n 1uchbg ""
+    # n 1uchbg "Alright!{w=0.2} I got it!"
+    n 1uchbg "¡De acuerdo! {w=0.2}¡Lo tengo!"
 
 # game/script-topics.rpy:1737
 translate spanish talk_weather_setup_location_7e502b44:
 
-    # n 1fsqbg "Now for the final piece of the puzzle..."
-    n 1fsqbg ""
+    # n 1fsqbg "Now for the final piece of the puzzle..."
+    n 1fsqbg "Ahora, la última pieza del rompecabezas..."
 
 # game/script-topics.rpy:1738
 translate spanish talk_weather_setup_location_bdcc647d:
 
-    # n 4uchss "...Your location,{w=0.1} obviously!"
-    n 4uchss ""
+    # n 4uchss "...Your location,{w=0.1} obviously!"
+    n 4uchss "... ¡Tu ubicación, {w=0.1}obviamente!"
 
 # game/script-topics.rpy:1739
 translate spanish talk_weather_setup_location_8a9b17a7:
 
-    # n 1ullaj "There's a couple ways to do this,{w=1}{nw}"
-    n 1ullaj ""
+    # n 1ullaj "There's a couple ways to do this,{w=1}{nw}"
+    n 1ullaj "Hay un par de maneras de hacer esto, {w=1}{nw}"
 
 # game/script-topics.rpy:1740
 translate spanish talk_weather_setup_location_d44e1cbc:
 
-    # extend 1nnmsm " but I thought it'd be best to just ask."
-    extend 1nnmsm ""
+    # extend 1nnmsm " but I thought it'd be best to just ask."
+    extend 1nnmsm "pero pensé que sería mejor simplemente preguntar."
 
 # game/script-topics.rpy:1741
 translate spanish talk_weather_setup_location_a201da7c:
 
-    # n 4ulraj "So..."
-    n 4ulraj ""
+    # n 4ulraj "So..."
+    n 4ulraj "Así que..."
 
 # game/script-topics.rpy:1744
 translate spanish talk_weather_setup_location_4e522db0:
 
-    # n "How do you wanna tell me, [player]?" nointeract
-    n "" nointeract
+    # n "How do you wanna tell me, [player]?" nointeract
+    n "¿Cómo quieres decirme, [player]?" nointeract
 
 # game/script-topics.rpy:1747
 translate spanish talk_weather_setup_location_8113f564:
 
-    # n 1fchsm "Sure, I can give it a shot!{w=1}{nw}"
-    n 1fchsm ""
+    # n 1fchsm "Sure, I can give it a shot!{w=1}{nw}"
+    n 1fchsm "¡Claro, puedo intentarlo! {w=1}{nw}"
 
 # game/script-topics.rpy:1748
 translate spanish talk_weather_setup_location_61bb36b8:
 
-    # extend 1fcssm " Just give me a second here...{w=1}{nw}"
-    extend 1fcssm ""
+    # extend 1fcssm " Just give me a second here...{w=1}{nw}"
+    extend 1fcssm "Solo dame un segundo aquí... {w=1}{nw}"
 
 # game/script-topics.rpy:1753
 translate spanish talk_weather_setup_location_8fd21114:
 
-    # n 2fslpu "...Huh."
-    n 2fslpu ""
+    # n 2fslpu "...Huh."
+    n 2fslpu "... Eh."
 
 # game/script-topics.rpy:1754
 translate spanish talk_weather_setup_location_f8384c90:
 
-    # n 2knmpo "I {i}tried{/i} to look you up, but I couldn't find anything!"
-    n 2knmpo ""
+    # n 2knmpo "I {i}tried{/i} to look you up, but I couldn't find anything!"
+    n 2knmpo "¡{i}Intenté{/i} buscarte, pero no pude encontrar nada!"
 
 # game/script-topics.rpy:1755
 translate spanish talk_weather_setup_location_a1f99584:
 
-    # n 2flrpo "..."
-    n 2flrpo ""
+    # n 2flrpo "..."
+    n 2flrpo "..."
 
 # game/script-topics.rpy:1756
 translate spanish talk_weather_setup_location_6e6c59b3:
 
-    # n 1tlraj "Well..."
-    n 1tlraj ""
+    # n 1tlraj "Well..."
+    n 1tlraj "Bueno..."
 
 # game/script-topics.rpy:1757
 translate spanish talk_weather_setup_location_551bba3d:
 
-    # extend 1tllbgsbl " looks like we're gonna have to do things the old-fashioned way,{w=0.1} [player]."
-    extend 1tllbgsbl ""
+    # extend 1tllbgsbl " looks like we're gonna have to do things the old-fashioned way,{w=0.1} [player]."
+    extend 1tllbgsbl "parece que vamos a tener que hacer las cosas a la antigua, {w=0.1}[player]."
 
 # game/script-topics.rpy:1763
 translate spanish talk_weather_setup_location_5fbe23db:
 
-    # n 4fsgss "Aha!{w=0.5}{nw}"
-    n 4fsgss ""
+    # n 4fsgss "Aha!{w=0.5}{nw}"
+    n 4fsgss "¡Ajá! {w=0.5}{nw}"
 
 # game/script-topics.rpy:1764
 translate spanish talk_weather_setup_location_9aade416:
 
-    # extend 1uchbg " I think I got it!"
-    extend 1uchbg ""
+    # extend 1uchbg " I think I got it!"
+    extend 1uchbg "¡Creo que lo tengo!"
 
 # game/script-topics.rpy:1765
 translate spanish talk_weather_setup_location_2c104191:
 
-    # n 3nwlbg "Now...{w=0.3} wanna see something awesome, [player]?{w=1}{nw}"
-    n 3nwlbg ""
+    # n 3nwlbg "Now...{w=0.3} wanna see something awesome, [player]?{w=1}{nw}"
+    n 3nwlbg "Ahora... {w=0.3}¿quieres ver algo increíble, [player]? {w=1}{nw}"
 
 # game/script-topics.rpy:1766
 translate spanish talk_weather_setup_location_87ccefc9:
 
-    # extend 3fsqsm " I know you do."
-    extend 3fsqsm ""
+    # extend 3fsqsm " I know you do."
+    extend 3fsqsm "Sé que sí."
 
 # game/script-topics.rpy:1767
 translate spanish talk_weather_setup_location_d2ac8668:
 
-    # n 1ncsbo "...{w=1}{nw}"
-    n 1ncsbo ""
+    # n 1ncsbo "...{w=1}{nw}"
+    n 1ncsbo "... {w=1}{nw}"
 
 # game/script-topics.rpy:1780
 translate spanish talk_weather_setup_location_2be1f6aa:
 
-    # n 1fchbg "Ta-da!{w=0.5} Found you!"
-    n 1fchbg ""
+    # n 1fchbg "Ta-da!{w=0.5} Found you!"
+    n 1fchbg "¡Ta-da! {w=0.5}¡Te encontré!"
 
 # game/script-topics.rpy:1781
 translate spanish talk_weather_setup_location_f6c57e0b:
 
-    # n 1fsqsm "..."
-    n 1fsqsm ""
+    # n 1fsqsm "..."
+    n 1fsqsm "..."
 
 # game/script-topics.rpy:1782
 translate spanish talk_weather_setup_location_293c9fb6:
 
-    # n 3tsqsm "Well?{w=1}{nw}"
-    n 3tsqsm ""
+    # n 3tsqsm "Well?{w=1}{nw}"
+    n 3tsqsm "¿Y bien? {w=1}{nw}"
 
 # game/script-topics.rpy:1783
 translate spanish talk_weather_setup_location_f7fc370f:
 
-    # extend 3tsqss " Am I right or what, [player]?"
-    extend 3tsqss ""
+    # extend 3tsqss " Am I right or what, [player]?"
+    extend 3tsqss "¿Tengo razón o no, [player]?"
 
 # game/script-topics.rpy:1786
 translate spanish talk_weather_setup_location_577f83c3:
 
-    # n 4fcsbg "Like a pro!"
-    n 4fcsbg ""
+    # n 4fcsbg "Like a pro!"
+    n 4fcsbg "¡Como un profesional!"
 
 # game/script-topics.rpy:1787
 translate spanish talk_weather_setup_location_1e2955c0:
 
-    # extend 1fcssm " Ehehe."
-    extend 1fcssm ""
+    # extend 1fcssm " Ehehe."
+    extend 1fcssm " Ehehe."
 
 # game/script-topics.rpy:1788
 translate spanish talk_weather_setup_location_c9c3c9dc:
 
-    # n 1fllss "I'll just note those down real quick..."
-    n 1fllss ""
+    # n 1fllss "I'll just note those down real quick..."
+    n 1fllss "Lo anotaré rápidamente..."
 
 # game/script-topics.rpy:1794
 translate spanish talk_weather_setup_location_8dddad1a:
 
-    # n 2fnmgs "What?{w=0.2} Are you kidding me!?"
-    n 2fnmgs ""
+    # n 2fnmgs "What?{w=0.2} Are you kidding me!?"
+    n 2fnmgs "¿Qué? {w=0.2}¡¿Me estás bromeando?!"
 
 # game/script-topics.rpy:1795
 translate spanish talk_weather_setup_location_2e132a86:
 
-    # n 2flrsl "Ugh..."
-    n 2flrsl ""
+    # n 2flrsl "Ugh..."
+    n 2flrsl "Ugh..."
 
 # game/script-topics.rpy:1796
 translate spanish talk_weather_setup_location_3e5bb206:
 
-    # n 4nlrpu "And I was so proud of myself for figuring that out,{w=0.1} too..."
-    n 4nlrpu ""
+    # n 4nlrpu "And I was so proud of myself for figuring that out,{w=0.1} too..."
+    n 4nlrpu "Y yo estaba tan orgullosa de haberlo descubierto, {w=0.1}también..."
 
 # game/script-topics.rpy:1797
 translate spanish talk_weather_setup_location_273cf2a2:
 
-    # n 1nnmss "Well,{w=0.1} it looks like we're gonna have to do things the old-fashioned way."
-    n 1nnmss ""
+    # n 1nnmss "Well,{w=0.1} it looks like we're gonna have to do things the old-fashioned way."
+    n 1nnmss "Bueno, {w=0.1}parece que vamos a tener que hacer las cosas a la antigua."
 
 # game/script-topics.rpy:1802
 translate spanish talk_weather_setup_location_d1565184:
 
-    # n 4fnmaj "Eh?{w=0.2} What the...?"
-    n 4fnmaj ""
+    # n 4fnmaj "Eh?{w=0.2} What the...?"
+    n 4fnmaj "¿Eh? {w=0.2}¿Qué demonios...?"
 
 # game/script-topics.rpy:1803
 translate spanish talk_weather_setup_location_7be508b2:
 
-    # n 1nnmpu "Huh.{w=0.2} Weird."
-    n 1nnmpu ""
+    # n 1nnmpu "Huh.{w=0.2} Weird."
+    n 1nnmpu "Ajá. {w=0.2}Raro."
 
 # game/script-topics.rpy:1804
 translate spanish talk_weather_setup_location_47bb9fde:
 
-    # n 1nlrss "Well,{w=0.1} I {i}was{/i} gonna show you something neat,{w=0.5}{nw}"
-    n 1nlrss ""
+    # n 1nlrss "Well,{w=0.1} I {i}was{/i} gonna show you something neat,{w=0.5}{nw}"
+    n 1nlrss "Bueno, {w=0.1}{i}iba{/i} a mostrarte algo genial, {w=0.5}{nw}"
 
 # game/script-topics.rpy:1805
 translate spanish talk_weather_setup_location_ba71d569:
 
-    # extend 3nslpo " but it looks like something messed up."
-    extend 3nslpo ""
+    # extend 3nslpo " but it looks like something messed up."
+    extend 3nslpo "pero parece que algo salió mal."
 
 # game/script-topics.rpy:1806
 translate spanish talk_weather_setup_location_9cb4156e:
 
-    # n 4nlrss "Hey,{w=0.1} [player]...{w=0.3}"
-    n 4nlrss ""
+    # n 4nlrss "Hey,{w=0.1} [player]...{w=0.3}"
+    n 4nlrss "Oye, {w=0.1}[player]... {w=0.3}"
 
 # game/script-topics.rpy:1807
 translate spanish talk_weather_setup_location_a72309db:
 
-    # extend 1flrbg " could you look these coordinates up and tell me if I got it right?"
-    extend 1flrbg ""
+    # extend 1flrbg " could you look these coordinates up and tell me if I got it right?"
+    extend 1flrbg "¿podrías buscar estas coordenadas y decirme si lo hice bien?"
 
 # game/script-topics.rpy:1808
 translate spanish talk_weather_setup_location_d28278e1:
 
-    # n 4tslbo "I'm {i}pretty{/i} sure your latitude is [ip_latitude_longitude[0]],{w=0.1} and your longitude is [ip_latitude_longitude[1]]."
-    n 4tslbo ""
+    # n 4tslbo "I'm {i}pretty{/i} sure your latitude is [ip_latitude_longitude[0]],{w=0.1} and your longitude is [ip_latitude_longitude[1]]."
+    n 4tslbo "Estoy {i}bastante{/i} segura de que tu latitud es [ip_latitude_longitude[0], {w=0.1} y tu longitud es [ip_latitude_longitude[1]]."
 
 # game/script-topics.rpy:1809
 translate spanish talk_weather_setup_location_d2e59872:
 
-    # n 1nllbo "..."
-    n 1nllbo ""
+    # n 1nllbo "..."
+    n 1nllbo "..."
 
 # game/script-topics.rpy:1810
 translate spanish talk_weather_setup_location_d7dc10d9:
 
-    # n 4tnmss "Well,{w=0.3} [player]?"
-    n 4tnmss ""
+    # n 4tnmss "Well,{w=0.3} [player]?"
+    n 4tnmss "¿Y bien,{w=0.3} [player]?"
 
 # game/script-topics.rpy:1812
 translate spanish talk_weather_setup_location_9a1cbf60:
 
-    # n "How're we looking?" nointeract
-    n "" nointeract
+    # n "How're we looking?" nointeract
+    n "¿Cómo vamos?" nointeract
 
 # game/script-topics.rpy:1815
 translate spanish talk_weather_setup_location_95e0666f:
 
-    # n 1kchbg "Phew!"
-    n 1kchbg ""
+    # n 1kchbg "Phew!"
+    n 1kchbg "¡Uf!"
 
 # game/script-topics.rpy:1816
 translate spanish talk_weather_setup_location_a15fee0e:
 
-    # extend 2nsldv " I was kinda worried I'd have to get a little more creative..."
-    extend 2nsldv ""
+    # extend 2nsldv " I was kinda worried I'd have to get a little more creative..."
+    extend 2nsldv " Estaba un poco preocupada de tener que ser un poco más creativa..."
 
 # game/script-topics.rpy:1822
 translate spanish talk_weather_setup_location_c0948151:
 
-    # n 4fcsan "Uuuuuuu..."
-    n 4fcsan ""
+    # n 4fcsan "Uuuuuuu..."
+    n 4fcsan "Uuuuuuu..."
 
 # game/script-topics.rpy:1823
 translate spanish talk_weather_setup_location_153c43c7:
 
-    # n 2nslpo "Fine.{w=1}{nw}"
-    n 2nslpo ""
+    # n 2nslpo "Fine.{w=1}{nw}"
+    n 2nslpo "Bien. {w=1}{nw}"
 
 # game/script-topics.rpy:1824
 translate spanish talk_weather_setup_location_8230cd7e:
 
-    # extend 2usqpo " It looks like we're gonna have to do things the old-fashioned way."
-    extend 2usqpo ""
+    # extend 2usqpo " It looks like we're gonna have to do things the old-fashioned way."
+    extend 2usqpo "Parece que vamos a tener que hacer las cosas a la antigua."
 
 # game/script-topics.rpy:1829
 translate spanish talk_weather_setup_location_e06274c6:
 
-    # n 1uchgn "Well, you're the boss!"
-    n 1uchgn ""
+    # n 1uchgn "Well, you're the boss!"
+    n 1uchgn "¡Bueno, tú mandas!"
 
 # game/script-topics.rpy:1834
 translate spanish talk_weather_setup_location_772008d0:
 
-    # n 2fllpo "Well...{w=1}{nw}"
-    n 2fllpo ""
+    # n 2fllpo "Well...{w=1}{nw}"
+    n 2fllpo "De acuerdo... {w=1}{nw}"
 
 # game/script-topics.rpy:1835
 translate spanish talk_weather_setup_location_2558e5d7:
 
-    # extend 4nslpo " fine."
-    extend 4nslpo ""
+    # extend 4nslpo " fine."
+    extend 4nslpo "bien."
 
 # game/script-topics.rpy:1836
 translate spanish talk_weather_setup_location_b09be21c:
 
-    # n 1fchbg "Just let me know when you wanna go through all this again,{w=0.1} 'kay?"
-    n 1fchbg ""
+    # n 1fchbg "Just let me know when you wanna go through all this again,{w=0.1} 'kay?"
+    n 1fchbg "Solo avísame cuando quieras que hagamos todo esto de nuevo, {w=0.1}¿okey?"
 
 # game/script-topics.rpy:1841
 translate spanish talk_weather_setup_manual_coords_c0f3df12:
 
-    # n 1ulraj "So,{w=0.3}{nw}"
-    n 1ulraj ""
+    # n 1ulraj "So,{w=0.3}{nw}"
+    n 1ulraj "Así que, {w=0.3}{nw}"
 
 # game/script-topics.rpy:1842
 translate spanish talk_weather_setup_manual_coords_eeb21858:
 
-    # extend 1nnmbo " I'm going to need to know a few things to find out where you are."
-    extend 1nnmbo ""
+    # extend 1nnmbo " I'm going to need to know a few things to find out where you are."
+    extend 1nnmbo "voy a necesitar saber algunas cosas para saber dónde estás."
 
 # game/script-topics.rpy:1843
 translate spanish talk_weather_setup_manual_coords_63487c80:
 
-    # n 1flrss "Let's start off with the basics{w=0.1} -{w=0.5}{nw}"
-    n 1flrss ""
+    # n 1flrss "Let's start off with the basics{w=0.1} -{w=0.5}{nw}"
+    n 1flrss "Empecemos con lo básico {w=0.1} -{w=0.5}{nw}"
 
 # game/script-topics.rpy:1844
 translate spanish talk_weather_setup_manual_coords_bde6c56d:
 
-    # extend 4fchsm " Hemispheres!"
-    extend 4fchsm ""
+    # extend 4fchsm " Hemispheres!"
+    extend 4fchsm " ¡Hemisferios!"
 
 # game/script-topics.rpy:1845
 translate spanish talk_weather_setup_manual_coords_9c3d281a:
 
-    # n 1unmaj "Do you live in the {b}Northern{/b} or {b}Southern{/b} Hemisphere?"
-    n 1unmaj ""
+    # n 1unmaj "Do you live in the {b}Northern{/b} or {b}Southern{/b} Hemisphere?"
+    n 1unmaj "¿Vives en el hemisferio {b}norte{/b} o {b}sur{/b}?"
 
 # game/script-topics.rpy:1846
 translate spanish talk_weather_setup_manual_coords_16a88019:
 
-    # n 3nllss "Just in case you didn't know,{w=0.1} it basically just means if you live {b}North{/b} or {b}South{/b} of the {b}equator{/b}."
-    n 3nllss ""
+    # n 3nllss "Just in case you didn't know,{w=0.1} it basically just means if you live {b}North{/b} or {b}South{/b} of the {b}equator{/b}."
+    n 3nllss "Por si no lo sabías, {w=0.1}básicamente significa si vives al {b}norte{/b} o al {b}sur{/b} del {b}ecuador{/b}."
 
 # game/script-topics.rpy:1847
 translate spanish talk_weather_setup_manual_coords_dca096e5:
 
-    # n 1nllaj "So..."
-    n 1nllaj ""
+    # n 1nllaj "So..."
+    n 1nllaj "Así que..."
 
 # game/script-topics.rpy:1850
 translate spanish talk_weather_setup_manual_coords_25a9138b:
 
-    # n "Which do you live in,{w=0.1} [player]?" nointeract
-    n "" nointeract
+    # n "Which do you live in,{w=0.1} [player]?" nointeract
+    n "¿En cuál vives, {w=0.1}[player]?" nointeract
 
 # game/script-topics.rpy:1856
 translate spanish talk_weather_setup_manual_coords_47fe3dbd:
 
-    # n 1unmaj "The Northern Hemisphere?{w=1}{nw}"
-    n 1unmaj ""
+    # n 1unmaj "The Northern Hemisphere?{w=1}{nw}"
+    n 1unmaj "¿El Hemisferio Norte? {w=1}{nw}"
 
 # game/script-topics.rpy:1857
 translate spanish talk_weather_setup_manual_coords_097c2fdc:
 
-    # extend 1flrbg " Well hey!{w=1}{nw}"
-    extend 1flrbg ""
+    # extend 1flrbg " Well hey!{w=1}{nw}"
+    extend 1flrbg "¡Pues oye! {w=1}{nw}"
 
 # game/script-topics.rpy:1858
 translate spanish talk_weather_setup_manual_coords_feb7f5fe:
 
-    # extend 4fchbg " Just like me!"
-    extend 4fchbg ""
+    # extend 4fchbg " Just like me!"
+    extend 4fchbg "¡Justo como yo!"
 
 # game/script-topics.rpy:1864
 translate spanish talk_weather_setup_manual_coords_c429b7e1:
 
-    # n 1unmaj "The Southern Hemisphere?{w=1}{nw}"
-    n 1unmaj ""
+    # n 1unmaj "The Southern Hemisphere?{w=1}{nw}"
+    n 1unmaj "¿El Hemisferio Sur? {w=1}{nw}"
 
 # game/script-topics.rpy:1865
 translate spanish talk_weather_setup_manual_coords_baebe2ff:
 
-    # extend 4fchbg " Gotcha!"
-    extend 4fchbg ""
+    # extend 4fchbg " Gotcha!"
+    extend 4fchbg "¡Entendido!"
 
 # game/script-topics.rpy:1867
 translate spanish talk_weather_setup_manual_coords_c77b7559:
 
-    # n 1uchbg "Okay,{w=0.1} now time for the other two!"
-    n 1uchbg ""
+    # n 1uchbg "Okay,{w=0.1} now time for the other two!"
+    n 1uchbg "Okey, {w=0.1}¡ahora es el momento de los otros dos!"
 
 # game/script-topics.rpy:1868
 translate spanish talk_weather_setup_manual_coords_bc3d20bd:
 
-    # n 1tnmss "Do you live in the {b}Eastern{/b} or {b}Western{/b} Hemisphere?"
-    n 1tnmss ""
+    # n 1tnmss "Do you live in the {b}Eastern{/b} or {b}Western{/b} Hemisphere?"
+    n 1tnmss "¿Vives en el Hemisferio {b}Oriental{/b} o {b}Occidental{/b}?"
 
 # game/script-topics.rpy:1869
 translate spanish talk_weather_setup_manual_coords_6a9ff16c:
 
-    # n 1ulraj "This one's a little more tricky,{w=0.1} but I find it helps to think of it this way:"
-    n 1ulraj ""
+    # n 1ulraj "This one's a little more tricky,{w=0.1} but I find it helps to think of it this way:"
+    n 1ulraj "Este es un poco más complicado, {w=0.1}pero creo que ayuda pensarlo de esta manera:"
 
 # game/script-topics.rpy:1870
 translate spanish talk_weather_setup_manual_coords_84e907ff:
 
-    # n 4nnmbo "If we took a world map and cut it in half {b}vertically{/b} down the middle..."
-    n 4nnmbo ""
+    # n 4nnmbo "If we took a world map and cut it in half {b}vertically{/b} down the middle..."
+    n 4nnmbo "Si tomáramos un mapa mundial y lo cortáramos por la mitad {b}verticalmente{/b} por el medio..."
 
 # game/script-topics.rpy:1873
 translate spanish talk_weather_setup_manual_coords_1e15db9a:
 
-    # n "Would you live in the {b}Eastern half{/b},{w=0.1} or the {b}Western half{/b}?" nointeract
-    n "" nointeract
+    # n "Would you live in the {b}Eastern half{/b},{w=0.1} or the {b}Western half{/b}?" nointeract
+    n "¿Vivirías en la {b}mitad oriental{/b}, {w=0.1}o en la {b}mitad occidental{/b}?" nointeract
 
 # game/script-topics.rpy:1880
 translate spanish talk_weather_setup_manual_coords_e01d606c:
 
-    # n 1unmbg "Wow!{w=1}{nw}"
-    n 1unmbg ""
+    # n 1unmbg "Wow!{w=1}{nw}"
+    n 1unmbg "¡Wow! {w=1}{nw}"
 
 # game/script-topics.rpy:1881
 translate spanish talk_weather_setup_manual_coords_7920db63:
 
-    # extend 1fchbg " Just like me again,{w=0.1} [player]!"
-    extend 1fchbg ""
+    # extend 1fchbg " Just like me again,{w=0.1} [player]!"
+    extend 1fchbg "¡Justo como yo de nuevo, {w=0.1}[player]!"
 
 # game/script-topics.rpy:1882
 translate spanish talk_weather_setup_manual_coords_61632502:
 
-    # n 2tslss "It really is a small world,{w=0.1} huh?"
-    n 2tslss ""
+    # n 2tslss "It really is a small world,{w=0.1} huh?"
+    n 2tslss "Es un mundo pequeño, {w=0.1}¿verdad?"
 
 # game/script-topics.rpy:1885
 translate spanish talk_weather_setup_manual_coords_09ee840c:
 
-    # n 1fchbg "Well hey!{w=0.5} Just like me!"
-    n 1fchbg ""
+    # n 1fchbg "Well hey!{w=0.5} Just like me!"
+    n 1fchbg "¡Pues oye! {w=0.5}¡Justo como yo!"
 
 # game/script-topics.rpy:1891
 translate spanish talk_weather_setup_manual_coords_9bdc77e7:
 
-    # n 1fchbg "The Western half.{w=0.5} Gotcha!"
-    n 1fchbg ""
+    # n 1fchbg "The Western half.{w=0.5} Gotcha!"
+    n 1fchbg "La mitad occidental. {w=0.5}¡Entendido!"
 
 # game/script-topics.rpy:1894
 translate spanish talk_weather_setup_manual_coords_48ed1c44:
 
-    # n 4fllss "Now with that out of the way,{w=0.1} I just need your coordinates!"
-    n 4fllss ""
+    # n 4fllss "Now with that out of the way,{w=0.1} I just need your coordinates!"
+    n 4fllss "Ahora, con eso fuera del camino, {w=0.1}¡solo necesito tus coordenadas!"
 
 # game/script-topics.rpy:1895
 translate spanish talk_weather_setup_manual_coords_dd8fc25c:
 
-    # n 3fsqsm "And by those,{w=0.5}{nw}"
-    n 3fsqsm ""
+    # n 3fsqsm "And by those,{w=0.5}{nw}"
+    n 3fsqsm "Y con eso, {w=0.5}{nw}"
 
 # game/script-topics.rpy:1896
 translate spanish talk_weather_setup_manual_coords_05ac5e90:
 
-    # extend 1fchsm " I mean your {b}latitude{/b} and {b}longitude{/b}!"
-    extend 1fchsm ""
+    # extend 1fchsm " I mean your {b}latitude{/b} and {b}longitude{/b}!"
+    extend 1fchsm "¡me refiero a tu {b}latitud{/b} y {b}longitud{/b}!"
 
 # game/script-topics.rpy:1897
 translate spanish talk_weather_setup_manual_coords_d359c8ce:
 
-    # n 1ullaj "I always used {a=[store.jn_globals.LINK_LAT_LONG_HOME]}this{/a} website to look mine up for homework,{w=0.1} but you can use your phone or whatever too."
-    n 1ullaj ""
+    # n 1ullaj "I always used {a=[store.jn_globals.LINK_LAT_LONG_HOME]}this{/a} website to look mine up for homework,{w=0.1} but you can use your phone or whatever too."
+    n 1ullaj "Siempre usaba {a=[store.jn_globals.LINK_LAT_LONG_HOME]}este{/a} sitio web para buscar las mías para la tarea, {w=0.1}pero también puedes usar tu teléfono o lo que sea."
 
 # game/script-topics.rpy:1898
 translate spanish talk_weather_setup_manual_coords_33aea20b:
 
-    # n 4unmaj "Oh,{w=0.3}{nw}"
-    n 4unmaj ""
+    # n 4unmaj "Oh,{w=0.3}{nw}"
+    n 4unmaj "Oh, {w=0.3}{nw}"
 
 # game/script-topics.rpy:1899
 translate spanish talk_weather_setup_manual_coords_e74dcbfa:
 
-    # extend 1fnmbo " and don't worry about making it positive or negative.{w=1}{nw}"
-    extend 1fnmbo ""
+    # extend 1fnmbo " and don't worry about making it positive or negative.{w=1}{nw}"
+    extend 1fnmbo "y no te preocupes por si es positivo o negativo. {w=1}{nw}"
 
 # game/script-topics.rpy:1900
 translate spanish talk_weather_setup_manual_coords_5125bbf1:
 
-    # extend 3fcssm " I'll take care of that!"
-    extend 3fcssm ""
+    # extend 3fcssm " I'll take care of that!"
+    extend 3fcssm "¡Yo me encargo de eso!"
 
 # game/script-topics.rpy:1901
 translate spanish talk_weather_setup_manual_coords_568076b7:
 
-    # n 1ullss "We'll start off with your {b}latitude{/b} first."
-    n 1ullss ""
+    # n 1ullss "We'll start off with your {b}latitude{/b} first."
+    n 1ullss "Empezaremos con tu {b}latitud{/b} primero."
 
 # game/script-topics.rpy:1902
 translate spanish talk_weather_setup_manual_coords_cf52bf1a:
 
-    # n 1fchsm "So...{w=0.3} take it away!"
-    n 1fchsm ""
+    # n 1fchsm "So...{w=0.3} take it away!"
+    n 1fchsm "Así que... {w=0.3}¡adelante!"
 
 # game/script-topics.rpy:1906
 translate spanish talk_weather_setup_manual_coords_40d2b125:
 
-    # n 1fchbg "Alright!{w=0.5}{nw}"
-    n 1fchbg ""
+    # n 1fchbg "Alright!{w=0.5}{nw}"
+    n 1fchbg "¡De acuerdo! {w=0.5}{nw}"
 
 # game/script-topics.rpy:1907
 translate spanish talk_weather_setup_manual_coords_a6e86981:
 
-    # extend 1nchsm " Now finally,{w=0.1} I just need your {b}longitude{/b}!"
-    extend 1nchsm ""
+    # extend 1nchsm " Now finally,{w=0.1} I just need your {b}longitude{/b}!"
+    extend 1nchsm "¡Ahora finalmente, {w=0.1}solo necesito tu {b}longitud{/b}!"
 
 # game/script-topics.rpy:1908
 translate spanish talk_weather_setup_manual_coords_27d31303:
 
-    # n 3fcssm "Just like last time,{w=0.1} I can figure it out without any positive or negative symbols."
-    n 3fcssm ""
+    # n 3fcssm "Just like last time,{w=0.1} I can figure it out without any positive or negative symbols."
+    n 3fcssm "Al igual que la última vez, {w=0.1}puedo resolverlo sin símbolos positivos o negativos."
 
 # game/script-topics.rpy:1909
 translate spanish talk_weather_setup_manual_coords_5b200884:
 
-    # n 1fchsm "Take it away,{w=0.1} [player]!"
-    n 1fchsm ""
+    # n 1fchsm "Take it away,{w=0.1} [player]!"
+    n 1fchsm "¡Adelante, {w=0.1}[player]!"
 
 # game/script-topics.rpy:1923
 translate spanish talk_weather_setup_manual_coords_d328f4b6:
 
-    # n 3fcssm "'Kay!"
-    n 3fcssm ""
+    # n 3fcssm "'Kay!"
+    n 3fcssm "¡Okey!"
 
 # game/script-topics.rpy:1924
 translate spanish talk_weather_setup_manual_coords_debc165f:
 
-    # extend 1fchsm " I think we're nearly there now,{w=0.1} [player]!"
-    extend 1fchsm ""
+    # extend 1fchsm " I think we're nearly there now,{w=0.1} [player]!"
+    extend 1fchsm "¡Creo que ya casi llegamos, {w=0.1}[player]!"
 
 # game/script-topics.rpy:1925
 translate spanish talk_weather_setup_manual_coords_c0c39124:
 
-    # extend 1fcsbg " Let me just open up a map real quick...{w=1}{nw}"
-    extend 1fcsbg ""
+    # extend 1fcsbg " Let me just open up a map real quick...{w=1}{nw}"
+    extend 1fcsbg " Permíteme abrir un mapa rápidamente... {w=1}{nw}"
 
 # game/script-topics.rpy:1938
 translate spanish talk_weather_setup_manual_coords_007bcaf7:
 
-    # n 1uchgn "Ta-da!"
-    n 1uchgn ""
+    # n 1uchgn "Ta-da!"
+    n 1uchgn "¡Ta-da!"
 
 # game/script-topics.rpy:1939
 translate spanish talk_weather_setup_manual_coords_9595a660:
 
-    # n 4fnmbg "How about it,{w=0.1} [player]?{w=1}{nw}"
-    n 4fnmbg ""
+    # n 4fnmbg "How about it,{w=0.1} [player]?{w=1}{nw}"
+    n 4fnmbg "¿Qué tal, {w=0.1}[player]? {w=1}{nw}"
 
 # game/script-topics.rpy:1942
 translate spanish talk_weather_setup_manual_coords_79f0a230:
 
-    # n "Close enough,{w=0.1} right?" nointeract
-    n "" nointeract
+    # n "Close enough,{w=0.1} right?" nointeract
+    n "Suficientemente cerca, {w=0.1}¿verdad?" nointeract
 
 # game/script-topics.rpy:1945
 translate spanish talk_weather_setup_manual_coords_ab6b4f04:
 
-    # n 1fchbg "Finally!{w=1}{nw}"
-    n 1fchbg ""
+    # n 1fchbg "Finally!{w=1}{nw}"
+    n 1fchbg "¡Finalmente! {w=1}{nw}"
 
 # game/script-topics.rpy:1946
 translate spanish talk_weather_setup_manual_coords_369ee210:
 
-    # extend 4nchsm " I'll just note all that down real quick..."
-    extend 4nchsm ""
+    # extend 4nchsm " I'll just note all that down real quick..."
+    extend 4nchsm "Solo anotaré todo eso rápidamente..."
 
 # game/script-topics.rpy:1952
 translate spanish talk_weather_setup_manual_coords_61cc6a9f:
 
-    # n 1tnmem "What?{w=0.2} Really?!"
-    n 1tnmem ""
+    # n 1tnmem "What?{w=0.2} Really?!"
+    n 1tnmem "¿Qué? {w=0.2}¡¿En serio?!"
 
 # game/script-topics.rpy:1953
 translate spanish talk_weather_setup_manual_coords_7acfc80d:
 
-    # n 3fcsem "Ugh..."
-    n 3fcsem ""
+    # n 3fcsem "Ugh..."
+    n 3fcsem "Ugh..."
 
 # game/script-topics.rpy:1954
 translate spanish talk_weather_setup_manual_coords_44df239a:
 
-    # n 4fcsaj "Let's...{w=0.5} try again,{w=0.1} alright?{w=1}{nw}"
-    n 4fcsaj ""
+    # n 4fcsaj "Let's...{w=0.5} try again,{w=0.1} alright?{w=1}{nw}"
+    n 4fcsaj "Vamos... {w=0.5}a intentarlo de nuevo, {w=0.1}¿de acuerdo? {w=1}{nw}"
 
 # game/script-topics.rpy:1955
 translate spanish talk_weather_setup_manual_coords_e61aa304:
 
-    # extend 2fnmpo " I really wanna get this working!"
-    extend 2fnmpo ""
+    # extend 2fnmpo " I really wanna get this working!"
+    extend 2fnmpo "¡Realmente quiero que esto funcione!"
 
 # game/script-topics.rpy:1960
 translate spanish talk_weather_setup_manual_coords_903892c6:
 
-    # n 1fllaj "Urgh...{w=0.3} really?{w=0.2} This is {i}such{/i} a pain!"
-    n 1fllaj ""
+    # n 1fllaj "Urgh...{w=0.3} really?{w=0.2} This is {i}such{/i} a pain!"
+    n 1fllaj "Urgh... {w=0.3}¿en serio? ¡Esto es {i}tan{/i} molesto!"
 
 # game/script-topics.rpy:1961
 translate spanish talk_weather_setup_manual_coords_30854e3f:
 
-    # n 1nlrsl "I can't seem to show you where I think you are on a map,{w=0.1} so I'll just ask to make sure."
-    n 1nlrsl ""
+    # n 1nlrsl "I can't seem to show you where I think you are on a map,{w=0.1} so I'll just ask to make sure."
+    n 1nlrsl "No puedo mostrarte dónde creo que estás en un mapa, {w=0.1}así que solo te preguntaré para asegurarme."
 
 # game/script-topics.rpy:1962
 translate spanish talk_weather_setup_manual_coords_24e4e546:
 
-    # n 1nnmss "I've done some checks to work out the coordinates,{w=0.1} and from what you said..."
-    n 1nnmss ""
+    # n 1nnmss "I've done some checks to work out the coordinates,{w=0.1} and from what you said..."
+    n 1nnmss "He hecho algunas comprobaciones para calcular las coordenadas, {w=0.1}y por lo que dijiste..."
 
 # game/script-topics.rpy:1963
 translate spanish talk_weather_setup_manual_coords_fb6671e8:
 
-    # n 4nnmaj "Your overall latitude would be [player_latitude],{w=0.1} and your overall longitude would be [player_longitude]."
-    n 4nnmaj ""
+    # n 4nnmaj "Your overall latitude would be [player_latitude],{w=0.1} and your overall longitude would be [player_longitude]."
+    n 4nnmaj "Tu latitud general sería [player_latitude], {w=0.1}y tu longitud general sería [player_longitude]."
 
 # game/script-topics.rpy:1965
 translate spanish talk_weather_setup_manual_coords_f427c4a8:
 
-    # n "Is [player_latitude], [player_longitude] correct?" nointeract
-    n "" nointeract
+    # n "Is [player_latitude], [player_longitude] correct?" nointeract
+    n "¿Es correcto [player_latitude], [player_longitude]?" nointeract
 
 # game/script-topics.rpy:1968
 translate spanish talk_weather_setup_manual_coords_63d2f4d2:
 
-    # n 3fcsem "Finally!{w=1}{nw}"
-    n 3fcsem ""
+    # n 3fcsem "Finally!{w=1}{nw}"
+    n 3fcsem "¡Finalmente! {w=1}{nw}"
 
 # game/script-topics.rpy:1969
 translate spanish talk_weather_setup_manual_coords_0b1c1323:
 
-    # extend 3kslpo " Jeez..."
-    extend 3kslpo ""
+    # extend 3kslpo " Jeez..."
+    extend 3kslpo "Uff..."
 
 # game/script-topics.rpy:1975
 translate spanish talk_weather_setup_manual_coords_c253e222:
 
-    # n 3tnmem "What?{w=0.2} Really?!"
-    n 3tnmem ""
+    # n 3tnmem "What?{w=0.2} Really?!"
+    n 3tnmem "¿Qué? {w=0.2}¡¿En serio?!"
 
 # game/script-topics.rpy:1976
 translate spanish talk_weather_setup_manual_coords_7acfc80d_1:
 
-    # n 3fcsem "Ugh..."
-    n 3fcsem ""
+    # n 3fcsem "Ugh..."
+    n 3fcsem "Ugh..."
 
 # game/script-topics.rpy:1977
 translate spanish talk_weather_setup_manual_coords_5309b7b7:
 
-    # n 1fcsaj "Let's...{0.5} try again,{w=0.1} alright?{w=1}{nw}"
-    n 1fcsaj ""
+    # n 1fcsaj "Let's...{w=0.5} try again,{w=0.1} alright?{w=1}{nw}"
+    n 1fcsaj "Vamos... {w=0.5}a intentarlo de nuevo, {w=0.1}¿de acuerdo?{w=1}{nw}"
 
 # game/script-topics.rpy:1978
 translate spanish talk_weather_setup_manual_coords_dd22ff4e:
 
-    # extend 4fnmpo " I really wanna get this working!"
-    extend 4fnmpo ""
+    # extend 4fnmpo " I really wanna get this working!"
+    extend 4fnmpo "¡Realmente quiero que esto funcione!"
 
 # game/script-topics.rpy:1983
 translate spanish talk_weather_setup_manual_coords_bf0ce0d4:
 
-    # n 3fllpo "Jeez...{w=1}{nw}"
-    n 3fllpo ""
+    # n 3fllpo "Jeez...{w=1}{nw}"
+    n 3fllpo "Dios... {w=1}{nw}"
 
 # game/script-topics.rpy:1984
 translate spanish talk_weather_setup_manual_coords_d3a2c394:
 
-    # extend 1tlrss " what a mess,{w=0.1} huh?"
-    extend 1tlrss ""
+    # extend 1tlrss " what a mess,{w=0.1} huh?"
+    extend 1tlrss "qué desastre, {w=0.1}¿eh?"
 
 # game/script-topics.rpy:1985
 translate spanish talk_weather_setup_manual_coords_3f58fce3:
 
-    # n 1fcspo "..."
-    n 1fcspo ""
+    # n 1fcspo "..."
+    n 1fcspo "..."
 
 # game/script-topics.rpy:1986
 translate spanish talk_weather_setup_manual_coords_1d49aff8:
 
-    # n 1nllaj "Well,{w=0.1} thanks anyway.{w=1}{nw}"
-    n 1nllaj ""
+    # n 1nllaj "Well,{w=0.1} thanks anyway.{w=1}{nw}"
+    n 1nllaj "Bueno, {w=0.1}gracias de todos modos. {w=1}{nw}"
 
 # game/script-topics.rpy:1987
 translate spanish talk_weather_setup_manual_coords_c2ebb08f:
 
-    # extend 1nnmaj " We can always try again later,{w=0.5}{nw}"
-    extend 1nnmaj ""
+    # extend 1nnmaj " We can always try again later,{w=0.5}{nw}"
+    extend 1nnmaj "Siempre podemos intentarlo de nuevo más tarde, {w=0.5}{nw}"
 
 # game/script-topics.rpy:1988
 translate spanish talk_weather_setup_manual_coords_f7bef3eb:
 
-    # extend 4tnmss " right?"
-    extend 4tnmss ""
+    # extend 4tnmss " right?"
+    extend 4tnmss "¿verdad?"
 
 # game/script-topics.rpy:1993
 translate spanish talk_weather_setup_verify_f3ddaf1b:
 
-    # n 1nchbg "Okaaay!{w=1}{nw}"
-    n 1nchbg ""
+    # n 1nchbg "Okaaay!{w=1}{nw}"
+    n 1nchbg "¡Okeeey! {w=1}{nw}"
 
 # game/script-topics.rpy:1994
 translate spanish talk_weather_setup_verify_d80e2696:
 
-    # extend 4fnmsm " I think we're almost done now,{w=0.1} [player]!"
-    extend 4fnmsm ""
+    # extend 4fnmsm " I think we're almost done now,{w=0.1} [player]!"
+    extend 4fnmsm "¡Creo que ya casi terminamos, {w=0.1}[player]!"
 
 # game/script-topics.rpy:1995
 translate spanish talk_weather_setup_verify_a2e5b585:
