@@ -16,7 +16,7 @@ translate spanish event_caught_reading_manga_bb2cf764_1:
 translate spanish event_caught_reading_manga_991a55ad:
 
     # n "W-{w=0.2}wait...{w=0.3} what?!"
-    n "¡¿E-{w=0.2}Espera... {w=0.3}que?!"
+    n "E-{w=0.2}Espera... {w=0.3}¡¿que?!"
 
 # game/script-events.rpy:748
 translate spanish event_caught_reading_manga_3f804d73:
@@ -28,7 +28,7 @@ translate spanish event_caught_reading_manga_3f804d73:
 translate spanish event_caught_reading_manga_c075ab12:
 
     # extend " You {i}idiot{/i}!"
-    extend "¡{i}Idiota{/i}!"
+    extend "¡Eres un {i}Idiota{/i}!"
 
 # game/script-events.rpy:750
 translate spanish event_caught_reading_manga_6bcd9596:
