@@ -8200,103 +8200,103 @@ translate spanish talk_sweet_tooth_9200bd3c:
 translate spanish talk_sweet_tooth_0e8c2aee:
 
     # n 1nlrbo "That being said..."
-    n 1nlrbo ""
+    n 1nlrbo "Habiendo dicho eso..."
 
 # game/script-topics.rpy:2416
 translate spanish talk_sweet_tooth_3c8045b0:
 
     # n 2flrsr "I...{w=0.3} could really use some chocolate right now."
-    n 2flrsr ""
+    n 2flrsr "Yo... {w=0.3}realmente podría usar un poco de chocolate ahora mismo."
 
 # game/script-topics.rpy:2417
 translate spanish talk_sweet_tooth_6699506d:
 
     # n 2fsqsr "I'll let {i}you{/i} figure out why,{w=0.1} [player]."
-    n 2fsqsr ""
+    n 2fsqsr "Dejaré que {i}tú{/i} averigües por qué, {w=0.1}[player]."
 
 # game/script-topics.rpy:2440
 translate spanish talk_player_appearance_1de9aee3:
 
     # n 4unmaj "Huh?{w=0.2} Your appearance?"
-    n 4unmaj ""
+    n 4unmaj "¿Eh? {w=0.2}¿Tu apariencia?"
 
 # game/script-topics.rpy:2441
 translate spanish talk_player_appearance_7ed3ed8f:
 
     # n 1ullaj "If I remember,{w=0.1} [player]{w=0.1} -{w=0.3}{nw}"
-    n 1ullaj ""
+    n 1ullaj "Si no me equivoco, {w=0.1}[player] {w=0.1}-{w=0.3}{nw}"
 
 # game/script-topics.rpy:2442
 translate spanish talk_player_appearance_9968f5a6:
 
     # extend 2tnmbo " you said didn't want to share it with me before."
-    extend 2tnmbo ""
+    extend 2tnmbo " dijiste que no querías compartirla conmigo antes."
 
 # game/script-topics.rpy:2443
 translate spanish talk_player_appearance_9979ed24:
 
     # n 1tlrbo "Huh. Well..."
-    n 1tlrbo ""
+    n 1tlrbo "Ah. Bueno..."
 
 # game/script-topics.rpy:2445
 translate spanish talk_player_appearance_4e38058c:
 
     # n "Did you change your mind,{w=0.1} [player]?" nointeract
-    n "" nointeract
+    n "¿Cambiaste de opinión, {w=0.1}[player]?" nointeract
 
 # game/script-topics.rpy:2448
 translate spanish talk_player_appearance_5627f114:
 
     # n 3fcsbg "A-{w=0.1}aha!{w=0.2} I knew you'd come around eventually,{w=0.1} [player].{nw}"
-    n 3fcsbg ""
+    n 3fcsbg "¡A-{w=0.1}ajá! {w=0.2}Sabía que al final cederías, {w=0.1}[player].{nw}"
 
 # game/script-topics.rpy:2449
 translate spanish talk_player_appearance_7661a8d3:
 
     # extend 3fchgn "{w=0.2} Let's not waste any time!"
-    extend 3fchgn ""
+    extend 3fchgn " {w=0.2}¡No perdamos el tiempo!"
 
 # game/script-topics.rpy:2452
 translate spanish talk_player_appearance_6053ec43:
 
     # n 1nllsl "Oh..."
-    n 1nllsl ""
+    n 1nllsl "Oh..."
 
 # game/script-topics.rpy:2453
 translate spanish talk_player_appearance_cdfb717d:
 
     # n 4unmaj "Well,{w=0.1} it's your call,{w=0.1} [player]."
-    n 4unmaj ""
+    n 4unmaj "Bueno, {w=0.1}es tu decisión, {w=0.1}[player]."
 
 # game/script-topics.rpy:2454
 translate spanish talk_player_appearance_2fe44732:
 
     # n 1unmss "Just let me know if you change your mind again,{w=0.1} alright?"
-    n 1unmss ""
+    n 1unmss "Solo házmelo saber si cambias de opinión de nuevo, {w=0.1}¿sí?"
 
 # game/script-topics.rpy:2459
 translate spanish talk_player_appearance_6eeb7005:
 
     # n 1unmaj "Huh?{w=0.2} Your appearance?"
-    n 1unmaj ""
+    n 1unmaj "¿Eh? {w=0.2}¿Tu apariencia?"
 
 # game/script-topics.rpy:2460
 translate spanish talk_player_appearance_01dfefea:
 
     # n 2tllbo "But...{w=0.3} I was sure you already shared that with me,{w=0.1} [player]."
-    n 2tllbo ""
+    n 2tllbo "Pero... {w=0.3}estaba segura de que ya habías compartido eso conmigo, {w=0.1}[player]."
 
 # game/script-topics.rpy:2461
 translate spanish talk_player_appearance_f5ba687a:
 
     # n 4uspgs "Ooh!{w=0.5}{nw}"
-    n 4uspgs ""
+    n 4uspgs "¡Uhm!{w=0.5}{nw}"
 
 # game/script-topics.rpy:2462
 translate spanish talk_player_appearance_9dafbb8c:
 
     # extend 1unmbg " Did you dye your hair or something?"
-    extend 1unmbg ""
+    extend 1unmbg "¿Te teñiste el pelo o algo así?"
 
 # game/script-topics.rpy:2463
 translate spanish talk_player_appearance_1b801382:
