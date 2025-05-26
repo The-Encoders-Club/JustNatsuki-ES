@@ -8248,7 +8248,7 @@ translate spanish talk_player_appearance_4e38058c:
 translate spanish talk_player_appearance_5627f114:
 
     # n 3fcsbg "A-{w=0.1}aha!{w=0.2} I knew you'd come around eventually,{w=0.1} [player].{nw}"
-    n 3fcsbg "¡A-{w=0.1}ajá! {w=0.2}Sabía que al final cederías, {w=0.1}[player].{nw}"
+    n 3fcsbg "¡A-{w=0.1}Ajá! {w=0.2}Sabía que al final cederías, {w=0.1}[player].{nw}"
 
 # game/script-topics.rpy:2449
 translate spanish talk_player_appearance_7661a8d3:
@@ -8272,7 +8272,7 @@ translate spanish talk_player_appearance_cdfb717d:
 translate spanish talk_player_appearance_2fe44732:
 
     # n 1unmss "Just let me know if you change your mind again,{w=0.1} alright?"
-    n 1unmss "Solo házmelo saber si cambias de opinión de nuevo, {w=0.1}¿sí?"
+    n 1unmss "Solo házmelo saber si cambias de opinión de nuevo, {w=0.1}¿de acuerdo?"
 
 # game/script-topics.rpy:2459
 translate spanish talk_player_appearance_6eeb7005:
@@ -8290,7 +8290,7 @@ translate spanish talk_player_appearance_01dfefea:
 translate spanish talk_player_appearance_f5ba687a:
 
     # n 4uspgs "Ooh!{w=0.5}{nw}"
-    n 4uspgs "¡Uhm!{w=0.5}{nw}"
+    n 4uspgs "¡Uhm! {w=0.5}{nw}"
 
 # game/script-topics.rpy:2462
 translate spanish talk_player_appearance_9dafbb8c:
