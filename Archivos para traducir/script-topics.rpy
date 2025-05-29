@@ -9525,482 +9525,482 @@ translate spanish talk_drinking_alcohol_03dc686f:
 # game/script-topics.rpy:2841
 translate spanish talk_drinking_alcohol_c313dab8:
 
-    # n 2kllsr "I've...{w=0.5}{nw}"
-    n 2kllsr ""
+    # n 2kllsr "I've...{w=0.5}{nw}"
+    n 2kllsr "He... {w=0.5}{nw}"
 
 # game/script-topics.rpy:2842
 translate spanish talk_drinking_alcohol_29cbf6df:
 
-    # extend 2fcsan " seen...{w=0.5}{nw}"
-    extend 2fcsan ""
+    # extend 2fcsan " seen...{w=0.5}{nw}"
+    extend 2fcsan "visto... {w=0.5}{nw}"
 
 # game/script-topics.rpy:2843
 translate spanish talk_drinking_alcohol_d204cc3f:
 
-    # extend 1fcssr " what it can do to people."
-    extend 1fcssr ""
+    # extend 1fcssr " what it can do to people."
+    extend 1fcssr "lo que le puede hacer a la gente."
 
 # game/script-topics.rpy:2844
 translate spanish talk_drinking_alcohol_303090d2:
 
-    # n 1kslsr "...Firsthand."
-    n 1kslsr ""
+    # n 1kslsr "...Firsthand."
+    n 1kslsr "... De primera mano."
 
 # game/script-topics.rpy:2845
 translate spanish talk_drinking_alcohol_a74e6125:
 
-    # n 4ksqsl "You deserve better than that,{w=0.1} [player].{w=0.5}{nw}"
-    n 4ksqsl ""
+    # n 4ksqsl "You deserve better than that,{w=0.1} [player].{w=0.5}{nw}"
+    n 4ksqsl "Te mereces algo mejor que eso, {w=0.1}[player]. {w=0.5}{nw}"
 
 # game/script-topics.rpy:2846
 translate spanish talk_drinking_alcohol_19c3feac:
 
-    # extend 4kslun " You {i}are{/i} better than that."
-    extend 4kslun ""
+    # extend 4kslun " You {i}are{/i} better than that."
+    extend 4kslun "Tú {i}eres{/i} mejor que eso."
 
 # game/script-topics.rpy:2849
 translate spanish talk_drinking_alcohol_2a04561f:
 
-    # n 1kcsun "..."
-    n 1kcsun ""
+    # n 1kcsun "..."
+    n 1kcsun "..."
 
 # game/script-topics.rpy:2850
 translate spanish talk_drinking_alcohol_b9833f4d:
 
-    # n 1ksqsml "I love you,{w=0.1} [player]."
-    n 1ksqsml ""
+    # n 1ksqsml "I love you,{w=0.1} [player]."
+    n 1ksqsml "Te amo, {w=0.1}[player]."
 
 # game/script-topics.rpy:2851
 translate spanish talk_drinking_alcohol_861b4d1b:
 
-    # n 3fcssrl "I'm {w=0.3}{i}never{/i}{w=0.3} going to let a bottle get between us."
-    n 3fcssrl ""
+    # n 3fcssrl "I'm {w=0.3}{i}never{/i}{w=0.3} going to let a bottle get between us."
+    n 3fcssrl "Yo {w=0.3}{i}nunca{/i} {w=0.3}voy a dejar que una botella se interponga entre nosotros."
 
 # game/script-topics.rpy:2854
 translate spanish talk_drinking_alcohol_7358d555:
 
-    # n 4unmsr "Hey,{w=0.1} [player]?"
-    n 4unmsr ""
+    # n 4unmsr "Hey,{w=0.1} [player]?"
+    n 4unmsr "Hey, {w=0.1}¿[player]?"
 
 # game/script-topics.rpy:2855
 translate spanish talk_drinking_alcohol_84a634b6:
 
-    # n 1nllaj "I don't really care that much if you drink or not."
-    n 1nllaj ""
+    # n 1nllaj "I don't really care that much if you drink or not."
+    n 1nllaj "Realmente no me importa mucho si bebes o no."
 
 # game/script-topics.rpy:2856
 translate spanish talk_drinking_alcohol_67f90aa0:
 
-    # n 2ncssr "Just...{w=0.3} go easy on the stuff."
-    n 2ncssr ""
+    # n 2ncssr "Just...{w=0.3} go easy on the stuff."
+    n 2ncssr "Solo... {w=0.3}tómatelo con calma."
 
 # game/script-topics.rpy:2857
 translate spanish talk_drinking_alcohol_a64708b0:
 
-    # n 2flleml "B-{w=0.1}but only because I'm not gonna clean up after you!"
-    n 2flleml ""
+    # n 2flleml "B-{w=0.1}but only because I'm not gonna clean up after you!"
+    n 2flleml "P-{w=0.1}Pero solo porque ¡no voy a limpiar lo que ensucies!"
 
 # game/script-topics.rpy:2858
 translate spanish talk_drinking_alcohol_d1f5fc76:
 
-    # n 2fllss "Ahaha..."
-    n 2fllss ""
+    # n 2fllss "Ahaha..."
+    n 2fllss "Jajaja..."
 
 # game/script-topics.rpy:2859
 translate spanish talk_drinking_alcohol_9f961cb0:
 
-    # n 1kllsr "..."
-    n 1kllsr ""
+    # n 1kllsr "..."
+    n 1kllsr "..."
 
 # game/script-topics.rpy:2885
 translate spanish talk_driving_0ba99c47:
 
-    # n 4tnmboeqm "...Huh?{w=0.75}{nw}"
-    n 4tnmboeqm ""
+    # n 4tnmboeqm "...Huh?{w=0.75}{nw}"
+    n 4tnmboeqm "... ¿Eh? {w=0.75}{nw}"
 
 # game/script-topics.rpy:2886
 translate spanish talk_driving_99db03fe:
 
-    # extend 1tllsssbr " I already told you I can't drive,{w=0.2} [chosen_tease]!"
-    extend 1tllsssbr ""
+    # extend 1tllsssbr " I already told you I can't drive,{w=0.2} [chosen_tease]!"
+    extend 1tllsssbr "¡Ya te dije que no sé conducir, {w=0.2}[chosen_tease]!"
 
 # game/script-topics.rpy:2887
 translate spanish talk_driving_5a37820a:
 
-    # n 1fchgnelg "I still don't have a license,{w=0.2} remember?"
-    n 1fchgnelg ""
+    # n 1fchgnelg "I still don't have a license,{w=0.2} remember?"
+    n 1fchgnelg "Todavía no tengo licencia, {w=0.2}¿recuerdas?"
 
 # game/script-topics.rpy:2888
 translate spanish talk_driving_d693d490:
 
-    # n 3tllaj "And even if I wanted to,{w=0.5}{nw}"
-    n 3tllaj ""
+    # n 3tllaj "And even if I wanted to,{w=0.5}{nw}"
+    n 3tllaj "E incluso si quisiera, {w=0.5}{nw}"
 
 # game/script-topics.rpy:2889
 translate spanish talk_driving_c09f86e4:
 
-    # extend 3nslposbl " I don't think I could afford it..."
-    extend 3nslposbl ""
+    # extend 3nslposbl " I don't think I could afford it..."
+    extend 3nslposbl "no creo que podría permitírmelo..."
 
 # game/script-topics.rpy:2892
 translate spanish talk_driving_ded7371d:
 
-    # n 1fchdvesm "Pffft!{w=0.5}{nw}"
-    n 1fchdvesm ""
+    # n 1fchdvesm "Pffft!{w=0.5}{nw}"
+    n 1fchdvesm "¡Pffft! {w=0.5}{nw}"
 
 # game/script-topics.rpy:2893
 translate spanish talk_driving_404e61f2:
 
-    # extend 1uchbselg " Ahaha!"
-    extend 1uchbselg ""
+    # extend 1uchbselg " Ahaha!"
+    extend 1uchbselg "¡Jajaja!"
 
 # game/script-topics.rpy:2894
 translate spanish talk_driving_37bb6da3:
 
-    # n 3fchgn "What kind of a question is that,{w=0.1} [player]?"
-    n 3fchgn ""
+    # n 3fchgn "What kind of a question is that,{w=0.1} [player]?"
+    n 3fchgn "¿Qué clase de pregunta es esa, {w=0.1}[player]?"
 
 # game/script-topics.rpy:2895
 translate spanish talk_driving_5bb6e517:
 
-    # n 1tllss "Of course I can't drive,{w=0.1} [chosen_tease]!{w=0.5}{nw}"
-    n 1tllss ""
+    # n 1tllss "Of course I can't drive,{w=0.1} [chosen_tease]!{w=0.5}{nw}"
+    n 1tllss "¡Por supuesto que no sé conducir, {w=0.1}[chosen_tease]! {w=0.5}{nw}"
 
 # game/script-topics.rpy:2896
 translate spanish talk_driving_fac087f7:
 
-    # extend 4fchgn " I don't even have a license!"
-    extend 4fchgn ""
+    # extend 4fchgn " I don't even have a license!"
+    extend 4fchgn "¡Ni siquiera tengo licencia!"
 
 # game/script-topics.rpy:2897
 translate spanish talk_driving_7be2aff4:
 
-    # n 2kllpo "I mean...{w=0.3} even if I wanted to learn,{w=0.1} I don't think I could afford it."
-    n 2kllpo ""
+    # n 2kllpo "I mean...{w=0.3} even if I wanted to learn,{w=0.1} I don't think I could afford it."
+    n 2kllpo "Quiero decir... {w=0.3}incluso si quisiera aprender, {w=0.1}no creo que podría permitírmelo."
 
 # game/script-topics.rpy:2899
 translate spanish talk_driving_324a8dec:
 
-    # n 1uskgs "Lessons are super expensive nowadays!"
-    n 1uskgs ""
+    # n 1uskgs "Lessons are super expensive nowadays!"
+    n 1uskgs "¡Las clases son súper caras hoy en día!"
 
 # game/script-topics.rpy:2900
 translate spanish talk_driving_2afae89e:
 
-    # n 3fslem "And then there's tests,{w=0.1} insurance,{w=0.1} fuel,{w=0.1} parking...{w=0.5}{nw}"
-    n 3fslem ""
+    # n 3fslem "And then there's tests,{w=0.1} insurance,{w=0.1} fuel,{w=0.1} parking...{w=0.5}{nw}"
+    n 3fslem "Y luego están los exámenes, {w=0.1}el seguro, {w=0.1}la gasolina, {w=0.1}el estacionamiento... {w=0.5}{nw}"
 
 # game/script-topics.rpy:2901
 translate spanish talk_driving_f03cd79b:
 
-    # extend 1fsqaj " it's actually pretty gross how fast it all adds up."
-    extend 1fsqaj ""
+    # extend 1fsqaj " it's actually pretty gross how fast it all adds up."
+    extend 1fsqaj "en realidad es bastante desagradable lo rápido que todo suma."
 
 # game/script-topics.rpy:2902
 translate spanish talk_driving_a181ca3e:
 
-    # n 1nlraj "I think I'd rather stick to public transport and my own two feet."
-    n 1nlraj ""
+    # n 1nlraj "I think I'd rather stick to public transport and my own two feet."
+    n 1nlraj "Creo que prefiero seguir con el transporte público y mis propios pies."
 
 # game/script-topics.rpy:2903
 translate spanish talk_driving_83d56819:
 
-    # n 4unmaj "But what about you,{w=0.1} [player]?"
-    n 4unmaj ""
+    # n 4unmaj "But what about you,{w=0.1} [player]?"
+    n 4unmaj "Pero ¿y tú, {w=0.1}[player]?"
 
 # game/script-topics.rpy:2909
 translate spanish talk_driving_191e6513:
 
-    # n "Can you drive?" nointeract
-    n "" nointeract
+    # n "Can you drive?" nointeract
+    n "¿Sabes conducir?" nointeract
 
 # game/script-topics.rpy:2912
 translate spanish talk_driving_527740fc:
 
-    # n 1uwdaj "Wow..."
-    n 1uwdaj ""
+    # n 1uwdaj "Wow..."
+    n 1uwdaj "Guau..."
 
 # game/script-topics.rpy:2913
 translate spanish talk_driving_68aa2676:
 
-    # extend 3fsraj " ...{w=0.3}show-off."
-    extend 3fsraj ""
+    # extend 3fsraj " ...{w=0.3}show-off."
+    extend 3fsraj " {w=0.3}presumido."
 
 # game/script-topics.rpy:2914
 translate spanish talk_driving_7dc10de9:
 
-    # n 1fsqpo "..."
-    n 1fsqpo ""
+    # n 1fsqpo "..."
+    n 1fsqpo "..."
 
 # game/script-topics.rpy:2915
 translate spanish talk_driving_de2ea376:
 
-    # n 1fchbg "Relax,{w=0.1} [player]!{w=0.2} Jeez!{w=0.5}{nw}"
-    n 1fchbg ""
+    # n 1fchbg "Relax,{w=0.1} [player]!{w=0.2} Jeez!{w=0.5}{nw}"
+    n 1fchbg "¡Relájate, {w=0.1}[player]! {w=0.2}¡Cielos! {w=0.5}{nw}"
 
 # game/script-topics.rpy:2916
 translate spanish talk_driving_0272d573:
 
-    # extend 1nchsm " I'm just messing with you."
-    extend 1nchsm ""
+    # extend 1nchsm " I'm just messing with you."
+    extend 1nchsm "Solo estoy bromeando contigo."
 
 # game/script-topics.rpy:2917
 translate spanish talk_driving_ca8853a0:
 
-    # n 4unmbg "That's awesome though{w=0.1} -{w=0.1} you just can't beat the convenience of a car,{w=0.1} right?"
-    n 4unmbg ""
+    # n 4unmbg "That's awesome though{w=0.1} -{w=0.1} you just can't beat the convenience of a car,{w=0.1} right?"
+    n 4unmbg "Eso es genial, {w=0.1}sin embargo - {w=0.1}simplemente no puedes superar la comodidad de un coche, {w=0.1}¿verdad?"
 
 # game/script-topics.rpy:2920
 translate spanish talk_driving_7d3a68fa:
 
-    # n 1fllbg "But I should probably warn you..."
-    n 1fllbg ""
+    # n 1fllbg "But I should probably warn you..."
+    n 1fllbg "Pero probablemente debería advertirte..."
 
 # game/script-topics.rpy:2921
 translate spanish talk_driving_d2a022c8:
 
-    # n 3fsgsm "I'm picking the songs for our driving playlist."
-    n 3fsgsm ""
+    # n 3fsgsm "I'm picking the songs for our driving playlist."
+    n 3fsgsm "Yo elegiré las canciones para nuestra lista de reproducción de viaje."
 
 # game/script-topics.rpy:2922
 translate spanish talk_driving_d1f87af5:
 
-    # extend 3uchbgelg " Ahaha!"
-    extend 3uchbgelg ""
+    # extend 3uchbgelg " Ahaha!"
+    extend 3uchbgelg "¡Jajaja!"
 
 # game/script-topics.rpy:2925
 translate spanish talk_driving_03c42b91:
 
-    # n 2fllbg "Just remember,{w=0.1} [player]..."
-    n 2fllbg ""
+    # n 2fllbg "Just remember,{w=0.1} [player]..."
+    n 2fllbg "Solo recuerda, {w=0.1}[player]..."
 
 # game/script-topics.rpy:2926
 translate spanish talk_driving_22e3a8d1:
 
-    # n 4fsgsm "I call shotgun.{w=0.5}{nw}"
-    n 4fsgsm ""
+    # n 4fsgsm "I call shotgun.{w=0.5}{nw}"
+    n 4fsgsm "Pido el copiloto. {w=0.5}{nw}"
 
 # game/script-topics.rpy:2932
 translate spanish talk_driving_ab74b942:
 
-    # n 4unmaj "Oh?{w=0.2} Is something wrong with your car,{w=0.1} [player]?"
-    n 4unmaj ""
+    # n 4unmaj "Oh?{w=0.2} Is something wrong with your car,{w=0.1} [player]?"
+    n 4unmaj "¿Oh? {w=0.2}¿Le pasa algo a tu coche, {w=0.1}[player]?"
 
 # game/script-topics.rpy:2933
 translate spanish talk_driving_1e01f531:
 
-    # n 2tllbo "Or perhaps...{w=0.3} you just don't own one at the moment?"
-    n 2tllbo ""
+    # n 2tllbo "Or perhaps...{w=0.3} you just don't own one at the moment?"
+    n 2tllbo "O quizás... {w=0.3}¿simplemente no tienes uno en este momento?"
 
 # game/script-topics.rpy:2934
 translate spanish talk_driving_f7925185:
 
-    # n 1nnmsm "Well,{w=0.1} I'm not one to judge.{w=0.2} I'm sure you manage just fine."
-    n 1nnmsm ""
+    # n 1nnmsm "Well,{w=0.1} I'm not one to judge.{w=0.2} I'm sure you manage just fine."
+    n 1nnmsm "Bueno, {w=0.1}no soy quién para juzgar. {w=0.2}Estoy segura de que te las arreglas bien."
 
 # game/script-topics.rpy:2935
 translate spanish talk_driving_925f463c:
 
-    # n 2flrss "Besides,{w=0.1} you're helping the environment too,{w=0.1} right?"
-    n 2flrss ""
+    # n 2flrss "Besides,{w=0.1} you're helping the environment too,{w=0.1} right?"
+    n 2flrss "Además, {w=0.1}también estás ayudando al medio ambiente, {w=0.1}¿verdad?"
 
 # game/script-topics.rpy:2938
 translate spanish talk_driving_51f6dc35:
 
-    # n 1fsgsm "Thoughtful as always,{w=0.1} [player]."
-    n 1fsgsm ""
+    # n 1fsgsm "Thoughtful as always,{w=0.1} [player]."
+    n 1fsgsm "Considerada como siempre, {w=0.1}[player]."
 
 # game/script-topics.rpy:2939
 translate spanish talk_driving_12ac0b74:
 
-    # extend 4nchsm " Ehehe."
-    extend 4nchsm ""
+    # extend 4nchsm " Ehehe."
+    extend 4nchsm "Jejeje."
 
 # game/script-topics.rpy:2945
 translate spanish talk_driving_9ba19eec:
 
-    # n 2klrsl "Oh..."
-    n 2klrsl ""
+    # n 2klrsl "Oh..."
+    n 2klrsl "Oh..."
 
 # game/script-topics.rpy:2946
 translate spanish talk_driving_b8237a24:
 
-    # n 1flrss "Well,{w=0.3}{nw}"
-    n 1flrss ""
+    # n 1flrss "Well,{w=0.3}{nw}"
+    n 1flrss "Bueno, {w=0.3}{nw}"
 
 # game/script-topics.rpy:2947
 translate spanish talk_driving_9b415d2e:
 
-    # extend 1fchbg " chin up,{w=0.1} [player]!{w=0.2} It isn't the end of the world."
-    extend 1fchbg ""
+    # extend 1fchbg " chin up,{w=0.1} [player]!{w=0.2} It isn't the end of the world."
+    extend 1fchbg "¡ánimo, {w=0.1}[player]! {w=0.2}No es el fin del mundo."
 
 # game/script-topics.rpy:2948
 translate spanish talk_driving_a3965740:
 
-    # n 1usgsg "Don't worry -{w=0.3}{nw}"
-    n 1usgsg ""
+    # n 1usgsg "Don't worry -{w=0.3}{nw}"
+    n 1usgsg "No te preocupes - {w=0.3}{nw}"
 
 # game/script-topics.rpy:2949
 translate spanish talk_driving_283e9971:
 
-    # extend 1fsgsm " I'll teach you how to use the bus!"
-    extend 1fsgsm ""
+    # extend 1fsgsm " I'll teach you how to use the bus!"
+    extend 1fsgsm "¡Te enseñaré a usar el autobús!"
 
 # game/script-topics.rpy:2950
 translate spanish talk_driving_c21bc9cb:
 
-    # n 4uchsm "Ehehe."
-    n 4uchsm ""
+    # n 4uchsm "Ehehe."
+    n 4uchsm "Jejeje."
 
 # game/script-topics.rpy:2953
 translate spanish talk_driving_a1a9d792:
 
-    # n 1fllsm "And besides..."
-    n 1fllsm ""
+    # n 1fllsm "And besides..."
+    n 1fllsm "Y además..."
 
 # game/script-topics.rpy:2954
 translate spanish talk_driving_0e78e433:
 
-    # n 3fllssl "That just means we can huddle up on the seat together,{w=0.1} [player]."
-    n 3fllssl ""
+    # n 3fllssl "That just means we can huddle up on the seat together,{w=0.1} [player]."
+    n 3fllssl "Eso solo significa que podemos acurrucarnos juntas en el asiento, {w=0.1}[player]."
 
 # game/script-topics.rpy:2955
 translate spanish talk_driving_727b3f6a:
 
-    # n 1fcsbgl "A dream come true for you,{w=0.1} right?"
-    n 1fcsbgl ""
+    # n 1fcsbgl "A dream come true for you,{w=0.1} right?"
+    n 1fcsbgl "Un sueño hecho realidad para ti, {w=0.1}¿verdad?"
 
 # game/script-topics.rpy:2956
 translate spanish talk_driving_403b0fb1:
 
-    # n 4flldvl "Ehehe."
-    n 4flldvl ""
+    # n 4flldvl "Ehehe."
+    n 4flldvl "Jejeje."
 
 # game/script-topics.rpy:2959
 translate spanish talk_driving_c6d077fd:
 
-    # n 4fchbg "That's what friends are for, [player]!"
-    n 4fchbg ""
+    # n 4fchbg "That's what friends are for, [player]!"
+    n 4fchbg "¡Para eso están las amigas, [player]!"
 
 # game/script-topics.rpy:2967
 translate spanish talk_driving_70923c0c:
 
-    # n "Doing much driving?" nointeract
-    n "" nointeract
+    # n "Doing much driving?" nointeract
+    n "¿Conduces mucho?" nointeract
 
 # game/script-topics.rpy:2970
 translate spanish talk_driving_1463c523:
 
-    # n 1fnmbg "Ah,{w=0.1} so you're at home on the roads,{w=0.1} are you?"
-    n 1fnmbg ""
+    # n 1fnmbg "Ah,{w=0.1} so you're at home on the roads,{w=0.1} are you?"
+    n 1fnmbg "Ah, {w=0.1}así que te sientes como en casa en las carreteras, {w=0.1}¿eh?"
 
 # game/script-topics.rpy:2971
 translate spanish talk_driving_e5e352ef:
 
-    # n 4ullss "Fair enough I suppose -{w=0.1} just remember to drive safe,{w=0.1} [player]!"
-    n 4ullss ""
+    # n 4ullss "Fair enough I suppose -{w=0.1} just remember to drive safe,{w=0.1} [player]!"
+    n 4ullss "Supongo que es justo - {w=0.1}solo recuerda conducir con cuidado, {w=0.1}[player]!"
 
 # game/script-topics.rpy:2974
 translate spanish talk_driving_9b062aad:
 
-    # n 4ullss "Well hey,{w=0.1} at least you're saving on fuel,{w=0.1} right?{w=0.5}{nw}"
-    n 4ullss ""
+    # n 4ullss "Well hey,{w=0.1} at least you're saving on fuel,{w=0.1} right?{w=0.5}{nw}"
+    n 4ullss "Bueno,{w=0.1} al menos estás ahorrando en gasolina, {w=0.1}¿verdad? {w=0.5}{nw}"
 
 # game/script-topics.rpy:2975
 translate spanish talk_driving_b9f55d27:
 
-    # extend 1ullsm " That doesn't sound like a bad thing to me."
-    extend 1ullsm ""
+    # extend 1ullsm " That doesn't sound like a bad thing to me."
+    extend 1ullsm "Eso no me suena nada mal."
 
 # game/script-topics.rpy:2976
 translate spanish talk_driving_2bd6c69a:
 
-    # n 1fchsm "Besides,{w=0.1} it just means you can save the miles for ones you enjoy!"
-    n 1fchsm ""
+    # n 1fchsm "Besides,{w=0.1} it just means you can save the miles for ones you enjoy!"
+    n 1fchsm "Además, {w=0.1}¡solo significa que puedes guardar los kilómetros para los que disfrutas!"
 
 # game/script-topics.rpy:2979
 translate spanish talk_driving_60a9cc54:
 
-    # n 4unmaj "Oh?{w=0.5}{nw}"
-    n 4unmaj ""
+    # n 4unmaj "Oh?{w=0.5}{nw}"
+    n 4unmaj "¿Oh? {w=0.5}{nw}"
 
 # game/script-topics.rpy:2980
 translate spanish talk_driving_bb2485b3:
 
-    # extend 1tllbg " That sounds like a bonus to me,{w=0.1} honestly!"
-    extend 1tllbg ""
+    # extend 1tllbg " That sounds like a bonus to me,{w=0.1} honestly!"
+    extend 1tllbg "¡Eso me suena a una ventaja, {w=0.1}honestamente!"
 
 # game/script-topics.rpy:2981
 translate spanish talk_driving_7c9c7530:
 
-    # n 1tnmbg "Just make sure you still get out there if you aren't driving around much though,{w=0.1} 'kay?"
-    n 1tnmbg ""
+    # n 1tnmbg "Just make sure you still get out there if you aren't driving around much though,{w=0.1} 'kay?"
+    n 1tnmbg "Solo asegúrate de salir aunque no conduzcas mucho, {w=0.1}¿okey?"
 
 # game/script-topics.rpy:2984
 translate spanish talk_driving_33cbe8db:
 
-    # n 4tnmsl "Oh...{w=0.3} did something happen?"
-    n 4tnmsl ""
+    # n 4tnmsl "Oh...{w=0.3} did something happen?"
+    n 4tnmsl "Oh... {w=0.3}¿pasó algo?"
 
 # game/script-topics.rpy:2985
 translate spanish talk_driving_a516a00d:
 
-    # n 3kllsl "I'm...{w=0.3} sorry to hear it,{w=0.1} [player]."
-    n 3kllsl ""
+    # n 3kllsl "I'm...{w=0.3} sorry to hear it,{w=0.1} [player]."
+    n 3kllsl "Yo... {w=0.3}siento oírlo, {w=0.1}[player]."
 
 # game/script-topics.rpy:2986
 translate spanish talk_driving_cabd1721:
 
-    # n 1fsgsm "But at least that means more time to hang out with me,{w=0.1} right?{w=0.5}{nw}"
-    n 1fsgsm ""
+    # n 1fsgsm "But at least that means more time to hang out with me,{w=0.1} right?{w=0.5}{nw}"
+    n 1fsgsm "Pero al menos eso significa más tiempo para pasar conmigo, {w=0.1}¿verdad? {w=0.5}{nw}"
 
 # game/script-topics.rpy:2987
 translate spanish talk_driving_d44bfa25:
 
-    # extend 1fchbg " Ahaha."
-    extend 1fchbg ""
+    # extend 1fchbg " Ahaha."
+    extend 1fchbg "Jajaja."
 
 # game/script-topics.rpy:2995
 translate spanish talk_driving_dbc8fca7:
 
-    # n "Anything new happening with you on the driving front?" nointeract
-    n "" nointeract
+    # n "Anything new happening with you on the driving front?" nointeract
+    n "¿Algo nuevo en el tema de la conducción?" nointeract
 
 # game/script-topics.rpy:2998
 translate spanish talk_driving_f76ad4d4:
 
-    # n 4fnmss "Ooh!{w=0.5}{nw}"
-    n 4fnmss ""
+    # n 4fnmss "Ooh!{w=0.5}{nw}"
+    n 4fnmss "¡Ooh! {w=0.5}{nw}"
 
 # game/script-topics.rpy:2999
 translate spanish talk_driving_cea03dea:
 
-    # extend 1fchbg " Nice,{w=0.1} [player]!"
-    extend 1fchbg ""
+    # extend 1fchbg " Nice,{w=0.1} [player]!"
+    extend 1fchbg "¡Genial, {w=0.1}[player]!"
 
 # game/script-topics.rpy:3000
 translate spanish talk_driving_4b9659a2:
 
-    # n 1fchsm "Don't sweat the test,{w=0.1} alright?{w=0.2} I'm sure you'll do fine!"
-    n 1fchsm ""
+    # n 1fchsm "Don't sweat the test,{w=0.1} alright?{w=0.2} I'm sure you'll do fine!"
+    n 1fchsm "No te preocupes por el examen, {w=0.1}¿de acuerdo? {w=0.2}¡Estoy segura de que lo harás bien!"
 
 # game/script-topics.rpy:3003
 translate spanish talk_driving_e4192a8e:
 
-    # n 4uchsm "I believe in you,{w=0.1} [player]!"
-    n 4uchsm ""
+    # n 4uchsm "I believe in you,{w=0.1} [player]!"
+    n 4uchsm "¡Creo en ti, {w=0.1}[player]!"
 
 # game/script-topics.rpy:3006
 translate spanish talk_driving_e061bee8:
 
-    # n 4uskgs "No kidding?{w=0.5}{nw}"
-    n 4uskgs ""
+    # n 4uskgs "No kidding?{w=0.5}{nw}"
+    n 4uskgs "¿En serio? {w=0.5}{nw}"
 
 # game/script-topics.rpy:3007
 translate spanish talk_driving_bdad03b6:
 
-    # extend 3uchbs " Yaaay!{w=0.2} Congrats,{w=0.1} [player]!"
-    extend 3uchbs ""
+    # extend 3uchbs " Yaaay!{w=0.2} Congrats,{w=0.1} [player]!"
+    extend 3uchbs "¡Yaaay! {w=0.2}¡Felicidades, {w=0.1}[player]!"
 
 # game/script-topics.rpy:3010
 translate spanish talk_driving_8fa54fdc:
