@@ -14950,7 +14950,7 @@ translate spanish talk_school_uniform_12ed9b7e:
 translate spanish talk_school_uniform_9e8f9a71:
 
     # n 1nchgn "...And I'm not wearing it now,{w=0.1} at least!{w=1}{nw}"
-    n 1nchgn "... ¡Y no lo estoy usando ahora, {w=0.1}al menos!{w=1}{nw}"
+    n 1nchgn "... ¡Y no lo estoy usando ahora, {w=0.1}al menos! {w=1}{nw}"
 
 # game/script-topics.rpy:4662
 translate spanish talk_school_uniform_229e43d9:
@@ -14986,7 +14986,7 @@ translate spanish talk_school_uniform_f2643cd8:
 translate spanish talk_school_uniform_6852d3f4:
 
     # n 3fcsbg "Aha!{w=0.2} So you know the struggle too,{w=0.1} huh?"
-    n 3fcsbg "¡Ajá! {w=0.2} Así que tú también conoces la lucha, {w=0.1}¿eh?"
+    n 3fcsbg "¡Ajá! {w=0.2}Así que tú también conoces la lucha, {w=0.1}¿eh?"
 
 # game/script-topics.rpy:4678
 translate spanish talk_school_uniform_7e2612b5:
@@ -15052,7 +15052,7 @@ translate spanish talk_school_uniform_8cb4dc44:
 translate spanish talk_school_uniform_df2510e8:
 
     # n 4usrdvl "I-{w=0.1}if you don't mind it,{w=0.1} [player]?"
-    n 4usrdvl "S-{w=0.1}Si no te molesta, {w=0.1}[player]?"
+    n 4usrdvl "¿N-{w=0.1}No te molesta, {w=0.1}[player]?"
 
 # game/script-topics.rpy:4698
 translate spanish talk_school_uniform_e50ae51d:
@@ -15352,7 +15352,7 @@ translate spanish talk_flying_7d4fdbaf:
 translate spanish talk_flying_8fee78d3:
 
     # n 1tllaj "Hmm...{w=0.3} I wonder where you went?"
-    n 1tllaj "Hmm... {w=0.3}Me pregunto a dónde fuiste."
+    n 1tllaj "Hmm... {w=0.3}me pregunto a dónde fuiste."
 
 # game/script-topics.rpy:4800
 translate spanish talk_flying_1cbdb180:
@@ -15400,7 +15400,7 @@ translate spanish talk_are_you_into_cars_59a97624:
 translate spanish talk_are_you_into_cars_9521ccc0:
 
     # n 1fchgn "Jeez,{w=0.1} you know I can't drive,{w=0.1} dummy!{w=0.2} I don't have a reason to be into cars!"
-    n 1fchgn "¡Cielos, {w=0.1}sabes que no sé conducir, {w=0.1}tonta! {w=0.2}¡No tengo razón para que me gusten los carros!"
+    n 1fchgn "¡Cielos, {w=0.1}sabes que no sé conducir, {w=0.1}tonto! {w=0.2}¡No tengo razón para que me gusten los carros!"
 
 # game/script-topics.rpy:4845
 translate spanish talk_are_you_into_cars_7c20531a:
@@ -15436,7 +15436,7 @@ translate spanish talk_are_you_into_cars_da8162a3:
 translate spanish talk_are_you_into_cars_ba4225c2:
 
     # n 1fnmfultsc "Besides...{w=0.3} I bet you'd {i}never{/i} treat your {i}precious{/i} car like you treat me,{w=0.1} huh?"
-    n 1fnmfultsc "Además...{w=0.3} Apuesto a que {i}nunca{/i} tratarías a tu {i}precioso{/i} carro como me tratas a mí, {w=0.1}¿eh?"
+    n 1fnmfultsc "Además... {w=0.3}apuesto a que {i}nunca{/i} tratarías a tu {i}precioso{/i} carro como me tratas a mí, {w=0.1}¿eh?"
 
 # game/script-topics.rpy:4860
 translate spanish talk_are_you_into_cars_6c5df8fa:
@@ -15562,7 +15562,7 @@ translate spanish talk_are_you_into_cars_f210b022:
 translate spanish talk_are_you_into_cars_3fda65a9:
 
     # n 1fcsbg "Don't worry,{w=0.1} I had you figured for the sort,{w=0.2} [player]."
-    n 1fcsbg "No te preocupes, {w=0.1}te había imaginado por el tipoa, {w=0.2}[player]."
+    n 1fcsbg "No te preocupes, {w=0.1}te había imaginado por el tipo, {w=0.2}[player]."
 
 # game/script-topics.rpy:4897
 translate spanish talk_are_you_into_cars_37f0fa98:
@@ -15790,7 +15790,7 @@ translate spanish talk_how_do_you_feel_about_me_3b42914f:
 translate spanish talk_how_do_you_feel_about_me_33e3850a:
 
     # n 4kllsrl "Sheesh..."
-    n 4kllsrl "Dios..."
+    n 4kllsrl "Cielos..."
 
 # game/script-topics.rpy:4978
 translate spanish talk_how_do_you_feel_about_me_509300a1:
@@ -15904,2101 +15904,2101 @@ translate spanish talk_how_do_you_feel_about_me_2b6c145e:
 translate spanish talk_how_do_you_feel_about_me_e76117ed:
 
     # n 2fsqaj "...{w=0.3}Oh? That matters to you now,{w=0.1} does it?"
-    n 2fsqaj ""
+    n 2fsqaj "... {w=0.3}¿Oh? Eso te importa ahora, {w=0.1}¿verdad?"
 
 # game/script-topics.rpy:5009
 translate spanish talk_how_do_you_feel_about_me_124d6994:
 
     # n 1fsqbo "Then tell me,{w=0.1} [player]."
-    n 1fsqbo ""
+    n 1fsqbo "Entonces dime, {w=0.1}[player]."
 
 # game/script-topics.rpy:5010
 translate spanish talk_how_do_you_feel_about_me_9d6824ea:
 
     # n 1fnmun "Why did you keep hurting my feelings like that?"
-    n 1fnmun ""
+    n 1fnmun "¿Por qué seguiste lastimando mis sentimientos así?"
 
 # game/script-topics.rpy:5011
 translate spanish talk_how_do_you_feel_about_me_8a3822c0:
 
     # n 1fcsun "...{w=0.5}{nw}"
-    n 1fcsun ""
+    n 1fcsun "... {w=0.5}{nw}"
 
 # game/script-topics.rpy:5012
 translate spanish talk_how_do_you_feel_about_me_c748a916:
 
     # n 2fllan "I don't have much patience for jerks,{w=0.1} [player]."
-    n 2fllan ""
+    n 2fllan "No tengo mucha paciencia con los imbéciles, {w=0.1}[player]."
 
 # game/script-topics.rpy:5013
 translate spanish talk_how_do_you_feel_about_me_c947bb5e:
 
     # n 1fnmaj "I don't know if you're trying to be funny or what,{w=0.1} but knock it off.{w=0.2} Got it?"
-    n 1fnmaj ""
+    n 1fnmaj "No sé si intentas ser gracioso o qué, {w=0.1}pero déjalo ya. {w=0.2}¿Entendido?"
 
 # game/script-topics.rpy:5014
 translate spanish talk_how_do_you_feel_about_me_5111fe2f:
 
     # n 1fsqsr "Thanks."
-    n 1fsqsr ""
+    n 1fsqsr "Gracias."
 
 # game/script-topics.rpy:5018
 translate spanish talk_how_do_you_feel_about_me_37a7477c:
 
     # n 1fsqsr "...{w=0.3}Let's just cut the crap."
-    n 1fsqsr ""
+    n 1fsqsr "... {w=0.3}Dejémonos de tonterías."
 
 # game/script-topics.rpy:5019
 translate spanish talk_how_do_you_feel_about_me_cda0a26b:
 
     # n 4fcsan "You've hurt me,{w=0.1} [player].{w=0.2} You've hurt me again,{w=0.1} and again."
-    n 4fcsan ""
+    n 4fcsan "Me lastimaste, {w=0.1}[player]. {w=0.2}Me lastimaste una, {w=0.1}y otra vez."
 
 # game/script-topics.rpy:5020
 translate spanish talk_how_do_you_feel_about_me_7f2384ff:
 
     # n 2fnmfu "You've done it so many times now."
-    n 2fnmfu ""
+    n 2fnmfu "Ya lo has hecho demasiadas veces."
 
 # game/script-topics.rpy:5021
 translate spanish talk_how_do_you_feel_about_me_751127c2:
 
     # n 2fnman "So you tell me."
-    n 2fnman ""
+    n 2fnman "Así que dime tú."
 
 # game/script-topics.rpy:5022
 translate spanish talk_how_do_you_feel_about_me_2628ed25:
 
     # n 1fsqpu "What the hell would {i}you{/i} think of someone who did that to you?"
-    n 1fsqpu ""
+    n 1fsqpu "¿Qué demonios {i}pensarías{/i} de alguien que te hiciera eso?"
 
 # game/script-topics.rpy:5023
 translate spanish talk_how_do_you_feel_about_me_1162ba1b:
 
     # n 1fcspu "...{w=0.5}{nw}"
-    n 1fcspu ""
+    n 1fcspu "... {w=0.5}{nw}"
 
 # game/script-topics.rpy:5024
 translate spanish talk_how_do_you_feel_about_me_de43a5f2:
 
     # n 2fsqan "You're on thin ice,{w=0.1} [player].{w=0.2} Got it?"
-    n 2fsqan ""
+    n 2fsqan "Estás en hielo delgado, {w=0.1}[player]. {w=0.2}¿Entendido?"
 
 # game/script-topics.rpy:5030
 translate spanish talk_how_do_you_feel_about_me_0e6d1cc6:
 
     # n 2fsqpultse "...Wow.{w=0.2} Really?"
-    n 2fsqpultse ""
+    n 2fsqpultse "...Guau. {w=0.2}¿En serio?"
 
 # game/script-topics.rpy:5033
 translate spanish talk_how_do_you_feel_about_me_6b9f3f93:
 
     # n 1fsqputsb "...{w=0.3}I have no words for how I feel about {i}you{/i}."
-    n 1fsqputsb ""
+    n 1fsqputsb "... {w=0.3}No tengo palabras para lo que siento por {i}ti{/i}."
 
 # game/script-topics.rpy:5034
 translate spanish talk_how_do_you_feel_about_me_99cda828:
 
     # n 2fsqfultseean "Don't freaking test me, {i}[player]{/i}."
-    n 2fsqfultseean ""
+    n 2fsqfultseean "No me pongas a prueba, {i}[player]{/i}."
 
 # game/script-topics.rpy:5039
 translate spanish talk_how_do_you_feel_about_me_c5441152:
 
     # n 1fsqunltse "...{w=1}...{w=1}{nw}"
-    n 1fsqunltse ""
+    n 1fsqunltse "... {w=1}... {w=1}{nw}"
 
 # game/script-topics.rpy:5040
 translate spanish talk_how_do_you_feel_about_me_9e3d9ee7:
 
     # n 1fcsanltda "...{w=1}..."
-    n 1fcsanltda ""
+    n 1fcsanltda "... {w=1}..."
 
 # game/script-topics.rpy:5065
 translate spanish talk_are_you_into_cosplay_ed1bab59:
 
     # n 1tnmpu "Eh?{w=0.5}{nw}"
-    n 1tnmpu ""
+    n 1tnmpu "¿Eh? {w=0.5}{nw}"
 
 # game/script-topics.rpy:5066
 translate spanish talk_are_you_into_cosplay_96895266:
 
     # extend 2tsqsf " Cosplay {i}again{/i}, [player]?"
-    extend 2tsqsf ""
+    extend 2tsqsf "¿Cosplay {i}otra vez{/i}, [player]?"
 
 # game/script-topics.rpy:5067
 translate spanish talk_are_you_into_cosplay_835df1bd:
 
     # n 2fllpo "Yeesh..."
-    n 2fllpo ""
+    n 2fllpo "Cielos..."
 
 # game/script-topics.rpy:5070
 translate spanish talk_are_you_into_cosplay_96459078:
 
     # n 4fsqpol "As if having me {i}wearing{/i} cosplay wasn't already enough for you..."
-    n 4fsqpol ""
+    n 4fsqpol "Como si tenerme {i}vistiendo{/i} cosplay no fuera suficiente para ti..."
 
 # game/script-topics.rpy:5071
 translate spanish talk_are_you_into_cosplay_346892dd:
 
     # n 1fnmeml "It's all you wanna {i}talk{/i} about too!"
-    n 1fnmeml ""
+    n 1fnmeml "¡Es de lo único que quieres {i}hablar{/i} también!"
 
 # game/script-topics.rpy:5072
 translate spanish talk_are_you_into_cosplay_7cbdde42:
 
     # n 1fcseml "I'm not your own personal dress-up doll,{w=0.75}{nw}"
-    n 1fcseml ""
+    n 1fcseml "No soy tu muñeca personal para vestir, {w=0.75}{nw}"
 
 # game/script-topics.rpy:5073
 translate spanish talk_are_you_into_cosplay_201125b6:
 
     # extend 2fsrpol " you know..."
-    extend 2fsrpol ""
+    extend 2fsrpol "sabes..."
 
 # game/script-topics.rpy:5076
 translate spanish talk_are_you_into_cosplay_7d2740ac:
 
     # n 1nslaj "You know,{w=0.75}{nw}"
-    n 1nslaj ""
+    n 1nslaj "Sabes, {w=0.75}{nw}"
 
 # game/script-topics.rpy:5077
 translate spanish talk_are_you_into_cosplay_02695299:
 
     # extend 1fsqajl " if you wanted me wearing it {i}that{/i} badly..."
-    extend 1fsqajl ""
+    extend 1fsqajl "si querías que lo usara {i}tanto{/i}..."
 
 # game/script-topics.rpy:5078
 translate spanish talk_are_you_into_cosplay_0b16b9d5:
 
     # n 4fsqsslsbl "You do realize you could have just {i}asked{/i},{w=0.2} right?"
-    n 4fsqsslsbl ""
+    n 4fsqsslsbl "Te das cuenta de que podrías simplemente {i}preguntar{/i}, {w=0.2}¿verdad?"
 
 # game/script-topics.rpy:5080
 translate spanish talk_are_you_into_cosplay_0fed4e57:
 
     # n 1fchsml "Ahaha."
-    n 1fchsml ""
+    n 1fchsml "Ajaja."
 
 # game/script-topics.rpy:5081
 translate spanish talk_are_you_into_cosplay_dafdf69e:
 
     # n 1ullss "Well,{w=0.2} anyway.{w=0.5}{nw}"
-    n 1ullss ""
+    n 1ullss "Bueno, {w=0.2}de todos modos. {w=0.5}{nw}"
 
 # game/script-topics.rpy:5082
 translate spanish talk_are_you_into_cosplay_0655e1bd:
 
     # extend 4unmbo " In all seriousness?"
-    extend 4unmbo ""
+    extend 4unmbo "¿Hablando en serio?"
 
 # game/script-topics.rpy:5083
 translate spanish talk_are_you_into_cosplay_115daba8:
 
     # n 1ulrsl "I can't say too much has changed,{w=0.2} honestly."
-    n 1ulrsl ""
+    n 1ulrsl "No puedo decir que haya cambiado mucho, {w=0.2}honestamente."
 
 # game/script-topics.rpy:5084
 translate spanish talk_are_you_into_cosplay_264c80be:
 
     # n 1unmpu "Don't get me wrong!"
-    n 1unmpu ""
+    n 1unmpu "¡No me malinterpretes!"
 
 # game/script-topics.rpy:5085
 translate spanish talk_are_you_into_cosplay_1a2bbfbd:
 
     # n 1fchbg "I totally wanna get into cosplaying more!{w=0.75}{nw}"
-    n 1fchbg ""
+    n 1fchbg "¡Definitivamente quiero hacer más cosplay! {w=0.75}{nw}"
 
 # game/script-topics.rpy:5086
 translate spanish talk_are_you_into_cosplay_146c43bf:
 
     # extend 3fcssmeme " Any excuse to show off my talent {i}and{/i} needlework."
-    extend 3fcssmeme ""
+    extend 3fcssmeme "Cualquier excusa para mostrar mi talento {i}y{/i} costura."
 
 # game/script-topics.rpy:5087
 translate spanish talk_are_you_into_cosplay_cb95b6a6:
 
     # n 1ullaj "Plus I mean,{w=0.75}{nw}"
-    n 1ullaj ""
+    n 1ullaj "Además, digo, {w=0.75}{nw}"
 
 # game/script-topics.rpy:5088
 translate spanish talk_are_you_into_cosplay_dfd22258:
 
     # extend 4unmgs " have you {i}seen{/i} what kinds of outfits people can pull off,{w=0.5}{nw}"
-    extend 4unmgs ""
+    extend 4unmgs "¿has {i}visto{/i} qué tipos de trajes puede lograr la gente, {w=0.5}{nw}"
 
 # game/script-topics.rpy:5089
 translate spanish talk_are_you_into_cosplay_0c50cbb8:
 
     # extend 4fnmgs " all in the name of the stuff they love?"
-    extend 4fnmgs ""
+    extend 4fnmgs "todo en nombre de lo que aman?"
 
 # game/script-topics.rpy:5090
 translate spanish talk_are_you_into_cosplay_a3dc5928:
 
     # n 3fcsem "All that talent,{w=0.3} all that passion...{w=1}{nw}"
-    n 3fcsem ""
+    n 3fcsem "Todo ese talento, {w=0.3}toda esa pasión... {w=1}{nw}"
 
 # game/script-topics.rpy:5091
 translate spanish talk_are_you_into_cosplay_f851c54e:
 
     # n 1fcspu "It's{w=0.75}{nw}"
-    n 1fcspu ""
+    n 1fcspu "¡Es {w=0.75}{nw}"
 
 # game/script-topics.rpy:5092
 translate spanish talk_are_you_into_cosplay_01d03472:
 
     # extend 4fspgsedz " {i}awesome{/i}!{w=1}{nw}"
-    extend 4fspgsedz ""
+    extend 4fspgsedz "{i}increíble{/i}! {w=1}{nw}"
 
 # game/script-topics.rpy:5093
 translate spanish talk_are_you_into_cosplay_f0942aa0:
 
     # extend 1fchgnedz " There's no way I {i}don't{/i} wanna be a part of that!"
-    extend 1fchgnedz ""
+    extend 1fchgnedz "¡No hay forma de que {i}no{/i} quiera ser parte de eso!"
 
 # game/script-topics.rpy:5094
 translate spanish talk_are_you_into_cosplay_db368149:
 
     # n 1kllpu "But..."
-    n 1kllpu ""
+    n 1kllpu "Pero..."
 
 # game/script-topics.rpy:5095
 translate spanish talk_are_you_into_cosplay_a9e4c3e2:
 
     # n 2nslsl "Well."
-    n 2nslsl ""
+    n 2nslsl "Bueno."
 
 # game/script-topics.rpy:5096
 translate spanish talk_are_you_into_cosplay_cf06454a:
 
     # n 2ksrca "Ignoring how conventions are pretty much completely out of reach for me..."
-    n 2ksrca ""
+    n 2ksrca "Ignorando que las convenciones están fuera de mi alcance..."
 
 # game/script-topics.rpy:5097
 translate spanish talk_are_you_into_cosplay_06f97b8e:
 
     # n 1ksqtr "I don't suppose {i}you've{/i} seen any crafts shops around here,{w=0.2} have you?{w=0.75}{nw}"
-    n 1ksqtr ""
+    n 1ksqtr "Supongo que {i}no has{/i} visto tiendas de manualidades por aquí, {w=0.2}¿o sí? {w=0.75}{nw}"
 
 # game/script-topics.rpy:5098
 translate spanish talk_are_you_into_cosplay_ecbf6cc7:
 
     # extend 1ksqca " Or any of my sewing stuff?"
-    extend 1ksqca ""
+    extend 1ksqca "¿O mis cosas de costura?"
 
 # game/script-topics.rpy:5099
 translate spanish talk_are_you_into_cosplay_d7d6c936:
 
     # n 1ksqsl "..."
-    n 1ksqsl ""
+    n 1ksqsl "..."
 
 # game/script-topics.rpy:5100
 translate spanish talk_are_you_into_cosplay_6ba9b9ff:
 
     # n 4ncsss "Heh.{w=1}{nw}"
-    n 4ncsss ""
+    n 4ncsss "Je. {w=1}{nw}"
 
 # game/script-topics.rpy:5101
 translate spanish talk_are_you_into_cosplay_8f80881d:
 
     # extend 4nsrsl " Yeah,{w=0.2} I thought not."
-    extend 4nsrsl ""
+    extend 4nsrsl "Sí, {w=0.2}eso pensé."
 
 # game/script-topics.rpy:5102
 translate spanish talk_are_you_into_cosplay_ab67b448:
 
     # n 1nsrajsbl "I really gotta figure something out for that,{w=0.75}{nw}"
-    n 1nsrajsbl ""
+    n 1nsrajsbl "Realmente tengo que resolver eso, {w=0.75}{nw}"
 
 # game/script-topics.rpy:5103
 translate spanish talk_are_you_into_cosplay_192bda48:
 
     # extend 1tsqsssbl " huh?"
-    extend 1tsqsssbl ""
+    extend 1tsqsssbl "¿eh?"
 
 # game/script-topics.rpy:5104
 translate spanish talk_are_you_into_cosplay_7a5f3f6d:
 
     # n 1tslslsbl "..."
-    n 1tslslsbl ""
+    n 1tslslsbl "..."
 
 # game/script-topics.rpy:5105
 translate spanish talk_are_you_into_cosplay_27a6bf53:
 
     # n 3fcsbgsbl "W-{w=0.2}well,{w=0.2} if there's one thing I'm not short of here,{w=0.75}{nw}"
-    n 3fcsbgsbl ""
+    n 3fcsbgsbl "B-{w=0.2}Bueno, {w=0.2}si hay algo que no me falta aquí, {w=0.75}{nw}"
 
 # game/script-topics.rpy:5106
 translate spanish talk_are_you_into_cosplay_0a98a91d:
 
     # extend 1fchbgedz " it's ideas!{w=0.5}{nw}"
-    extend 1fchbgedz ""
+    extend 1fchbgedz "¡son ideas! {w=0.5}{nw}"
 
 # game/script-topics.rpy:5107
 translate spanish talk_are_you_into_cosplay_92a32004:
 
     # extend 1fsqsm " So don't you worry about a thing,{w=0.2} [player]..."
-    extend 1fsqsm ""
+    extend 1fsqsm "Así que no te preocupes por nada, {w=0.2}[player]..."
 
 # game/script-topics.rpy:5108
 translate spanish talk_are_you_into_cosplay_8b1ce832:
 
     # n 1fwrbg "'Cause there's no shortage of that {i}material{/i}!{w=0.75}{nw}"
-    n 1fwrbg ""
+    n 1fwrbg "¡Porque no hay escasez de ese {i}material{/i}! {w=0.75}{nw}"
 
 # game/script-topics.rpy:5109
 translate spanish talk_are_you_into_cosplay_5a06ef51:
 
     # extend 4nchgnl " Ehehe."
-    extend 4nchgnl ""
+    extend 4nchgnl "Jejeje."
 
 # game/script-topics.rpy:5114
 translate spanish talk_are_you_into_cosplay_37160c1a:
 
     # n 4usqct "Oho?{w=0.5}{nw}"
-    n 4usqct ""
+    n 4usqct "¿Oho? {w=0.5}{nw}"
 
 # game/script-topics.rpy:5115
 translate spanish talk_are_you_into_cosplay_ba7cc1cd:
 
     # extend 3fcsbg " Cosplay,{w=0.2} you say?"
-    extend 3fcsbg ""
+    extend 3fcsbg "¿Cosplay, {w=0.2}dices?"
 
 # game/script-topics.rpy:5116
 translate spanish talk_are_you_into_cosplay_0c871f99:
 
     # n 1fllbo "..."
-    n 1fllbo ""
+    n 1fllbo "..."
 
 # game/script-topics.rpy:5117
 translate spanish talk_are_you_into_cosplay_16afa507:
 
     # n 1ullpu "Honestly?{w=0.75}{nw}"
-    n 1ullpu ""
+    n 1ullpu "¿Honestamente? {w=0.75}{nw}"
 
 # game/script-topics.rpy:5118
 translate spanish talk_are_you_into_cosplay_71442e9d:
 
     # extend 2nslsssbl " I've never really done any {i}serious{/i} cosplaying or anything..."
-    extend 2nslsssbl ""
+    extend 2nslsssbl "Nunca he hecho un cosplay {i}serio{/i} ni nada..."
 
 # game/script-topics.rpy:5119
 translate spanish talk_are_you_into_cosplay_78bc2986:
 
     # n 1unmaj "But I've actually thought about it a lot more since I got into manga and all that stuff a bunch!"
-    n 1unmaj ""
+    n 1unmaj "¡Pero he pensado mucho más en eso desde que me metí en el manga y todo eso!"
 
 # game/script-topics.rpy:5120
 translate spanish talk_are_you_into_cosplay_f3142362:
 
     # n 1fcsbg "Plus I mean,{w=0.1} why shouldn't I?{w=0.75}{nw}"
-    n 1fcsbg ""
+    n 1fcsbg "Además, digo, {w=0.1}¿por qué no? {w=0.75}{nw}"
 
 # game/script-topics.rpy:5121
 translate spanish talk_are_you_into_cosplay_2134986b:
 
     # extend 4fspgsedz " I {w=0.2}{i}love{/i}{w=0.2} thinking up new ideas for outfits!"
-    extend 4fspgsedz ""
+    extend 4fspgsedz "¡{i}Me encanta{/i} pensar en nuevas ideas para trajes!"
 
 # game/script-topics.rpy:5122
 translate spanish talk_are_you_into_cosplay_58bbe64a:
 
     # n 1fcsbg "Besides,{w=0.2} I know my way around a needle and thread!{w=0.75}{nw}"
-    n 1fcsbg ""
+    n 1fcsbg "Además, {w=0.2}¡sé manejar aguja e hilo! {w=0.75}{nw}"
 
 # game/script-topics.rpy:5123
 translate spanish talk_are_you_into_cosplay_17609b9c:
 
     # extend 3nsrsssbr " I've had to use them often enough before."
-    extend 3nsrsssbr ""
+    extend 3nsrsssbr "He tenido que usarlos bastante antes."
 
 # game/script-topics.rpy:5124
 translate spanish talk_are_you_into_cosplay_ecccdfa6:
 
     # n 1fcsajlsbr "B-{w=0.2}but I think it seems like a pretty awesome way to show my appreciation for characters I like..."
-    n 1fcsajlsbr ""
+    n 1fcsajlsbr "P-{w=0.2}Pero creo que es una forma genial de mostrar aprecio por personajes que me gustan..."
 
 # game/script-topics.rpy:5125
 translate spanish talk_are_you_into_cosplay_395a73b9:
 
     # n 1fsqbg "...And show my {i}limitless{/i} talent while I'm at it."
-    n 1fsqbg ""
+    n 1fsqbg "... Y mostrar mi talento {i}ilimitado{/i} de paso."
 
 # game/script-topics.rpy:5126
 translate spanish talk_are_you_into_cosplay_dea139bb:
 
     # n 1usqsm "Anyway,{w=0.2} who knows?"
-    n 1usqsm ""
+    n 1usqsm "De todos modos, {w=0.2}¿quién sabe?"
 
 # game/script-topics.rpy:5127
 translate spanish talk_are_you_into_cosplay_668ba5ff:
 
     # n 4fsqsm "Maybe you'll get to see some of my handiwork some day,{w=0.2} [player]."
-    n 4fsqsm ""
+    n 4fsqsm "Quizá algún día veas algo de mi trabajo, {w=0.2}[player]."
 
 # game/script-topics.rpy:5128
 translate spanish talk_are_you_into_cosplay_003db606:
 
     # n 1fsqbg "I bet you'd like that,{w=0.2} huh?{w=0.5}{nw}"
-    n 1fsqbg ""
+    n 1fsqbg "Apuesto a que te gustaría, {w=0.2}¿eh? {w=0.5}{nw}"
 
 # game/script-topics.rpy:5129
 translate spanish talk_are_you_into_cosplay_d4d33c36:
 
     # extend 1fchsml " Ehehe."
-    extend 1fchsml ""
+    extend 1fchsml "Jejeje."
 
 # game/script-topics.rpy:5135
 translate spanish talk_are_you_into_cosplay_4598e2d2:
 
     # n 1tsqpu "Huh?{w=0.5}{nw}"
-    n 1tsqpu ""
+    n 1tsqpu "¿Eh? {w=0.5}{nw}"
 
 # game/script-topics.rpy:5136
 translate spanish talk_are_you_into_cosplay_8adf5b86:
 
     # extend 1tsqsf " Cosplay {i}again{/i}, [player]?"
-    extend 1tsqsf ""
+    extend 1tsqsf "¿Cosplay {i}otra vez{/i}, [player]?"
 
 # game/script-topics.rpy:5139
 translate spanish talk_are_you_into_cosplay_f226dd28:
 
     # n 2fsqsflsbl "...Was {i}wearing{/i} it seriously not enough already?"
-    n 2fsqsflsbl ""
+    n 2fsqsflsbl "... ¿{i}Usarlo{/i} en serio no fue suficiente?"
 
 # game/script-topics.rpy:5140
 translate spanish talk_are_you_into_cosplay_74fa7cb2:
 
     # n 4fsqsslsbl "Or did I somehow awaken some kind of hidden nerdiness in you?"
-    n 4fsqsslsbl ""
+    n 4fsqsslsbl "¿O desperté algún tipo de nerdismo oculto en ti?"
 
 # game/script-topics.rpy:5141
 translate spanish talk_are_you_into_cosplay_43f29e7f:
 
     # n 4fslsslsbr "Ehehe..."
-    n 4fslsslsbr ""
+    n 4fslsslsbr "Jejeje..."
 
 # game/script-topics.rpy:5142
 translate spanish talk_are_you_into_cosplay_fe9cde45:
 
     # n 1fcsemlsbr "A-{w=0.3}anyway!{w=0.5}{nw}"
-    n 1fcsemlsbr ""
+    n 1fcsemlsbr "¡E-{w=0.3}En fin! {w=0.5}{nw}"
 
 # game/script-topics.rpy:5145
 translate spanish talk_are_you_into_cosplay_849a81de:
 
     # n 1tlraj "I gotta say,{w=0.2} I'm actually kinda impressed."
-    n 1tlraj ""
+    n 1tlraj "Debo decir que, {w=0.2}estoy algo impresionada."
 
 # game/script-topics.rpy:5146
 translate spanish talk_are_you_into_cosplay_f4c13631:
 
     # n 1fslsslsbr "Sucking up to my interest in manga,{w=0.75}{nw}"
-    n 1fslsslsbr ""
+    n 1fslsslsbr "Adulando mi interés en el manga, {w=0.75}{nw}"
 
 # game/script-topics.rpy:5147
 translate spanish talk_are_you_into_cosplay_3040af2a:
 
     # extend 4fsqsslsbr " bugging me about cosplay..."
-    extend 4fsqsslsbr ""
+    extend 4fsqsslsbr "molestándome con el cosplay..."
 
 # game/script-topics.rpy:5148
 translate spanish talk_are_you_into_cosplay_89980411:
 
     # n 1tsqsm "You're absorbing my sense of taste pretty fast,{w=0.2} huh?{w=0.75}{nw}"
-    n 1tsqsm ""
+    n 1tsqsm "Estás absorbiendo mi sentido del gusto bastante rápido, {w=0.2}¿eh? {w=0.75}{nw}"
 
 # game/script-topics.rpy:5149
 translate spanish talk_are_you_into_cosplay_25b0da44:
 
     # extend 3uchgn " Like a little dorky sponge!"
-    extend 3uchgn ""
+    extend 3uchgn "¡Como una esponjita tonta!"
 
 # game/script-topics.rpy:5150
 translate spanish talk_are_you_into_cosplay_bd6be3fd:
 
     # n 1fchsm "Ehehe."
-    n 1fchsm ""
+    n 1fchsm "Jejeje."
 
 # game/script-topics.rpy:5151
 translate spanish talk_are_you_into_cosplay_5c02e697:
 
     # n 1fchss "Anyway!{w=0.75}{nw}"
-    n 1fchss ""
+    n 1fchss "¡De todos modos! {w=0.75}{nw}"
 
 # game/script-topics.rpy:5153
 translate spanish talk_are_you_into_cosplay_f67a3e34:
 
     # extend 4nllss " Putting all that aside..."
-    extend 4nllss ""
+    extend 4nllss "Dejando todo eso de lado..."
 
 # game/script-topics.rpy:5154
 translate spanish talk_are_you_into_cosplay_e9e01937:
 
     # n 1unmaj "I actually wouldn't be {i}against{/i} doing a little more cosplay at all."
-    n 1unmaj ""
+    n 1unmaj "En realidad no me {i}opondría{/i} a hacer un poco más de cosplay."
 
 # game/script-topics.rpy:5155
 translate spanish talk_are_you_into_cosplay_f101862e:
 
     # n 1ulrpu "I mean,{w=0.75}{nw}"
-    n 1ulrpu ""
+    n 1ulrpu "Digo, {w=0.75}{nw}"
 
 # game/script-topics.rpy:5156
 translate spanish talk_are_you_into_cosplay_71aa9cdc:
 
     # extend 3flrss " I've already got most of what I need."
-    extend 3flrss ""
+    extend 3flrss "ya tengo casi todo lo que necesito."
 
 # game/script-topics.rpy:5157
 translate spanish talk_are_you_into_cosplay_2e81fbaa:
 
     # n 1fsqss "{i}Amazing{/i} ideas?{w=0.75}{nw}"
-    n 1fsqss ""
+    n 1fsqss "¿{i}Increíbles{/i} ideas? {w=0.75}{nw}"
 
 # game/script-topics.rpy:5158
 translate spanish talk_are_you_into_cosplay_eeee0a5f:
 
     # extend 3fcsbg " Check!{w=0.75}{nw}"
-    extend 3fcsbg ""
+    extend 3fcsbg "¡Check! {w=0.75}{nw}"
 
 # game/script-topics.rpy:5159
 translate spanish talk_are_you_into_cosplay_561d79eb:
 
     # extend 4tsqsm " Tons of experience?{w=0.75}{nw}"
-    extend 4tsqsm ""
+    extend 4tsqsm "¿Montones de experiencia? {w=0.75}{nw}"
 
 # game/script-topics.rpy:5160
 translate spanish talk_are_you_into_cosplay_0f74da4b:
 
     # extend 3fchbg " Check!"
-    extend 3fchbg ""
+    extend 3fchbg "¡Check!"
 
 # game/script-topics.rpy:5161
 translate spanish talk_are_you_into_cosplay_1df6c845:
 
     # n 4usqgn "{i}Unmatched{/i} handiwork with a needle and thread?{w=1}{nw}"
-    n 4usqgn ""
+    n 4usqgn "¿{i}Inigualable{/i} habilidad con aguja e hilo? {w=1}{nw}"
 
 # game/script-topics.rpy:5162
 translate spanish talk_are_you_into_cosplay_e66d0629:
 
     # extend 3fcsbg " Oh,{w=0.2} you bet."
-    extend 3fcsbg ""
+    extend 3fcsbg "Oh, {w=0.2}ya lo creo."
 
 # game/script-topics.rpy:5163
 translate spanish talk_are_you_into_cosplay_c0834dba:
 
     # n 1fllpu "It's just..."
-    n 1fllpu ""
+    n 1fllpu "Es solo que..."
 
 # game/script-topics.rpy:5164
 translate spanish talk_are_you_into_cosplay_34385236:
 
     # n 2kslsl "..."
-    n 2kslsl ""
+    n 2kslsl "..."
 
 # game/script-topics.rpy:5165
 translate spanish talk_are_you_into_cosplay_ce380198:
 
     # n 1tsrsf "I don't exactly have much {i}material{/i} to work with here,{w=0.75}{nw}"
-    n 1tsrsf ""
+    n 1tsrsf "No tengo mucho {i}material{/i} con qué trabajar aquí, {w=0.75}{nw}"
 
 # game/script-topics.rpy:5166
 translate spanish talk_are_you_into_cosplay_f9dd3e3f:
 
     # extend 4tnmsf " you know?"
-    extend 4tnmsf ""
+    extend 4tnmsf "¿sabes?"
 
 # game/script-topics.rpy:5167
 translate spanish talk_are_you_into_cosplay_534f2515:
 
     # n 2kslbo "...Or even my sewing stuff,{w=0.2} for that matter."
-    n 2kslbo ""
+    n 2kslbo "... O incluso mis cosas de costura, {w=0.2}para el caso."
 
 # game/script-topics.rpy:5168
 translate spanish talk_are_you_into_cosplay_9b539f90:
 
     # n 1kslsl "..."
-    n 1kslsl ""
+    n 1kslsl "..."
 
 # game/script-topics.rpy:5169
 translate spanish talk_are_you_into_cosplay_2b82945a:
 
     # n 1fcswrlsbl "W-{w=0.2}well,{w=0.2} I'll figure something out!{w=0.75}{nw}"
-    n 1fcswrlsbl ""
+    n 1fcswrlsbl "B-{w=0.2}Bueno, {w=0.2}¡encontraré una solución! {w=0.75}{nw}"
 
 # game/script-topics.rpy:5170
 translate spanish talk_are_you_into_cosplay_939cbace:
 
     # extend 2fcspolsbl " I always do,{w=0.2} a-{w=0.2}anyway."
-    extend 2fcspolsbl ""
+    extend 2fcspolsbl "Siempre lo hago, {w=0.2}d-{w=0.2}de todos modos."
 
 # game/script-topics.rpy:5171
 translate spanish talk_are_you_into_cosplay_82e3f4b4:
 
     # n 1fsqcal "So you better look forward to it,{w=0.2} [player]..."
-    n 1fsqcal ""
+    n 1fsqcal "Así que más te vale esperarlo, {w=0.2}[player]..."
 
 # game/script-topics.rpy:5172
 translate spanish talk_are_you_into_cosplay_c4514641:
 
     # n 1fcsbglsbr "'Cause you ain't seen nothing yet!{w=0.75}{nw}"
-    n 1fcsbglsbr ""
+    n 1fcsbglsbr "¡Porque aún no has visto nada! {w=0.75}{nw}"
 
 # game/script-topics.rpy:5173
 translate spanish talk_are_you_into_cosplay_7974f5d9:
 
     # extend 3fcssmlsbr " Ehehe."
-    extend 3fcssmlsbr ""
+    extend 3fcssmlsbr "Jejeje."
 
 # game/script-topics.rpy:5178
 translate spanish talk_are_you_into_cosplay_feafddd6:
 
     # n 1tsrpu "Why...{w=1}{nw}"
-    n 1tsrpu ""
+    n 1tsrpu "Por qué... {w=1}{nw}"
 
 # game/script-topics.rpy:5179
 translate spanish talk_are_you_into_cosplay_dbc0521b:
 
     # extend 1nsqbo " did I get the feeling you'd bring this up sooner or later,{w=0.2} [player]?"
-    extend 1nsqbo ""
+    extend 1nsqbo "tenía la sensación de que mencionarías esto tarde o temprano, {w=0.2}[player]?"
 
 # game/script-topics.rpy:5180
 translate spanish talk_are_you_into_cosplay_0ad03447:
 
     # n 1fsqsl "..."
-    n 1fsqsl ""
+    n 1fsqsl "..."
 
 # game/script-topics.rpy:5181
 translate spanish talk_are_you_into_cosplay_e498cd4e:
 
     # n 3fnmpo "What?{w=0.75}{nw}"
-    n 3fnmpo ""
+    n 3fnmpo "¿Qué? {w=0.75}{nw}"
 
 # game/script-topics.rpy:5182
 translate spanish talk_are_you_into_cosplay_7097f3e2:
 
     # extend 3fsqgs " Did you think I'd {i}automatically{/i} be into it because I read manga from time to time?"
-    extend 3fsqgs ""
+    extend 3fsqgs "¿Pensaste que {i}automáticamente{/i} me gustaría porque leo manga de vez en cuando?"
 
 # game/script-topics.rpy:5183
 translate spanish talk_are_you_into_cosplay_4769dfc1:
 
     # n 4fsqpo "Huh?{w=0.75}{nw}"
-    n 4fsqpo ""
+    n 4fsqpo "¿Eh? {w=0.75}{nw}"
 
 # game/script-topics.rpy:5184
 translate spanish talk_are_you_into_cosplay_16f36b1e:
 
     # extend 4fnmgs " Is that it?"
-    extend 4fnmgs ""
+    extend 4fnmgs "¿Es eso?"
 
 # game/script-topics.rpy:5185
 translate spanish talk_are_you_into_cosplay_8762b71d:
 
     # n 1fsqaj "Well?"
-    n 1fsqaj ""
+    n 1fsqaj "¿Bueno?"
 
 # game/script-topics.rpy:5186
 translate spanish talk_are_you_into_cosplay_3f81005c:
 
     # n 1fsqdv "..."
-    n 1fsqdv ""
+    n 1fsqdv "..."
 
 # game/script-topics.rpy:5187
 translate spanish talk_are_you_into_cosplay_8774ff5d:
 
     # n 4fchdvesm "Pfffft!"
-    n 4fchdvesm ""
+    n 4fchdvesm "¡Pfffft!"
 
 # game/script-topics.rpy:5188
 translate spanish talk_are_you_into_cosplay_73203649:
 
     # n 3fchsm "Ehehe.{w=0.5}{nw}"
-    n 3fchsm ""
+    n 3fchsm "Jejeje. {w=0.5}{nw}"
 
 # game/script-topics.rpy:5189
 translate spanish talk_are_you_into_cosplay_a6cfe68e:
 
     # extend 1ullss " Nah,{w=0.2} it's fine."
-    extend 1ullss ""
+    extend 1ullss "Nah, {w=0.2}está bien."
 
 # game/script-topics.rpy:5190
 translate spanish talk_are_you_into_cosplay_6cc12739:
 
     # n 1ulraj "I've thought about it a bunch,{w=0.2} honestly -{w=0.3}{nw}"
-    n 1ulraj ""
+    n 1ulraj "He pensado mucho en ello, {w=0.2}honestamente... {w=0.3}{nw}"
 
 # game/script-topics.rpy:5191
 translate spanish talk_are_you_into_cosplay_ecfbc0ac:
 
     # extend 4unmbo " like since I got into manga and all that a while ago."
-    extend 4unmbo ""
+    extend 4unmbo "desde que me metí en el manga y todo eso hace un tiempo."
 
 # game/script-topics.rpy:5192
 translate spanish talk_are_you_into_cosplay_919b9e9c:
 
     # n 2nslsssbr "I haven't {i}actually{/i} gone dressed up to a convention or anything yet..."
-    n 2nslsssbr ""
+    n 2nslsssbr "Todavía no he ido {i}realmente{/i} vestida a una convención ni nada..."
 
 # game/script-topics.rpy:5193
 translate spanish talk_are_you_into_cosplay_9b07e33e:
 
     # n 2fcswrlsbl "B-{w=0.2}but that doesn't mean I haven't tried cosplaying at all!"
-    n 2fcswrlsbl ""
+    n 2fcswrlsbl "¡P-{w=0.2}Pero eso no significa que no haya intentado hacer cosplay!"
 
 # game/script-topics.rpy:5194
 translate spanish talk_are_you_into_cosplay_1f2cbf16:
 
     # n 4fcsbgsbl "I {i}am{/i} something of a pro with a needle and thread,{w=0.75}{nw}"
-    n 4fcsbgsbl ""
+    n 4fcsbgsbl "{i}Soy{/i} toda una profesional con la aguja e hilo, {w=0.75}{nw}"
 
 # game/script-topics.rpy:5195
 translate spanish talk_are_you_into_cosplay_8c151f2b:
 
     # extend 1fcssmeme " so it's right up my alley!"
-    extend 1fcssmeme ""
+    extend 1fcssmeme "¡así que es lo mío!"
 
 # game/script-topics.rpy:5196
 translate spanish talk_are_you_into_cosplay_21b94023:
 
     # n 1tslsl "..."
-    n 1tslsl ""
+    n 1tslsl "..."
 
 # game/script-topics.rpy:5197
 translate spanish talk_are_you_into_cosplay_d9401ba9:
 
     # n 2tslss "Actually...{w=1}{nw}"
-    n 2tslss ""
+    n 2tslss "En realidad... {w=1}{nw}"
 
 # game/script-topics.rpy:5198
 translate spanish talk_are_you_into_cosplay_7196dcfa:
 
     # extend 1fsqbg " you know what,{w=0.2} [player]?"
-    extend 1fsqbg ""
+    extend 1fsqbg "¿sabes qué, {w=0.2}[player]?"
 
 # game/script-topics.rpy:5199
 translate spanish talk_are_you_into_cosplay_e2862891:
 
     # n 1fsrsm "Perhaps I {i}might{/i} just give it another shot...{w=0.5}{nw}"
-    n 1fsrsm ""
+    n 1fsrsm "Quizá {i}podría{/i} intentarlo de nuevo... {w=0.5}{nw}"
 
 # game/script-topics.rpy:5200
 translate spanish talk_are_you_into_cosplay_22bdddc8:
 
     # extend 3fchbg " yeah!"
-    extend 3fchbg ""
+    extend 3fchbg "¡sí!"
 
 # game/script-topics.rpy:5201
 translate spanish talk_are_you_into_cosplay_f0b0ff10:
 
     # n 1fcsss "Man,{w=0.5}{nw}"
-    n 1fcsss ""
+    n 1fcsss "Vaya, {w=0.5}{nw}"
 
 # game/script-topics.rpy:5202
 translate spanish talk_are_you_into_cosplay_5f81d830:
 
     # extend 4fchgnedz " I've got so many awesome ideas buzzing around in my head now!"
-    extend 4fchgnedz ""
+    extend 4fchgnedz "¡tengo tantas ideas geniales zumbando en mi cabeza ahora!"
 
 # game/script-topics.rpy:5203
 translate spanish talk_are_you_into_cosplay_f6e7be2f:
 
     # n 1fsqss "You better be prepared,{w=0.2} [player]..."
-    n 1fsqss ""
+    n 1fsqss "Será mejor que estés preparado, {w=0.2}[player]..."
 
 # game/script-topics.rpy:5204
 translate spanish talk_are_you_into_cosplay_fc4a8f96:
 
     # n 1fchbg "'Cause I'm gonna need some second opinions when I do!"
-    n 1fchbg ""
+    n 1fchbg "¡Porque necesitaré segundas opiniones cuando lo haga!"
 
 # game/script-topics.rpy:5205
 translate spanish talk_are_you_into_cosplay_197e1a42:
 
     # n 3fwlbll "That's what friends are for,{w=0.2} right?"
-    n 3fwlbll ""
+    n 3fwlbll "Para eso están los amigos, {w=0.2}¿verdad?"
 
 # game/script-topics.rpy:5210
 translate spanish talk_are_you_into_cosplay_595daacf:
 
     # n 1unmbo "Cosplay,{w=0.2} huh?"
-    n 1unmbo ""
+    n 1unmbo "Cosplay, {w=0.2}¿eh?"
 
 # game/script-topics.rpy:5211
 translate spanish talk_are_you_into_cosplay_35692beb:
 
     # n 1ulraj "Well...{w=0.5}{nw}"
-    n 1ulraj ""
+    n 1ulraj "Bueno... {w=0.5}{nw}"
 
 # game/script-topics.rpy:5212
 translate spanish talk_are_you_into_cosplay_42d1cd7f:
 
     # extend 3tnmbo " I mean,{w=0.2} I've played around with it,{w=0.2} if that's what you're asking."
-    extend 3tnmbo ""
+    extend 3tnmbo "quiero decir, {w=0.2}he jugado con eso, si es lo que preguntas."
 
 # game/script-topics.rpy:5213
 translate spanish talk_are_you_into_cosplay_479025f6:
 
     # n 1tllpu "I never really thought about it that much until I got more into manga and things like that."
-    n 1tllpu ""
+    n 1tllpu "Nunca lo pensé mucho hasta que me metí más en el manga y cosas así."
 
 # game/script-topics.rpy:5214
 translate spanish talk_are_you_into_cosplay_20234acd:
 
     # n 3flrbg "It kinda feels like once you start getting into that stuff,{w=0.2} you discover tons more at once!"
-    n 3flrbg ""
+    n 3flrbg "Se siente como que una vez que te metes en eso, ¡descubres montones más de una vez!"
 
 # game/script-topics.rpy:5215
 translate spanish talk_are_you_into_cosplay_bffb41bf:
 
     # n 4nslsssbr "I've never really gone out and cosplayed myself though..."
-    n 4nslsssbr ""
+    n 4nslsssbr "Aunque nunca he salido realmente a hacer cosplay..."
 
 # game/script-topics.rpy:5216
 translate spanish talk_are_you_into_cosplay_7833232d:
 
     # n 3fcsgslsbr "B-{w=0.2}but that doesn't mean I couldn't try it out more!"
-    n 3fcsgslsbr ""
+    n 3fcsgslsbr "¡P-{w=0.2}Pero eso no significa que no podría intentarlo más!"
 
 # game/script-topics.rpy:5217
 translate spanish talk_are_you_into_cosplay_701b2a03:
 
     # n 3fcspolesi "I'm basically a pro with a needle and thread,{w=0.5}{nw}"
-    n 3fcspolesi ""
+    n 3fcspolesi "Básicamente soy una profesional con la aguja e hilo, {w=0.5}{nw}"
 
 # game/script-topics.rpy:5218
 translate spanish talk_are_you_into_cosplay_928fbc5a:
 
     # extend 1fchsml " so I've already got the hardest part done!"
-    extend 1fchsml ""
+    extend 1fchsml "¡así que ya tengo la parte más difícil hecha!"
 
 # game/script-topics.rpy:5219
 translate spanish talk_are_you_into_cosplay_ea39eb89:
 
     # n 1fcsaj "The rest of it is just finding materials,{w=0.2} which are usually pretty easy to come by anyway."
-    n 1fcsaj ""
+    n 1fcsaj "El resto es solo encontrar materiales, {w=0.2}que suelen ser fáciles de conseguir."
 
 # game/script-topics.rpy:5220
 translate spanish talk_are_you_into_cosplay_4d0356ec:
 
     # n 2fslcasbl "Props and wigs and all that are a little more annoying,{w=0.2} but not exactly {i}undoable{/i}.{w=1}{nw}"
-    n 2fslcasbl ""
+    n 2fslcasbl "Los accesorios y pelucas son un poco más molestos, {w=0.2}pero no exactamente {i}imposibles{/i}. {w=1}{nw}"
 
 # game/script-topics.rpy:5221
 translate spanish talk_are_you_into_cosplay_f88ca68f:
 
     # extend 1fcssmeme " Especially with a little ingenuity."
-    extend 1fcssmeme ""
+    extend 1fcssmeme "Especialmente con un poco de ingenio."
 
 # game/script-topics.rpy:5222
 translate spanish talk_are_you_into_cosplay_37464f0e:
 
     # n 1tcssl "..."
-    n 1tcssl ""
+    n 1tcssl "..."
 
 # game/script-topics.rpy:5223
 translate spanish talk_are_you_into_cosplay_f6c82480:
 
     # n 3tupbo "Mmmm..."
-    n 3tupbo ""
+    n 3tupbo "Mmmm..."
 
 # game/script-topics.rpy:5224
 translate spanish talk_are_you_into_cosplay_8b674f6e:
 
     # n 1tllpu "You know,{w=0.75}{nw}"
-    n 1tllpu ""
+    n 1tllpu "Sabes, {w=0.75}{nw}"
 
 # game/script-topics.rpy:5225
 translate spanish talk_are_you_into_cosplay_5772ed81:
 
     # extend 1fllss " the more I think about it...{w=1}{nw}"
-    extend 1fllss ""
+    extend 1fllss "cuanto más lo pienso... {w=1}{nw}"
 
 # game/script-topics.rpy:5226
 translate spanish talk_are_you_into_cosplay_b8db791c:
 
     # extend 3nchgnedz " the more I like the idea of giving it another run!"
-    extend 3nchgnedz ""
+    extend 3nchgnedz "¡más me gusta la idea de intentarlo de nuevo!"
 
 # game/script-topics.rpy:5227
 translate spanish talk_are_you_into_cosplay_91342b0d:
 
     # n 1fnmbg "What about you,{w=0.2} [player]?{w=0.75}{nw}"
-    n 1fnmbg ""
+    n 1fnmbg "¿Y tú, {w=0.2}[player]? {w=0.75}{nw}"
 
 # game/script-topics.rpy:5228
 translate spanish talk_are_you_into_cosplay_807f6d31:
 
     # extend 1usqbg " I bet you'd love to see my skills at work,{w=0.2} right?"
-    extend 1usqbg ""
+    extend 1usqbg "Apuesto a que te encantaría ver mis habilidades en acción, {w=0.2}¿verdad?"
 
 # game/script-topics.rpy:5229
 translate spanish talk_are_you_into_cosplay_11264022:
 
     # n 3fsrbgl "Well...{w=1}{nw}"
-    n 3fsrbgl ""
+    n 3fsrbgl "Bueno... {w=1}{nw}"
 
 # game/script-topics.rpy:5230
 translate spanish talk_are_you_into_cosplay_df63e1be:
 
     # extend 1fsqsm " we'll see."
-    extend 1fsqsm ""
+    extend 1fsqsm "ya veremos."
 
 # game/script-topics.rpy:5231
 translate spanish talk_are_you_into_cosplay_b176322b:
 
     # n 2fcsgssbl "B-{w=0.2}but no promises!"
-    n 2fcsgssbl ""
+    n 2fcsgssbl "¡P-{w=0.2}Pero sin promesas!"
 
 # game/script-topics.rpy:5236
 translate spanish talk_are_you_into_cosplay_4588f52a:
 
     # n 1nnmpu "Huh?{w=0.2} Cosplay?"
-    n 1nnmpu ""
+    n 1nnmpu "¿Eh? {w=0.2}¿Cosplay?"
 
 # game/script-topics.rpy:5237
 translate spanish talk_are_you_into_cosplay_66493f7d:
 
     # n 1fsqsr "...Why,{w=0.2} [player]?"
-    n 1fsqsr ""
+    n 1fsqsr "... ¿Por qué, {w=0.2}[player]?"
 
 # game/script-topics.rpy:5238
 translate spanish talk_are_you_into_cosplay_4a843148:
 
     # n 2fsqpu "So you can make fun of my clothes too?"
-    n 2fsqpu ""
+    n 2fsqpu "¿Para que también te burles de mi ropa?"
 
 # game/script-topics.rpy:5239
 translate spanish talk_are_you_into_cosplay_7e2612b5:
 
     # n 1fslsr "..."
-    n 1fslsr ""
+    n 1fslsr "..."
 
 # game/script-topics.rpy:5240
 translate spanish talk_are_you_into_cosplay_6f02a803:
 
     # n 2fsqpu "No,{w=0.2} [player].{w=0.75}{nw}"
-    n 2fsqpu ""
+    n 2fsqpu "No, {w=0.2}[player]. {w=0.75}{nw}"
 
 # game/script-topics.rpy:5241
 translate spanish talk_are_you_into_cosplay_8823359e:
 
     # extend 1fcssr " That's for me to know,{w=0.75}{nw}"
-    extend 1fcssr ""
+    extend 1fcssr "Eso es para que yo lo sepa, {w=0.75}{nw}"
 
 # game/script-topics.rpy:5242
 translate spanish talk_are_you_into_cosplay_9d9c805b:
 
     # extend 4fsqan " and for you {i}not{/i} to find out."
-    extend 4fsqan ""
+    extend 4fsqan "y para que tú {i}no{/i} lo descubras."
 
 # game/script-topics.rpy:5243
 translate spanish talk_are_you_into_cosplay_d264cdf2:
 
     # n 2fsqgs "Does {i}that{/i} answer your question?"
-    n 2fsqgs ""
+    n 2fsqgs "¿{i}Eso{/i} responde tu pregunta?"
 
 # game/script-topics.rpy:5248
 translate spanish talk_are_you_into_cosplay_87b9b97a:
 
     # n 1fsqsr "Heh.{w=0.5} Why?"
-    n 1fsqsr ""
+    n 1fsqsr "Je. {w=0.5}¿Por qué?"
 
 # game/script-topics.rpy:5249
 translate spanish talk_are_you_into_cosplay_8bd854f4:
 
     # n 2fcsantsa "So you have something else to make me feel awful about?"
-    n 2fcsantsa ""
+    n 2fcsantsa "¿Para que tengas algo más para hacerme sentir mal?"
 
 # game/script-topics.rpy:5250
 translate spanish talk_are_you_into_cosplay_e0afca9d:
 
     # n 1fcssrltsa "...Yeah.{w=0.75} No thanks."
-    n 1fcssrltsa ""
+    n 1fcssrltsa "... Sí. {w=0.75}No, gracias."
 
 # game/script-topics.rpy:5251
 translate spanish talk_are_you_into_cosplay_a90362e5:
 
     # n 2fcsanltsd "I'm done talking to you about this."
-    n 2fcsanltsd ""
+    n 2fcsanltsd "Terminé de hablar contigo sobre esto."
 
 # game/script-topics.rpy:5261
 translate spanish talk_are_you_into_cosplay_b8630719:
 
     # n 1tllbo "..."
-    n 1tllbo ""
+    n 1tllbo "..."
 
 # game/script-topics.rpy:5262
 translate spanish talk_are_you_into_cosplay_0a4c73da:
 
     # n 1tslpu "...Actually,{w=0.5}{nw}"
-    n 1tslpu ""
+    n 1tslpu "... En realidad, {w=0.5}{nw}"
 
 # game/script-topics.rpy:5263
 translate spanish talk_are_you_into_cosplay_0f64449a:
 
     # extend 2tslaj " now that I think about it..."
-    extend 2tslaj ""
+    extend 2tslaj "ahora que lo pienso..."
 
 # game/script-topics.rpy:5264
 translate spanish talk_are_you_into_cosplay_ac0b1e2c:
 
     # n 1tlrsl "I wonder..."
-    n 1tlrsl ""
+    n 1tlrsl "Me pregunto..."
 
 # game/script-topics.rpy:5265
 translate spanish talk_are_you_into_cosplay_9f314374:
 
     # n 1fcssl "..."
-    n 1fcssl ""
+    n 1fcssl "..."
 
 # game/script-topics.rpy:5266
 translate spanish talk_are_you_into_cosplay_5a639d82:
 
     # n 3nnmaj "You know what?{w=0.75}{nw}"
-    n 3nnmaj ""
+    n 3nnmaj "¿Sabes qué? {w=0.75}{nw}"
 
 # game/script-topics.rpy:5267
 translate spanish talk_are_you_into_cosplay_80ae3330:
 
     # extend 1nllaj " Just...{w=0.75}{nw}"
-    extend 1nllaj ""
+    extend 1nllaj "Solo... {w=0.75}{nw}"
 
 # game/script-topics.rpy:5268
 translate spanish talk_are_you_into_cosplay_4e1ca94f:
 
     # extend 4nslunl " give me a sec here...{w=1}{nw}"
-    extend 4nslunl ""
+    extend 4nslunl "dame un segundo... {w=1}{nw}"
 
 # game/script-topics.rpy:5279
 translate spanish talk_are_you_into_cosplay_a7dce4fa:
 
     # n "...!"
-    n ""
+    n "¡...!"
 
 # game/script-topics.rpy:5295
 translate spanish talk_are_you_into_cosplay_609c8b6d:
 
     # n 2fchsslesssbr "T-{w=0.5}ta-da!{w=0.5}{nw}"
-    n 2fchsslesssbr ""
+    n 2fchsslesssbr "¡T-{w=0.5}Ta-dá! {w=0.5}{nw}"
 
 # game/script-topics.rpy:5296
 translate spanish talk_are_you_into_cosplay_dee41758:
 
     # extend 1fchsml " Ehehe..."
-    extend 1fchsml ""
+    extend 1fchsml "Jejeje..."
 
 # game/script-topics.rpy:5297
 translate spanish talk_are_you_into_cosplay_0650092c:
 
     # n 1fsqsll "..."
-    n 1fsqsll ""
+    n 1fsqsll "..."
 
 # game/script-topics.rpy:5298
 translate spanish talk_are_you_into_cosplay_180f3564:
 
     # n 2fslunl "..."
-    n 2fslunl ""
+    n 2fslunl "..."
 
 # game/script-topics.rpy:5299
 translate spanish talk_are_you_into_cosplay_0273ffd6:
 
     # n 4fcsemlsbl "W-{w=0.2}well?"
-    n 4fcsemlsbl ""
+    n 4fcsemlsbl "¿B-{w=0.2}Bueno?"
 
 # game/script-topics.rpy:5300
 translate spanish talk_are_you_into_cosplay_31a7081e:
 
     # n 2fcsbglsbl "What do you think,{w=0.2} [player]?{w=0.75}{nw}"
-    n 2fcsbglsbl ""
+    n 2fcsbglsbl "¿Qué opinas, {w=0.2}[player]? {w=0.75}{nw}"
 
 # game/script-topics.rpy:5301
 translate spanish talk_are_you_into_cosplay_21e6b713:
 
     # extend 1fchsmlsbr " I made it all myself,{w=0.2} too!"
-    extend 1fchsmlsbr ""
+    extend 1fchsmlsbr "¡También lo hice todo yo misma!"
 
 # game/script-topics.rpy:5302
 translate spanish talk_are_you_into_cosplay_eff7fd11:
 
     # n 2fsqsrlsbr "..."
-    n 2fsqsrlsbr ""
+    n 2fsqsrlsbr "..."
 
 # game/script-topics.rpy:5303
 translate spanish talk_are_you_into_cosplay_ef7e4c42:
 
     # n 4fnmemlsbr "What?"
-    n 4fnmemlsbr ""
+    n 4fnmemlsbr "¿Qué?"
 
 # game/script-topics.rpy:5304
 translate spanish talk_are_you_into_cosplay_82250c62:
 
     # n 3fcsgslsbl "I {i}did{/i} say I was good with a needle and thread!"
-    n 3fcsgslsbl ""
+    n 3fcsgslsbl "¡{i}Dije{/i} que era buena con aguja e hilo!"
 
 # game/script-topics.rpy:5305
 translate spanish talk_are_you_into_cosplay_42ee2c20:
 
     # n 3fllsslsbl "S-{w=0.3}so of course I {i}had{/i} to prove it!"
-    n 3fllsslsbl ""
+    n 3fllsslsbl "A-{w=0.3}Así que ¡claro que {i}tenía{/i} que demostrarlo!"
 
 # game/script-topics.rpy:5306
 translate spanish talk_are_you_into_cosplay_7f1c32fd:
 
     # extend 1fcsajlsbl " And..."
-    extend 1fcsajlsbl ""
+    extend 1fcsajlsbl "Y..."
 
 # game/script-topics.rpy:5307
 translate spanish talk_are_you_into_cosplay_769d8728:
 
     # n 1nslsslsbl "...And..."
-    n 1nslsslsbl ""
+    n 1nslsslsbl "... Y..."
 
 # game/script-topics.rpy:5308
 translate spanish talk_are_you_into_cosplay_a43b6fd8:
 
     # n 4nslsllsbl "..."
-    n 4nslsllsbl ""
+    n 4nslsllsbl "..."
 
 # game/script-topics.rpy:5309
 translate spanish talk_are_you_into_cosplay_d2e00ee8:
 
     # n 1kslsll "..."
-    n 1kslsll ""
+    n 1kslsll "..."
 
 # game/script-topics.rpy:5310
 translate spanish talk_are_you_into_cosplay_01190ef4:
 
     # n 1kcspul "This...{w=1}{nw}"
-    n 1kcspul ""
+    n 1kcspul "Esto... {w=1}{nw}"
 
 # game/script-topics.rpy:5311
 translate spanish talk_are_you_into_cosplay_c087165a:
 
     # extend 2ksrsfl " wasn't actually {i}meant{/i} for me,{w=0.2} you know."
-    extend 2ksrsfl ""
+    extend 2ksrsfl "no estaba {i}pensado{/i} para mí, {w=0.2}sabes."
 
 # game/script-topics.rpy:5312
 translate spanish talk_are_you_into_cosplay_fe533e52:
 
     # n 1kcspulesi "..."
-    n 1kcspulesi ""
+    n 1kcspulesi "..."
 
 # game/script-topics.rpy:5313
 translate spanish talk_are_you_into_cosplay_ce4f34d5:
 
     # n 4ksqbol "...I made it for Sayori."
-    n 4ksqbol ""
+    n 4ksqbol "... Lo hice para Sayori."
 
 # game/script-topics.rpy:5314
 translate spanish talk_are_you_into_cosplay_9d85023d:
 
     # n 1fcseml "I-{w=0.2}it was meant to be for some kind of party after the festival she insisted on,{w=0.2} but...{w=1}{nw}"
-    n 1fcseml ""
+    n 1fcseml "I-{w=0.2}Iba a ser para una fiesta después del festival que ella insistió, {w=0.2}pero... {w=1}{nw}"
 
 # game/script-topics.rpy:5315
 translate spanish talk_are_you_into_cosplay_8bfccf64:
 
     # extend 2kcssll " yeah."
-    extend 2kcssll ""
+    extend 2kcssll "sí."
 
 # game/script-topics.rpy:5316
 translate spanish talk_are_you_into_cosplay_785815b3:
 
     # n 1kslslltsb "..."
-    n 1kslslltsb ""
+    n 1kslslltsb "..."
 
 # game/script-topics.rpy:5317
 translate spanish talk_are_you_into_cosplay_f93d4c59:
 
     # n 2fcsunltsb "I'm...{w=1.25}{nw}"
-    n 2fcsunltsb ""
+    n 2fcsunltsb "Voy... {w=1.25}{nw}"
 
 # game/script-topics.rpy:5318
 translate spanish talk_are_you_into_cosplay_7c94ef7f:
 
     # extend 4ksrsrl " just gonna go put this away now."
-    extend 4ksrsrl ""
+    extend 4ksrsrl "a guardar esto ahora."
 
 # game/script-topics.rpy:5338
 translate spanish talk_are_you_into_cosplay_d2e00ee8_1:
 
     # n 1kslsll "..."
-    n 1kslsll ""
+    n 1kslsll "..."
 
 # game/script-topics.rpy:5339
 translate spanish talk_are_you_into_cosplay_477ec73d:
 
     # n 2kslpul "...I know I can't just throw that outfit away.{w=1.25}{nw}"
-    n 2kslpul ""
+    n 2kslpul "... Sé que no puedo simplemente tirar ese traje. {w=1.25}{nw}"
 
 # game/script-topics.rpy:5340
 translate spanish talk_are_you_into_cosplay_82bc4605:
 
     # extend 1kcsajl " It just...{w=0.5} wouldn't be right."
-    extend 1kcsajl ""
+    extend 1kcsajl "Simplemente... {w=0.5}no estaría bien."
 
 # game/script-topics.rpy:5341
 translate spanish talk_are_you_into_cosplay_aa6b50fd:
 
     # n 1kslbol "..."
-    n 1kslbol ""
+    n 1kslbol "..."
 
 # game/script-topics.rpy:5342
 translate spanish talk_are_you_into_cosplay_951b590c:
 
     # n 4kcspul "I'll...{w=0.5} keep it around."
-    n 4kcspul ""
+    n 4kcspul "Lo... {w=0.5}guardaré."
 
 # game/script-topics.rpy:5343
 translate spanish talk_are_you_into_cosplay_6706c650:
 
     # n 2knmsll "The best thing I could do is to make some {i}happy{/i} memories with it myself instead."
-    n 2knmsll ""
+    n 2knmsll "Lo mejor que puedo hacer es crear algunos recuerdos {i}felices{/i} con él yo misma."
 
 # game/script-topics.rpy:5344
 translate spanish talk_are_you_into_cosplay_899e2d32:
 
     # n 2ksrajl "...It's what she would have done, a-{w=0.2}after all."
-    n 2ksrajl ""
+    n 2ksrajl "... Es lo que ella hubiera hecho, d-{w=0.2}después de todo."
 
 # game/script-topics.rpy:5345
 translate spanish talk_are_you_into_cosplay_1b29a55c:
 
     # n 1ksrsll "..."
-    n 1ksrsll ""
+    n 1ksrsll "..."
 
 # game/script-topics.rpy:5346
 translate spanish talk_are_you_into_cosplay_4d040baf:
 
     # n 4ksqbol "...Right?"
-    n 4ksqbol ""
+    n 4ksqbol "... ¿Verdad?"
 
 # game/script-topics.rpy:5369
 translate spanish talk_why_do_you_like_me_5868bade:
 
     # n 4kwmsl "[player]..."
-    n 4kwmsl ""
+    n 4kwmsl "[player]..."
 
 # game/script-topics.rpy:5370
 translate spanish talk_why_do_you_like_me_a17ffa2e:
 
     # n 1kwmsf "You aren't asking me this because of what you told me earlier...{w=0.3} right?"
-    n 1kwmsf ""
+    n 1kwmsf "No me preguntas esto por lo que me dijiste antes... {w=0.3}¿verdad?"
 
 # game/script-topics.rpy:5371
 translate spanish talk_why_do_you_like_me_b63dc639:
 
     # n 1kllbo "..."
-    n 1kllbo ""
+    n 1kllbo "..."
 
 # game/script-topics.rpy:5372
 translate spanish talk_why_do_you_like_me_ff33e06e:
 
     # n 1ncspu "Look,{w=0.1} [player].{w=0.2} I'm going to be completely honest with you,{w=0.1} okay?"
-    n 1ncspu ""
+    n 1ncspu "Mira, {w=0.1}[player]. {w=0.2}Voy a ser completamente honesta contigo, {w=0.1}¿okey?"
 
 # game/script-topics.rpy:5373
 translate spanish talk_why_do_you_like_me_e45831bf:
 
     # n 1ncssl "What you can -{w=0.1} or {i}can't{/i} do -{w=0.1} isn't important to me."
-    n 1ncssl ""
+    n 1ncssl "Lo que puedes... {w=0.1}o {i}no puedes{/i} hacer... {w=0.1}no es importante para mí."
 
 # game/script-topics.rpy:5374
 translate spanish talk_why_do_you_like_me_b72be8bb:
 
     # n 1nnmpu "What people {i}say{/i} you are -{w=0.1} or {i}aren't{/i} capable of -{w=0.1} isn't important to me either."
-    n 1nnmpu ""
+    n 1nnmpu "Lo que la gente {i}dice{/i} que eres... {w=0.1}o {i}no{/i} eres capaz de hacer... {w=0.1}tampoco es importante para mí."
 
 # game/script-topics.rpy:5375
 translate spanish talk_why_do_you_like_me_215e3527:
 
     # n 4fnmpu "Neither is what people say about you."
-    n 4fnmpu ""
+    n 4fnmpu "Tampoco lo que la gente diga de ti."
 
 # game/script-topics.rpy:5376
 translate spanish talk_why_do_you_like_me_dd3080e3:
 
     # n 2knmsr "[player]."
-    n 2knmsr ""
+    n 2knmsr "[player]."
 
 # game/script-topics.rpy:5378
 translate spanish talk_why_do_you_like_me_cdabecf1:
 
     # n 1klrpu "I...{w=0.3} feel about you the way I do because of how you've treated me,{w=0.1} [chosen_endearment].{w=0.2} Can you not see that?"
-    n 1klrpu ""
+    n 1klrpu "Yo... {w=0.3}siento lo que siento por ti por cómo me has tratado, {w=0.1}[chosen_endearment]. {w=0.2}¿No puedes verlo?"
 
 # game/script-topics.rpy:5379
 translate spanish talk_why_do_you_like_me_3333afc2:
 
     # n 2klrss "You've spent so much time with me,{w=0.1} day after day..."
-    n 2klrss ""
+    n 2klrss "Has pasado tanto tiempo conmigo, {w=0.1}día tras día..."
 
 # game/script-topics.rpy:5380
 translate spanish talk_why_do_you_like_me_a962bc06:
 
     # n 4kwmss "You've listened to my problems,{w=0.1} and you've told me yours..."
-    n 4kwmss ""
+    n 4kwmss "Has escuchado mis problemas, {w=0.1}y me has contado los tuyos..."
 
 # game/script-topics.rpy:5381
 translate spanish talk_why_do_you_like_me_03de02d1:
 
     # n 2kllpo "You've been so patient with my mood swings,{w=0.1} and my grumpy moments..."
-    n 2kllpo ""
+    n 2kllpo "Has sido tan paciente con mis cambios de humor, {w=0.1}y mis momentos de mal genio..."
 
 # game/script-topics.rpy:5384
 translate spanish talk_why_do_you_like_me_893d1bcc:
 
     # n 1kcsunl "And...{w=0.3} you've made me feel..."
-    n 1kcsunl ""
+    n 1kcsunl "Y... {w=0.3}me has hecho sentir..."
 
 # game/script-topics.rpy:5385
 translate spanish talk_why_do_you_like_me_1dbb3916:
 
     # n 4kcsunf "So loved..."
-    n 4kcsunf ""
+    n 4kcsunf "Tan amada..."
 
 # game/script-topics.rpy:5386
 translate spanish talk_why_do_you_like_me_a90e4222:
 
     # n 1kllunl "..."
-    n 1kllunl ""
+    n 1kllunl "..."
 
 # game/script-topics.rpy:5389
 translate spanish talk_why_do_you_like_me_04a77270:
 
     # n 1kllssl "You're...{w=0.3} you're my first love,{w=0.1} [player]..."
-    n 1kllssl ""
+    n 1kllssl "Eres... {w=0.3}mi primer amor, {w=0.1}[player]..."
 
 # game/script-topics.rpy:5390
 translate spanish talk_why_do_you_like_me_c8ba9c48:
 
     # n 4kcussl "Do you even realize how {i}much{/i} that means to me?"
-    n 4kcussl ""
+    n 4kcussl "¿Tienes idea de lo {i}mucho{/i} que eso significa para mí?"
 
 # game/script-topics.rpy:5393
 translate spanish talk_why_do_you_like_me_d60cc4a0:
 
     # n 2kwmssl "You honestly,{w=0.1} truly mean the world to me,{w=0.1} [player]..."
-    n 2kwmssl ""
+    n 2kwmssl "Honestamente, {w=0.1}significas el mundo para mí, {w=0.1}[player]..."
 
 # game/script-topics.rpy:5395
 translate spanish talk_why_do_you_like_me_a45e9a16:
 
     # n 1kllssl "So...{w=0.3} yeah."
-    n 1kllssl ""
+    n 1kllssl "Así que... {w=0.3}sí."
 
 # game/script-topics.rpy:5396
 translate spanish talk_why_do_you_like_me_7c7c2acb:
 
     # n 4klrnvl "Does that answer your question?"
-    n 4klrnvl ""
+    n 4klrnvl "¿Eso responde tu pregunta?"
 
 # game/script-topics.rpy:5397
 translate spanish talk_why_do_you_like_me_03c4a5ab:
 
     # n 1knmsr "I know I can't solve your problems with a snap of my fingers,{w=0.1} [player].{w=0.2} I'm not a miracle worker."
-    n 1knmsr ""
+    n 1knmsr "Sé que no puedo resolver tus problemas con un chasquido de dedos, {w=0.1}[player]. {w=0.2}No soy capaz de hacer milagros."
 
 # game/script-topics.rpy:5398
 translate spanish talk_why_do_you_like_me_ee8db445:
 
     # n 2kslsl "Believe me -{w=0.1} I {i}already{/i} would have if I could."
-    n 2kslsl ""
+    n 2kslsl "Créeme... {w=0.1}ya lo {i}habría{/i} hecho si pudiera."
 
 # game/script-topics.rpy:5399
 translate spanish talk_why_do_you_like_me_096fd935:
 
     # n 1knmsl "But..."
-    n 1knmsl ""
+    n 1knmsl "Pero..."
 
 # game/script-topics.rpy:5400
 translate spanish talk_why_do_you_like_me_7cfa2341:
 
     # n 1kllss "I hope you can believe me when I say things will work out,{w=0.1} okay?"
-    n 1kllss ""
+    n 1kllss "Espero que puedas creerme cuando digo que las cosas mejorarán, {w=0.1}¿okey?"
 
 # game/script-topics.rpy:5401
 translate spanish talk_why_do_you_like_me_03f61cf3:
 
     # n 4fwmsm "Just...{w=0.3} keep fighting..."
-    n 4fwmsm ""
+    n 4fwmsm "Solo... {w=0.3}sigue luchando..."
 
 # game/script-topics.rpy:5402
 translate spanish talk_why_do_you_like_me_5bb38f80:
 
     # n 1fcssml "...Because I'm fighting for you too."
-    n 1fcssml ""
+    n 1fcssml "... Porque yo también lucho por ti."
 
 # game/script-topics.rpy:5403
 translate spanish talk_why_do_you_like_me_5d3d7bbd:
 
     # n 3kplnvf "I love you,{w=0.1} [player].{w=0.2} You better not forget that."
-    n 3kplnvf ""
+    n 3kplnvf "Te amo, {w=0.1}[player]. {w=0.2}Será mejor que no lo olvides."
 
 # game/script-topics.rpy:5407
 translate spanish talk_why_do_you_like_me_63e5734d:
 
     # n 3fcspo "[player]..."
-    n 3fcspo ""
+    n 3fcspo "[player]..."
 
 # game/script-topics.rpy:5408
 translate spanish talk_why_do_you_like_me_16bfbc06:
 
     # n 3flrpo "Do I really have to explain this all to you?"
-    n 3flrpo ""
+    n 3flrpo "¿Realmente tengo que explicarte todo esto?"
 
 # game/script-topics.rpy:5409
 translate spanish talk_why_do_you_like_me_f7168a6d:
 
     # n 1flrsll "It's just...{w=0.3} embarrassing...{w=0.3} to me..."
-    n 1flrsll ""
+    n 1flrsll "Es solo que... {w=0.3}es vergonzoso... {w=0.3}para mí..."
 
 # game/script-topics.rpy:5410
 translate spanish talk_why_do_you_like_me_5d57d4a8:
 
     # n 1kcssll "..."
-    n 1kcssll ""
+    n 1kcssll "..."
 
 # game/script-topics.rpy:5411
 translate spanish talk_why_do_you_like_me_d9e2a94a:
 
     # n 4ncspu "...Okay,{w=0.1} look."
-    n 4ncspu ""
+    n 4ncspu "... Okey, {w=0.1}mira."
 
 # game/script-topics.rpy:5412
 translate spanish talk_why_do_you_like_me_e2873238:
 
     # n 1fllssl "You've...{w=0.3} honestly done more than you could ever know,{w=0.1} [player]."
-    n 1fllssl ""
+    n 1fllssl "Has... {w=0.3}hecho más de lo que imaginas, {w=0.1}[player]."
 
 # game/script-topics.rpy:5413
 translate spanish talk_why_do_you_like_me_2327aa12:
 
     # n 2fllsll "For me,{w=0.1} I mean."
-    n 2fllsll ""
+    n 2fllsll "Por mí, quiero decir."
 
 # game/script-topics.rpy:5414
 translate spanish talk_why_do_you_like_me_9391b1b9:
 
     # n 1knmsll "I've almost lost count of how many hours you've spent talking to me..."
-    n 1knmsll ""
+    n 1knmsll "Casi he perdido la cuenta de las horas que has pasado hablando conmigo..."
 
 # game/script-topics.rpy:5415
 translate spanish talk_why_do_you_like_me_94557763:
 
     # n 3klrssl "You've listened to so many of my dumb problems,{w=0.1} over and over..."
-    n 3klrssl ""
+    n 3klrssl "Has escuchado tantos de mis tontos problemas, {w=0.1}una y otra vez..."
 
 # game/script-topics.rpy:5416
 translate spanish talk_why_do_you_like_me_35dd4ad7:
 
     # n 4fllunl "...And you've been so patient through all of my stupid moods."
-    n 4fllunl ""
+    n 4fllunl "... Y has sido tan paciente con todos mis estúpidos cambios de humor."
 
 # game/script-topics.rpy:5419
 translate spanish talk_why_do_you_like_me_b6c2f3b4:
 
     # n 1fcsunl "Y-you've made me feel..."
-    n 1fcsunl ""
+    n 1fcsunl "T-Tú me has hecho sentir..."
 
 # game/script-topics.rpy:5420
 translate spanish talk_why_do_you_like_me_569b0dd0:
 
     # n 4kcsunl "Really appreciated.{w=0.2} So many times,{w=0.1} I've lost count..."
-    n 4kcsunl ""
+    n 4kcsunl "Muy apreciada. {w=0.2}Tantas veces que he perdido la cuenta..."
 
 # game/script-topics.rpy:5423
 translate spanish talk_why_do_you_like_me_80f238b3:
 
     # n 1kskajf "You're...{w=0.3} you're my first love,{w=0.1} even!"
-    n 1kskajf ""
+    n 1kskajf "Eres... {w=0.3}¡incluso mi primer amor!"
 
 # game/script-topics.rpy:5424
 translate spanish talk_why_do_you_like_me_2fbc65b9:
 
     # n 3kwmpuf "Do you even know what that {i}means{/i} to me?"
-    n 3kwmpuf ""
+    n 3kwmpuf "¿Tienes idea de lo que eso {i}significa{/i} para mí?"
 
 # game/script-topics.rpy:5427
 translate spanish talk_why_do_you_like_me_d766c405:
 
     # n 3kwmpuf "You seriously mean the world to me,{w=0.1} [player]..."
-    n 3kwmpuf ""
+    n 3kwmpuf "Significas el mundo para mí, {w=0.1}[player]..."
 
 # game/script-topics.rpy:5429
 translate spanish talk_why_do_you_like_me_a45e9a16_1:
 
     # n 1kllssl "So...{w=0.3} yeah."
-    n 1kllssl ""
+    n 1kllssl "Así que... {w=0.3}sí."
 
 # game/script-topics.rpy:5430
 translate spanish talk_why_do_you_like_me_8f8ec9cb:
 
     # n 4klrnvl "Does that answer all of your questions?{w=0.2} Am I free to go now?"
-    n 4klrnvl ""
+    n 4klrnvl "¿Eso responde todas tus preguntas? {w=0.2}¿Puedo irme ahora?"
 
 # game/script-topics.rpy:5431
 translate spanish talk_why_do_you_like_me_bac9e089:
 
     # n 1klrss "Ahaha..."
-    n 1klrss ""
+    n 1klrss "Ajaja..."
 
 # game/script-topics.rpy:5432
 translate spanish talk_why_do_you_like_me_97da908f:
 
     # n 2kwmpu "But seriously,{w=0.1} [player]."
-    n 2kwmpu ""
+    n 2kwmpu "Pero en serio, {w=0.1}[player]."
 
 # game/script-topics.rpy:5433
 translate spanish talk_why_do_you_like_me_f747f833:
 
     # n 1kplbo "Don't ever doubt how important you are to me,{w=0.1} alright?"
-    n 1kplbo ""
+    n 1kplbo "Nunca dudes de lo importante que eres para mí, {w=0.1}¿de acuerdo?"
 
 # game/script-topics.rpy:5434
 translate spanish talk_why_do_you_like_me_4ea1502d:
 
     # n 2fnmpol "I'll get mad if you do."
-    n 2fnmpol ""
+    n 2fnmpol "Me enojaré si lo haces."
 
 # game/script-topics.rpy:5435
 translate spanish talk_why_do_you_like_me_2af0747f:
 
     # n 2flrpol "And trust me..."
-    n 2flrpol ""
+    n 2flrpol "Y créeme..."
 
 # game/script-topics.rpy:5436
 translate spanish talk_why_do_you_like_me_5171622d:
 
     # n 4klrssl "I doubt you want that."
-    n 4klrssl ""
+    n 4klrssl "Dudo que quieras eso."
 
 # game/script-topics.rpy:5441
 translate spanish talk_why_do_you_like_me_cfceed9a:
 
     # n 1knmaj "...Hey,{w=0.1} [player]..."
-    n 1knmaj ""
+    n 1knmaj "... Oye, {w=0.1}[player]..."
 
 # game/script-topics.rpy:5442
 translate spanish talk_why_do_you_like_me_fdf2e650:
 
     # n 2klrpu "This isn't by chance because of what you said earlier...{w=0.3} right?"
-    n 2klrpu ""
+    n 2klrpu "Esto no será por casualidad por lo que dijiste antes... {w=0.3}¿verdad?"
 
 # game/script-topics.rpy:5445
 translate spanish talk_why_do_you_like_me_9c76b9e0:
 
     # n 1uskpul "Wh-{w=0.1}why do I-{w=0.1}...?"
-    n 1uskpul ""
+    n 1uskpul "¿P-{w=0.1}Oor qué yo-{w=0.1}...?"
 
 # game/script-topics.rpy:5446
 translate spanish talk_why_do_you_like_me_e6c993ef:
 
     # n 2fcsanl "Uuuuuuu..."
-    n 2fcsanl ""
+    n 2fcsanl "Uuuuuuu..."
 
 # game/script-topics.rpy:5448
 translate spanish talk_why_do_you_like_me_4f954ab0:
 
     # n 1fcsajl "...Okay,{w=0.1} look.{w=0.2} I'll try to help you understand as best I can."
-    n 1fcsajl ""
+    n 1fcsajl "... Está bien, {w=0.1}mira. {w=0.2}Intentaré ayudarte a entender lo mejor que pueda."
 
 # game/script-topics.rpy:5449
 translate spanish talk_why_do_you_like_me_f5f9a8ec:
 
     # n 3fllaj "I'm not sure if someone's giving you a tough time or what, but I'm saying it anyway."
-    n 3fllaj ""
+    n 3fllaj "No sé si alguien te está haciendo pasar un mal rato o qué, pero igual te lo diré."
 
 # game/script-topics.rpy:5450
 translate spanish talk_why_do_you_like_me_c43378cd:
 
     # n 1fllsr "I don't really care about what others expect from you."
-    n 1fllsr ""
+    n 1fllsr "No me importa lo que otros esperen de ti."
 
 # game/script-topics.rpy:5451
 translate spanish talk_why_do_you_like_me_61f6d378:
 
     # n 4fnmsr "I don't really care about what others say or think about you."
-    n 4fnmsr ""
+    n 4fnmsr "No me importa lo que otros digan o piensen de ti."
 
 # game/script-topics.rpy:5452
 translate spanish talk_why_do_you_like_me_78ac0553:
 
     # n 4knmpu "I don't really care if you can -{w=0.1} or can't -{w=0.1} do something."
-    n 4knmpu ""
+    n 4knmpu "No me importa si puedes... {w=0.1}o no... {w=0.1}hacer algo."
 
 # game/script-topics.rpy:5453
 translate spanish talk_why_do_you_like_me_126825e5:
 
     # n 1fcseml "I...{w=0.3} {i}like{/i} you,{w=0.1} because of how you've treated me,{w=0.1} you dummy!"
-    n 1fcseml ""
+    n 1fcseml "¡Me... {w=0.3}{i}gustas{/i} por cómo me has tratado, {w=0.1}tonto!"
 
 # game/script-topics.rpy:5454
 translate spanish talk_why_do_you_like_me_ab41e21b:
 
     # n 3flleml "Like,{w=0.1} come on!"
-    n 3flleml ""
+    n 3flleml "¡Vamos, {w=0.1}en serio!"
 
 # game/script-topics.rpy:5455
 translate spanish talk_why_do_you_like_me_8a9ee7c1:
 
     # n 4flrssl "You've listened to me yammer on,{w=0.1} again and again..."
-    n 4flrssl ""
+    n 4flrssl "Has escuchado mi parloteo, {w=0.1}una y otra vez..."
 
 # game/script-topics.rpy:5456
 translate spanish talk_why_do_you_like_me_47d31cd8:
 
     # n 1knmssl "You've heard me out on so many dumb problems I've had..."
-    n 1knmssl ""
+    n 1knmssl "Me has escuchado sobre tantos problemas tontos que he tenido..."
 
 # game/script-topics.rpy:5457
 translate spanish talk_why_do_you_like_me_927b9282:
 
     # n 3fcsbgl "You've even dealt with my crappy temper like a champ!"
-    n 3fcsbgl ""
+    n 3fcsbgl "¡Incluso has soportado mi mal genio como un campeón!"
 
 # game/script-topics.rpy:5458
 translate spanish talk_why_do_you_like_me_c30d04f3:
 
     # n 1klrsl "..."
-    n 1klrsl ""
+    n 1klrsl "..."
 
 # game/script-topics.rpy:5459
 translate spanish talk_why_do_you_like_me_94a2c0ba:
 
     # n 1kcssl "...I've never been treated by anyone as well as I've been treated by you,{w=0.1} [player]."
-    n 1kcssl ""
+    n 1kcssl "... Nadie me ha tratado tan bien como tú, {w=0.1}[player]."
 
 # game/script-topics.rpy:5460
 translate spanish talk_why_do_you_like_me_c2be177f:
 
     # n 3fllslf "So is it any wonder why I...{w=0.3} enjoy hanging out with you this much?"
-    n 3fllslf ""
+    n 3fllslf "Así que es de extrañar que... {w=0.3}¿disfrute tanto pasar tiempo contigo?"
 
 # game/script-topics.rpy:5461
 translate spanish talk_why_do_you_like_me_3d3bc027:
 
     # n 1fcsslf "..."
-    n 1fcsslf ""
+    n 1fcsslf "..."
 
 # game/script-topics.rpy:5462
 translate spanish talk_why_do_you_like_me_decb99fc:
 
     # n 1flrajl "Alright,{w=0.1} okay.{w=0.2} I really don't wanna have to explain all that again,{w=0.1} so I hope you took all that in."
-    n 1flrajl ""
+    n 1flrajl "Está bien, {w=0.1}de acuerdo. {w=0.2}Realmente no quiero tener que explicar todo eso de nuevo, así que espero que lo hayas entendido."
 
 # game/script-topics.rpy:5463
 translate spanish talk_why_do_you_like_me_6513b57c:
 
     # n 4fnmssl "Just...{w=0.3} continue being you,{w=0.1} got it?"
-    n 4fnmssl ""
+    n 4fnmssl "Solo... {w=0.3}sigue siendo tú, {w=0.1}¿entendido?"
 
 # game/script-topics.rpy:5464
 translate spanish talk_why_do_you_like_me_f6d4f802:
 
     # n 3kllpul "I...{w=0.3} kinda like how you do that already."
-    n 3kllpul ""
+    n 3kllpul "Ya... {w=0.3}me gusta cómo lo haces."
 
 # game/script-topics.rpy:5469
 translate spanish talk_why_do_you_like_me_a9aaad0d:
 
     # n 1unmpul "...Huh?"
-    n 1unmpul ""
+    n 1unmpul "... ¿Eh?"
 
 # game/script-topics.rpy:5470
 translate spanish talk_why_do_you_like_me_b1693759:
 
     # n 4uskemf "W-{w=0.1}why do I...?"
-    n 4uskemf ""
+    n 4uskemf "¿P-{w=0.1}Por qué yo...?"
 
 # game/script-topics.rpy:5471
 translate spanish talk_why_do_you_like_me_7118092e:
 
     # n 2fcsanf "..."
-    n 2fcsanf ""
+    n 2fcsanf "..."
 
 # game/script-topics.rpy:5472
 translate spanish talk_why_do_you_like_me_6141b55f:
 
     # n 1tlremf "..."
-    n 1tlremf ""
+    n 1tlremf "..."
 
 # game/script-topics.rpy:5473
 translate spanish talk_why_do_you_like_me_d386389b:
 
     # n 1flrsll "..."
-    n 1flrsll ""
+    n 1flrsll "..."
 
 # game/script-topics.rpy:5474
 translate spanish talk_why_do_you_like_me_9a123582:
 
     # n 4fnmpul "Uhmm...{w=0.3} [player]?"
-    n 4fnmpul ""
+    n 4fnmpul "Emmm... {w=0.3}¿[player]?"
 
 # game/script-topics.rpy:5475
 translate spanish talk_why_do_you_like_me_b4611518:
 
     # n 2fllpo "This isn't all related to what you told me earlier,{w=0.1} right?"
-    n 2fllpo ""
+    n 2fllpo "Esto no tiene que ver con lo que me dijiste antes, {w=0.1}¿verdad?"
 
 # game/script-topics.rpy:5476
 translate spanish talk_why_do_you_like_me_b325da8a:
 
     # n 4knmpo "About feeling insecure and all that?"
-    n 4knmpo ""
+    n 4knmpo "¿Sobre sentirte inseguro y todo eso?"
 
 # game/script-topics.rpy:5477
 translate spanish talk_why_do_you_like_me_c30d04f3_1:
 
     # n 1klrsl "..."
-    n 1klrsl ""
+    n 1klrsl "..."
 
 # game/script-topics.rpy:5478
 translate spanish talk_why_do_you_like_me_8f295c54:
 
     # n 4nnmsl "[player]."
-    n 4nnmsl ""
+    n 4nnmsl "[player]."
 
 # game/script-topics.rpy:5479
 translate spanish talk_why_do_you_like_me_471d69b4:
 
     # n 3fnmpuf "Listen up,{w=0.1} 'kay?{w=0.2} I...{w=0.3} really don't wanna have to repeat this."
-    n 3fnmpuf ""
+    n 3fnmpuf "Escucha, {w=0.1}¿okey? {w=0.2}Realmente... {w=0.3}no quiero tener que repetir esto."
 
 # game/script-topics.rpy:5482
 translate spanish talk_why_do_you_like_me_3be57e6d:
 
     # n 4uscemf "Urk-!"
-    n 4uscemf ""
+    n 4uscemf "¡Ugh-!"
 
 # game/script-topics.rpy:5483
 translate spanish talk_why_do_you_like_me_8f4e8f2a:
 
     # n 1uskemf "W-{w=0.1}wait,{w=0.1} w-{w=0.1}what?"
-    n 1uskemf ""
+    n 1uskemf "E-{w=0.1}Espera, {w=0.1}¿q-{w=0.1}qué?"
 
 # game/script-topics.rpy:5484
 translate spanish talk_why_do_you_like_me_18ddccec:
 
     # n 3fwdemf "W-{w=0.1}why do I...{w=0.3} l-{w=0.1}like you?!"
-    n 3fwdemf ""
+    n 3fwdemf "¡¿P-{w=0.1}Por qué... {w=0.3}m-{w=0.1}me gustas?!"
 
 # game/script-topics.rpy:5485
 translate spanish talk_why_do_you_like_me_6ba1c3f9:
 
     # n 1fcsanf "Nnnnnnnnn-!"
-    n 1fcsanf ""
+    n 1fcsanf "¡Nnnnnnnnn-!"
 
 # game/script-topics.rpy:5486
 translate spanish talk_why_do_you_like_me_aac1ac39:
 
     # n 1fllwrf "I mean...!{w=0.2} It's not that I {i}like{/i} like you,{w=0.1} or anything ridiculous like that!"
-    n 1fllwrf ""
+    n 1fllwrf "¡Quiero decir...! {w=0.2}¡No es que me {i}gustes{/i} gustes, ni nada ridículo!"
 
 # game/script-topics.rpy:5487
 translate spanish talk_why_do_you_like_me_c175a6f0:
 
     # n 3fcsemf "Ugh...{w=0.3} I swear,{w=0.1} [player] -{w=0.1} you honestly try to put me in the most awkward freaking spots sometimes..."
-    n 3fcsemf ""
+    n 3fcsemf "Uf... {w=0.3}te juro, {w=0.1}[player]... {w=0.1}honestamente intentas ponerme en los lugares más incómodos a veces..."
 
 # game/script-topics.rpy:5488
 translate spanish talk_why_do_you_like_me_4683c5ba:
 
     # n 1fllslf "..."
-    n 1fllslf ""
+    n 1fllslf "..."
 
 # game/script-topics.rpy:5489
 translate spanish talk_why_do_you_like_me_119e04a7:
 
     # n 4fllsll "I...{w=0.3} guess I {i}do{/i} owe you an answer though,{w=0.1} at least."
-    n 4fllsll ""
+    n 4fllsll "Supongo... {w=0.3}que al menos {i}sí{/i} te debo una respuesta, {w=0.1}al menos."
 
 # game/script-topics.rpy:5491
 translate spanish talk_why_do_you_like_me_69d837fc:
 
     # n 1fcssll "Look."
-    n 1fcssll ""
+    n 1fcssll "Mira."
 
 # game/script-topics.rpy:5492
 translate spanish talk_why_do_you_like_me_26b74622:
 
     # n 1nlrpu "You've been pretty awesome to me so far,{w=0.1} [player]."
-    n 1nlrpu ""
+    n 1nlrpu "Has sido bastante increíble conmigo hasta ahora, {w=0.1}[player]."
 
 # game/script-topics.rpy:5493
 translate spanish talk_why_do_you_like_me_b6ce0398:
 
     # n 4klrpu "...Do you even know how few other people make me feel that way?"
-    n 4klrpu ""
+    n 4klrpu "... ¿Sabes cuán pocas personas me hacen sentir así?"
 
 # game/script-topics.rpy:5494
 translate spanish talk_why_do_you_like_me_8f1c876d:
 
     # n 1klrsl "It's...{w=0.3} really not a lot,{w=0.1} if you hadn't gathered."
-    n 1klrsl ""
+    n 1klrsl "En realidad... {w=0.3}no son muchas, por si no te habías dado cuenta."
 
 # game/script-topics.rpy:5495
 translate spanish talk_why_do_you_like_me_f25e6978:
 
     # n 2fllpol "You always listen to me,{w=0.1} you don't tell me I'm annoying,{w=0.1} or to pipe down..."
-    n 2fllpol ""
+    n 2fllpol "Siempre me escuchas, {w=0.1}no me dices que soy molesta, {w=0.1}o que me calle..."
 
 # game/script-topics.rpy:5496
 translate spanish talk_why_do_you_like_me_2fa67ad2:
 
     # n 1kwmsrl "And you've been super understanding too."
-    n 1kwmsrl ""
+    n 1kwmsrl "Y también has sido súper comprensivo."
 
 # game/script-topics.rpy:5497
 translate spanish talk_why_do_you_like_me_985c1738:
 
     # n 1kllpul "I...{w=0.3} honestly couldn't ask for a better friend,{w=0.1} [player]."
-    n 1kllpul ""
+    n 1kllpul "Honestamente... {w=0.3}no podría pedir un mejor amigo, {w=0.1}[player]."
 
 # game/script-topics.rpy:5498
 translate spanish talk_why_do_you_like_me_5d988bc4:
 
     # n 3fnmbol "Always remember that,{w=0.1} alright?{w=0.2} I'll get mad if you don't."
-    n 3fnmbol ""
+    n 3fnmbol "Recuérdalo siempre, {w=0.1}¿de acuerdo? {w=0.2}Me enojaré si no lo haces."
 
 # game/script-topics.rpy:5499
 translate spanish talk_why_do_you_like_me_e85cec2f:
 
     # n 1kllbol "..."
-    n 1kllbol ""
+    n 1kllbol "..."
 
 # game/script-topics.rpy:5520
 translate spanish talk_fried_squid_70f4ef7c:
 
     # n 1fllss "Hey,{w=0.1} [player]..."
-    n 1fllss ""
+    n 1fllss "Oye, {w=0.1}[player]..."
 
 # game/script-topics.rpy:5521
 translate spanish talk_fried_squid_13177a41:
 
     # n 4usqsm "You know what I could go for right now?"
-    n 4usqsm ""
+    n 4usqsm "¿Sabes qué me apetecería ahora mismo?"
 
 # game/script-topics.rpy:5522
 translate spanish talk_fried_squid_74349ef5:
 
     # n 1uchbs "A big,{w=0.1} steaming fresh bowl of Mon-{w=0.1}ika!"
-    n 1uchbs ""
+    n 1uchbs "¡Un gran y humeante tazón de Mon-{w=0.1}ika!"
 
 # game/script-topics.rpy:5523
 translate spanish talk_fried_squid_25117723:
 
     # n 1uchbg "..."
-    n 1uchbg ""
+    n 1uchbg "..."
 
 # game/script-topics.rpy:5524
 translate spanish talk_fried_squid_578a6e14:
 
     # n 2flrpu "...Huh."
-    n 2flrpu ""
+    n 2flrpu "... Eh."
 
 # game/script-topics.rpy:5525
 translate spanish talk_fried_squid_7d7b1dcf:
 
     # n 1tnmpu "You know,{w=0.1} in hindsight?{w=0.2} That joke really wasn't funny the first time round."
-    n 1tnmpu ""
+    n 1tnmpu "Sabes, {w=0.1}¿en retrospectiva? Esa broma no fue graciosa la primera vez."
 
 # game/script-topics.rpy:5526
 translate spanish talk_fried_squid_011fa779:
 
     # n 3tllpo "I've...{w=0.3} no idea why it'd be funny this time,{w=0.1} to be honest."
-    n 3tllpo ""
+    n 3tllpo "No... {w=0.3}tengo idea de por qué sería graciosa esta vez, {w=0.1}honestamente."
 
 # game/script-topics.rpy:5527
 translate spanish talk_fried_squid_a7ecfb9f:
 
     # n 4uspgsesu "Oh!"
-    n 4uspgsesu ""
+    n 4uspgsesu "¡Oh!"
 
 # game/script-topics.rpy:5528
 translate spanish talk_fried_squid_1a2a4126:
 
     # n 1fchbg "But fried squid is no joke at all,{w=0.1} [player]!{w=0.2} Have you ever tried it?"
-    n 1fchbg ""
+    n 1fchbg "¡Pero el calamar frito no es ninguna broma, {w=0.1}[player]! {w=0.2}¿Alguna vez lo has probado?"
 
 # game/script-topics.rpy:5529
 translate spanish talk_fried_squid_9d2ba7f5:
 
     # n 1uchbs "It's {i}delicious{/i}!{w=0.2} I love it!"
-    n 1uchbs ""
+    n 1uchbs "¡Es {i}delicioso{/i}! {w=0.2}¡Me encanta!"
 
 # game/script-topics.rpy:5530
 translate spanish talk_fried_squid_bbcc3ae8:
 
     # n 3fsqsm "Not just boring old fried seafood though -{w=0.1} it's gotta have the crap battered out of it first!"
-    n 3fsqsm ""
+    n 3fsqsm "Pero no solo los aburridos y viejos mariscos fritos.... {w=0.1}¡primero tiene que estar rebozado!"
 
 # game/script-topics.rpy:5531
 translate spanish talk_fried_squid_55c5959e:
 
     # n 4uspbg "That crispy golden coating is seriously the best.{w=0.2} Deep fried food is awesome!"
-    n 4uspbg ""
+    n 4uspbg "Ese crujiente recubrimiento dorado es lo mejor. {w=0.2}¡La comida frita es increíble!"
 
 # game/script-topics.rpy:5532
 translate spanish talk_fried_squid_96e7abee:
 
     # n 1fllbg "It's not {i}good{/i} for you exactly,{w=0.1} but as a treat?{w=0.2} You could do way worse..."
-    n 1fllbg ""
+    n 1fllbg "No es exactamente {i}bueno{/i} para ti, {w=0.1}¿pero como capricho? {w=0.2}Podría ser mucho peor..."
 
 # game/script-topics.rpy:5533
 translate spanish talk_fried_squid_12e8fa45:
 
     # n 4fcsts "Especially with sauce to spice things up a bit!"
-    n 4fcsts ""
+    n 4fcsts "¡Especialmente con salsa para darle un toque picante!"
 
 # game/script-topics.rpy:5534
 translate spanish talk_fried_squid_14f07273:
 
     # n 1fnmss "By the way -{w=0.1} wanna know how you can tell you're dining on some top-notch squiddy goodness?"
-    n 1fnmss ""
+    n 1fnmss "Por cierto... {w=0.1}¿quieres saber cómo saber que estás comiendo un calamar de primera?"
 
 # game/script-topics.rpy:5535
 translate spanish talk_fried_squid_0dff99a7:
 
     # n 3uchbs "The texture,{w=0.1} of course!"
-    n 3uchbs ""
+    n 3uchbs "¡La textura, {w=0.1}por supuesto!"
 
 # game/script-topics.rpy:5536
 translate spanish talk_fried_squid_6784ca16:
 
     # n 3fllaj "Overcooked squid becomes all rubbery and nasty,{w=0.1} and even worse -{w=0.1} it loses all of its flavor too!"
-    n 3fllaj ""
+    n 3fllaj "El calamar cocido de más se pone gomoso y asqueroso, {w=0.1}y lo peor... {w=0.1}¡pierde todo su sabor!"
 
 # game/script-topics.rpy:5537
 translate spanish talk_fried_squid_26f20442:
 
     # n 1fsqsr "Imagine biting through the batter,{w=0.1} only to find you're basically chewing on a bunch of rubber bands."
-    n 1fsqsr ""
+    n 1fsqsr "Imagina morder el rebozado, {w=0.1}solo para descubrir que básicamente estás masticando gomas elásticas."
 
 # game/script-topics.rpy:5538
 translate spanish talk_fried_squid_2241e191:
 
     # n 2fsqem "Ugh!{w=0.2} Gross!{w=0.2} Talk about a disappointment."
-    n 2fsqem ""
+    n 2fsqem "¡Uf! {w=0.2}¡Asqueroso! {w=0.2}Eso sí que es una decepción."
 
 # game/script-topics.rpy:5539
 translate spanish talk_fried_squid_bc738ac6:
 
     # n 1unmaj "Don't let that put you off though,{w=0.1} [player] -{w=0.1} next time you see some,{w=0.1} why not give it a shot?"
-    n 1unmaj ""
+    n 1unmaj "Pero no dejes que eso te desanime, {w=0.1}[player]... {w=0.1} la próxima vez que veas, {w=0.1}¿por qué no lo pruebas?"
 
 # game/script-topics.rpy:5542
 translate spanish talk_fried_squid_a5bf67a2:
 
     # n 1kllss "...Probably the sooner the better,{w=0.1} if you're hungry like you said."
-    n 1kllss ""
+    n 1kllss "... Probablemente cuanto antes mejor, {w=0.1}si tienes hambre como dijiste."
 
 # game/script-topics.rpy:5543
 translate spanish talk_fried_squid_5d138b93:
 
     # n 4ullaj "But anyway..."
-    n 4ullaj ""
+    n 4ullaj "Pero de todos modos..."
 
 # game/script-topics.rpy:5545
 translate spanish talk_fried_squid_86da67c7:
 
     # n 1unmbg "You could even be all fancy if you wanted to and order it by the culinary name!"
-    n 1unmbg ""
+    n 1unmbg "¡Podrías ser elegante si quisieras y pedirlo por su nombre culinario!"
 
 # game/script-topics.rpy:5546
 translate spanish talk_fried_squid_99a769e6:
 
     # n 3fnmbg "Ten points if you can guess what that is.{w=0.2} Ehehe."
-    n 3fnmbg ""
+    n 3fnmbg "Diez puntos si adivinas cuál es. {w=0.2}Jejeje."
 
 # game/script-topics.rpy:5549
 translate spanish talk_fried_squid_daa026de:
 
     # n 3flrsg "Hmm..."
-    n 3flrsg ""
+    n 3flrsg "Mmm..."
 
 # game/script-topics.rpy:5550
 translate spanish talk_fried_squid_0da9324d:
 
     # n 1fnmbg "Actually...{w=0.3} you know what?"
-    n 1fnmbg ""
+    n 1fnmbg "En realidad... {w=0.3}¿sabes qué?"
 
 # game/script-topics.rpy:5551
 translate spanish talk_fried_squid_81395709:
 
     # n 1fchbg "We should just get a bowl of calamari to share.{w=0.2} That's fair,{w=0.1} right?"
-    n 1fchbg ""
+    n 1fchbg "Deberíamos compartir un plato de calamares. {w=0.2}Es justo, {w=0.1}¿verdad?"
 
 # game/script-topics.rpy:5552
 translate spanish talk_fried_squid_653cb769:
 
     # n 4fsqsm "I should warn you though,{w=0.1} [player]..."
-    n 4fsqsm ""
+    n 4fsqsm "Pero debo advertirte, {w=0.1}[player]..."
 
 # game/script-topics.rpy:5553
 translate spanish talk_fried_squid_9cf33286:
 
     # n 3fchgn "I'm not handing over the last piece without a fight!"
-    n 3fchgn ""
+    n 3fchgn "¡No entregaré el último trozo sin pelear!"
 
 # game/script-topics.rpy:5554
 translate spanish talk_fried_squid_d600c5cd:
 
     # n 1nchsml "Ehehe."
-    n 1nchsml ""
+    n 1nchsml "Jejeje."
 
 # game/script-topics.rpy:5557
 translate spanish talk_fried_squid_b3e2783a:
 
     # n 1uchbg "But yeah -{w=0.1} you should really give it a try if you haven't already,{w=0.1} [player]!"
-    n 1uchbg ""
+    n 1uchbg "¡Pero sí... {w=0.1}realmente deberías probarlo si aún no lo has hecho, {w=0.1}[player]!"
 
 # game/script-topics.rpy:5558
 translate spanish talk_fried_squid_099eec2b:
 
     # n 4fchbg "I wouldn't want someone to miss out on that!"
-    n 4fchbg ""
+    n 4fchbg "¡No quisiera que alguien se perdiera eso!"
 
 # game/script-topics.rpy:5559
 translate spanish talk_fried_squid_fdde1505:
 
     # n 2klrssl "E-{w=0.1}especially not you.{w=0.2} Ehehe..."
-    n 2klrssl ""
+    n 2klrssl "E-{w=0.1}Especialmente tú no. {w=0.2}Jejeje..."
 
 # game/script-topics.rpy:5562
 translate spanish talk_fried_squid_db822693:
 
     # n 1uchbg "But yeah {w=0.1}-{w=0.1} you should really try it out if you haven't already,{w=0.1} [player]!"
-    n 1uchbg ""
+    n 1uchbg "¡Pero sí {w=0.1}-{w=0.1} realmente deberías probarlo si aún no lo has hecho, {w=0.1}[player]!"
 
 # game/script-topics.rpy:5563
 translate spanish talk_fried_squid_8bc0924a:
 
     # n 4fchbg "I wouldn't want someone to miss out on that!{w=0.2} Ahaha."
-    n 4fchbg ""
+    n 4fchbg "¡No quisiera que alguien se perdiera eso! {w=0.2}Ajaja."
 
 # game/script-topics.rpy:5584
 translate spanish talk_collectibles_7c8b7c10:
 
     # n 4unmpueqm "Collectibles?{w=0.2} You mean like figurines and plushies and such?"
-    n 4unmpueqm ""
+    n 4unmpueqm "¿Coleccionables? {w=0.2}¿Te refieres a figuras y peluches y cosas así?"
 
 # game/script-topics.rpy:5585
 translate spanish talk_collectibles_817bd03c:
 
     # n 4flrpu "Mmm...{w=0.3} not really.{w=0.2} Collecting is an expensive hobby,{w=0.1} [player]!"
-    n 4flrpu ""
+    n 4flrpu "Mmm... {w=0.3}no realmente. {w=0.2}¡Coleccionar es un hobby caro, {w=0.1}[player]!"
 
 # game/script-topics.rpy:5586
 translate spanish talk_collectibles_1d8446bb:
 
     # n 3klrpo "I mean,{w=0.1} it all depends on exactly what you collect,{w=0.1} but it feels like places that sell them prey on that."
-    n 3klrpo ""
+    n 3klrpo "Digo, {w=0.1}depende de qué coleccionas exactamente, {w=0.1}pero parece que los lugares que los venden se aprovechan de eso."
 
 # game/script-topics.rpy:5587
 translate spanish talk_collectibles_83e04db1:
