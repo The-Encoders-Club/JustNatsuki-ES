@@ -20008,985 +20008,985 @@ translate spanish talk_skateboarding_21b94023:
 translate spanish talk_skateboarding_fa033684:
 
     # n 4uwdajesu "Oh!{w=0.5}{nw}"
-    n 4uwdajesu ""
+    n 4uwdajesu "¡Oh! {w=0.5}{nw}"
 
 # game/script-topics.rpy:6310
 translate spanish talk_skateboarding_7ed90210:
 
     # extend 1fsqbs " But you know what {i}totally{/i} was,{w=0.2} [player]?{w=1}{nw}"
-    extend 1fsqbs ""
+    extend 1fsqbs "Pero ¿sabes qué fue {i}totalmente{/i}, {w=0.2}[player]? {w=1}{nw}"
 
 # game/script-topics.rpy:6311
 translate spanish talk_skateboarding_79fb09ef:
 
     # extend 3fllbgsbl " Radical,{w=0.2} I mean."
-    extend 3fllbgsbl ""
+    extend 3fllbgsbl "Radical, {w=0.2}quiero decir."
 
 # game/script-topics.rpy:6312
 translate spanish talk_skateboarding_3609e101:
 
     # n 1uchgn "...My favorite skateboarding outfit,{w=0.2} of course!"
-    n 1uchgn ""
+    n 1uchgn "... ¡Mi atuendo favorito para patinar, {w=0.2}por supuesto!"
 
 # game/script-topics.rpy:6313
 translate spanish talk_skateboarding_b038b7c9:
 
     # n 3tllss "In fact,{w=0.75}{nw}"
-    n 3tllss ""
+    n 3tllss "De hecho, {w=0.75}{nw}"
 
 # game/script-topics.rpy:6314
 translate spanish talk_skateboarding_6d75ffec:
 
     # extend 1fchbg " I probably still have it around here somewhere too!{w=0.75}{nw}"
-    extend 1fchbg ""
+    extend 1fchbg "¡probablemente todavía lo tenga por aquí en algún lado! {w=0.75}{nw}"
 
 # game/script-topics.rpy:6315
 translate spanish talk_skateboarding_5b93b0c1:
 
     # extend 1ullaj " I usually brought it around with me anyways."
-    extend 1ullaj ""
+    extend 1ullaj "Normalmente lo llevaba conmigo de todas formas."
 
 # game/script-topics.rpy:6316
 translate spanish talk_skateboarding_ab6956aa:
 
     # n 3fcsajsbl "O-{w=0.2}only for going back and forth from school though!{w=0.75}{nw}"
-    n 3fcsajsbl ""
+    n 3fcsajsbl "¡S-{w=0.2}Solo para ir y venir de la escuela! {w=0.75}{nw}"
 
 # game/script-topics.rpy:6317
 translate spanish talk_skateboarding_24bcab66:
 
     # extend 3nslsssbl " It isn't exactly following the dress code..."
-    extend 3nslsssbl ""
+    extend 3nslsssbl "No sigue exactamente el código de vestimenta..."
 
 # game/script-topics.rpy:6318
 translate spanish talk_skateboarding_c36d7456:
 
     # n 1nslbosbl "But...{w=0.75}{nw}"
-    n 1nslbosbl ""
+    n 1nslbosbl "Pero... {w=0.75}{nw}"
 
 # game/script-topics.rpy:6319
 translate spanish talk_skateboarding_c4fb76d2:
 
     # extend 1tsqem " I wasn't exactly gonna make my uniform all sweaty for rest of the day either."
-    extend 1tsqem ""
+    extend 1tsqem "Tampoco iba a dejar mi uniforme todo sudado el resto del día."
 
 # game/script-topics.rpy:6320
 translate spanish talk_skateboarding_941aa3f7:
 
     # n 2fsrpu "...Ew."
-    n 2fsrpu ""
+    n 2fsrpu "... Ew."
 
 # game/script-topics.rpy:6321
 translate spanish talk_skateboarding_6ef1e74c:
 
     # n 1ulrpu "Well,{w=0.2} anyway.{w=1}{nw}"
-    n 1ulrpu ""
+    n 1ulrpu "Bueno, {w=0.2}de todas formas. {w=1}{nw}"
 
 # game/script-topics.rpy:6322
 translate spanish talk_skateboarding_d699f01b:
 
     # extend 1unmaj " I'm not gonna go look for it now though,{w=0.75}{nw}"
-    extend 1unmaj ""
+    extend 1unmaj "Aunque no voy a buscarlo ahora, {w=0.75}{nw}"
 
 # game/script-topics.rpy:6323
 translate spanish talk_skateboarding_9a740896:
 
     # extend 1nnmpu " but I think we can both agree."
-    extend 1nnmpu ""
+    extend 1nnmpu "pero creo que ambos podemos estar de acuerdo."
 
 # game/script-topics.rpy:6324
 translate spanish talk_skateboarding_7e8544ca:
 
     # n 3fcsss "If you're gonna skateboard..."
-    n 3fcsss ""
+    n 3fcsss "Si vas a patinar..."
 
 # game/script-topics.rpy:6325
 translate spanish talk_skateboarding_3a1371c2:
 
     # n 3uchgn "You gotta follow {w=0.2}{i}all{/i}{w=0.2} the rules of cool!{w=0.75}{nw}"
-    n 3uchgn ""
+    n 3uchgn "¡Tienes que seguir {w=0.2}{i}todas{/i}{w=0.2} las reglas de lo genial! {w=0.75}{nw}"
 
 # game/script-topics.rpy:6326
 translate spanish talk_skateboarding_12f199de:
 
     # extend 1fchsmeme " Ehehe."
-    extend 1fchsmeme ""
+    extend 1fchsmeme "Jejeje."
 
 # game/script-topics.rpy:6331
 translate spanish talk_skateboarding_b5e97e4d:
 
     # n 2ullpo "But...{w=0.5} enough of that for now.{w=0.5}{nw}"
-    n 2ullpo ""
+    n 2ullpo "Pero... {w=0.5}suficiente por ahora. {w=0.5}{nw}"
 
 # game/script-topics.rpy:6332
 translate spanish talk_skateboarding_6c00cbbd:
 
     # extend 1fnmsm " Besides,{w=0.2} [player]..."
-    extend 1fnmsm ""
+    extend 1fnmsm "Además, {w=0.2}[player]..."
 
 # game/script-topics.rpy:6333
 translate spanish talk_skateboarding_9d82ecbd:
 
     # n 4fsqss "I can tell when you're getting...{w=0.3} {i}board{/i}."
-    n 4fsqss ""
+    n 4fsqss "Puedo notar cuando te estás... {w=0.3}{i}aburriendo{/i}."
 
 # game/script-topics.rpy:6334
 translate spanish talk_skateboarding_0a96ee4a:
 
     # n 1fchsm "Ehehe.{w=0.5}{nw}"
-    n 1fchsm ""
+    n 1fchsm "Jejeje. {w=0.5}{nw}"
 
 # game/script-topics.rpy:6335
 translate spanish talk_skateboarding_52fd39d6:
 
     # extend 1uchgn " No regrets,{w=0.2} [player]!"
-    extend 1uchgn ""
+    extend 1uchgn "¡Sin remordimientos, {w=0.2}[player]!"
 
 # game/script-topics.rpy:6356
 translate spanish talk_sports_4ba203aa:
 
     # n 4unmaj "Huh?{w=0.2} Sports?"
-    n 4unmaj ""
+    n 4unmaj "¿Eh? {w=0.2}¿Deportes?"
 
 # game/script-topics.rpy:6357
 translate spanish talk_sports_6f17c3bd:
 
     # n 1fllss "I...{w=0.3} don't like to have to break it to you,{w=0.1} [player]..."
-    n 1fllss ""
+    n 1fllss "Yo... {w=0.3}no me gusta tener que decírtelo, {w=0.1}[player]..."
 
 # game/script-topics.rpy:6358
 translate spanish talk_sports_3af3d000:
 
     # n 3fchgn "But what kind of sports do you think I can play in a single room?{w=0.2} By myself?{w=0.2} With no gear?"
-    n 3fchgn ""
+    n 3fchgn "¿Pero qué tipo de deportes crees que puedo practicar en una sola habitación? {w=0.2}¿Sola? {w=0.2}¿Sin equipo?"
 
 # game/script-topics.rpy:6359
 translate spanish talk_sports_871300df:
 
     # n 1kllbg "Jeez...{w=0.5}{nw}"
-    n 1kllbg ""
+    n 1kllbg "Cielos... {w=0.5}{nw}"
 
 # game/script-topics.rpy:6360
 translate spanish talk_sports_801746d0:
 
     # extend 1tnmss " you're such a dope sometimes,{w=0.1} [player]."
-    extend 1tnmss ""
+    extend 1tnmss "a veces eres tan tonto, {w=0.1}[player]."
 
 # game/script-topics.rpy:6361
 translate spanish talk_sports_5b2de70f:
 
     # n 1ullbg "Well,{w=0.1} anyway."
-    n 1ullbg ""
+    n 1ullbg "Bueno, {w=0.1}de todas formas."
 
 # game/script-topics.rpy:6364
 translate spanish talk_sports_eaf279b7:
 
     # n 1unmpu "Eh?{w=0.2} Sports?"
-    n 1unmpu ""
+    n 1unmpu "¿Eh? {w=0.2}¿Deportes?"
 
 # game/script-topics.rpy:6365
 translate spanish talk_sports_66c12f6a:
 
     # n 3tnmdv "You...{w=0.3} do know it's kinda hard to stay active in a single room,{w=0.1} right?"
-    n 3tnmdv ""
+    n 3tnmdv "Tú... {w=0.3}sabes que es un poco difícil mantenerse activa en una sola habitación, {w=0.1}¿verdad?"
 
 # game/script-topics.rpy:6366
 translate spanish talk_sports_50c3a7cd:
 
     # n 1fcsss "Ehehe.{w=0.5}{nw}"
-    n 1fcsss ""
+    n 1fcsss "Jejeje. {w=0.5}{nw}"
 
 # game/script-topics.rpy:6367
 translate spanish talk_sports_e5de8194:
 
     # extend 1ullss " Well,{w=0.1} anyway."
-    extend 1ullss ""
+    extend 1ullss "Bueno, {w=0.1}de todas formas."
 
 # game/script-topics.rpy:6370
 translate spanish talk_sports_f1ff8d3a:
 
     # n 1nsqpu "Yeah,{w=0.1} no.{w=0.5}{nw}"
-    n 1nsqpu ""
+    n 1nsqpu "Sí, {w=0.1}no. {w=0.5}{nw}"
 
 # game/script-topics.rpy:6371
 translate spanish talk_sports_95a8c3f3:
 
     # extend 2fsqsl " I don't {i}now{/i},{w=0.1} if that's what you're asking."
-    extend 2fsqsl ""
+    extend 2fsqsl "No {i}ahora{/i}, {w=0.1}si es lo que preguntas."
 
 # game/script-topics.rpy:6372
 translate spanish talk_sports_baef16de:
 
     # n 1fllpu "..."
-    n 1fllpu ""
+    n 1fllpu "..."
 
 # game/script-topics.rpy:6373
 translate spanish talk_sports_38739138:
 
     # n 1fsqan "...And no,{w=0.2} we didn't wear the sort of uniforms I bet {i}you're{/i} thinking of."
-    n 1fsqan ""
+    n 1fsqan "... Y no, {w=0.2}no usábamos el tipo de uniformes que apuesto {i}estás{/i} pensando."
 
 # game/script-topics.rpy:6374
 translate spanish talk_sports_a173515b:
 
     # n 1fsqsr "Does that answer your question?{w=0.5}{nw}"
-    n 1fsqsr ""
+    n 1fsqsr "¿Eso responde tu pregunta? {w=0.5}{nw}"
 
 # game/script-topics.rpy:6375
 translate spanish talk_sports_11a16402:
 
     # extend 2fslbo " Whatever."
-    extend 2fslbo ""
+    extend 2fslbo "Lo que sea."
 
 # game/script-topics.rpy:6376
 translate spanish talk_sports_ffcd7bfd:
 
     # n 1fcsbo "Moving on."
-    n 1fcsbo ""
+    n 1fcsbo "Continuemos."
 
 # game/script-topics.rpy:6380
 translate spanish talk_sports_220a74db:
 
     # n 1fsqan "I don't {i}now{/i},{w=0.1} if you {i}somehow{/i} hadn't already noticed."
-    n 1fsqan ""
+    n 1fsqan "No {i}ahora{/i}, {w=0.1}si de alguna manera no te habías dado cuenta."
 
 # game/script-topics.rpy:6381
 translate spanish talk_sports_fb8591da:
 
     # n 1fslsl "..."
-    n 1fslsl ""
+    n 1fslsl "..."
 
 # game/script-topics.rpy:6382
 translate spanish talk_sports_c2b82263:
 
     # n 1fsqpu "..."
-    n 1fsqpu ""
+    n 1fsqpu "..."
 
 # game/script-topics.rpy:6383
 translate spanish talk_sports_063e7421:
 
     # n 2fcsemtsa "...Do I even want to know why you asked?"
-    n 2fcsemtsa ""
+    n 2fcsemtsa "... ¿Siquiera quiero saber por qué preguntaste?"
 
 # game/script-topics.rpy:6384
 translate spanish talk_sports_18c91921:
 
     # n 2fcsanltsd "...No.{w=0.75} I {i}don't{/i}."
-    n 2fcsanltsd ""
+    n 2fcsanltsd "... No. {w=0.75}No {i}quiero{/i}."
 
 # game/script-topics.rpy:6387
 translate spanish talk_sports_3c2dd587:
 
     # n 1nnmaj "I try to keep up how I can.{w=0.2} I can't do laps or anything,{w=0.5}{nw}"
-    n 1nnmaj ""
+    n 1nnmaj "Intento mantenerme en forma tanto como puedo. {w=0.2}No puedo hacer vueltas ni nada, {w=0.5}{nw}"
 
 # game/script-topics.rpy:6388
 translate spanish talk_sports_d336d3f0:
 
     # extend 3fcsbg " but I can easily get some stretches and jumping jacks in!"
-    extend 3fcsbg ""
+    extend 3fcsbg "¡pero fácilmente puedo hacer algunos estiramientos y saltos!"
 
 # game/script-topics.rpy:6389
 translate spanish talk_sports_f690be0c:
 
     # n 1ullpu "Of course school was always a lot more varied with activities,{w=0.2} but...{w=0.5}{nw}"
-    n 1ullpu ""
+    n 1ullpu "Claro que la escuela siempre fue más variada con actividades, {w=0.2}pero... {w=0.5}{nw}"
 
 # game/script-topics.rpy:6390
 translate spanish talk_sports_48c5b97d:
 
     # n 4tllsr "I always kinda struggled to keep up,{w=0.2} I guess."
-    n 4tllsr ""
+    n 4tllsr "Siempre tuve problemas para mantenerme en forma, {w=0.2}supongo."
 
 # game/script-topics.rpy:6391
 translate spanish talk_sports_5e439235:
 
     # n 2nslsssbr "...Maybe I just don't have much stamina."
-    n 2nslsssbr ""
+    n 2nslsssbr "... Quizás simplemente no tengo mucha resistencia."
 
 # game/script-topics.rpy:6396
 translate spanish talk_sports_022d2d08:
 
     # n 2nslpo "Probably didn't help myself saving for that skateboard..."
-    n 2nslpo ""
+    n 2nslpo "Probablemente no me ayudó ahorrar para esa patineta..."
 
 # game/script-topics.rpy:6398
 translate spanish talk_sports_cb932ac0:
 
     # n 1ullaj "Well,{w=0.1} whatever.{w=0.5}{nw}"
-    n 1ullaj ""
+    n 1ullaj "Bueno, {w=0.1}lo que sea. {w=0.5}{nw}"
 
 # game/script-topics.rpy:6399
 translate spanish talk_sports_b5c78b6b:
 
     # extend 1nnmbo " I wasn't {i}really{/i} that into sports anyway."
-    extend 1nnmbo ""
+    extend 1nnmbo "De todas formas, no estaba {i}realmente{/i} tan metida en los deportes."
 
 # game/script-topics.rpy:6400
 translate spanish talk_sports_727f845f:
 
     # n 1nlrca "..."
-    n 1nlrca ""
+    n 1nlrca "..."
 
 # game/script-topics.rpy:6401
 translate spanish talk_sports_49bee730:
 
     # n 4unmbs "Oh!{w=0.2} Oh!{w=0.2} But you know who was?{w=0.5}{nw}"
-    n 4unmbs ""
+    n 4unmbs "¡Oh! {w=0.2}¡Oh! {w=0.2}¿Pero sabes quién sí lo estaba? {w=0.5}{nw}"
 
 # game/script-topics.rpy:6402
 translate spanish talk_sports_89f28431:
 
     # extend 4fsqbg " I bet you do,{w=0.1} huh?{w=0.5}{nw}"
-    extend 4fsqbg ""
+    extend 4fsqbg "Apuesto que sí, {w=0.1}¿eh? {w=0.5}{nw}"
 
 # game/script-topics.rpy:6403
 translate spanish talk_sports_a3979d84:
 
     # extend 4fcssm " Ehehe."
-    extend 4fcssm ""
+    extend 4fcssm "Jejeje."
 
 # game/script-topics.rpy:6404
 translate spanish talk_sports_6f9e31ff:
 
     # n 1tsqss "And that's...{w=0.5}{nw}"
-    n 1tsqss ""
+    n 1tsqss "Y esa es... {w=0.5}{nw}"
 
 # game/script-topics.rpy:6405
 translate spanish talk_sports_9750df86:
 
     # extend 3fchgn " ...{w=0.3}Sayori,{w=0.1} duh!"
-    extend 3fchgn ""
+    extend 3fchgn "... {w=0.3}¡Sayori, por supuesto!"
 
 # game/script-topics.rpy:6406
 translate spanish talk_sports_01ac4d8c:
 
     # n 1uskgs "I mean,{w=0.1} really!{w=0.2} You should have seen her!{w=0.5}{nw}"
-    n 1uskgs ""
+    n 1uskgs "¡En serio! {w=0.2}¡Deberías haberla visto! {w=0.5}{nw}"
 
 # game/script-topics.rpy:6407
 translate spanish talk_sports_45557485:
 
     # extend 1fnmca " She was a {i}menace{/i}!"
-    extend 1fnmca ""
+    extend 1fnmca "¡Era una {i}amenaza{/i}!"
 
 # game/script-topics.rpy:6408
 translate spanish talk_sports_6c7f7bf8:
 
     # n 4uskaj "...Seriously!{w=0.5}{nw}"
-    n 4uskaj ""
+    n 4uskaj "... ¡En serio! {w=0.5}{nw}"
 
 # game/script-topics.rpy:6409
 translate spanish talk_sports_ec311889:
 
     # extend 3fnmpo " You don't believe me?"
-    extend 3fnmpo ""
+    extend 3fnmpo "¿No me crees?"
 
 # game/script-topics.rpy:6410
 translate spanish talk_sports_e8ab6832:
 
     # n 3fspgs "She was so fast!{w=0.2} Just a flash of orange fluff and messy gym clothes...{w=0.5}{nw}"
-    n 3fspgs ""
+    n 3fspgs "¡Era tan rápida! {w=0.2}Solo un destello de pelusa naranja y ropa deportiva desordenada... {w=0.5}{nw}"
 
 # game/script-topics.rpy:6411
 translate spanish talk_sports_3f758299:
 
     # extend 1fbkwr " and then boom!{w=0.2} Tackled!"
-    extend 1fbkwr ""
+    extend 1fbkwr "¡y entonces bum! {w=0.2}¡Derribada!"
 
 # game/script-topics.rpy:6412
 translate spanish talk_sports_a8e3cd3a:
 
     # n 3fllpol "And off she'd skip,{w=0.1} merrily into the sunset..."
-    n 3fllpol ""
+    n 3fllpol "Y se iba saltando, {w=0.1}feliz hacia el atardecer..."
 
 # game/script-topics.rpy:6413
 translate spanish talk_sports_c61299cb:
 
     # n 1tsqaj "...Yeah.{w=0.2} If Sayori was on your side?{w=0.5}{nw}"
-    n 1tsqaj ""
+    n 1tsqaj "... Sí. {w=0.2}¿Si Sayori estaba de tu lado? {w=0.5}{nw}"
 
 # game/script-topics.rpy:6414
 translate spanish talk_sports_3450b795:
 
     # extend 1fllbg " You {i}knew{/i} your team wasn't going to be packing everything away in defeat."
-    extend 1fllbg ""
+    extend 1fllbg "Sabías {i}bien{/i} que tu equipo no iba a empacar todo en derrota."
 
 # game/script-topics.rpy:6415
 translate spanish talk_sports_c719a653:
 
     # n 1ullaj "I mean,{w=0.3}{nw}"
-    n 1ullaj ""
+    n 1ullaj "Quiero decir, {w=0.3}{nw}"
 
 # game/script-topics.rpy:6416
 translate spanish talk_sports_cc4206f3:
 
     # extend 1nnmbo " Monika was always pretty good at sports too,{w=0.1} obviously.{w=0.5}{nw}"
-    extend 1nnmbo ""
+    extend 1nnmbo "Monika siempre fue bastante buena en deportes también, {w=0.1}obviamente. {w=0.5}{nw}"
 
 # game/script-topics.rpy:6417
 translate spanish talk_sports_ee7dd212:
 
     # extend 3nsgca " But {i}nobody{/i} outran Sayori,{w=0.1} [player].{w=0.2}"
-    extend 3nsgca ""
+    extend 3nsgca "Pero {i}nadie{/i} superaba a Sayori, {w=0.1}[player]."
 
 # game/script-topics.rpy:6418
 translate spanish talk_sports_d4b55a75:
 
     # n 1nsqun " N{w=0.1}-{w=0.1}o{w=0.1}-{w=0.1}b{w=0.1}-{w=0.1}o{w=0.1}-{w=0.1}d{w=0.1}-{w=0.1}y."
-    n 1nsqun ""
+    n 1nsqun "N-{w=0.1}a-{w=0.1}d-{w=0.1}i-{w=0.1}e."
 
 # game/script-topics.rpy:6419
 translate spanish talk_sports_57b86539:
 
     # n 4fchbg "...When she remembered to tie her laces anyway.{w=0.5}{nw}"
-    n 4fchbg ""
+    n 4fchbg "... Cuando se acordaba de atar sus cordones. {w=0.5}{nw}"
 
 # game/script-topics.rpy:6420
 translate spanish talk_sports_f377d87a:
 
     # extend 4fchsm " Ehehe."
-    extend 4fchsm ""
+    extend 4fchsm "Jejeje."
 
 # game/script-topics.rpy:6440
 translate spanish talk_online_shopping_b5b81c01:
 
     # n 1ullaj "You know,{w=0.1} it's kinda crazy how common online shopping is nowadays."
-    n 1ullaj ""
+    n 1ullaj "Sabes, {w=0.1}es un poco loco lo común que es comprar en línea hoy en día."
 
 # game/script-topics.rpy:6441
 translate spanish talk_online_shopping_af76a05a:
 
     # n 4uwdaj "I mean,{w=0.1} don't get me wrong!{w=0.5}{nw}"
-    n 4uwdaj ""
+    n 4uwdaj "Quiero decir, {w=0.1}¡no me malinterpretes! {w=0.5}{nw}"
 
 # game/script-topics.rpy:6442
 translate spanish talk_online_shopping_85b2b466:
 
     # extend 1fcsbg " It's super convenient!{w=0.2} You don't even need to leave your house!"
-    extend 1fcsbg ""
+    extend 1fcsbg "¡Es súper conveniente! {w=0.2}¡Ni siquiera necesitas salir de casa!"
 
 # game/script-topics.rpy:6443
 translate spanish talk_online_shopping_9b0efbe0:
 
     # n 3fllpo "So don't think I'm just complaining,{w=0.1} or anything like that.{w=0.5}{nw}"
-    n 3fllpo ""
+    n 3fllpo "Así que no creas que solo me quejo, {w=0.1}o algo así. {w=0.5}{nw}"
 
 # game/script-topics.rpy:6444
 translate spanish talk_online_shopping_1ad6e7c1:
 
     # extend 1ullpu " But..."
-    extend 1ullpu ""
+    extend 1ullpu "Pero..."
 
 # game/script-topics.rpy:6447
 translate spanish talk_online_shopping_c8d70188:
 
     # n 1nllsl "It's funny how common online shopping is nowadays."
-    n 1nllsl ""
+    n 1nllsl "Es curioso lo común que es comprar en línea hoy en día."
 
 # game/script-topics.rpy:6448
 translate spanish talk_online_shopping_9c18fce0:
 
     # n 1nlrsl "I guess I'm not really complaining though.{w=0.5}{nw}"
-    n 1nlrsl ""
+    n 1nlrsl "Aunque supongo que no me estoy quejando realmente. {w=0.5}{nw}"
 
 # game/script-topics.rpy:6449
 translate spanish talk_online_shopping_2f9ee673:
 
     # extend 1nlrpu " It {i}is{/i} pretty convenient."
-    extend 1nlrpu ""
+    extend 1nlrpu "Sí es bastante conveniente."
 
 # game/script-topics.rpy:6450
 translate spanish talk_online_shopping_17805602:
 
     # n 2ulrpu "But...{w=0.5}{nw}"
-    n 2ulrpu ""
+    n 2ulrpu "Pero... {w=0.5}{nw}"
 
 # game/script-topics.rpy:6451
 translate spanish talk_online_shopping_6628c411:
 
     # extend 1nnmsf " I still think it's a shame how people miss out on an actual experience."
-    extend 1nnmsf ""
+    extend 1nnmsf "Sigo pensando que es una lástima cómo la gente se pierde una experiencia real."
 
 # game/script-topics.rpy:6452
 translate spanish talk_online_shopping_acf828db:
 
     # n 2fllsl "I'd never pass up on an afternoon just flicking through books at my favorite bookstore."
-    n 2fllsl ""
+    n 2fllsl "Nunca rechazaría una tarde hojeando libros en mi librería favorita."
 
 # game/script-topics.rpy:6453
 translate spanish talk_online_shopping_9858b87a:
 
     # n 1fcssf "...Which is somewhere I'd {i}much{/i} rather be.{w=0.5}{nw}"
-    n 1fcssf ""
+    n 1fcssf "... Que es un lugar donde {i}preferiría{/i} estar. {w=0.5}{nw}"
 
 # game/script-topics.rpy:6454
 translate spanish talk_online_shopping_6eeecff7:
 
     # extend 4fsqan " {i}Shockingly{/i}."
-    extend 4fsqan ""
+    extend 4fsqan "{i}Sorprendentemente{/i}."
 
 # game/script-topics.rpy:6457
 translate spanish talk_online_shopping_804cf191:
 
     # n 1fllbg "I don't think it's the be-all and end-all,{w=0.1} you know."
-    n 1fllbg ""
+    n 1fllbg "No creo que sea lo máximo, {w=0.1}sabes."
 
 # game/script-topics.rpy:6458
 translate spanish talk_online_shopping_aeda46a6:
 
     # n 4unmaj "I mean...{w=0.3} think about it,{w=0.1} [player]."
-    n 4unmaj ""
+    n 4unmaj "Quiero decir... {w=0.3}píensalo, {w=0.1}[player]."
 
 # game/script-topics.rpy:6459
 translate spanish talk_online_shopping_0b107ba1:
 
     # n 3fllaj "I guess it's cheaper if you don't have to think about getting somewhere,{w=0.1} or parking or whatever."
-    n 3fllaj ""
+    n 3fllaj "Supongo que es más barato si no tienes que pensar en llegar a algún lugar, {w=0.1}o estacionar o lo que sea."
 
 # game/script-topics.rpy:6460
 translate spanish talk_online_shopping_33fc4431:
 
     # n 1knmpu "But wouldn't you like to {i}see{/i} what you're paying for?{w=0.5}{nw}"
-    n 1knmpu ""
+    n 1knmpu "¿Pero no te gustaría {i}ver{/i} lo que estás pagando? {w=0.5}{nw}"
 
 # game/script-topics.rpy:6461
 translate spanish talk_online_shopping_2314adf0:
 
     # extend 1fnmaj " Especially if it's super expensive!"
-    extend 1fnmaj ""
+    extend 1fnmaj "¡Especialmente si es súper caro!"
 
 # game/script-topics.rpy:6462
 translate spanish talk_online_shopping_526fddb6:
 
     # n 1fllpu "Or sometimes...{w=0.5}{nw}"
-    n 1fllpu ""
+    n 1fllpu "O a veces... {w=0.5}{nw}"
 
 # game/script-topics.rpy:6463
 translate spanish talk_online_shopping_37222ccd:
 
     # extend 3fslbo " even if it isn't!"
-    extend 3fslbo ""
+    extend 3fslbo "¡incluso si no lo es!"
 
 # game/script-topics.rpy:6464
 translate spanish talk_online_shopping_ddb439d1:
 
     # n 3fllpo "I can't be the only one that's been burned by something that turned out to be junk,{w=0.1} or broken,{w=0.1} right?"
-    n 3fllpo ""
+    n 3fllpo "No puedo ser la única que ha sido estafada con algo que resultó ser basura, {w=0.1}o roto, {w=0.1}¿verdad?"
 
 # game/script-topics.rpy:6465
 translate spanish talk_online_shopping_6138bb34:
 
     # n 1fnmem "And you don't even know it would be like that until it's on your doorstep!{w=0.5}{nw}"
-    n 1fnmem ""
+    n 1fnmem "¡Y ni siquiera sabes que será así hasta que está en tu puerta! {w=0.5}{nw}"
 
 # game/script-topics.rpy:6466
 translate spanish talk_online_shopping_f9f95c90:
 
     # extend 1fcsan " Then you gotta send it back!{w=0.5}{nw}"
-    extend 1fcsan ""
+    extend 1fcsan "¡Luego tienes que devolverlo! {w=0.5}{nw}"
 
 # game/script-topics.rpy:6467
 translate spanish talk_online_shopping_bfb923a7:
 
     # extend 2fslem " Ugh."
-    extend 2fslem ""
+    extend 2fslem "Ugh."
 
 # game/script-topics.rpy:6471
 translate spanish talk_online_shopping_5a0bf423:
 
     # n 1fllsl "Not only that..."
-    n 1fllsl ""
+    n 1fllsl "No solo eso..."
 
 # game/script-topics.rpy:6472
 translate spanish talk_online_shopping_87d5f431:
 
     # n 1fnmpu "I think I mentioned before how shops make it really easy to spend money...{w=0.5}{nw}"
-    n 1fnmpu ""
+    n 1fnmpu "Creo que mencioné antes cómo las tiendas hacen que sea muy fácil gastar dinero... {w=0.5}{nw}"
 
 # game/script-topics.rpy:6473
 translate spanish talk_online_shopping_e664f7db:
 
     # extend 4fbkwr " but that's even easier online!{w=0.5}{nw}"
-    extend 4fbkwr ""
+    extend 4fbkwr "¡pero eso es aún más fácil en línea! {w=0.5}{nw}"
 
 # game/script-topics.rpy:6474
 translate spanish talk_online_shopping_1d9d7371:
 
     # extend 4kbkgs " It doesn't even {i}feel{/i} like spending money properly!"
-    extend 4kbkgs ""
+    extend 4kbkgs "¡Ni siquiera {i}se siente{/i} como gastar dinero correctamente!"
 
 # game/script-topics.rpy:6475
 translate spanish talk_online_shopping_8d2c328e:
 
     # n 1fcsan "Sheesh."
-    n 1fcsan ""
+    n 1fcsan "Cielos."
 
 # game/script-topics.rpy:6477
 translate spanish talk_online_shopping_ee3fd973:
 
     # n 1fcsem "That aside..."
-    n 1fcsem ""
+    n 1fcsem "Aparte de eso..."
 
 # game/script-topics.rpy:6478
 translate spanish talk_online_shopping_f70f8aac:
 
     # n 2kllsl "It...{w=0.3} also made me kinda sad seeing all the closed stores when I went out,{w=0.1} too."
-    n 2kllsl ""
+    n 2kllsl "También... {w=0.3}me entristeció un poco ver todas las tiendas cerradas cuando salía."
 
 # game/script-topics.rpy:6479
 translate spanish talk_online_shopping_7a36d49e:
 
     # n 1tnmsl "I suppose you could say that's just business,{w=0.1} and they lost out."
-    n 1tnmsl ""
+    n 1tnmsl "Supongo que podrías decir que es solo negocio, {w=0.1}y que perdieron."
 
 # game/script-topics.rpy:6480
 translate spanish talk_online_shopping_258371aa:
 
     # n 4flrsll "But that doesn't mean I {i}didn't{/i} miss some of them."
-    n 4flrsll ""
+    n 4flrsll "Pero eso no significa que {i}no{/i} extrañara algunas."
 
 # game/script-topics.rpy:6481
 translate spanish talk_online_shopping_91998594:
 
     # n 1ncsem "I don't know.{w=0.2} I guess what I'm saying is..."
-    n 1ncsem ""
+    n 1ncsem "No sé. {w=0.2}Supongo que lo que digo es..."
 
 # game/script-topics.rpy:6482
 translate spanish talk_online_shopping_9d5c0bb3:
 
     # n 3fllpo "Don't just instantly write off anything you can't do or buy digitally,{w=0.1} [player]."
-    n 3fllpo ""
+    n 3fllpo "No descartes instantáneamente todo lo que no puedas hacer o comprar digitalmente, {w=0.1}[player]."
 
 # game/script-topics.rpy:6483
 translate spanish talk_online_shopping_7ee93cb5:
 
     # n 1knmaj "There's still merit in getting your stuff physically!"
-    n 1knmaj ""
+    n 1knmaj "¡Aún hay mérito en obtener tus cosas físicamente!"
 
 # game/script-topics.rpy:6484
 translate spanish talk_online_shopping_77627c4e:
 
     # n 4fnmss "And to be completely honest?"
-    n 4fnmss ""
+    n 4fnmss "¿Y para ser completamente honesta?"
 
 # game/script-topics.rpy:6487
 translate spanish talk_online_shopping_0b663331:
 
     # n 1fsqbg "I don't really care how much you protest."
-    n 1fsqbg ""
+    n 1fsqbg "Realmente no me importa cuánto protestes."
 
 # game/script-topics.rpy:6488
 translate spanish talk_online_shopping_4500701c:
 
     # n 3fchgn "We're definitely hitting some {i}real{/i} bookstores eventually {w=0.1}-{w=0.1} whether you like it or not!{w=0.5}{nw}"
-    n 3fchgn ""
+    n 3fchgn "¡Definitivamente iremos a algunas librerías {i}reales{/i} eventualmente! {w=0.1}-{w=0.1}¡Te guste o no! {w=0.5}{nw}"
 
 # game/script-topics.rpy:6489
 translate spanish talk_online_shopping_cdca8253:
 
     # extend 1fchsm " Ehehe."
-    extend 1fchsm ""
+    extend 1fchsm "Jejeje."
 
 # game/script-topics.rpy:6492
 translate spanish talk_online_shopping_fcd74796:
 
     # n 3fchgn "You gotta be kidding if you think I'm letting you miss out on {i}real{/i} bookstores!{w=0.5}{nw}"
-    n 3fchgn ""
+    n 3fchgn "¡Debes estar bromeando si crees que te dejaré perderte librerías {i}reales{/i}! {w=0.5}{nw}"
 
 # game/script-topics.rpy:6493
 translate spanish talk_online_shopping_766de3c3:
 
     # extend 1nchbg " Ahaha."
-    extend 1nchbg ""
+    extend 1nchbg "Jajaja."
 
 # game/script-topics.rpy:6496
 translate spanish talk_online_shopping_04d7ef6b:
 
     # n 3fchbg "If there's one thing I'm gonna teach you eventually,{w=0.1} it's experiencing a {i}real{/i} bookstore!{w=0.5}{nw}"
-    n 3fchbg ""
+    n 3fchbg "¡Si hay algo que te enseñaré eventualmente, es experimentar una librería {i}real{/i}! {w=0.5}{nw}"
 
 # game/script-topics.rpy:6497
 translate spanish talk_online_shopping_a077f26d:
 
     # extend 1fchsm " Ahaha."
-    extend 1fchsm ""
+    extend 1fchsm "Jajaja."
 
 # game/script-topics.rpy:6518
 translate spanish talk_windup_subscriptions_e81a46e7:
 
     # n 1fllan "Grrr..."
-    n 1fllan ""
+    n 1fllan "Grrr..."
 
 # game/script-topics.rpy:6519
 translate spanish talk_windup_subscriptions_0ef0a4a7:
 
     # n 3fcsan "Man,{w=0.1} that's {i}such{/i} a pain!{w=0.5}{nw}"
-    n 3fcsan ""
+    n 3fcsan "Caray, {w=0.1}¡eso fastidia {i}bastante{/i}! {w=0.5}{nw}"
 
 # game/script-topics.rpy:6520
 translate spanish talk_windup_subscriptions_bb2fcb0c:
 
     # extend 1fbkwr " I thought I cancelled thaaat!"
-    extend 1fbkwr ""
+    extend 1fbkwr "¡Pensé que lo había cancelado!"
 
 # game/script-topics.rpy:6521
 translate spanish talk_windup_subscriptions_32d453c7:
 
     # n 3fslpo "..."
-    n 3fslpo ""
+    n 3fslpo "..."
 
 # game/script-topics.rpy:6522
 translate spanish talk_windup_subscriptions_3cb80023:
 
     # n 4uwdemesu "O-{w=0.1}oh!{w=0.2} [player]!{w=0.5}{nw}"
-    n 4uwdemesu ""
+    n 4uwdemesu "¡O-{w=0.1}Oh! {w=0.2}¡[player]! {w=0.5}{nw}"
 
 # game/script-topics.rpy:6523
 translate spanish talk_windup_subscriptions_f0ff6570:
 
     # extend 2flremsbl " Can you {i}believe{/i} this?"
-    extend 2flremsbl ""
+    extend 2flremsbl "¿Puedes {i}creer{/i} esto?"
 
 # game/script-topics.rpy:6524
 translate spanish talk_windup_subscriptions_5a0a21bf:
 
     # n 1fslem "I signed up to some free trial for a streaming website,{w=0.3}{nw}"
-    n 1fslem ""
+    n 1fslem "Me registré en una prueba gratis de un sitio de streaming, {w=0.3}{nw}"
 
 # game/script-topics.rpy:6525
 translate spanish talk_windup_subscriptions_960088aa:
 
     # extend 1fcsup " but I totally forgot about it!{w=0.5}{nw}"
-    extend 1fcsup ""
+    extend 1fcsup "¡pero me olvidé por completo! {w=0.5}{nw}"
 
 # game/script-topics.rpy:6526
 translate spanish talk_windup_subscriptions_a31621a6:
 
     # extend 2flrwr " And now I gotta pay for something I barely even {i}used{/i}!"
-    extend 2flrwr ""
+    extend 2flrwr "¡Y ahora tengo que pagar por algo que apenas {i}usé{/i}!"
 
 # game/script-topics.rpy:6527
 translate spanish talk_windup_subscriptions_fc90326d:
 
     # n 1fcsem "Jeez...{w=0.5}{nw}"
-    n 1fcsem ""
+    n 1fcsem "Cielos... {w=0.5}{nw}"
 
 # game/script-topics.rpy:6528
 translate spanish talk_windup_subscriptions_d6a06d99:
 
     # extend 1tnmem " doesn't that wind you up too?"
-    extend 1tnmem ""
+    extend 1tnmem "¿eso no te molesta también?"
 
 # game/script-topics.rpy:6529
 translate spanish talk_windup_subscriptions_c965ffad:
 
     # n 1tllbo "In fact,{w=0.1} thinking about it..."
-    n 1tllbo ""
+    n 1tllbo "De hecho, {w=0.1}pensándolo bien..."
 
 # game/script-topics.rpy:6530
 translate spanish talk_windup_subscriptions_da71207e:
 
     # n 2fnmbo "Why is so much stuff nowadays all subscription based?"
-    n 2fnmbo ""
+    n 2fnmbo "¿Por qué tantas cosas hoy en día son por suscripción?"
 
 # game/script-topics.rpy:6531
 translate spanish talk_windup_subscriptions_ece276b1:
 
     # n 1fllpu "Like...{w=0.5}{nw}"
-    n 1fllpu ""
+    n 1fllpu "Como... {w=0.5}{nw}"
 
 # game/script-topics.rpy:6532
 translate spanish talk_windup_subscriptions_6ca6f295:
 
     # extend 1nnmaj " I get it if it's like an ongoing thing,{w=0.3}{nw}"
-    extend 1nnmaj ""
+    extend 1nnmaj "Lo entiendo si es algo continuo, {w=0.3}{nw}"
 
 # game/script-topics.rpy:6533
 translate spanish talk_windup_subscriptions_c41ceeb0:
 
     # extend 2flrsl " but what's up with everyone and their {i}dog{/i} trying to sign you up?!"
-    extend 2flrsl ""
+    extend 2flrsl "¡¿pero qué pasa con todos y su {i}perro{/i} tratando de inscribirte?!"
 
 # game/script-topics.rpy:6534
 translate spanish talk_windup_subscriptions_49f3c9f5:
 
     # n 1fsqsl "And half the time you don't even get a choice...{w=0.5}{nw}"
-    n 1fsqsl ""
+    n 1fsqsl "Y la mitad del tiempo ni siquiera tienes opción... {w=0.5}{nw}"
 
 # game/script-topics.rpy:6535
 translate spanish talk_windup_subscriptions_d237970b:
 
     # extend 1fsqem " like with software!"
-    extend 1fsqem ""
+    extend 1fsqem "¡como con el software!"
 
 # game/script-topics.rpy:6536
 translate spanish talk_windup_subscriptions_21f4f312:
 
     # n 1fcsan "I've had to skip out on so many programs because they want me to pay for a whole bunch of crap in a package I don't care about!"
-    n 1fcsan ""
+    n 1fcsan "¡He tenido que prescindir de tantos programas porque quieren que pague por un montón de basura en un paquete que no me importa!"
 
 # game/script-topics.rpy:6537
 translate spanish talk_windup_subscriptions_d000f1e4:
 
     # n 3fllan "Like...{w=0.3} come {i}on{/i}!{w=0.5}{nw}"
-    n 3fllan ""
+    n 3fllan "¡Como... {w=0.3}{i}vamos{/i}! {w=0.5}{nw}"
 
 # game/script-topics.rpy:6538
 translate spanish talk_windup_subscriptions_a96f24e0:
 
     # extend 3fslfrean " Just let me pay for what I need!"
-    extend 3fslfrean ""
+    extend 3fslfrean "¡Solo déjame pagar por lo que necesito!"
 
 # game/script-topics.rpy:6539
 translate spanish talk_windup_subscriptions_efb1f1da:
 
     # n 1kcsemesi "Ugh..."
-    n 1kcsemesi ""
+    n 1kcsemesi "Ugh..."
 
 # game/script-topics.rpy:6540
 translate spanish talk_windup_subscriptions_871e64cc:
 
     # n 1fnmsl "The worst part is that it all adds up too!{w=0.5}{nw}"
-    n 1fnmsl ""
+    n 1fnmsl "¡La peor parte es que todo se acumula! {w=0.5}{nw}"
 
 # game/script-topics.rpy:6541
 translate spanish talk_windup_subscriptions_ba204df3:
 
     # extend 1fllpu " It's super easy to lose track of what you're paying for each month..."
-    extend 1fllpu ""
+    extend 1fllpu "Es súper fácil perder la noción de lo que pagas cada mes..."
 
 # game/script-topics.rpy:6542
 translate spanish talk_windup_subscriptions_c2b1801b:
 
     # n 1fnmpu "And then before you know it,{w=0.3}{nw}"
-    n 1fnmpu ""
+    n 1fnmpu "Y antes de que te des cuenta, {w=0.3}{nw}"
 
 # game/script-topics.rpy:6543
 translate spanish talk_windup_subscriptions_4d6a1523:
 
     # extend 3fbkwr " half your money is down the drain as soon as it comes in!{w=1.25}{nw}"
-    extend 3fbkwr ""
+    extend 3fbkwr "¡la mitad de tu dinero se va por el desagüe tan pronto como llega! {w=1.25}{nw}"
 
 # game/script-topics.rpy:6544
 translate spanish talk_windup_subscriptions_8efeadb7:
 
     # extend 3ncspuesd " What a mess..."
-    extend 3ncspuesd ""
+    extend 3ncspuesd "Qué desastre..."
 
 # game/script-topics.rpy:6545
 translate spanish talk_windup_subscriptions_700f130b:
 
     # n 1ullaj "I mean,{w=0.1} don't get me wrong.{w=0.2} There are {i}other{/i} ways of getting stuff {w=0.1}-{w=0.3}{nw}"
-    n 1ullaj ""
+    n 1ullaj "Quiero decir, {w=0.1}no me malinterpretes. {w=0.2}Hay {i}otras{/i} formas de conseguir cosas {w=0.1}-{w=0.3}{nw} "
 
 # game/script-topics.rpy:6546
 translate spanish talk_windup_subscriptions_af6ee8fb:
 
     # extend 4fsqdv " you probably know that already."
-    extend 4fsqdv ""
+    extend 4fsqdv "probablemente ya lo sabes."
 
 # game/script-topics.rpy:6547
 translate spanish talk_windup_subscriptions_79d6a0ec:
 
     # n 2tlrsl "But I wanna support {i}actual{/i} creators too,{w=0.1} you know?"
-    n 2tlrsl ""
+    n 2tlrsl "Pero también quiero apoyar a creadores {i}reales{/i}, {w=0.1}¿sabes?"
 
 # game/script-topics.rpy:6548
 translate spanish talk_windup_subscriptions_9f314374:
 
     # n 1fcssl "..."
-    n 1fcssl ""
+    n 1fcssl "..."
 
 # game/script-topics.rpy:6549
 translate spanish talk_windup_subscriptions_bc49897c:
 
     # n 3fllpo "Well,{w=0.1} whatever.{w=0.2} At least I won't get charged for {i}that{/i} again.{w=1.25}{nw}"
-    n 3fllpo ""
+    n 3fllpo "Bueno, {w=0.1}lo que sea. {w=0.2}Al menos no me cobrarán por {i}eso{/i} de nuevo. {w=1.25}{nw}"
 
 # game/script-topics.rpy:6550
 translate spanish talk_windup_subscriptions_4550da99:
 
     # extend 3fslpo " Jerks."
-    extend 3fslpo ""
+    extend 3fslpo "Idiotas."
 
 # game/script-topics.rpy:6551
 translate spanish talk_windup_subscriptions_e3ec38f4:
 
     # n 1nllbo "But...{w=0.5}{nw}"
-    n 1nllbo ""
+    n 1nllbo "Pero... {w=0.5}{nw}"
 
 # game/script-topics.rpy:6552
 translate spanish talk_windup_subscriptions_f1329608:
 
     # extend 4unmpu " what about you though,{w=0.1} [player]?{w=0.5}{nw}"
-    extend 4unmpu ""
+    extend 4unmpu "¿y tú, {w=0.1}[player]? {w=0.5}{nw}"
 
 # game/script-topics.rpy:6553
 translate spanish talk_windup_subscriptions_87af30e3:
 
     # extend 4fsqsm " Actually,{w=0.1} I can tell you one thing."
-    extend 4fsqsm ""
+    extend 4fsqsm "En realidad, {w=0.1}puedo decirte una cosa."
 
 # game/script-topics.rpy:6556
 translate spanish talk_windup_subscriptions_321ea9d6:
 
     # n 1fsqssl "A-{w=0.1}at least you have {i}one{/i} subscription you don't have to worry about paying for!"
-    n 1fsqssl ""
+    n 1fsqssl "A-{w=0.1}Al menos tienes {i}una{/i} suscripción por la que no tienes que preocuparte de pagar."
 
 # game/script-topics.rpy:6559
 translate spanish talk_windup_subscriptions_2a3054d5:
 
     # n 1fchsml "Ehehe.{w=0.5}{nw}"
-    n 1fchsml ""
+    n 1fchsml "Jejeje. {w=0.5}{nw}"
 
 # game/script-topics.rpy:6560
 translate spanish talk_windup_subscriptions_5fbbc41c:
 
     # extend 4uchbgf " Love you,{w=0.1} dork!"
-    extend 4uchbgf ""
+    extend 4uchbgf "¡Te amo, {w=0.1}tonto!"
 
 # game/script-topics.rpy:6563
 translate spanish talk_windup_subscriptions_ae7f6419:
 
     # n 2fllbgl "A-{w=0.1}ahaha..."
-    n 2fllbgl ""
+    n 2fllbgl "J-{w=0.1}Jajajaja..."
 
 # game/script-topics.rpy:6566
 translate spanish talk_windup_subscriptions_88afa300:
 
     # n 3fcsbg "You're already subscribed to some pretty pro thinking,{w=0.1} if I say so myself."
-    n 3fcsbg ""
+    n 3fcsbg "Ya estás suscrito a un pensamiento bastante profesional, {w=0.1}si lo digo yo."
 
 # game/script-topics.rpy:6567
 translate spanish talk_windup_subscriptions_f22cf9dc:
 
     # n 1nsqsg "Fortunately for you though,{w=0.1} I don't charge.{w=0.5}{nw}"
-    n 1nsqsg ""
+    n 1nsqsg "Afortunadamente para ti, {w=0.1}yo no cobro. {w=0.5}{nw}"
 
 # game/script-topics.rpy:6568
 translate spanish talk_windup_subscriptions_1727c275:
 
     # extend 4fsqss "...Yet."
-    extend 4fsqss ""
+    extend 4fsqss "... Aún."
 
 # game/script-topics.rpy:6569
 translate spanish talk_windup_subscriptions_bd6be3fd:
 
     # n 1fchsm "Ehehe."
-    n 1fchsm ""
+    n 1fchsm "Jejeje."
 
 # game/script-topics.rpy:6594
 translate spanish talk_mod_contributions_30a7427a:
 
     # n 1unmaj "You know,{w=0.1} [player].{w=0.5}{nw}"
-    n 1unmaj ""
+    n 1unmaj "Sabes, {w=0.1}[player]. {w=0.5}{nw}"
 
 # game/script-topics.rpy:6595
 translate spanish talk_mod_contributions_15f20044:
 
     # extend 1tllss " I gotta say..."
-    extend 1tllss ""
+    extend 1tllss "Tengo que decir..."
 
 # game/script-topics.rpy:6596
 translate spanish talk_mod_contributions_7bcd963d:
