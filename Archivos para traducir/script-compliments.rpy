@@ -358,7 +358,7 @@ translate spanish compliment_beautiful_71753dc3:
 translate spanish compliment_beautiful_05eb4f8c:
 
     # n 4ncsssl "...Heh.{w=1}{nw}"
-    n 4ncsssl "Jeh"
+    n 4ncsssl "Jeh. {w=1}{nw}"
 
 # game/script-compliments.rpy:173
 translate spanish compliment_beautiful_7aa920e0:
@@ -598,7 +598,7 @@ translate spanish compliment_beautiful_995345dd:
 translate spanish compliment_beautiful_066feab3:
 
     # extend 3fsqbll " You goof."
-    extend 3fsqbll "Bobo"
+    extend 3fsqbll "Bobo."
 
 # game/script-compliments.rpy:228
 translate spanish compliment_beautiful_004901a6:
@@ -790,13 +790,13 @@ translate spanish compliment_confident_76ae3e9c:
 translate spanish compliment_confident_cde3c5a7:
 
     # n 4nslssl "E-{w=0.2}especially with you around,"
-    n 4nslssl "E-{w=0.2}Especialmente contigo alrededor,"
+    n 4nslssl "E-{w=0.2}Especialmente contigo alrededor, "
 
 # game/script-compliments.rpy:287
 translate spanish compliment_confident_f8b41db9:
 
     # extend 3fchbll " [chosen_tease]."
-    extend 3fchbll " [chosen_tease]."
+    extend 3fchbll "[chosen_tease]."
 
 # game/script-compliments.rpy:290
 translate spanish compliment_confident_b38ef1f0:
@@ -1312,7 +1312,7 @@ translate spanish compliment_cute_49183e00:
 translate spanish compliment_cute_7bd04925:
 
     # extend 2fchbglsbr " Nope!"
-    extend 2fchbglsbr "¡No!"
+    extend 2fchbglsbr "¡Nop!"
 
 # game/script-compliments.rpy:419
 translate spanish compliment_cute_0c91d209:
@@ -1762,7 +1762,7 @@ translate spanish compliment_style_d6ae618e:
 translate spanish compliment_style_bb06811a:
 
     # n 3ullss "Well,{w=0.5}{nw}"
-    n 3ullss "Bueno,{w=0.5}{nw}"
+    n 3ullss "Bueno, {w=0.5}{nw}"
 
 # game/script-compliments.rpy:589
 translate spanish compliment_style_f87b36bd:
