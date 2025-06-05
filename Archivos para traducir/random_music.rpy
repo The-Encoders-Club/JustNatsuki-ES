@@ -28,19 +28,19 @@ translate spanish random_music_enable_ca434e0e:
 translate spanish random_music_enable_09846e1f:
 
     # extend 3fchbg " Yeah,{w=0.1} I can do that!"
-    extend 3fchbg "¡Sí,{w=0.1} puedo hacer eso!"
+    extend 3fchbg "¡Sí, {w=0.1}puedo hacer eso!"
 
 # game/random_music.rpy:113
 translate spanish random_music_enable_318a3330:
 
     # n 3unmss "I'll change it about every fifteen minutes or so then,{w=0.1} 'kay?"
-    n 3unmss "Lo cambiaré cada 15 minutos más o menos,{w=0.1} ¿Bien?"
+    n 3unmss "Lo cambiaré cada 15 minutos más o menos, {w=0.1}¿okey?"
 
 # game/random_music.rpy:114
 translate spanish random_music_enable_39dca611:
 
     # n 4uwdaj "Oh!{w=0.5}{nw}"
-    n 4uwdaj "¡Oh!{w=0.5}{nw}"
+    n 4uwdaj "¡Oh! {w=0.5}{nw}"
 
 # game/random_music.rpy:115
 translate spanish random_music_enable_0f589f00:
@@ -58,7 +58,7 @@ translate spanish random_music_enable_eceb9cab:
 translate spanish random_music_enable_e5da1b7c:
 
     # n 1uchgn "Okaaay!{w=0.2} I think I've got enough to work with here!{w=0.5}{nw}"
-    n 1uchgn "¡Biieen!{w=0.2} ¡Creo que tengo suficiente con qué trabajar!{w=0.5}{nw}"
+    n 1uchgn "¡Okeeey! {w=0.2}¡Creo que tengo suficiente con qué trabajar! {w=0.5}{nw}"
 
 # game/random_music.rpy:124
 translate spanish random_music_enable_12ac0b74:
@@ -70,7 +70,7 @@ translate spanish random_music_enable_12ac0b74:
 translate spanish random_music_enable_6ed0b654:
 
     # n 2nsqsm "Don't worry,{w=0.1} [player].{w=0.5}{nw}"
-    n 2nsqsm "No te preocupes,{w=0.1} [player].{w=0.5}{nw}"
+    n 2nsqsm "No te preocupes, {w=0.1}[player]. {w=0.5}{nw}"
 
 # game/random_music.rpy:126
 translate spanish random_music_enable_5c345a5f:
@@ -82,7 +82,7 @@ translate spanish random_music_enable_5c345a5f:
 translate spanish random_music_enable_2c4972b9:
 
     # n 1nsqem "Uh...{w=0.5} huh."
-    n 1nsqem "Uh...{w=0.5} huh."
+    n 1nsqem "Uh... {w=0.5}huh."
 
 # game/random_music.rpy:133
 translate spanish random_music_enable_4ee62d42:
@@ -94,7 +94,7 @@ translate spanish random_music_enable_4ee62d42:
 translate spanish random_music_enable_727c9e2f:
 
     # n 2uchbg "Geez...{w=0.3} you're such a dork sometimes,{w=0.1} [player].{w=0.5}{nw}"
-    n 2uchbg "Dios...{w=0.3} Puedes ser un tonto a veces,{w=0.1} [player].{w=0.5}{nw}"
+    n 2uchbg "Caray... {w=0.3}puedes ser un tonto a veces, {w=0.1}[player]. {w=0.5}{nw}"
 
 # game/random_music.rpy:135
 translate spanish random_music_enable_12ac0b74_1:
@@ -106,13 +106,13 @@ translate spanish random_music_enable_12ac0b74_1:
 translate spanish random_music_enable_8fb452d5:
 
     # n 3fwlsm "Turn it back up,{w=0.1} and then we'll talk.{w=0.2} 'Kay?"
-    n 3fwlsm "Vuelve a subir el volúmen,{w=0.1} y luego hablamos.{w=0.2} ¿Bien?"
+    n 3fwlsm "Vuelve a subir el volúmen, {w=0.1}y luego hablamos. {w=0.2}¿okey?"
 
 # game/random_music.rpy:140
 translate spanish random_music_enable_e8ebfe74:
 
     # n 1tllaj "Uhmm...{w=0.3} [player]?{w=0.5}{nw}"
-    n 1tllaj "Umm...{w=0.3} ¿[player]?{w=0.5}{nw}"
+    n 1tllaj "Umm... {w=0.3}¿[player]? {w=0.5}{nw}"
 
 # game/random_music.rpy:141
 translate spanish random_music_enable_3ee95da7:
@@ -124,53 +124,53 @@ translate spanish random_music_enable_3ee95da7:
 translate spanish random_music_enable_c66fa232:
 
     # n 2unmaj "Can you give me at least a couple of tracks?{w=0.5}{nw}"
-    n 2unmaj "¿Puedes darme al menos un par de canciones?{w=0.5}{nw}"
+    n 2unmaj "¿Puedes darme al menos un par de canciones? {w=0.5}{nw}"
 
 # game/random_music.rpy:143
 translate spanish random_music_enable_bfebd061:
 
     # extend 2tnmpo " You {i}do{/i} remember how do to that,{w=0.1} right?"
-    extend 2tnmpo "¿Tú {i}recuerdas{/i} cómo hacer eso,{w=0.1} ¿Cierto?"
+    extend 2tnmpo "¿Tú {i}recuerdas{/i} cómo hacer eso, {w=0.1}¿cierto?"
 
 # game/random_music.rpy:145
 translate spanish random_music_enable_db8332ca:
 
     # n 3uchbg "Just add them to the custom music folder,{w=0.1} [chosen_tease]!"
-    n 3uchbg "¡Sólo agregalos a la carpeta 'custom music',{w=0.1} [chosen_tease]!"
+    n 3uchbg "¡Sólo agregalos a la carpeta 'custom music', {w=0.1}[chosen_tease]!"
 
 # game/random_music.rpy:167
 translate spanish random_music_disable_db4f8394:
 
     # n 1unmaj "Huh?{w=0.2} Wow.{w=0.5}{nw}"
-    n 1unmaj "¿Eh?{w=0.2} Wow.{w=0.5}{nw}"
+    n 1unmaj "¿Eh? {w=0.2}Wow.{w=0.5}{nw}"
 
 # game/random_music.rpy:168
 translate spanish random_music_disable_61e07ede:
 
     # extend 2nsqsf " Are my music choices {i}really{/i} that bad,{w=0.1} [player]?"
-    extend 2nsqsf "¿Son mis gustos musicales {i}tan{/i} malos,{w=0.1} [player]?"
+    extend 2nsqsf "¿Mis gustos musicales son {i}tan{/i} malos, {w=0.1}[player]?"
 
 # game/random_music.rpy:169
 translate spanish random_music_disable_895506cd:
 
     # n 4fsrsm "...Ehehe."
-    n 4fsrsm "...Jejeje."
+    n 4fsrsm "... Jejeje."
 
 # game/random_music.rpy:170
 translate spanish random_music_disable_e253d0be:
 
     # n 1uchbg "I'm just messing with you.{w=0.2} Sure thing!{w=0.5}{nw}"
-    n 1uchbg "Sólo te estoy molestando.{w=0.2} ¡Tranquilo!{w=0.5}{nw}"
+    n 1uchbg "Solo te estoy molestando. {w=0.2}¡Tranquilo! {w=0.5}{nw}"
 
 # game/random_music.rpy:171
 translate spanish random_music_disable_57dc059d:
 
     # extend 2nchsm " I'll just put it back to the regular music."
-    extend 2nchsm "Sólo lo colocaré otra vez en la música normal."
+    extend 2nchsm "Solo volveré a poner la música normal."
 
 # game/random_music.rpy:184
 translate spanish random_music_disable_a7fe8836:
 
     # n 2nwlbg "...And there we go!"
-    n 2nwlbg "...¡Yyyy listo!"
+    n 2nwlbg "... ¡Yyyy listo!"
 
