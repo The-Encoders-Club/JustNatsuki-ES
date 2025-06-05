@@ -3154,7 +3154,7 @@ translate spanish greeting_affectionate_enamored_crawling_back_8d89a54e:
 translate spanish greeting_normal_happy_whats_up_122f18e4:
 
     # n 1uwdajesu "Oh!{w=0.5}{nw}"
-    n 1uwdajesu "¡Oh!{w=0.5}{nw}"
+    n 1uwdajesu "¡Oh! {w=0.5}{nw}"
 
 # game/script-greetings.rpy:1289
 translate spanish greeting_normal_happy_whats_up_22d63685:
@@ -3340,7 +3340,7 @@ translate spanish greeting_normal_happy_wake_up_nat_2561773f:
 translate spanish greeting_normal_happy_wake_up_nat_c1c42e29:
 
     # extend 1kwlemesl " nnnn?"
-    extend 1kwlemesl "nnnn?"
+    extend 1kwlemesl "¿nnnn?"
 
 # game/script-greetings.rpy:1413
 translate spanish greeting_normal_happy_wake_up_nat_bc159f52:
@@ -4546,7 +4546,7 @@ translate spanish greeting_feeling_better_sick_7962d07f:
 translate spanish greeting_feeling_better_sick_f67c6d90:
 
     # extend 4fcsgs " Come {i}on{/i}!"
-    extend 4fcsgs "¡Vamos{/i}!"
+    extend 4fcsgs "¡{i}Vamos{/i}!"
 
 # game/script-greetings.rpy:1990
 translate spanish greeting_feeling_better_sick_8458c40c:
@@ -4570,7 +4570,7 @@ translate spanish greeting_feeling_better_sick_e0b60c23:
 translate spanish greeting_feeling_better_sick_605ee537:
 
     # extend 2ccsemlsbl " Jeez..."
-    extend 2ccsemlsbl "Uf..."
+    extend 2ccsemlsbl "Caray..."
 
 # game/script-greetings.rpy:1996
 translate spanish greeting_feeling_better_sick_65e63c15:
@@ -4810,7 +4810,7 @@ translate spanish greeting_feeling_better_tired_e5358a55:
 translate spanish greeting_feeling_better_tired_232472bb:
 
     # extend 3knmsl " but don't strain yourself,{w=0.2} alright?"
-    extend 3knmsl "pero no te fuerces, {w=0.2}¿vale?"
+    extend 3knmsl "pero no te fuerces, {w=0.2}¿de acuerdo?"
 
 # game/script-greetings.rpy:2082
 translate spanish greeting_feeling_better_tired_6650d13b:
@@ -5164,7 +5164,7 @@ translate spanish greeting_early_morning_why_are_you_here_f372dd05:
 translate spanish greeting_morning_starshine_14285263:
 
     # n 1uchbgl "Good morning,{w=0.2} starshine!"
-    n 1uchbgl "¡Buenos días, {w=0.2}lucero!"
+    n 1uchbgl "¡Buenos días, {w=0.2}estrellita!"
 
 # game/script-greetings.rpy:2243
 translate spanish greeting_morning_starshine_64744f48:
@@ -5200,7 +5200,7 @@ translate spanish greeting_morning_starshine_e221171e:
 translate spanish greeting_morning_starshine_d24ebc16:
 
     # n 1kwmsmf "You really are my starshine though,{w=0.2} [chosen_endearment]."
-    n 1kwmsmf "Pero de verdad eres mi lucero, {w=0.2}[chosen_endearment]."
+    n 1kwmsmf "Pero de verdad eres la estrella que ilumina mi vida, {w=0.2}[chosen_endearment]."
 
 # game/script-greetings.rpy:2250
 translate spanish greeting_morning_starshine_c617acc1:
