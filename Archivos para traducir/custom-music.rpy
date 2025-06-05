@@ -10,7 +10,7 @@ translate spanish music_menu_51c77a72:
 translate spanish music_menu_a07ebb68:
 
     # n 4klrflsbr "Hey...{w=0.75}{nw}"
-    n 4klrflsbr "Hey...{w=0.75}{nw}"
+    n 4klrflsbr "Hey... {w=0.75}{nw}"
 
 # game/custom-music.rpy:126
 translate spanish music_menu_e09d83bc:
@@ -28,7 +28,7 @@ translate spanish music_menu_7792fa58:
 translate spanish music_menu_314046ab:
 
     # extend 4kslsssbr " can you just check everything out real quick?"
-    extend 4kslsssbr "¿Podrías revisar todo rápidamente?"
+    extend 4kslsssbr "¿podrías revisar todo rápidamente?"
 
 # game/custom-music.rpy:129
 translate spanish music_menu_0540d399:
@@ -46,19 +46,19 @@ translate spanish music_menu_690cd915:
 translate spanish music_menu_09d13c59:
 
     # n 2fcsbgsbl "Just make sure it's all in {i}.mp3,{w=0.1} .ogg or .wav{/i} format!"
-    n 2fcsbgsbl "¡Sólo asegúrate que todo esté en formato {i}.mp3,{w=0.1} .ogg o .wav{/i}!"
+    n 2fcsbgsbl "¡Solo asegúrate que todo esté en formato {i}.mp3, {w=0.1}.ogg o .wav{/i}!"
 
 # game/custom-music.rpy:139
 translate spanish music_menu_b1212255:
 
     # n 1tsqaj "Uh...{w=1}{nw}"
-    n 1tsqaj "Uh...{w=1}{nw}"
+    n 1tsqaj "Uh... {w=1}{nw}"
 
 # game/custom-music.rpy:140
 translate spanish music_menu_16897643:
 
     # extend 1tslaj " huh."
-    extend 1tslaj "Huh."
+    extend 1tslaj "huh."
 
 # game/custom-music.rpy:141
 translate spanish music_menu_169b17a0:
@@ -70,7 +70,7 @@ translate spanish music_menu_169b17a0:
 translate spanish music_menu_59ad81ca:
 
     # n 2fchbg "Jeez,{w=0.2} [player].{w=0.75}{nw}"
-    n 2fchbg "Por Dios,{w=0.2} [player].{w=0.75}{nw}"
+    n 2fchbg "Cielos, {w=0.2}[player]. {w=0.75}{nw}"
 
 # game/custom-music.rpy:143
 translate spanish music_menu_0060e6d3:
@@ -82,7 +82,7 @@ translate spanish music_menu_0060e6d3:
 translate spanish music_menu_c3874a87:
 
     # n 3ullss "Well,{w=0.2} whatever.{w=0.75}{nw}"
-    n 3ullss "Bueno,{w=0.2} como sea.{w=0.75}{nw}"
+    n 3ullss "Bueno, {w=0.2}como sea. {w=0.75}{nw}"
 
 # game/custom-music.rpy:145
 translate spanish music_menu_e0ec8e24:
@@ -100,31 +100,31 @@ translate spanish music_menu_1d84dfbe:
 translate spanish music_menu_82ca2505:
 
     # n 1nchsm "Okey-{w=0.1}dokey!{w=0.2} Just a second..."
-    n 1nchsm "¡Okey-{w=0.1}dokey!{w=0.2} sólo dame un segundo..."
+    n 1nchsm "¡Okey-{w=0.1}dokey! {w=0.2}solo dame un segundo..."
 
 # game/custom-music.rpy:154
 translate spanish music_menu_db277266:
 
     # n 2fcsbg "And there we are!"
-    n 2fcsbg "Yyyy ¡Listo!"
+    n 2fcsbg "¡Y ya está!"
 
 # game/custom-music.rpy:155
 translate spanish music_menu_b388399c:
 
     # n 2ullss "So...{w=0.5}{nw}"
-    n 2ullss "Entonces...{w=0.5}{nw}"
+    n 2ullss "Entonces... {w=0.5}{nw}"
 
 # game/custom-music.rpy:156
 translate spanish music_menu_f86174f9:
 
     # extend 2unmaj " what did you wanna listen to?"
-    extend 2unmaj "¿Qué querías escuchar?"
+    extend 2unmaj "¿qué querías escuchar?"
 
 # game/custom-music.rpy:161
 translate spanish music_menu_1b0ce3d8:
 
     # n 3fcsbg "The sound of silence it is,{w=0.1} then!{w=0.5}{nw}"
-    n 3fcsbg "¡El sonido del silencio,{w=0.1} entonces!{w=0.5}{nw}"
+    n 3fcsbg "¡El sonido del silencio, {w=0.1}entonces! {w=0.5}{nw}"
 
 # game/custom-music.rpy:162
 translate spanish music_menu_849deea0:
@@ -148,19 +148,19 @@ translate spanish music_menu_f67fd612:
 translate spanish music_menu_ba0e77c2:
 
     # n 2uchsm "There you go, [player]!{w=2}{nw}"
-    n 2uchsm "¡Listo, [player]!{w=2}{nw}"
+    n 2uchsm "¡Listo, [player]! {w=2}{nw}"
 
 # game/custom-music.rpy:215
 translate spanish music_menu_9eeb4ca2:
 
     # n 1unmaj "Oh{w=0.2} -{w=0.50}{nw}"
-    n 1unmaj "Oh{w=0.2} -{w=0.50}{nw}"
+    n 1unmaj "Oh-{w=0.2} {w=0.50}{nw}"
 
 # game/custom-music.rpy:216
 translate spanish music_menu_27d48d15:
 
     # extend 3kchbgsbl " and I'll stop switching around the music too.{w=2}{nw}"
-    extend 3kchbgsbl "Y dejaré de cambiar la música también.{w=2}{nw}"
+    extend 3kchbgsbl "y dejaré de cambiar la música también. {w=2}{nw}"
 
 # game/custom-music.rpy:235
 translate spanish music_menu_fe31193e:
@@ -202,9 +202,9 @@ translate spanish strings:
 
     # game/custom-music.rpy:148
     old "Yes."
-    new "Sí."
+    new "Sí"
 
     # game/custom-music.rpy:148
     old "No."
-    new "No."
+    new "No"
 
